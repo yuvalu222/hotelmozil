@@ -3,68 +3,172 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>HotelMozil — המחיר המקומי לכל מלון</title>
+<title>HotelMozil — מנוע ה-AI שמוצא לך מחיר זול יותר לכל מלון</title>
+<meta name="description" content="HotelMozil הוא מנוע בינה מלאכותית שסורק מחירים, קופונים והנחות מעשרות מקורות בזמן אמת, ומוצא לך את המחיר הזול ביותר לאותו מלון בדיוק ב-Booking.com וב-Agoda." />
+<!-- AGODA/AWIN/CJ site-verification meta tags ייכנסו כאן כשתקבל אותם -->
 <style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: "Segoe UI", Arial, "Arial Hebrew", sans-serif; color: #0B1B33; background: #F5F7FB; line-height: 1.7; min-height: 100vh; }
-  .hero { background: linear-gradient(135deg, #0EA5E9, #4F46E5); color: #fff; padding: 64px 20px 56px; text-align: center; }
-  .mark { width: 76px; height: 76px; border-radius: 22px; background: rgba(255,255,255,.15); display: inline-flex; align-items: center; justify-content: center; font-size: 38px; margin-bottom: 16px; backdrop-filter: blur(4px); }
-  .hero h1 { font-size: 34px; letter-spacing: -0.5px; }
-  .hero h1 span { opacity: .9; font-weight: 400; }
-  .hero p { font-size: 17px; opacity: .95; margin-top: 10px; }
-  .wrap { max-width: 720px; margin: -32px auto 0; padding: 0 18px 60px; }
-  .cards { display: grid; gap: 14px; }
-  .card { display: flex; align-items: center; gap: 16px; background: #fff; border: 1px solid #E3EAF4; border-radius: 18px; padding: 20px 22px; text-decoration: none; color: inherit; box-shadow: 0 6px 20px rgba(11,27,51,.05); transition: transform .15s ease, box-shadow .15s ease; }
-  .card:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(11,27,51,.10); }
-  .ico { width: 46px; height: 46px; border-radius: 12px; background: #E7EEFC; color: #2563EB; display: flex; align-items: center; justify-content: center; font-size: 22px; flex: none; }
-  .card h2 { font-size: 18px; color: #0B1B33; }
-  .card p { font-size: 14px; color: #4D5D77; margin-top: 2px; }
-  .chev { margin-inline-start: auto; color: #9AA8BF; font-size: 20px; }
-  .foot { text-align: center; color: #4D5D77; font-size: 13px; margin-top: 30px; }
-  .foot a { color: #2563EB; }
+  :root{--brand:#2563EB;--brand2:#4F46E5;--cyan:#0EA5E9;--ink:#0B1B33;--muted:#4D5D77;--line:#E7EEFC;--bg:#F7F9FD;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{font-family:"Segoe UI",Arial,"Arial Hebrew",sans-serif;color:var(--ink);background:#fff;line-height:1.7;}
+  a{color:var(--brand);text-decoration:none;}
+  .wrap{max-width:1060px;margin:0 auto;padding:0 22px;}
+  /* nav */
+  nav{position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);z-index:10;}
+  nav .row{display:flex;align-items:center;justify-content:space-between;height:64px;}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:20px;}
+  .brand .mk{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--cyan),var(--brand2));display:flex;align-items:center;justify-content:center;color:#fff;font-size:18px;}
+  .brand .b{color:var(--brand);}
+  nav .links{display:flex;gap:22px;font-size:14.5px;}
+  nav .links a{color:var(--ink);}
+  nav .links a:hover{color:var(--brand);}
+  @media(max-width:720px){nav .links{display:none;}}
+  /* hero */
+  .hero{background:linear-gradient(135deg,#0EA5E9,#4F46E5);color:#fff;padding:70px 0 80px;text-align:center;}
+  .badge{display:inline-block;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.3);border-radius:999px;padding:5px 14px;font-size:13px;font-weight:600;margin-bottom:18px;}
+  .hero h1{font-size:40px;line-height:1.2;letter-spacing:-.5px;max-width:760px;margin:0 auto 16px;}
+  .hero p{font-size:18px;opacity:.96;max-width:620px;margin:0 auto 28px;}
+  .cta{display:inline-flex;align-items:center;gap:8px;background:#fff;color:var(--brand);font-weight:700;font-size:16px;padding:14px 28px;border-radius:999px;box-shadow:0 10px 30px rgba(0,0,0,.15);}
+  .trust{margin-top:26px;font-size:14px;opacity:.92;}
+  .trust b{font-weight:700;}
+  /* sections */
+  section{padding:64px 0;}
+  .eyebrow{color:var(--brand);font-weight:700;font-size:14px;letter-spacing:.5px;text-align:center;}
+  h2{font-size:30px;text-align:center;margin:8px 0 10px;letter-spacing:-.3px;}
+  .lead{color:var(--muted);text-align:center;max-width:620px;margin:0 auto 40px;font-size:16.5px;}
+  .grid{display:grid;gap:18px;}
+  .g3{grid-template-columns:repeat(3,1fr);}
+  .g2{grid-template-columns:repeat(2,1fr);}
+  @media(max-width:820px){.g3,.g2{grid-template-columns:1fr;}}
+  .card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:24px;box-shadow:0 6px 22px rgba(11,27,51,.04);}
+  .step .n{width:40px;height:40px;border-radius:12px;background:var(--brand);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:18px;margin-bottom:14px;}
+  .ico{width:46px;height:46px;border-radius:12px;background:#E7EEFC;color:var(--brand);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;}
+  .card h3{font-size:18px;margin-bottom:6px;}
+  .card p{color:var(--muted);font-size:15px;}
+  .alt{background:var(--bg);}
+  /* engine explainer */
+  .engine{max-width:780px;margin:0 auto;}
+  .engine .step-row{display:flex;gap:16px;align-items:flex-start;padding:16px 0;border-bottom:1px dashed var(--line);}
+  .engine .step-row:last-child{border-bottom:none;}
+  .engine .dot{flex:none;width:30px;height:30px;border-radius:50%;background:#E7EEFC;color:var(--brand);display:flex;align-items:center;justify-content:center;font-weight:700;}
+  .engine .step-row b{display:block;margin-bottom:2px;}
+  .engine .step-row span{color:var(--muted);font-size:15px;}
+  /* faq */
+  .faq{max-width:760px;margin:0 auto;}
+  .qa{border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:12px;background:#fff;}
+  .qa b{display:block;font-size:16px;margin-bottom:6px;}
+  .qa p{color:var(--muted);font-size:15px;}
+  /* footer */
+  footer{background:#0B1B33;color:#C6D2E6;padding:46px 0 30px;font-size:14px;}
+  footer .row{display:flex;flex-wrap:wrap;justify-content:space-between;gap:24px;}
+  footer a{color:#9FC0FF;}
+  footer .links a{display:block;margin:6px 0;}
+  footer h4{color:#fff;font-size:15px;margin-bottom:10px;}
+  .copy{border-top:1px solid #1E2D4A;margin-top:28px;padding-top:18px;color:#7E8FAD;font-size:13px;text-align:center;}
 </style>
 </head>
 <body>
-  <div class="hero">
-    <div class="mark">📍</div>
-    <h1>HotelMozil</h1>
-    <p>אותו מלון בדיוק — במחיר המקומי הזול ביותר.</p>
-  </div>
 
-  <div class="wrap">
-    <div class="cards">
-      <a class="card" href="privacy.html">
-        <div class="ico">🔒</div>
-        <div>
-          <h2>מדיניות פרטיות</h2>
-          <p>אילו נתונים אנו מעבדים — ומה לעולם לא.</p>
-        </div>
-        <div class="chev">‹</div>
-      </a>
-
-      <a class="card" href="terms.html">
-        <div class="ico">📄</div>
-        <div>
-          <h2>תנאי שימוש</h2>
-          <p>הכללים לשימוש בשירות.</p>
-        </div>
-        <div class="chev">‹</div>
-      </a>
-
-      <a class="card" href="support.html">
-        <div class="ico">💬</div>
-        <div>
-          <h2>תמיכה ושאלות נפוצות</h2>
-          <p>צריך עזרה? כל התשובות כאן.</p>
-        </div>
-        <div class="chev">‹</div>
-      </a>
+  <nav>
+    <div class="wrap row">
+      <div class="brand"><span class="mk">📍</span><span>Hotel<span class="b">Mozil</span></span></div>
+      <div class="links">
+        <a href="#how">איך זה עובד</a>
+        <a href="#features">יתרונות</a>
+        <a href="#engine">מנוע ה-AI</a>
+        <a href="#faq">שאלות נפוצות</a>
+      </div>
     </div>
+  </nav>
 
-    <p class="foot">
-      יצירת קשר: <a href="mailto:hotelmozil@gmail.com">hotelmozil@gmail.com</a><br />
-      © 2026 HotelMozil. כל הזכויות שמורות.
-    </p>
-  </div>
+  <header class="hero">
+    <div class="wrap">
+      <span class="badge">⚡ מופעל בבינה מלאכותית</span>
+      <h1>אותו מלון בדיוק — במחיר הזול ביותר שיש</h1>
+      <p>HotelMozil הוא מנוע AI שסורק מחירים, מבצעים וקודי קופון מעשרות מקורות בזמן אמת — ומוצא לך את הדרך הזולה ביותר להזמין בדיוק את המלון שרצית.</p>
+      <a class="cta" href="#how">איך זה עובד ←</a>
+      <div class="trust">עובד עם <b>Booking.com</b> ו-<b>Agoda</b> · ללא עלות · בעברית מלאה</div>
+    </div>
+  </header>
+
+  <section id="how">
+    <div class="wrap">
+      <div class="eyebrow">פשוט בשלושה צעדים</div>
+      <h2>איך זה עובד</h2>
+      <p class="lead">מצאת מלון שאתה רוצה להזמין? תן ל-HotelMozil לבדוק אם אפשר לקבל אותו בזול יותר.</p>
+      <div class="grid g3">
+        <div class="card step"><div class="n">1</div><h3>מדביקים את הקישור</h3><p>מעתיקים את קישור עמוד המלון מ-Booking.com או Agoda, ומדביקים אותו באפליקציה.</p></div>
+        <div class="card step"><div class="n">2</div><h3>מנוע ה-AI סורק</h3><p>המנוע משווה מחירים, מבצעים וקודי קופון רלוונטיים ממגוון מקורות — ומאתר את ההצעה המשתלמת ביותר לאותה הזמנה.</p></div>
+        <div class="card step"><div class="n">3</div><h3>מזמינים וחוסכים</h3><p>ממשיכים להזמנה באתר הרשמי — אותו מלון, אותם תאריכים, אותם אורחים — רק במחיר נמוך יותר.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="features" class="alt">
+    <div class="wrap">
+      <div class="eyebrow">למה HotelMozil</div>
+      <h2>חיסכון חכם, בלי מאמץ</h2>
+      <p class="lead">כל הכוח של מנוע השוואת מחירים מבוסס-AI, בממשק פשוט אחד.</p>
+      <div class="grid g3">
+        <div class="card"><div class="ico">🤖</div><h3>מנוע AI חכם</h3><p>אלגוריתם שמנתח מחירים ומבצעים בזמן אמת ומזהה הזדמנויות חיסכון.</p></div>
+        <div class="card"><div class="ico">🎟️</div><h3>קודי קופון והנחות</h3><p>בודק קופונים, מבצעים ותעריפים מיוחדים שעשויים להוזיל את ההזמנה.</p></div>
+        <div class="card"><div class="ico">🏨</div><h3>אותו מלון בדיוק</h3><p>שומר על כל פרטי ההזמנה — מלון, תאריכים, אורחים — בלי פשרות.</p></div>
+        <div class="card"><div class="ico">🔒</div><h3>מאובטח ופרטי</h3><p>איננו אוספים או מוכרים את היסטוריית הגלישה שלך. הפרטיות שלך אצלנו.</p></div>
+        <div class="card"><div class="ico">💸</div><h3>חינם לשימוש</h3><p>השימוש באפליקציה ללא עלות. מזמינים ישירות באתר הרשמי.</p></div>
+        <div class="card"><div class="ico">🇮🇱</div><h3>בעברית מלאה</h3><p>ממשק נקי ופשוט בעברית, מותאם למשתמש הישראלי.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="engine">
+    <div class="wrap">
+      <div class="eyebrow">מאחורי הקלעים</div>
+      <h2>איך מנוע ה-AI מוצא חיסכון</h2>
+      <p class="lead">המנוע של HotelMozil עושה בשבילך את העבודה שלוקחת שעות של חיפוש ידני.</p>
+      <div class="engine">
+        <div class="step-row"><div class="dot">1</div><div><b>זיהוי המלון</b><span>המנוע מזהה מתוך הקישור את המלון המדויק, התאריכים, מספר האורחים והחדרים.</span></div></div>
+        <div class="step-row"><div class="dot">2</div><div><b>סריקת מקורות מחיר</b><span>הוא משווה את התעריף מול מגוון מקורות ותעריפים זמינים לאותה הזמנה בדיוק.</span></div></div>
+        <div class="step-row"><div class="dot">3</div><div><b>הצלבת קופונים ומבצעים</b><span>המנוע בודק קודי קופון, מבצעים עונתיים והטבות עדכניות שעשויים לחול על ההזמנה.</span></div></div>
+        <div class="step-row"><div class="dot">4</div><div><b>הצגת ההצעה המשתלמת</b><span>בסוף התהליך אתה מקבל את הדרך הזולה ביותר להזמין — ישירות באתר הרשמי של Booking.com או Agoda.</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" class="alt">
+    <div class="wrap">
+      <div class="eyebrow">שאלות נפוצות</div>
+      <h2>כל מה שרצית לדעת</h2>
+      <div class="faq" style="margin-top:30px;">
+        <div class="qa"><b>האם השימוש בחינם?</b><p>כן. השימוש ב-HotelMozil ללא עלות. ההזמנה עצמה מתבצעת ישירות באתר הרשמי (Booking.com / Agoda).</p></div>
+        <div class="qa"><b>איך המנוע מוצא מחיר זול יותר?</b><p>מנוע ה-AI משווה מחירים, מבצעים וקודי קופון ממגוון מקורות בזמן אמת, ומאתר את ההצעה המשתלמת ביותר לאותה הזמנה בדיוק.</p></div>
+        <div class="qa"><b>האם החיסכון מובטח?</b><p>לא תמיד. מחירי מלונות משתנים לפי ביקוש, עונה ומקור. במקרים רבים נמצא חיסכון משמעותי, אך לא בכל חיפוש.</p></div>
+        <div class="qa"><b>עם אילו אתרים זה עובד?</b><p>עם Booking.com ו-Agoda. מדביקים קישור לעמוד מלון מאחד מהם, והמנוע עושה את השאר.</p></div>
+        <div class="qa"><b>מה עם הפרטיות שלי?</b><p>איננו אוספים, שומרים או מוכרים את היסטוריית הגלישה שלך. פרטים מלאים ב<a href="privacy.html">מדיניות הפרטיות</a>.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <div class="row">
+        <div style="max-width:300px;">
+          <div class="brand" style="color:#fff;margin-bottom:8px;"><span class="mk">📍</span><span>Hotel<span style="color:#9FC0FF;">Mozil</span></span></div>
+          <p style="color:#9FB0CE;">מנוע ה-AI שמוצא לך את המחיר הזול ביותר לכל מלון. אותו מלון בדיוק — פחות לשלם.</p>
+        </div>
+        <div class="links">
+          <h4>מידע</h4>
+          <a href="privacy.html">מדיניות פרטיות</a>
+          <a href="terms.html">תנאי שימוש</a>
+          <a href="support.html">תמיכה ושאלות</a>
+        </div>
+        <div class="links">
+          <h4>יצירת קשר</h4>
+          <a href="mailto:hotelmozil@gmail.com">hotelmozil@gmail.com</a>
+        </div>
+      </div>
+      <div class="copy">© 2026 HotelMozil. כל הזכויות שמורות. · גילוי: HotelMozil עשוי לקבל עמלת שותפים מהזמנות המתבצעות דרך קישורים באתר/באפליקציה, ללא עלות נוספת עליך.</div>
+    </div>
+  </footer>
+
 </body>
 </html>
