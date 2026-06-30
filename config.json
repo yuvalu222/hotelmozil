@@ -1,0 +1,6 @@
+{
+  "_comment": "Remote config למזהי אפיליאייט של HotelMozil. כדי להחליף חשבון (אם נחסם) — ערוך את הערך + commit+push. האפליקציה קולטת בהפעלה הבאה, בלי עדכון גרסה בחנות.",
+  "agodaCid": "1966675",
+  "agodaParams": { "pcs": "1" },
+  "bookingAid": null
+}
