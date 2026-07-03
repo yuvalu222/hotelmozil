@@ -21,13 +21,16 @@
 const RELAY_HOST = "157.180.27.241";
 
 function FindProxyForURL(url, host) {
-  // Agoda -> Hong Kong exit
+  // Agoda -> Hong Kong exit. The trailing "; DIRECT" is the engine gate: when the
+  // savings engine is NOT active, the relay REJECTs these ports, so iOS falls
+  // back to DIRECT (normal Israeli price). When the app activates a 5-min window,
+  // the relay opens the port and this routes through the HK residential IP.
   if (dnsDomainIs(host, ".agoda.com") || dnsDomainIs(host, ".agoda.net") || host === "agoda.com") {
-    return "PROXY " + RELAY_HOST + ":8443";
+    return "PROXY " + RELAY_HOST + ":8443; DIRECT";
   }
-  // Booking -> Vietnam exit
+  // Booking -> India exit (cheapest tax-INCLUSIVE price; US 1311 was a tax-display artifact)
   if (dnsDomainIs(host, ".booking.com") || dnsDomainIs(host, ".bstatic.com") || host === "booking.com") {
-    return "PROXY " + RELAY_HOST + ":8444";
+    return "PROXY " + RELAY_HOST + ":8444; DIRECT";
   }
   // Everything else: no proxy.
   return "DIRECT";
