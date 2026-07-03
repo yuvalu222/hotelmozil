@@ -32,6 +32,11 @@ function FindProxyForURL(url, host) {
   if (dnsDomainIs(host, ".booking.com") || dnsDomainIs(host, ".bstatic.com") || host === "booking.com") {
     return "PROXY " + RELAY_HOST + ":8444; DIRECT";
   }
+  // Diagnostics only: lets the app show the user their effective exit IP/country
+  // through the *same* gate as Agoda/Booking, without needing to open Agoda.
+  if (dnsDomainIs(host, "ipinfo.io") || host === "ipinfo.io") {
+    return "PROXY " + RELAY_HOST + ":8445; DIRECT";
+  }
   // Everything else: no proxy.
   return "DIRECT";
 }
