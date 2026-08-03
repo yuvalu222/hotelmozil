@@ -1,6 +1,16 @@
 {
-  "_comment": "Remote config למזהי אפיליאייט של HotelMozil. כדי להחליף חשבון (אם נחסם) — ערוך את הערך + commit+push. האפליקציה קולטת בהפעלה הבאה, בלי עדכון גרסה בחנות.",
+  "_comment": "Remote config של HotelMozil. עריכה + commit + push = כל האפליקציות המותקנות קולטות בהפעלה הבאה, בלי עדכון גרסה בחנות.",
   "agodaCid": "1966675",
   "agodaParams": { "pcs": "1" },
-  "bookingAid": null
+  "bookingAid": null,
+
+  "_update_comment": "שער-עדכון-גרסה. minVersion = חסימה מלאה מתחת לגרסה הזו (אין X, אי-אפשר להמשיך). latestVersion = המלצה שניתן לסגור. null = כבוי. ⚠️ אזהרה: לעולם אל תגדיר minVersion גבוה מהגרסה שכבר אושרה ופורסמה בחנות — מסך חוסם שיידלק על גרסה שנמצאת בביקורת אצל אפל/גוגל = פסילה מיידית על 2.1. iosUrl יתמלא רק אחרי הפרסום (צריך App Store ID).",
+  "update": {
+    "minVersion": null,
+    "latestVersion": null,
+    "iosUrl": null,
+    "androidUrl": "market://details?id=com.hotelmozil.app",
+    "title": null,
+    "message": null
+  }
 }
