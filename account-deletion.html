@@ -30,31 +30,39 @@
     <p class="muted">HotelMozil · בקשת מחיקה והסבר מלא</p>
   </header>
 
-  <p>עמוד זה מסביר כיצד לבקש את מחיקת החשבון והמידע האישי שלך מ-HotelMozil, ואילו נתונים נמחקים. אנו מכבדים את זכותך להישכח בהתאם למדיניות הפרטיות שלנו.</p>
+  <p>עמוד זה מסביר כיצד לבקש את מחיקת המידע שלך מ-HotelMozil, ואילו נתונים נמחקים. אנו מכבדים את זכותך להישכח בהתאם למדיניות הפרטיות שלנו.</p>
+  <div class="box"><strong>אין צורך בחשבון כדי להשתמש ב-HotelMozil, ולמעשה אין באפליקציה חשבונות כלל.</strong> השימוש הוא במצב אורח: נוצר במכשיר מזהה אקראי, והוא המידע היחיד שמקשר בינך לבין נתוני השימוש. מחיקה = מחיקת כל מה שקשור למזהה הזה.</div>
 
   <h2>איך מבקשים מחיקה</h2>
+  <!-- 🔴 8.8 — ההוראה הקודמת שלחה את המשתמש (ואת הבודק של גוגל) ל"תפריט הפרופיל ← מחיקת חשבון". grep על deleteAccount/deleteUser/"מחיקת חשבון" בכל src/ ו-convex/ מחזיר **אפס**: הפקד הזה לא קיים, ו-ProfileButton מרונדר רק במסלול ה-iOS. וזה לא דף שולי — Data deletion URL הוא שדה חובה בטופס Play Console, והבודק מגיע אליו בקליק אחד ומנסה לעקוב אחרי ההוראה. ההחלטה (בעלים, 8.8): לא לבנות פיצ'ר — **אין חשבונות**, כולם אורחים. לכן ההוראה מתוקנת למה שבאמת אפשרי: פנייה במייל. -->
   <p><strong>איך מבקשים:</strong> שלחו מייל לכתובת שלמטה מהמכשיר שבו השתמשתם, ונמחק את כל המידע הקשור אליו תוך 30 יום. אין צורך בחשבון ואין צורך בפרטים נוספים.</p>
   <a class="cta" href="mailto:hotelmozil@gmail.com?subject=בקשת%20מחיקת%20חשבון">בקשת מחיקה במייל</a>
   <div class="box">
-    כדי שנוכל לאמת את זהותכם, שלחו את הבקשה מאותה כתובת דוא"ל שאיתה התחברתם (Google), או ציינו את כתובת הדוא"ל של החשבון. נטפל בבקשה ונאשר את ביצועה תוך <strong>עד 30 ימים</strong>.
+    אין צורך לצרף פרטים מזהים. נטפל בבקשה ונאשר את ביצועה תוך <strong>עד 30 ימים</strong>.
   </div>
 
   <h2>אילו נתונים נמחקים</h2>
   <table>
     <tr><th>סוג מידע</th><th>נמחק?</th></tr>
-    <tr><td>פרטי חשבון Google (שם, דוא"ל, תמונת פרופיל, מזהה משתמש)</td><td>✅ נמחק לצמיתות</td></tr>
+    <tr><td>מזהה המכשיר האקראי שנוצר במצב אורח</td><td>✅ נמחק לצמיתות</td></tr>
     <tr><td>העדפות והגדרות שנשמרו</td><td>✅ נמחק</td></tr>
-    <tr><td>נתוני שימוש ואנליטיקס המקושרים לחשבונך (שלבי שימוש, מדדי המרה, בחירות הזמנה)</td><td>✅ נמחק</td></tr>
+    <tr><td>נתוני שימוש המקושרים למזהה (שלבי שימוש, שם המלון והתאריכים מהקישור שהדבקתם)</td><td>✅ נמחק</td></tr>
     <tr><td>תכתובות תמיכה ששלחתם אלינו</td><td>נשמר רק אם נדרש על פי דין, אחרת נמחק</td></tr>
     <tr><td>היסטוריית גלישה / תוכן תעבורה</td><td>לא רלוונטי — מעולם לא נאסף או נשמר</td></tr>
     <tr><td>פרטי אמצעי תשלום</td><td>לא רלוונטי — מעולם לא נאסף (התשלום ישירות מול אתר ההזמנות)</td></tr>
   </table>
-  <p class="muted">גם במצב אורח נשמר <strong>מזהה מכשיר</strong> ונתוני שימוש הקשורים אליו — אין חשבון, אבל כן יש מה למחוק. שלחו מייל מהמכשיר ונמחק את כל המידע הקשור למזהה שלו תוך 30 יום.</p>
+  <!-- 🔴 תוקן 7.8. הנוסח הקודם — "לא נשמר עליהם מידע אישי" — היה **כוזב**:
+       `src/context/auth.tsx` מייצר לאורח מזהה מתמיד (`guest:<deviceId>`),
+       ו-`src/context/analytics.tsx` שולח אותו לשרת בכל הפעלה. הדף הזה הוא
+       שדה חובה בטופס Play Console (Data deletion URL), כלומר הבודק מגיע אליו
+       בקליק אחד — מאותה הגשה שמצהירה "Device or other IDs = כן". שני מסמכים
+       סותרים באותה הגשה הם הדפוס שנשרפנו עליו ב-5.8, והפעם על עמוד פומבי. -->
+  <p class="muted">גם במצב אורח נשמר <strong>מזהה מכשיר</strong> ונתוני שימוש הקשורים אליו — אין חשבון, אבל כן יש מה למחוק. כדי למחוק, שלחו מייל מהמכשיר ונמחק את כל המידע הקשור למזהה שלו תוך 30 יום.</p>
 
   <h2>תקופת שמירה לאחר מחיקה</h2>
   <p>לאחר ביצוע המחיקה, המידע האישי נמחק או מנוטרל-זיהוי תוך זמן סביר. מידע מסוים עשוי להישמר לפרק זמן מוגבל אך ורק כאשר קיימת חובה חוקית לכך (למשל דרישות חשבונאיות או משפטיות), ולאחר מכן יימחק.</p>
 
-  <p class="en" style="margin-top:24px;"><strong>English:</strong> To delete your HotelMozil account and personal data, email <a href="mailto:hotelmozil@gmail.com">hotelmozil@gmail.com</a> from the device you used. We delete account data (Google name, email, profile photo, user id), saved preferences, and usage/analytics data linked to your account permanently within 30 days. We never collect browsing history or payment data. There are no user accounts; a random device identifier and the usage data linked to it are stored, and we delete everything tied to it within 30 days.</p>
+  <p class="en" style="margin-top:24px;"><strong>English:</strong> HotelMozil has no user accounts — it is used in guest mode, where a random identifier is created on the device. To delete your data, email <a href="mailto:hotelmozil@gmail.com">hotelmozil@gmail.com</a> from the device you used; no account details are needed. We permanently delete that identifier, the saved preferences, and the usage data linked to it within 30 days. We never collect browsing history or payment data.</p>
 
   <p style="margin-top:24px;" class="muted">פרטים נוספים: <a href="privacy.html">מדיניות הפרטיות</a> · <a href="support.html">מרכז התמיכה</a></p>
 
