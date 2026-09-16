@@ -1,3 +1,5 @@
 cache/
 out/
 node_modules/
+recon/profile*
+recon/shots/

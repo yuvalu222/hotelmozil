@@ -1,0 +1,31 @@
+[
+  {
+    "src": "tiktok-embedded",
+    "hasUniversal": true,
+    "len": 259857,
+    "keys": [
+      "webapp.app-context",
+      "webapp.biz-context",
+      "webapp.i18n-translation",
+      "seo.abtest",
+      "webapp.user-detail",
+      "webapp.a-b"
+    ],
+    "itemListInHtml": true,
+    "playCountHits": 0
+  },
+  {
+    "src": "instagram",
+    "status": 200,
+    "links": 0,
+    "edgeMedia": false,
+    "likeHits": 0,
+    "txt": "Log In\nSign Up\ncheapholidayexpert\n0 followers\n0 following\nCheap Holiday Expert\nwww.cheapholidayexpert.com\nThis profile is private\nAlready follow cheapholidayexpert? Log in to see their photos and vide"
+  },
+  {
+    "src": "creative-center",
+    "cards": 92,
+    "txtLen": 1607,
+    "txt": "Inspiration\n\nTrends\n\nCreative Tools\n\nEnglish\nLog in\nEarly access is open. Be first to create with Dreamina Seedance 2.0 in Symphony✨\nSign up\nExplore Top Ads on TikTok\nSee high-performing auction ads on TikTok. Let successful cases inspire your creativity.\nSearch\nTop Ads Dashboard\nTop Ads Spotlight\nRegion\nObjective\nLast 30 days\nAd Language\nAd Format\nLikes\nSort by:\nFor You\nReach\nCTR\nOthers\nReach\nMen's Clothing\n63\nLikes\nTop 94%\nCTR\nLow\nBudget\nSee analytics\nReach\nMen's Clothing\n11\nLikes\nTop 93%\nCTR\nLow\nBudget\nSee analytics\nVideo Views\nLifestyle News\n160\nLikes\nTop 95%\nCTR\nLow\nBudget\nSee analytics\nR"
+  }
+]

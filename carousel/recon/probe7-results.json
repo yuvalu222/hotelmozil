@@ -1,0 +1,42 @@
+[
+  {
+    "name": "bing-photo-site",
+    "url": "https://www.bing.com/search?q=site%3Atiktok.com+%2Fphoto%2F+travel+tips&count=30",
+    "status": 200,
+    "all": 52,
+    "tiktok": 0,
+    "photo": 0,
+    "sample": [],
+    "blocked": false
+  },
+  {
+    "name": "bing-acct",
+    "url": "https://www.bing.com/search?q=site%3Atiktok.com%2F%40cheapholidayexpert&count=30",
+    "status": 200,
+    "all": 48,
+    "tiktok": 0,
+    "photo": 0,
+    "sample": [],
+    "blocked": false
+  },
+  {
+    "name": "ddg-photo",
+    "url": "https://duckduckgo.com/html/?q=site%3Atiktok.com+%2Fphoto%2F+travel+tips",
+    "status": 200,
+    "all": 42,
+    "tiktok": 0,
+    "photo": 0,
+    "sample": [],
+    "blocked": false
+  },
+  {
+    "name": "google-photo",
+    "url": "https://www.google.com/search?q=site:tiktok.com+%22/photo/%22+travel+tips&num=30",
+    "status": 200,
+    "all": 124,
+    "tiktok": 0,
+    "photo": 0,
+    "sample": [],
+    "blocked": false
+  }
+]

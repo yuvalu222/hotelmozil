@@ -1,0 +1,46 @@
+[
+  {
+    "name": "discover-carousels",
+    "url": "https://www.tiktok.com/discover/best-carousels-on-tiktok",
+    "status": 200,
+    "posts": 26,
+    "photo": 0,
+    "sample": [
+      "https://www.tiktok.com/@ricoincarnati/video/7559235409931193613",
+      "https://www.tiktok.com/@seenconnects/video/7655268739251752214",
+      "https://www.tiktok.com/@imsarahforrai/video/7659358871420407060"
+    ],
+    "txtLen": 12373
+  },
+  {
+    "name": "discover-traveltips",
+    "url": "https://www.tiktok.com/discover/travel-tips",
+    "status": 200,
+    "posts": 26,
+    "photo": 0,
+    "sample": [
+      "https://www.tiktok.com/@what.sophie.does/video/7516367267748154631",
+      "https://www.tiktok.com/@traveltips.marg/video/7664488221803351318",
+      "https://www.tiktok.com/@aliyas_way/video/7529947826923523342"
+    ],
+    "txtLen": 9456
+  },
+  {
+    "name": "tag-traveltips",
+    "url": "https://www.tiktok.com/tag/traveltips",
+    "status": 200,
+    "posts": 0,
+    "photo": 0,
+    "sample": [],
+    "txtLen": 281
+  },
+  {
+    "name": "tag-thailand",
+    "url": "https://www.tiktok.com/tag/thailandtravel",
+    "status": 200,
+    "posts": 0,
+    "photo": 0,
+    "sample": [],
+    "txtLen": 221
+  }
+]

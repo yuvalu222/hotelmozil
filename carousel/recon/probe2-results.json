@@ -1,0 +1,68 @@
+[
+  {
+    "name": "h-tiktok-search",
+    "url": "https://www.tiktok.com/search?q=thailand%20travel%20tips",
+    "status": 200,
+    "title": "Find 'thailand travel tips' on TikTok | TikTok Search",
+    "chars": 263,
+    "blocked": false,
+    "metricHits": 0,
+    "links": 0,
+    "sample": "TikTok thailand travel tips For You Explore Following LIVE Upload Profile More Log in Company Program Terms & Policies More © 2026 TikTok Top Users Videos LIVE Photo Something went wrong Sorry, someth"
+  },
+  {
+    "name": "h-tiktok-explore",
+    "url": "https://www.tiktok.com/explore",
+    "status": 200,
+    "title": "Explore - Find your favorite videos on TikTok",
+    "chars": 999,
+    "blocked": false,
+    "metricHits": 24,
+    "links": 32,
+    "sample": "TikTok Search For You Explore Following LIVE Upload Profile More Log in Company Program Terms & Policies More © 2026 TikTok All Singing & Dancing Comedy Sports Anime & Comics Relationship Shows Lipsyn"
+  },
+  {
+    "name": "h-pin-search",
+    "url": "https://www.pinterest.com/search/pins/?q=thailand%20travel%20tips",
+    "status": 200,
+    "title": "Pinterest",
+    "chars": 576,
+    "blocked": false,
+    "metricHits": 0,
+    "links": 0,
+    "sample": "Skip to content Explore Log in Sign up Search Budget Phuket Packing lists Things to Time Time bangkok You are signed out Sign in to get the best experience Continue with email Continue with Google By "
+  },
+  {
+    "name": "h-pin-ideas",
+    "url": "https://www.pinterest.com/ideas/travel/935919021007/",
+    "status": 404,
+    "title": "Explore the best of Pinterest",
+    "chars": 468,
+    "blocked": false,
+    "metricHits": 0,
+    "links": 0,
+    "sample": "Skip to content Explore Log in Sign up Explore the best of Pinterest Browse by category Animals Art Beauty Design Diy And Crafts Food And Drink Home Decor Mens Fashion Quotes Tattoos See more What's n"
+  },
+  {
+    "name": "h-cc-topads",
+    "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=IL",
+    "status": 200,
+    "title": "Top Ads: high-performing auction ads",
+    "chars": 1643,
+    "blocked": false,
+    "metricHits": 1,
+    "links": 0,
+    "sample": "Inspiration Trends Creative Tools English Log in Early access is open. Be first to create with Dreamina Seedance 2.0 in Symphony✨ Sign up Explore Top Ads on TikTok See high-performing auction ads on T"
+  },
+  {
+    "name": "h-meta-adlib",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IL&q=travel&search_type=keyword_unordered&media_type=all",
+    "status": 403,
+    "title": "Ad Library",
+    "chars": 4000,
+    "blocked": false,
+    "metricHits": 0,
+    "links": 0,
+    "sample": "Meta Ad Library Ad Library Ad Library Report Ad Library API Branded Content ​ Israel ​ ​ ​ All ads ​ Search by keyword or advertiser ​ ​ Log in Ad Library Ad Library Report Ad Library API Branded Cont"
+  }
+]

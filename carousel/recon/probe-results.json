@@ -1,0 +1,79 @@
+[
+  {
+    "name": "tiktok-search",
+    "url": "https://www.tiktok.com/search?q=thailand%20travel%20tips",
+    "status": 200,
+    "title": "TikTok - Make Your Day",
+    "chars": 0,
+    "blocked": false,
+    "loginwall": false,
+    "metricHits": 0,
+    "sample": ""
+  },
+  {
+    "name": "tiktok-tag",
+    "url": "https://www.tiktok.com/tag/traveltips",
+    "status": 200,
+    "title": "TikTok - Make Your Day",
+    "chars": 82,
+    "blocked": false,
+    "loginwall": true,
+    "metricHits": 0,
+    "sample": "#traveltips Summer's almost here, so tell us about your best #TravelTips! Log in"
+  },
+  {
+    "name": "pinterest",
+    "url": "https://www.pinterest.com/search/pins/?q=thailand%20travel%20tips",
+    "status": 200,
+    "title": "Pinterest",
+    "chars": 576,
+    "blocked": false,
+    "loginwall": true,
+    "metricHits": 0,
+    "sample": "Skip to content Explore Log in Sign up Search Budget Phuket Packing lists Things to Time Time bangkok You are signed out Sign in to get the best experience Continue with email Continue with Google By continuing, you agree to Pinterest's Terms of Service and ac"
+  },
+  {
+    "name": "cc-topads",
+    "url": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en",
+    "status": 200,
+    "title": "Top Ads: high-performing auction ads",
+    "chars": 1661,
+    "blocked": false,
+    "loginwall": true,
+    "metricHits": 2,
+    "sample": "Inspiration Trends Creative Tools English Log in Early access is open. Be first to create with Dreamina Seedance 2.0 in Symphony✨ Sign up Explore Top Ads on TikTok See high-performing auction ads on TikTok. Let successful cases inspire your creativity. Search "
+  },
+  {
+    "name": "meta-adlib",
+    "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IL&q=travel&media_type=all",
+    "status": 403,
+    "title": "Ad Library",
+    "chars": 3000,
+    "blocked": false,
+    "loginwall": true,
+    "metricHits": 0,
+    "sample": "Meta Ad Library Ad Library Ad Library Report Ad Library API Branded Content ​ Israel ​ ​ ​ All ads ​ Search by keyword or advertiser ​ ​ Log in Ad Library Ad Library Report Ad Library API Branded Content System status Subscribe to email updates FAQ About ads a"
+  },
+  {
+    "name": "instagram-tag",
+    "url": "https://www.instagram.com/explore/tags/traveltips/",
+    "status": 200,
+    "title": "Traveltips • 28M reels on Instagram",
+    "chars": 2645,
+    "blocked": false,
+    "loginwall": true,
+    "metricHits": 10,
+    "sample": "Log In Sign Up Traveltips AAA recommends working with a travel agent and buying travel insurance to handle delays, cancellations, and rebooking ¹. Pack essentials like food, water, an emergency kit for road trips, and take... more traveltips for long haul flig"
+  },
+  {
+    "name": "pexels",
+    "url": "https://www.pexels.com/search/thailand/",
+    "status": 200,
+    "title": "Thailand Photos, Download The BEST Free Thailand Stock Photos & HD Images",
+    "chars": 1296,
+    "blocked": false,
+    "loginwall": false,
+    "metricHits": 20,
+    "sample": "Photos Explore License Join Any Horizontal Vertical Square Any 0 1 2 3+ Any Baby Child Teenager Adult Senior adult Minimum 1,080px Maximum 20,000px+ Minimum 1,080px Maximum 20,000px+ Any Last 24 hours Last week Last month Last year Free Thailand Photos Photos "
+  }
+]
