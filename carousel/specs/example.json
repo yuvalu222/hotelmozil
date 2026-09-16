@@ -1,0 +1,55 @@
+{
+  "id": "example-athens",
+  "note": "Shape reference. The caption leads with the price because the feed truncates near 125 characters, ends on a question because that is the one caption tactic with a large sample behind it, and carries 5 hashtags because the measured effect flattens past that.",
+  "caption": "אתונה, 3 לילות במלון בוטיק במרכז — 214$ לזוג כולל ארוחת בוקר. בדקתי מול 4 אתרים, זה היה הזול ביותר. מי מכם היה באתונה בסתיו?",
+  "hashtags": ["אתונה", "חופשה_זולה", "דילים", "טיולים", "מלונות"],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "center",
+      "eyebrow": "אתונה · 3 לילות",
+      "headline": "מצאתי מלון בוטיק במרכז אתונה ב-214$ לזוג",
+      "swipe": "החלק ←",
+      "alt": "נוף שקיעה מעל אתונה עם האקרופוליס ברקע",
+      "image": { "query": "athens acropolis sunset rooftop" }
+    },
+    {
+      "role": "proof",
+      "align": "bottom",
+      "headline": "המחיר, כמו שהוא",
+      "price": { "label": "3 לילות, לזוג", "amount": "$214", "note": "כולל ארוחת בוקר ומיסים" },
+      "was": "$389",
+      "badge": "45%- מהמחיר הרגיל",
+      "swipe": "החלק ←",
+      "alt": "צילום מסך של המחיר הסופי כולל מיסים",
+      "image": { "query": "boutique hotel room interior warm light" }
+    },
+    {
+      "role": "detail",
+      "align": "bottom",
+      "headline": "10 דקות הליכה לפלאקה",
+      "body": "המיקום הוא מה שמייקר באתונה. המלון הזה יושב בין מונסטירקי לפלאקה, כלומר רוב מה שבאתם בשבילו הוא ברגל.",
+      "swipe": "החלק ←",
+      "alt": "רחוב אבן בשכונת פלאקה באתונה",
+      "image": { "query": "plaka athens street cafe morning" }
+    },
+    {
+      "role": "detail",
+      "align": "bottom",
+      "headline": "למה דווקא בסתיו",
+      "body": "אוקטובר באתונה: 24 מעלות, בלי תורים לאקרופוליס, ומחירי לינה נמוכים ב-30% מיולי.",
+      "swipe": "החלק ←",
+      "alt": "האקרופוליס ביום בהיר בלי קהל",
+      "image": { "query": "acropolis athens autumn clear day" }
+    },
+    {
+      "role": "cta",
+      "align": "center",
+      "eyebrow": "הדיל בתוקף עד יום חמישי",
+      "headline": "הקישור בביו",
+      "body": "אני מעלה דיל מאומת כל יום. אם אתונה לא מתאימה לכם — כתבו לי לאן כן, ואחפש.",
+      "alt": "מרפסת מלון עם נוף לעיר בשעת ערב",
+      "image": { "query": "hotel balcony city view evening greece" }
+    }
+  ]
+}

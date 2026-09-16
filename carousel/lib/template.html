@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+  /* Canvas is 1080x1920 for TikTok/YouTube. Everything that carries meaning —
+     price, hotel name, dates, CTA — lives inside SAFE, a 1080x1150 band centred
+     at y=845. Instagram and Facebook get a 1080x1350 centre crop of this same
+     render, so the band survives the crop and nothing has to be re-laid out.
+
+     Do not move content outside SAFE. Below y=1420 sits TikTok's caption bar and
+     sound rail; above y=270 sits the username row. */
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    width: 1080px;
+    height: 1920px;
+    font-family: 'Heebo', 'DejaVu Sans', sans-serif;
+    overflow: hidden;
+  }
+
+  .slide {
+    position: relative;
+    width: 1080px;
+    height: 1920px;
+    background: #0b0b0f;
+  }
+
+  .photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Legibility scrim. Heaviest where text sits, so the photo still reads as a
+     photo at the edges. */
+  .scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg,
+        rgba(0,0,0,.55) 0%,
+        rgba(0,0,0,.20) 18%,
+        rgba(0,0,0,.20) 62%,
+        rgba(0,0,0,.75) 100%);
+  }
+
+  .safe {
+    position: absolute;
+    top: 270px;
+    right: 0;
+    left: 0;
+    height: 1150px;
+    padding: 0 84px;
+    display: flex;
+    flex-direction: column;
+    justify-content: var(--justify, center);
+    gap: 28px;
+  }
+
+  .eyebrow {
+    font-size: 34px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    color: #ffd76a;
+    text-shadow: 0 2px 12px rgba(0,0,0,.6);
+  }
+
+  .headline {
+    font-size: var(--headline-size, 92px);
+    font-weight: 900;
+    line-height: 1.08;
+    color: #fff;
+    text-shadow: 0 4px 24px rgba(0,0,0,.65);
+    text-wrap: balance;
+  }
+
+  .body {
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 1.35;
+    color: rgba(255,255,255,.94);
+    text-shadow: 0 2px 16px rgba(0,0,0,.6);
+  }
+
+  /* The price card is deliberately a flat deterministic box, never generated
+     imagery: the number has to be exactly right every time. */
+  .pricecard {
+    align-self: flex-start;
+    background: #fff;
+    border-radius: 28px;
+    padding: 30px 40px;
+    box-shadow: 0 18px 60px rgba(0,0,0,.45);
+  }
+  .pricecard .label { font-size: 30px; font-weight: 700; color: #6b6b76; }
+  .pricecard .amount {
+    font-size: 104px; font-weight: 900; color: #0b0b0f; line-height: 1.05;
+    direction: ltr; text-align: right;
+  }
+  .pricecard .note { font-size: 28px; font-weight: 400; color: #6b6b76; }
+
+  .was {
+    font-size: 40px; font-weight: 700; color: rgba(255,255,255,.75);
+    text-decoration: line-through; direction: ltr; display: inline-block;
+  }
+
+  .badge {
+    align-self: flex-start;
+    background: #e4373c; color: #fff;
+    font-size: 36px; font-weight: 900;
+    padding: 14px 30px; border-radius: 999px;
+  }
+
+  /* Swipe affordance. TikTok and Instagram both draw their own dot indicator,
+     so this is a nudge, not a duplicate of the platform UI. */
+  .swipe {
+    position: absolute;
+    bottom: 520px; right: 84px;
+    font-size: 32px; font-weight: 700;
+    color: rgba(255,255,255,.9);
+    text-shadow: 0 2px 12px rgba(0,0,0,.7);
+  }
+
+  .credit {
+    position: absolute;
+    bottom: 448px; left: 84px;
+    font-size: 20px; color: rgba(255,255,255,.55);
+    direction: ltr;
+  }
+
+  /* Turned on by --debug to eyeball the safe band and the Instagram crop. */
+  .guide { display: none; position: absolute; inset: 0; pointer-events: none; }
+  .guide.on { display: block; }
+  .guide .band {
+    position: absolute; top: 270px; height: 1150px; right: 0; left: 0;
+    outline: 3px dashed rgba(0,255,170,.8);
+  }
+  .guide .igcrop {
+    position: absolute; top: 285px; height: 1350px; right: 0; left: 0;
+    outline: 3px dashed rgba(255,80,220,.8);
+  }
+</style>
+</head>
+<body>
+  <div class="slide" id="slide"></div>
+</body>
+</html>

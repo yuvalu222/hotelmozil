@@ -1,0 +1,10 @@
+{
+  "name": "hotelmozil-carousel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Build cross-platform deal carousels from a JSON spec.",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
