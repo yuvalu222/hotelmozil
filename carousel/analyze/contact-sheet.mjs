@@ -19,9 +19,16 @@ const ROOT = 'harvest';
 const SHEETS = path.join(ROOT, 'sheets');
 fs.mkdirSync(SHEETS, { recursive: true });
 
-const COLS = 5;
-const CELL = 300;          // px per slide in the sheet
 const GAP = 10;
+// Cell size is chosen per deck, not fixed. At 300px a viewer could not read the
+// on-slide copy and had to open the original files instead, which defeats the
+// point of a sheet. Short decks get big tiles; long ones stay within one image.
+function layoutFor(n) {
+  if (n <= 3) return { cols: n, cell: 620 };
+  if (n <= 6) return { cols: 3, cell: 480 };
+  if (n <= 12) return { cols: 4, cell: 380 };
+  return { cols: 5, cell: 300 };
+}
 
 function deckDirs() {
   const dirs = [];
@@ -51,6 +58,7 @@ for (const dir of targets) {
   const slides = fs.readdirSync(dir).filter(f => /\.(jpg|jpeg|png|webp)$/i.test(f)).sort();
   if (slides.length < 2) { skipped++; continue; }
 
+  const { cols: COLS, cell: CELL } = layoutFor(slides.length);
   const rows = Math.ceil(slides.length / COLS);
   const W = COLS * CELL + (COLS + 1) * GAP;
   const H = rows * (CELL + 26) + (rows + 1) * GAP + 30;

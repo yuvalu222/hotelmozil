@@ -105,7 +105,23 @@ for (const code of codes) {
     const r = await page.goto(`https://www.instagram.com/p/${code}/embed/captioned/`,
       { timeout: 35000, waitUntil: 'domcontentloaded' });
     if (!r || r.status() !== 200) continue;
-    await sleep(2600);
+
+    // Slides lazy-load one after another. A fixed 2.6s wait captured only the
+    // first two of three on EVERY post (57/57 decks came back exactly 2 slides
+    // — a suspiciously flat distribution, which is what gave the bug away).
+    // Wait until the qualifying-image count stops growing instead of guessing.
+    await sleep(1500);
+    let stable = 0, last = -1;
+    for (let t = 0; t < 14 && stable < 3; t++) {
+      const n = await page.evaluate(() => {
+        const f = document.querySelector('.EmbedFrame, .Content') || document;
+        return [...f.querySelectorAll('img')]
+          .filter(i => /cdninstagram|fbcdn/.test(i.src) && i.naturalWidth >= 600 && i.naturalHeight >= 600).length;
+      }).catch(() => -1);
+      stable = (n === last) ? stable + 1 : 0;
+      last = n;
+      await sleep(700);
+    }
 
     const d = await page.evaluate(() => {
       const t = document.body.innerText;

@@ -65,11 +65,17 @@ key, so either set `PEXELS_API_KEY` or have `lib/stock.js` browse the site.
 The brief is blunt that whole decks are the unit of study — *"ברור שדקים מלאים
 איך תלמד משקופית אחת"*. Only one live source actually yields them.
 
-**Instagram's embed renders at most 3 slides of a carousel.** Verified, not
-assumed: every post tested returns exactly 3 images inside `.EmbedFrame`, all at
-full resolution, and one of them is a deck whose own cover slide reads *"10 New
-Spots To Check Out In Aerocity"* — a ten-item listicle returning three slides is
-truncation, not a three-slide deck.
+**Instagram's embed renders exactly 2 slides of a carousel.** Verified, not
+assumed — and corrected once along the way: the page holds *three* qualifying
+`<img>` elements, which is why this was first written down as three, but two of
+them are the same asset (a preload plus the displayed copy). Deduplicating by
+URL gives **2 unique slides on every post tested**. The truncation itself is not
+in doubt: one of these decks has a cover slide reading *"10 New Spots To Check
+Out In Aerocity"*, and a ten-item listicle returning two slides is a cap.
+
+So organic gives the **hook slide and slide 2** — which happens to be the two
+positions §4 cares most about, slide 2 being the highest-drop-off slot — and
+nothing else.
 
 A related trap was caught on the way: an embed's `<img>` list is **not** the
 deck. It also contains the 100x100 avatar (twice) and a strip of 150x150 "more
@@ -83,10 +89,10 @@ blur them:
 
 | | Meta Ad Library (A1) | Instagram embed (A2) |
 | --- | --- | --- |
-| Deck | **Complete** — arrows clicked through | **First 3 slides only** |
+| Deck | **Complete** — arrows clicked through | **First 2 slides only** |
 | Organic? | No, ads | **Yes** |
 | Denominator | Advertiser's own median run duration | likes / followers |
-| Can answer | sequencing, closing slide, slide count, full craft | hook slide, slide 2 (the highest-drop-off position §4 names), caption, early craft |
+| Can answer | sequencing, closing slide, slide count, full craft | hook slide and slide 2 (the highest-drop-off position §4 names), caption |
 | Cannot answer | anything about organic behaviour | how decks end, how long they run |
 
 There is no live source that gives **organic** full decks. Third-party Instagram
