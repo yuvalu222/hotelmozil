@@ -89,6 +89,12 @@ export async function download(candidate, cacheDir) {
 export async function gather(spec, { cacheDir, perSlide = 4 }) {
   const out = [];
   for (const [i, slide] of spec.slides.entries()) {
+    // A slide can name its own file — a screenshot, or a photo you shot
+    // yourself. Those never go to a stock search.
+    if (slide.image?.local) {
+      out.push({ index: i, local: slide.image.local, candidates: [] });
+      continue;
+    }
     if (!slide.image?.query) {
       out.push({ index: i, candidates: [] });
       continue;

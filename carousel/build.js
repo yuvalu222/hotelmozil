@@ -78,6 +78,17 @@ async function main() {
     console.log('sourcing photos...');
     const gathered = await gather(spec, { cacheDir: CACHE, perSlide: 4 });
     for (const g of gathered) {
+      if (g.local) {
+        const file = path.resolve(HERE, g.local);
+        try {
+          await fs.access(file);
+        } catch {
+          fail(`slide ${g.index + 1}: local image not found at ${g.local}`);
+        }
+        spec.slides[g.index].image.file = file;
+        console.log(`  slide ${g.index + 1}: local ${g.local}`);
+        continue;
+      }
       if (g.error) {
         console.error(`  slide ${g.index + 1}: ${g.error}`);
         continue;

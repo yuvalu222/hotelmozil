@@ -117,6 +117,30 @@
     padding: 14px 30px; border-radius: 999px;
   }
 
+  /* Numbered tip slides. The number is the navigation: it tells you where you
+     are in the list, which is what keeps people swiping to the end. */
+  .tipnum {
+    font-size: 150px; font-weight: 900; line-height: .9;
+    color: #ffd76a; direction: ltr;
+    text-shadow: 0 4px 28px rgba(0,0,0,.7);
+  }
+  .tipnum small { font-size: 46px; font-weight: 700; color: rgba(255,255,255,.7); }
+
+  /* A slide that is a real screenshot, not a designed slide. Shown whole on a
+     flat ground rather than cropped to fill, because the whole point is that it
+     looks like someone's actual phone. */
+  .shot {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    background: #101014;
+  }
+  .shot img {
+    max-width: 78%; max-height: 62%;
+    object-fit: contain;
+    border-radius: 36px;
+    box-shadow: 0 30px 90px rgba(0,0,0,.6);
+  }
+
   /* Swipe affordance. TikTok and Instagram both draw their own dot indicator,
      so this is a nudge, not a duplicate of the platform UI. */
   .swipe {

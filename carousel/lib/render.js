@@ -12,7 +12,7 @@ import { chromium } from 'playwright';
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const TEMPLATE = path.join(HERE, 'template.html');
 
-export const CANVAS = { w: 1080, h: 1920 };
+export const CANVAS = { width: 1080, height: 1920 };
 // Instagram's publishing API accepts 0.8 (4:5) to 1.91:1 only. 1080x1350 is the
 // one master that also survives Facebook and YouTube untouched.
 export const IG_CROP = { w: 1080, h: 1350, top: 285 };
@@ -30,10 +30,31 @@ function slideMarkup(slide, { photoDataUri, debug }) {
   const size = slide.headlineSize || (slide.role === 'hook' ? 104 : 84);
 
   const parts = [];
+
+  // A screenshot slide is shown whole on a flat ground. Cropping it to fill
+  // would make it read as designed artwork, and its whole value is that it
+  // reads as a real phone.
+  if (slide.role === 'screenshot') {
+    const body = [];
+    if (photoDataUri) body.push(`<div class="shot"><img src="${photoDataUri}" alt=""></div>`);
+    const txt = [];
+    if (slide.eyebrow) txt.push(`<div class="eyebrow">${esc(slide.eyebrow)}</div>`);
+    if (slide.headline) txt.push(`<div class="headline">${esc(slide.headline)}</div>`);
+    if (slide.body) txt.push(`<div class="body">${esc(slide.body)}</div>`);
+    body.push(`<div class="safe" style="--justify:flex-end;--headline-size:${size}px">${txt.join('')}</div>`);
+    if (slide.credit) body.push(`<div class="credit">Photo: ${esc(slide.credit)}</div>`);
+    if (debug) body.push('<div class="guide on"><div class="band"></div><div class="igcrop"></div></div>');
+    return body.join('');
+  }
+
   if (photoDataUri) parts.push(`<img class="photo" src="${photoDataUri}" alt="">`);
   parts.push('<div class="scrim"></div>');
 
   const inner = [];
+  if (slide.tip) {
+    const total = slide.tipOf ? `<small> / ${esc(slide.tipOf)}</small>` : '';
+    inner.push(`<div class="tipnum">${esc(slide.tip)}${total}</div>`);
+  }
   if (slide.eyebrow) inner.push(`<div class="eyebrow">${esc(slide.eyebrow)}</div>`);
   if (slide.badge) inner.push(`<div class="badge">${esc(slide.badge)}</div>`);
   if (slide.headline) inner.push(`<div class="headline">${esc(slide.headline)}</div>`);
@@ -87,7 +108,7 @@ export async function renderSpec(spec, { outDir, debug = false, quality = 88 } =
 
   try {
     const page = await browser.newPage({
-      viewport: { width: CANVAS.w, height: CANVAS.h },
+      viewport: { ...CANVAS },
       deviceScaleFactor: 1,
     });
     await page.goto(`file://${TEMPLATE}`, { waitUntil: 'networkidle' });
