@@ -1,0 +1,68 @@
+{
+  "id": "he-04-greece-before-you-book",
+  "demonstrates": "PLAYBOOK §2.2, the 'observed in 2 advertisers' item — one sentence running across the swipe. AYANA runs a single sentence across four slides and madetoroamfam breaks a line across the 5→6 swipe; the sentence cannot resolve without swiping, which is a stronger pull than an arrow. This is labelled observed-not-confirmed in the playbook, so this deck is the test of it: slides 1→2 carry one unfinished sentence, and the rest of the deck behaves normally so the variable is isolated.",
+  "caption": "4 דברים לבדוק לפני שמזמינים אי ביוון. המרחק מהנמל הוא זה שמפיל את רוב התכנונים. איזה אי אתם הכי אוהבים?",
+  "hashtags": ["יוון", "איים", "טיפיםלטיול"],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "bottom",
+      "eyebrow": "יוון",
+      "headline": "רוב האנשים בוחרים אי לפי תמונות,",
+      "body": "וזאת בדיוק הסיבה שהטיול",
+      "swipe": "החלק ←",
+      "alt": "נוף של אי יווני עם בתים לבנים",
+      "image": { "query": "greek island white houses sea" }
+    },
+    {
+      "align": "bottom",
+      "headline": "יוצא שונה ממה שדמיינו.",
+      "body": "ארבעה דברים שכדאי לבדוק לפני שמזמינים.",
+      "swipe": "החלק ←",
+      "alt": "מעבורת בנמל יווני",
+      "image": { "query": "ferry greek port harbour" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "לבדוק",
+      "headline": "כמה זמן לוקח להגיע",
+      "body": "אי שנראה קרוב על המפה יכול להיות שתי מעבורות ויום שלם.",
+      "swipe": "החלק ←",
+      "alt": "לוח זמנים בנמל",
+      "image": { "query": "ferry schedule board port" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "לבדוק",
+      "headline": "אם יש רוח בעונה הזאת",
+      "body": "בקיץ המלטמי מבטל הפלגות. אי קטן בלי שדה תעופה נהיה פתאום סיפור.",
+      "swipe": "החלק ←",
+      "alt": "ים סוער עם גלים",
+      "image": { "query": "windy sea waves greek coast" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "לבדוק",
+      "headline": "כמה רחוק המלון מהעיירה",
+      "body": "שני קילומטרים בלי מדרכה ובלי תחבורה משנים את כל היום.",
+      "swipe": "החלק ←",
+      "alt": "כביש צר באי יווני",
+      "image": { "query": "narrow road greek island hills" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "לבדוק",
+      "headline": "איזה חוף זה בכלל",
+      "body": "הרבה חופים באיים הם חלוקים ולא חול. זה לא רע, אבל כדאי לדעת מראש.",
+      "swipe": "החלק ←",
+      "alt": "חוף חלוקים ביוון",
+      "image": { "query": "pebble beach greece clear water" }
+    },
+    {
+      "role": "screenshot",
+      "align": "center",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}

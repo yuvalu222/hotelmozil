@@ -1,0 +1,161 @@
+{
+  "id": "he-02-bangkok-getting-around",
+  "demonstrates": "PLAYBOOK §2.3 — slide 2 is the first real item, never a bridge. Organic decks in the corpus put a concrete payoff at the highest-drop-off position; the ads put another photo of the same thing there. Here slide 2 is the single most useful line in the deck, deliberately spent early rather than saved.",
+  "caption": "5 דרכים לזוז בבנגקוק, ומתי כל אחת מהן עדיפה. הטעות הכי יקרה היא לקחת מונית מהשדה בלי מונה. איך אתם זזים שם?",
+  "hashtags": [
+    "בנגקוק",
+    "תאילנד",
+    "טיפיםלטיול"
+  ],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "bottom",
+      "eyebrow": "בנגקוק",
+      "headline": "5 דרכים לזוז בבנגקוק",
+      "body": "ומתי כל אחת עדיפה",
+      "swipe": "החלק ←",
+      "alt": "רחוב סואן בבנגקוק עם תחבורה",
+      "image": {
+        "query": "bangkok busy street traffic",
+        "id": "pexels-16672585",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16672585/pexels-photo-16672585/free-photo-of-traffic-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/traffic-in-city-16672585/"
+        },
+        "alt": "Free A bustling urban street scene with cars and a city skyline under a clear sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16672585.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "רכבת עילית",
+      "body": "בשעות העומס היא מנצחת כל מונית, כי היא לא תקועה. קונים כרטיס יומי אם יוצאים יותר מפעמיים.",
+      "swipe": "החלק ←",
+      "alt": "רכבת עילית בבנגקוק",
+      "image": {
+        "query": "bangkok skytrain station platform",
+        "id": "pexels-30195943",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/30195943/pexels-photo-30195943/free-photo-of-modern-bts-skytrain-at-bangkok-station.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/modern-bts-skytrain-at-bangkok-station-30195943/"
+        },
+        "alt": "Free BTS Skytrain arrives at Bangkok station amidst urban high-rise buildings. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30195943.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "מונית עם מונה",
+      "body": "מבקשים שיפעיל את המונה לפני שנוסעים. אם מסרב, יוצאים ולוקחים את הבאה.",
+      "swipe": "החלק ←",
+      "alt": "מוניות צבעוניות ברחוב בבנגקוק",
+      "image": {
+        "query": "bangkok taxi colorful street",
+        "id": "pexels-18911915",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18911915/pexels-photo-18911915/free-photo-of-motorbikes-on-a-street-in-thailand.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/motorbikes-on-a-street-in-thailand-18911915/"
+        },
+        "alt": "Free Colorful tuk tuks lined up on a bustling Bangkok street at night with vibrant lights. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18911915.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "אפליקציית נסיעות",
+      "body": "המחיר נסגר מראש באפליקציה, ואין ויכוח בסוף הנסיעה.",
+      "swipe": "החלק ←",
+      "alt": "טלפון עם מפת ניווט ברכב",
+      "image": {
+        "query": "phone navigation map in car",
+        "id": "pexels-7738879",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/7738879/pexels-photo-7738879.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/cellphone-on-a-stand-with-navigation-map-application-open-7738879/"
+        },
+        "alt": "Free Close-up of a smartphone with GPS navigation app mounted on car dashboard. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7738879.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "סירה בנהר",
+      "body": "הקו הציבורי בנהר עובר ליד חלק גדול מהאתרים, ועולה כמו נסיעה באוטובוס.",
+      "swipe": "החלק ←",
+      "alt": "סירת נוסעים בנהר בבנגקוק",
+      "image": {
+        "query": "bangkok river boat chao phraya",
+        "id": "pexels-4986181",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/4986181/pexels-photo-4986181.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-the-rama-viii-bridge-from-the-park-in-bangkok-thailand-4986181/"
+        },
+        "alt": "Free Outdoor scene of Rama VIII Bridge in Bangkok with cityscape and people along the riverfront. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4986181.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "טוק טוק",
+      "body": "סוגרים מחיר לפני שעולים. לנסיעות קצרות זה בסדר, לנסיעה ארוכה זה כמעט תמיד יקר יותר ממונית.",
+      "swipe": "החלק ←",
+      "alt": "טוק טוק ברחוב בתאילנד",
+      "image": {
+        "query": "tuk tuk thailand street",
+        "id": "pexels-33202938",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33202938/pexels-photo-33202938/free-photo-of-bustling-night-market-street-with-neon-lights.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/bustling-night-market-street-with-neon-lights-33202938/"
+        },
+        "alt": "Free Vibrant night scene in a busy street market with bright neon signs and tuk-tuk taxi. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33202938.jpg"
+      },
+      "credit": null
+    },
+    {
+      "role": "screenshot",
+      "align": "center",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
+    }
+  ]
+}

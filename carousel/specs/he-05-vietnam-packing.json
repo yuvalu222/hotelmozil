@@ -1,0 +1,80 @@
+{
+  "id": "he-05-vietnam-packing",
+  "demonstrates": "PLAYBOOK §2.6 — the close. Photo-only decks stop on another photograph; every templated deck in the peer group closes properly, and two of them close on a photo-free card using a colour that appears nowhere else in the deck. This deck is built to hand off cleanly to that closing slide: the last content slide deliberately does not resolve the topic, so the closing slide is the resolution rather than an appendix. The closing slide itself is Yuval's own and is left as a marked placeholder.",
+  "caption": "7 דברים שבאמת צריך בתיק לווייטנאם, ואחד שכולם לוקחים ומצטערים. הפונצ'ו הוא לא זה. מה אתם תמיד לוקחים?",
+  "hashtags": ["וייטנאם", "מזרחאסיה", "טיפיםלטיול"],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "bottom",
+      "eyebrow": "וייטנאם",
+      "headline": "7 דברים שבאמת צריך בתיק",
+      "body": "ואחד שכולם לוקחים ומצטערים",
+      "swipe": "החלק ←",
+      "alt": "רחוב סואן בהאנוי",
+      "image": { "query": "hanoi vietnam street scooters" }
+    },
+    {
+      "align": "bottom",
+      "headline": "נעליים שמתייבשות",
+      "body": "יורד גשם והרחובות מתמלאים. נעל בד רגילה נשארת רטובה יומיים.",
+      "swipe": "החלק ←",
+      "alt": "נעליים על רחוב רטוב",
+      "image": { "query": "wet street shoes rain city" }
+    },
+    {
+      "align": "bottom",
+      "headline": "מטען נייד",
+      "body": "היום עובר על ניווט ועל תרגום, והסוללה נגמרת עד אחר הצהריים.",
+      "swipe": "החלק ←",
+      "alt": "מטען נייד וטלפון",
+      "image": { "query": "power bank phone charging travel" }
+    },
+    {
+      "align": "bottom",
+      "headline": "מסכת פנים בד",
+      "body": "בתנועה בהאנוי ובסייגון זה משנה את התחושה בסוף היום.",
+      "swipe": "החלק ←",
+      "alt": "תנועה צפופה של אופנועים",
+      "image": { "query": "motorbike traffic vietnam city" }
+    },
+    {
+      "align": "bottom",
+      "headline": "שרוול ארוך דק",
+      "body": "בהרים בצפון קר בערב, ובאוטובוסים המיזוג עובד חזק.",
+      "swipe": "החלק ←",
+      "alt": "נוף הרים בצפון וייטנאם",
+      "image": { "query": "sapa vietnam mountains terraces" }
+    },
+    {
+      "align": "bottom",
+      "headline": "עותק מודפס של הדרכון",
+      "body": "חלק מהמלונות מבקשים להשאיר דרכון. עותק פותר את זה בלי ויכוח.",
+      "swipe": "החלק ←",
+      "alt": "מסמכי נסיעה על שולחן",
+      "image": { "query": "passport documents desk travel" }
+    },
+    {
+      "align": "bottom",
+      "headline": "מזומן קטן",
+      "body": "בשווקים ובאוטובוסים אין עודף לשטרות גדולים.",
+      "swipe": "החלק ←",
+      "alt": "שוק מקומי בווייטנאם",
+      "image": { "query": "vietnam local market stalls" }
+    },
+    {
+      "align": "bottom",
+      "headline": "ומה שלא צריך",
+      "body": "פונצ'ו מהבית. קונים אותו שם בפינה, בשקל וחצי, ביום שבו יורד גשם.",
+      "swipe": "החלק ←",
+      "alt": "גשם ברחוב בווייטנאם",
+      "image": { "query": "rain street vietnam umbrella" }
+    },
+    {
+      "role": "screenshot",
+      "align": "center",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}

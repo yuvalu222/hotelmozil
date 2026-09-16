@@ -1,0 +1,231 @@
+{
+  "id": "he-01-thailand-seven-eleven",
+  "demonstrates": "PLAYBOOK §2.2 — the count is announced in the hook and then never drawn again. No numerals on any item slide. What carries the rhythm instead is parallel grammar: every item is 'noun. one line about why.' This is the device the whole templated peer group in §1.2 shares (Kapawi runs seven slides this way), and it is also what keeps the deck inside the 10-slide cross-post ceiling without looking truncated.",
+  "caption": "8 דברים שאני קונה ב-7-Eleven בתאילנד בכל טיול. רובם עולים פחות ממה שנדמה, וחלקם פשוט אין בארץ. מה אתם תמיד קונים שם?",
+  "hashtags": [
+    "תאילנד",
+    "בנגקוק",
+    "טיפיםלטיול",
+    "מזרחאסיה"
+  ],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "bottom",
+      "eyebrow": "תאילנד",
+      "headline": "8 דברים שאני קונה ב-7-Eleven",
+      "body": "בכל טיול לתאילנד",
+      "swipe": "החלק ←",
+      "alt": "חזית חנות נוחות מוארת ברחוב בתאילנד בלילה",
+      "image": {
+        "query": "convenience store night street thailand",
+        "id": "pexels-35125701",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35125701/pexels-photo-35125701/free-photo-of-night-scene-outside-a-7-eleven-in-phuket-thailand.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/night-scene-outside-a-7-eleven-in-phuket-thailand-35125701/"
+        },
+        "alt": "Free Man stands outside a brightly lit 7-Eleven at night in Phuket, creating an urban, modern ambiance. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35125701.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "טוסט חם",
+      "body": "מחממים אותו לכם בקופה. ארוחת בוקר שלמה בלי לחפש מקום פתוח בשש.",
+      "swipe": "החלק ←",
+      "alt": "טוסט ארוז על דלפק חנות נוחות",
+      "image": {
+        "query": "toasted sandwich convenience store counter",
+        "id": "pexels-29587265",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/29587265/pexels-photo-29587265/free-photo-of-cozy-bakery-display-with-fresh-bread-and-menu.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/cozy-bakery-display-with-fresh-bread-and-menu-29587265/"
+        },
+        "alt": "Free Bakery shop interior with a variety of fresh bread displayed, warm lighting, and menu board. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29587265.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "אבקת קירור",
+      "body": "אבקת טלק לגוף בקופסה עגולה. בלילה לח בבנגקוק זה ההבדל בין לישון לבין להתהפך.",
+      "swipe": "החלק ←",
+      "alt": "מדף מוצרי טיפוח בחנות נוחות באסיה",
+      "image": {
+        "query": "pharmacy shelf products asia store",
+        "id": "pexels-5910696",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/5910696/pexels-photo-5910696.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-with-face-mask-holding-a-bottle-of-hand-sanitizer-5910696/"
+        },
+        "alt": "Free Woman wearing a mask selects hand sanitizer in a store, focusing on hygiene and safety. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5910696.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "קפה קר בפחית",
+      "body": "עומד בכל מקרר, גם בתחנה הקטנה בדרך לצפון.",
+      "swipe": "החלק ←",
+      "alt": "מקרר משקאות בחנות נוחות",
+      "image": {
+        "query": "cold drinks fridge convenience store",
+        "id": "pexels-38766264",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38766264/pexels-photo-38766264/free-photo-of-vending-machine-with-assorted-drinks-in-sunlight.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vending-machine-with-assorted-drinks-in-sunlight-38766264/"
+        },
+        "alt": "Free Stocked vending machine with colorful drink bottles in natural light. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38766264.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "נודלס אינסטנט מקומי",
+      "body": "החנות נותנת מים חמים וכלים. לא צריך לחפש מטבח.",
+      "swipe": "החלק ←",
+      "alt": "מדף אטריות אינסטנט בחנות באסיה",
+      "image": {
+        "query": "instant noodles shelf asian supermarket",
+        "id": "pexels-27939228",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27939228/pexels-photo-27939228/free-photo-of-a-shelf-filled-with-snacks-and-other-food-items.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-shelf-filled-with-snacks-and-other-food-items-27939228/"
+        },
+        "alt": "Free Variety of snacks in an indoor supermarket aisle, colorful packaging. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27939228.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "פרי חתוך",
+      "body": "מנגו ואננס בקופסה מקוררת. זול, ולא צריך לסמוך על דוכן ברחוב.",
+      "swipe": "החלק ←",
+      "alt": "פירות טרופיים חתוכים בקופסאות",
+      "image": {
+        "query": "cut tropical fruit box mango pineapple",
+        "id": "pexels-10248844",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10248844/pexels-photo-10248844.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/close-up-of-tropical-fruit-10248844/"
+        },
+        "alt": "Free A colorful assortment of tropical fruits including papaya, dragon fruit, and mango, in a close-up view. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10248844.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "טעינה לסים המקומי",
+      "body": "עושים את זה בקופה, בלי אפליקציה ובלי חשבון.",
+      "swipe": "החלק ←",
+      "alt": "טלפון נייד ביד מול חנות ברחוב",
+      "image": {
+        "query": "hand holding phone street asia",
+        "id": "pexels-38525275",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38525275/pexels-photo-38525275/free-photo-of-capturing-nightlife-in-malay-philippines.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/capturing-nightlife-in-malay-philippines-38525275/"
+        },
+        "alt": "Free Hands holding a smartphone capturing nightlife scene in Malay, Philippines. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38525275.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "פונצ'ו חד פעמי",
+      "body": "בעונת הגשמים זה יורד בלי התראה ונגמר אחרי עשרים דקות.",
+      "swipe": "החלק ←",
+      "alt": "גשם ברחוב עיר טרופית",
+      "image": {
+        "query": "rain tropical city street monsoon",
+        "id": "pexels-11598709",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/11598709/pexels-photo-11598709.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-in-brown-and-black-polka-dot-shirt-holding-umbrella-walking-on-sidewalk-11598709/"
+        },
+        "alt": "Free A person with umbrellas walking on a rainy street in West Java, Indonesia, capturing a gloomy street photography vibe. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11598709.jpg"
+      },
+      "credit": null
+    },
+    {
+      "align": "bottom",
+      "headline": "משכך כאבים ופלסטרים",
+      "body": "נמכרים בבודדים. לא צריך לקנות קופסה שלמה בשביל יומיים.",
+      "swipe": "החלק ←",
+      "alt": "מדף מוצרי רוקחות בסיסיים",
+      "image": {
+        "query": "small pharmacy items shelf",
+        "id": "pexels-30175087",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/30175087/pexels-photo-30175087/free-photo-of-vintage-apothecary-jars-on-wooden-shelf-display.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vintage-apothecary-jars-on-wooden-shelf-display-30175087/"
+        },
+        "alt": "Free Classic apothecary jars arranged on a wooden shelf in dim light, showcasing vintage design. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30175087.jpg"
+      },
+      "credit": null
+    },
+    {
+      "role": "screenshot",
+      "align": "center",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
+    }
+  ]
+}

@@ -341,6 +341,39 @@ not a call this study should make for you.
 
 ---
 
+## 4b. The five carousels
+
+Built with the existing builder, in Hebrew, photos from Pexels. Each one exists
+to demonstrate a different thing the study actually found, and each spec carries
+a `demonstrates` field saying which and why.
+
+| Spec | Topic | Demonstrates |
+| --- | --- | --- |
+| `he-01-thailand-seven-eleven` | 8 things I buy at 7-Eleven in Thailand | §2.2 — count announced in the hook, **no numeral drawn anywhere**; parallel grammar carries the rhythm |
+| `he-02-bangkok-getting-around` | 5 ways to move around Bangkok | §2.3 — slide 2 is the **first real item**, not a bridge; the most useful line is spent early |
+| `he-03-georgia-mistakes` | 6 mistakes that cost money in Georgia | §1.2 — **one identical recurring container** on every slide, the device the whole peer group shares |
+| `he-04-greece-before-you-book` | 4 things to check before booking a Greek island | §2.2's *observed-once* item — **one sentence running across the 1→2 swipe**, isolated so it can be tested |
+| `he-05-vietnam-packing` | 7 things you actually need in Vietnam | §2.6 — built to **hand off to the close**; the last content slide deliberately does not resolve |
+
+Topics are real Israeli travel substance, not filler: Thailand is confirmed
+territory (you have posted 7-Eleven recommendations), and Georgia, Greece and
+Vietnam are where Israelis actually go.
+
+**The closing slide is a marked placeholder in all five.** It is your screenshot
+and your idea, and §2.6 says it works because it looks unstyled. Designing a
+fake one would have destroyed the only thing that makes it work. Swap
+`assets/closing-placeholder.jpg` for the real file and rebuild.
+
+Two things the build changed in the tool itself, both applied straight from this
+study:
+
+- **The scrim now ramps from 48% of the frame instead of 62%.** Bottom-aligned
+  text starts around 57%, so the old gradient left the headline sitting on
+  unprotected pixels — the exact failure §2.1 names. Caught by looking at the
+  first render, not by reading the CSS.
+- **The safe band gained bottom padding.** The swipe affordance is absolutely
+  positioned and was overlapping the body line on every bottom-aligned slide.
+
 ## 5. Corpus composition
 
 See `harvest/link-list.md` for the full table. Summary at time of writing:

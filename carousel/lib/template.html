@@ -46,9 +46,10 @@
     background:
       linear-gradient(180deg,
         rgba(0,0,0,.55) 0%,
-        rgba(0,0,0,.20) 18%,
-        rgba(0,0,0,.20) 62%,
-        rgba(0,0,0,.75) 100%);
+        rgba(0,0,0,.18) 18%,
+        rgba(0,0,0,.22) 48%,
+        rgba(0,0,0,.62) 70%,
+        rgba(0,0,0,.88) 100%);
   }
 
   .safe {
@@ -57,7 +58,9 @@
     right: 0;
     left: 0;
     height: 1150px;
-    padding: 0 84px;
+    /* bottom padding keeps a bottom-aligned text block clear of .swipe, which
+       is absolutely positioned and used to collide with the body line */
+    padding: 0 84px 96px;
     display: flex;
     flex-direction: column;
     justify-content: var(--justify, center);

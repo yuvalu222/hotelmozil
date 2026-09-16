@@ -1,0 +1,78 @@
+{
+  "id": "he-03-georgia-mistakes",
+  "demonstrates": "PLAYBOOK §1.2 — one identical recurring container on every slide, which is the single device shared by the whole templated peer group (Kapawi, madetoroamfam, AYANA, YumTravel, מונה טורס). Here the container is a fixed eyebrow label plus a fixed headline shape, repeated without variation, so the deck reads as a list without a numeral appearing anywhere.",
+  "caption": "6 טעויות שעולות כסף בגאורגיה. רובן קורות ביומיים הראשונים, לפני שמבינים איך הדברים עובדים שם. מה תפסתם בדרך הקשה?",
+  "hashtags": ["גאורגיה", "טביליסי", "בטומי", "טיפיםלטיול"],
+  "slides": [
+    {
+      "role": "hook",
+      "align": "bottom",
+      "eyebrow": "גאורגיה",
+      "headline": "6 טעויות שעולות כסף",
+      "body": "רובן קורות ביומיים הראשונים",
+      "swipe": "החלק ←",
+      "alt": "נוף עירוני של טביליסי",
+      "image": { "query": "tbilisi georgia old town view" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "להמיר כסף בשדה",
+      "body": "השער בעיר טוב יותר כמעט תמיד. ממירים סכום קטן לנסיעה, והשאר בטביליסי.",
+      "swipe": "החלק ←",
+      "alt": "דלפק המרת מטבע",
+      "image": { "query": "currency exchange counter money" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "מונית בלי לסגור מחיר",
+      "body": "אין מונים ברוב המקומות. מבקשים מחיר לפני שנכנסים, או מזמינים באפליקציה.",
+      "swipe": "החלק ←",
+      "alt": "רחוב עם מוניות בגאורגיה",
+      "image": { "query": "taxi street tbilisi georgia" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "להזמין יין במסעדה תיירותית",
+      "body": "יין ביתי במרתף קטן עולה חלק מהמחיר ולרוב טעים יותר.",
+      "swipe": "החלק ←",
+      "alt": "מרתף יין עם חביות",
+      "image": { "query": "wine cellar barrels georgia" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "לשכור רכב בלי לבדוק ביטוח",
+      "body": "הכבישים ההרריים מצדיקים ביטוח מלא. בודקים מה בדיוק מכוסה לפני שחותמים.",
+      "swipe": "החלק ←",
+      "alt": "כביש הררי בגאורגיה",
+      "image": { "query": "mountain road caucasus georgia" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "לטוס לבטומי בחורף",
+      "body": "העיר על הים ומתרוקנת מחוץ לעונה. בחורף ההרים מעניינים יותר.",
+      "swipe": "החלק ←",
+      "alt": "חוף ים בבטומי",
+      "image": { "query": "batumi black sea beach promenade" }
+    },
+    {
+      "align": "bottom",
+      "eyebrow": "טעות",
+      "headline": "לסמוך על כרטיס אשראי בכפרים",
+      "body": "מחוץ לערים הגדולות עובדים במזומן. מושכים לפני שיוצאים לדרך.",
+      "swipe": "החלק ←",
+      "alt": "כפר הררי בגאורגיה",
+      "image": { "query": "georgian village mountains houses" }
+    },
+    {
+      "role": "screenshot",
+      "align": "center",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}
