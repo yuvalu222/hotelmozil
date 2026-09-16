@@ -60,10 +60,15 @@ const scan = seen => page.evaluate(seenIds => {
   const cards = [...document.querySelectorAll('div')]
     .filter(e => (e.innerText?.match(/Library ID:/g) || []).length === 1);
   const res = [];
+  // One ad is matched by several nested divs — an outer wrapper and an inner
+  // body can each contain exactly one "Library ID:". Without this per-pass
+  // guard the same ad is emitted two or three times (45% of an early run).
+  const thisPass = new Set();
   for (const e of cards) {
     const t = e.innerText || '';
     const id = (t.match(/Library ID:\s*(\d+)/) || [])[1];
-    if (!id || known.has(id) || e.getAttribute('data-hm')) continue;
+    if (!id || known.has(id) || thisPass.has(id) || e.getAttribute('data-hm')) continue;
+    thisPass.add(id);
     e.setAttribute('data-hm', id);
     const imgs = [...new Set([...e.querySelectorAll('img')].map(i => i.src)
       .filter(s => /scontent|fbcdn/.test(s) && !/s60x60|p50x50|s32x32/.test(s)))];

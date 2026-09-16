@@ -109,8 +109,17 @@ for (const code of codes) {
 
     const d = await page.evaluate(() => {
       const t = document.body.innerText;
-      const imgs = [...new Set([...document.querySelectorAll('img')].map(i => i.src)
-        .filter(s => /cdninstagram|fbcdn/.test(s)))];
+      // An embed page's <img> list is NOT the deck. It also holds the 100x100
+      // avatar (twice) and a strip of 150x150 "more posts from this account"
+      // thumbnails that belong to OTHER posts entirely. Taking them as slides
+      // silently contaminates every deck. Real slides are the full-resolution
+      // images inside the embed frame, so scope to that container and require
+      // a real natural width.
+      const frame = document.querySelector('.EmbedFrame, .Content') || document;
+      const imgs = [...new Set([...frame.querySelectorAll('img')]
+        .filter(i => /cdninstagram|fbcdn/.test(i.src)
+                  && i.naturalWidth >= 600 && i.naturalHeight >= 600)
+        .map(i => i.src))];
       const handle = (document.querySelector('.Username, .UsernameText')?.innerText
         || (t.split('\n').find(x => x.trim()) || '')).trim();
       return {
@@ -123,8 +132,8 @@ for (const code of codes) {
       };
     });
 
-    // a carousel needs >1 real slide; the first img is often the avatar
-    const slides = d.imgs.filter(u => !/s150x150|s320x320/.test(u));
+    // already scoped and size-filtered in the page; a carousel needs >1 slide
+    const slides = d.imgs;
     if (slides.length < 2) continue;
 
     const followers = num(d.followersRaw);

@@ -60,6 +60,39 @@ works reliably.
 **4. Pexels.** Loads in a real browser. `api.pexels.com` returns 401 without a
 key, so either set `PEXELS_API_KEY` or have `lib/stock.js` browse the site.
 
+### The constraint that shapes the whole study: full decks
+
+The brief is blunt that whole decks are the unit of study — *"ברור שדקים מלאים
+איך תלמד משקופית אחת"*. Only one live source actually yields them.
+
+**Instagram's embed renders at most 3 slides of a carousel.** Verified, not
+assumed: every post tested returns exactly 3 images inside `.EmbedFrame`, all at
+full resolution, and one of them is a deck whose own cover slide reads *"10 New
+Spots To Check Out In Aerocity"* — a ten-item listicle returning three slides is
+truncation, not a three-slide deck.
+
+A related trap was caught on the way: an embed's `<img>` list is **not** the
+deck. It also contains the 100x100 avatar (twice) and a strip of 150x150 "more
+posts from this account" thumbnails belonging to *other* posts. An early harvest
+counted those as slides, which is why deck lengths first looked like 2-5. That
+data was deleted rather than corrected in place, and the extractor now scopes to
+the embed frame and requires ≥600px natural dimensions.
+
+So the two piles differ in what they can answer, and the playbook must never
+blur them:
+
+| | Meta Ad Library (A1) | Instagram embed (A2) |
+| --- | --- | --- |
+| Deck | **Complete** — arrows clicked through | **First 3 slides only** |
+| Organic? | No, ads | **Yes** |
+| Denominator | Advertiser's own median run duration | likes / followers |
+| Can answer | sequencing, closing slide, slide count, full craft | hook slide, slide 2 (the highest-drop-off position §4 names), caption, early craft |
+| Cannot answer | anything about organic behaviour | how decks end, how long they run |
+
+There is no live source that gives **organic** full decks. Third-party Instagram
+mirrors do, but building a study on a grey-market scraper is a decision for
+Yuval, not one to take quietly — it is flagged, not used.
+
 ### Walls — confirmed by test, not assumed
 
 | Source | What happens |
