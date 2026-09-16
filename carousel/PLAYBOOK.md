@@ -89,6 +89,41 @@ advertisers on craft — they are not doing the thing you do. Do not look to the
 local paid feed for hook typography; there is nothing there. It also means the
 bar in your own market is low.
 
+### 1.1 The better explanation: it is not ads vs organic, it is what is being sold
+
+*Corpus-wide — the split holds across all 11 batches, ~70 advertisers.*
+
+Wave 2 replaced the wave-1 framing with a sharper one. The dividing line is not
+paid vs organic. It is **what the deck is selling**:
+
+- **Property-sellers** — hotels, spas, villas, apartments, salons, restaurants —
+  put **zero text on the image**. The photograph *is* the product, so the deck is
+  a shot-list and the words go in the caption.
+- **Explainer / experience-sellers** — guides, itineraries, tools, lodges with a
+  story to tell — **build templates**. Every one of them designs a repeating
+  text-on-image system.
+
+You sell an explanation ("same hotel, different connection"), not a property.
+**The templated cluster is your peer group**, not the Israeli hotel feed.
+
+### 1.2 Your actual peer group, named
+
+Seven advertisers across the corpus build proper templated text-on-image decks.
+These are the decks worth opening one by one:
+
+| Deck | What it does |
+| --- | --- |
+| **Kapawi Amazon Lodge** (`ad-1218885413399738` area, batch 10, 9 slides) | Cream panel cover + dark-green rounded pill, then 7 identical all-caps white-on-scrim slides, genuine CTA end-card with a solid button. The only deck in its batch with a **→ swipe arrow**. |
+| **madetoroamfam** (`ad-988072893658215`, 11 slides) | Text on 10 of 11 slides via **per-line white rounded knock-out stickers**, heavy serif, phone snaps, no colour grade, no numbers. Built entirely on the type device. |
+| **AYANA Phuket** (`ad-1325122952874845`, `ad-938391302530187`) | Locked wordmark, two-weight sans pair, three contrast devices from **one kit** (translucent swoosh / bare white on a naturally dark area / solid knock-out bar), one sentence running across all four slides, closes on price + SIGN UP. Zero letterboxing. |
+| **YumTravel** (`ad-2401324727007268`) | Constant graph-paper ground, two fixed type roles (handwritten script = voice, heavy geometric sans = claim), opaque knock-out bar used **only** where artwork sits underneath, photo-free CTA slide. |
+| **Rome2Rio** (batch 10) | Magazine-cover lockup, then every slide = photo + white rounded product-screenshot card + opaque caption pill at the bottom edge. |
+| **מונה טורס** (`ad-1431186982197538`) | Navy knock-out headline bar + white sub-card + orange price sticker, five identical cards. |
+| **רמי גרינברג / עיריית פתח תקווה** | Templated typographic deck enumerated by a rhyming Hebrew verb chain. |
+
+**The device they share:** one identical recurring container, applied to every
+slide, and contrast bought explicitly rather than hoped for.
+
 ---
 
 ## 2. Craft patterns
@@ -131,11 +166,24 @@ put any numeral on an item slide — mustvisitjapan (a red "1." pill), thechorts
 announce a count and number nothing: travel2losangeles, vietnamessence_tours,
 vnexpress.guide, anushkarathod98, nyctheloop, switzerlandersss.
 
+Wave 2 made this stronger, not weaker: in batch 10, **0 of 12 decks used a
+counter at all** — including both fully designed templated decks. Kapawi runs
+seven numbered-in-spirit slides with no numerals anywhere.
+
 What does the numeral's job instead:
-- **A repeating identical template** (מונה טורס, whatshappening365's if/then
-  sentence frame) — the rhythm itself signals "another one of these".
+- **A repeating identical template** (מונה טורס, Kapawi's seven identical
+  slides, whatshappening365's if/then sentence frame) — the rhythm itself
+  signals "another one of these".
+- **Parallel grammar** — every item phrased in the same shape, so the ear
+  counts even when the eye has nothing to count. This is how the designed decks
+  get listicle legibility without digits.
 - **A proper noun as the item title** (ivskitchen: "📍 Pike Place Market").
 - **A date kicker** instead of an ordinal (la_freebies: "SEP 14").
+
+*Observed in 2 advertisers, worth testing:* **one sentence running across the
+swipe**. AYANA runs a single sentence across all four slides; madetoroamfam
+breaks a line across the 5→6 swipe. The sentence cannot resolve without the
+swipe, which is a stronger pull than an arrow.
 
 ### 2.3 Slide 2 splits cleanly by pile — and this is the clearest structural lesson
 *Corpus-wide — 3 batches, 10+ accounts.*
@@ -179,18 +227,47 @@ All four organic accounts in batch 6 used a high-contrast display serif for the
 hook or item title, and three of the four paired it against a heavy grotesque
 for body copy — **switching family by role, not by slide**.
 
-### 2.6 Decks do not close
-*Corpus-wide — 4 batches, ~30 advertisers. Ads only; organic endings are
-unobservable here.*
+### 2.6 Photo-only decks never close. Templated decks almost always do.
+*Corpus-wide — 9 batches, ~60 advertisers.*
 
-Of every complete ad deck examined, **not one ended on a CTA, logo, price or
-contact card** — including advertisers whose captions carry a phone number. They
-simply stop on another photograph, leaving the close to the platform's CTA
-button.
+**This corrects a wave-1 claim.** After 76 decks the finding read "no deck ever
+ends on a CTA", and that was wrong — it was true of the sample, not of the
+genre. Wave 2 found the exception cluster and it is systematic, not incidental.
 
-**This is the strongest argument for your closing slide.** Your empty-folder
-screenshot is a genuine close in a genre where nobody closes. Note also that the
-ads *have* a platform CTA button to fall back on — an organic post does not.
+- **Photo-only decks: no close.** Across roughly 60 advertisers, these stop on
+  another photograph — including advertisers whose captions carry a phone
+  number. The close is left entirely to the platform's CTA button.
+- **Templated decks: a real close.** Kapawi ends on a CTA card with a solid
+  "DOWNLOAD THE GUIDE" button. AYANA ends on price + SIGN UP + award badge.
+  YumTravel ends on a photo-free CTA slide whose URL is set in a colour used
+  nowhere else in the deck.
+
+**What this means for your closing slide.** The earlier version of this document
+told you the close was a differentiator because nobody closes. That was the
+wrong reason. The right one: **everybody in your actual genre closes**, and your
+empty-folder screenshot is the closing slide — it is table stakes for a
+templated explainer deck, not a quirk. Two details worth stealing from the
+cluster: they drop the photograph entirely on the last slide, and they introduce
+one colour there that appears nowhere else.
+
+And the asymmetry that makes it matter more for you than for them: an ad has a
+platform CTA button underneath it. An organic post has nothing but its last
+slide.
+
+### 2.6b The listicle gets written — in the caption — and then not drawn
+*Corpus-wide — 3 batches, 12+ advertisers.*
+
+The clearest single illustration of §1.1. Advertiser after advertiser wrote a
+fully formed listicle — a day-by-day itinerary, an 8-line price table, tiered
+packages, an explicit "1. 2. 3. 4." — and then shipped **untouched photographs**
+on the slides, leaving the entire structure in a caption the feed truncates.
+
+Four advertisers did this in batch 8, four more in batch 7, four more in batch
+11. Meta's link-card chrome is used the same way: GolfNow carries per-slide item
+labels including a numbered one ("10 Scottish Courses for <£30") — in the card
+chrome, **never in the pixels**.
+
+The work is being done. It is just not being put where the viewer looks.
 
 ### 2.7 Craft hygiene the ads fail and the organic decks do not
 *Corpus-wide — 2 batches, 11 advertisers.*
@@ -242,9 +319,16 @@ Stated as implications, with their evidence class attached. None of these is
    whether or not digits appear.
 4. **Make slide 2 your first real tip, not a preamble.** *Corpus-wide.*
 5. **Keep emoji in the caption.** *Corpus-wide.*
-6. **Your closing slide is a genuine differentiator.** Nobody closes. Keep it
-   exactly as it is. *Corpus-wide.*
+6. **Keep your closing slide — it is table stakes in your genre, not a quirk.**
+   Every templated explainer deck closes; only photo-dumps don't. Steal two
+   details: drop the photo entirely on the last slide, and use one colour there
+   that appears nowhere else. *Corpus-wide.*
 7. **Crop to frame.** *Corpus-wide.*
+8. **Pick one container and repeat it on every slide.** This is the single
+   device every deck in your peer group shares (§1.2), and it is what buys
+   listicle legibility without numerals. *Corpus-wide.*
+9. **Consider running one sentence across a swipe.** *Observed in 2
+   advertisers — test it, don't trust it.*
 
 ### One thing to be careful about
 
@@ -261,10 +345,13 @@ not a call this study should make for you.
 
 See `harvest/link-list.md` for the full table. Summary at time of writing:
 
-- **Decks harvested and contact-sheeted:** 135+ and still growing
-- **Decks examined as images:** 76 in wave 1, wave 2 in progress
-- **Organic (Instagram, 2 slides each):** right genre
-- **Ads (Meta Ad Library, complete decks):** mostly wrong genre
+- **Decks harvested and contact-sheeted:** 260
+- **Decks examined as images:** **135**, across 11 batches and 11 independent
+  viewers (the brief's floor is 100)
+- **Organic (Instagram, 2 slides each):** 57 — right genre, truncated
+- **Ads (Meta Ad Library, complete decks):** 203 — complete, mostly the wrong
+  genre, but containing the 7-advertiser templated cluster that is the real
+  peer group (§1.2)
 
 Known contamination, flagged by viewers rather than hidden:
 - **Keyword false positives** — a hair salon located inside a hotel, a villa

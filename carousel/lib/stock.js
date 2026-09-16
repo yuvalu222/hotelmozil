@@ -1,11 +1,14 @@
 // Stock image sourcing. Pexels primary, Unsplash optional fallback.
 //
-// Requires PEXELS_API_KEY (free: https://www.pexels.com/api/).
-// Requires api.pexels.com + images.pexels.com in the environment's allowed
-// domains; without them every request fails at the proxy with a connect error.
+// PEXELS_API_KEY (free: https://www.pexels.com/api/) enables the API path.
+// Without a key, gather() falls back to browsing pexels.com in a real browser
+// (lib/stock-browser.js), which needs no key and is the path that actually runs
+// here. The old note about the environment blocking api.pexels.com no longer
+// applies — see RECON.md.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { searchPexelsBrowser, downloadBrowser } from './stock-browser.js';
 
 const PEXELS = 'https://api.pexels.com/v1/search';
 const UNSPLASH = 'https://api.unsplash.com/search/photos';
@@ -99,9 +102,14 @@ export async function gather(spec, { cacheDir, perSlide = 4 }) {
       out.push({ index: i, candidates: [] });
       continue;
     }
+    // With a key, use the API. Without one, browse the site — no key needed,
+    // and that is the path that runs here.
+    const viaBrowser = !process.env.PEXELS_API_KEY;
     let candidates = [];
     try {
-      candidates = await searchPexels(slide.image.query, { perPage: perSlide * 2 });
+      candidates = viaBrowser
+        ? await searchPexelsBrowser(slide.image.query, { perPage: perSlide * 2 })
+        : await searchPexels(slide.image.query, { perPage: perSlide * 2 });
     } catch (err) {
       out.push({ index: i, error: String(err.message), candidates: [] });
       continue;
@@ -109,7 +117,9 @@ export async function gather(spec, { cacheDir, perSlide = 4 }) {
     const picked = candidates.slice(0, perSlide);
     for (const c of picked) {
       try {
-        c.file = await download(c, cacheDir);
+        c.file = viaBrowser
+          ? await downloadBrowser(c, cacheDir)
+          : await download(c, cacheDir);
       } catch (err) {
         c.error = String(err.message);
       }

@@ -101,8 +101,13 @@ async function toDataUri(file) {
 export async function renderSpec(spec, { outDir, debug = false, quality = 88 } = {}) {
   await fs.mkdir(outDir, { recursive: true });
 
+  // Playwright's bundled headless shell is not installed here; the rest of this
+  // project drives the system Chrome instead (see RECON.md). CHROMIUM_PATH still
+  // wins if set, and `channel` is omitted in that case, since Playwright
+  // rejects executablePath and channel together.
+  const executablePath = process.env.CHROMIUM_PATH || undefined;
   const browser = await chromium.launch({
-    executablePath: process.env.CHROMIUM_PATH || undefined,
+    ...(executablePath ? { executablePath } : { channel: 'chrome' }),
     args: ['--force-color-profile=srgb', '--font-render-hinting=none'],
   });
 

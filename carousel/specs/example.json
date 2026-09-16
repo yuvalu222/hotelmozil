@@ -2,7 +2,13 @@
   "id": "example-athens",
   "note": "Shape reference. The caption leads with the price because the feed truncates near 125 characters, ends on a question because that is the one caption tactic with a large sample behind it, and carries 5 hashtags because the measured effect flattens past that.",
   "caption": "אתונה, 3 לילות במלון בוטיק במרכז — 214$ לזוג כולל ארוחת בוקר. בדקתי מול 4 אתרים, זה היה הזול ביותר. מי מכם היה באתונה בסתיו?",
-  "hashtags": ["אתונה", "חופשה_זולה", "דילים", "טיולים", "מלונות"],
+  "hashtags": [
+    "אתונה",
+    "חופשה_זולה",
+    "דילים",
+    "טיולים",
+    "מלונות"
+  ],
   "slides": [
     {
       "role": "hook",
@@ -11,18 +17,52 @@
       "headline": "מצאתי מלון בוטיק במרכז אתונה ב-214$ לזוג",
       "swipe": "החלק ←",
       "alt": "נוף שקיעה מעל אתונה עם האקרופוליס ברקע",
-      "image": { "query": "athens acropolis sunset rooftop" }
+      "image": {
+        "query": "athens acropolis sunset rooftop",
+        "id": "pexels-33203821",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33203821/pexels-photo-33203821/free-photo-of-athens-cityscape-at-sunset-with-acropolis-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/athens-cityscape-at-sunset-with-acropolis-view-33203821/"
+        },
+        "alt": "Free Beautiful sunset view of Athens with the Acropolis and city buildings. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33203821.jpg"
+      },
+      "credit": null
     },
     {
       "role": "proof",
       "align": "bottom",
       "headline": "המחיר, כמו שהוא",
-      "price": { "label": "3 לילות, לזוג", "amount": "$214", "note": "כולל ארוחת בוקר ומיסים" },
+      "price": {
+        "label": "3 לילות, לזוג",
+        "amount": "$214",
+        "note": "כולל ארוחת בוקר ומיסים"
+      },
       "was": "$389",
       "badge": "45%- מהמחיר הרגיל",
       "swipe": "החלק ←",
       "alt": "צילום מסך של המחיר הסופי כולל מיסים",
-      "image": { "query": "boutique hotel room interior warm light" }
+      "image": {
+        "query": "boutique hotel room interior warm light",
+        "id": "pexels-27729152",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27729152/pexels-photo-27729152/free-photo-of-casa-maka.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/casa-maka-27729152/"
+        },
+        "alt": "Free A beautifully designed hotel room in San Luis Potosi, Mexico, featuring elegant modern furniture and warm lighting. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27729152.jpg"
+      },
+      "credit": null
     },
     {
       "role": "detail",
@@ -31,7 +71,22 @@
       "body": "המיקום הוא מה שמייקר באתונה. המלון הזה יושב בין מונסטירקי לפלאקה, כלומר רוב מה שבאתם בשבילו הוא ברגל.",
       "swipe": "החלק ←",
       "alt": "רחוב אבן בשכונת פלאקה באתונה",
-      "image": { "query": "plaka athens street cafe morning" }
+      "image": {
+        "query": "plaka athens street cafe morning",
+        "id": "pexels-36795950",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36795950/pexels-photo-36795950/free-photo-of-charming-street-view-in-athens-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/charming-street-view-in-athens-greece-36795950/"
+        },
+        "alt": "Free Quaint alleyway in Athens, Greece with vibrant buildings and cozy cafes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36795950.jpg"
+      },
+      "credit": null
     },
     {
       "role": "detail",
@@ -40,7 +95,22 @@
       "body": "אוקטובר באתונה: 24 מעלות, בלי תורים לאקרופוליס, ומחירי לינה נמוכים ב-30% מיולי.",
       "swipe": "החלק ←",
       "alt": "האקרופוליס ביום בהיר בלי קהל",
-      "image": { "query": "acropolis athens autumn clear day" }
+      "image": {
+        "query": "acropolis athens autumn clear day",
+        "id": "pexels-14437081",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14437081/pexels-photo-14437081.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/temple-of-athena-nike-on-the-athenian-acropolis-greece-14437081/"
+        },
+        "alt": "Free A low angle shot of the Temple of Athena Nike surrounded by foliage under a blue sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14437081.jpg"
+      },
+      "credit": null
     },
     {
       "role": "cta",
@@ -49,7 +119,22 @@
       "headline": "הקישור בביו",
       "body": "אני מעלה דיל מאומת כל יום. אם אתונה לא מתאימה לכם — כתבו לי לאן כן, ואחפש.",
       "alt": "מרפסת מלון עם נוף לעיר בשעת ערב",
-      "image": { "query": "hotel balcony city view evening greece" }
+      "image": {
+        "query": "hotel balcony city view evening greece",
+        "id": "pexels-26737288",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/26737288/pexels-photo-26737288/free-photo-of-illuminated-hotel-sign-on-the-side-of-a-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/illuminated-hotel-sign-on-the-side-of-a-building-26737288/"
+        },
+        "alt": "Free Bright hotel sign glowing at night on building exterior in Greece's urban area. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26737288.jpg"
+      },
+      "credit": null
     }
   ]
 }
