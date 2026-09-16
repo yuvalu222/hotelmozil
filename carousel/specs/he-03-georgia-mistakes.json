@@ -2,7 +2,12 @@
   "id": "he-03-georgia-mistakes",
   "demonstrates": "PLAYBOOK §1.2 — one identical recurring container on every slide, which is the single device shared by the whole templated peer group (Kapawi, madetoroamfam, AYANA, YumTravel, מונה טורס). Here the container is a fixed eyebrow label plus a fixed headline shape, repeated without variation, so the deck reads as a list without a numeral appearing anywhere.",
   "caption": "6 טעויות שעולות כסף בגאורגיה. רובן קורות ביומיים הראשונים, לפני שמבינים איך הדברים עובדים שם. מה תפסתם בדרך הקשה?",
-  "hashtags": ["גאורגיה", "טביליסי", "בטומי", "טיפיםלטיול"],
+  "hashtags": [
+    "גאורגיה",
+    "טביליסי",
+    "בטומי",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "role": "hook",
@@ -12,7 +17,22 @@
       "body": "רובן קורות ביומיים הראשונים",
       "swipe": "החלק ←",
       "alt": "נוף עירוני של טביליסי",
-      "image": { "query": "tbilisi georgia old town view" }
+      "image": {
+        "query": "tbilisi georgia old town view",
+        "id": "pexels-9223235",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9223235/pexels-photo-9223235.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-bridge-in-a-town-9223235/"
+        },
+        "alt": "Free Charming view of Tbilisi's old town with river and bridge, vibrant architecture and greenery. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9223235.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -21,7 +41,22 @@
       "body": "השער בעיר טוב יותר כמעט תמיד. ממירים סכום קטן לנסיעה, והשאר בטביליסי.",
       "swipe": "החלק ←",
       "alt": "דלפק המרת מטבע",
-      "image": { "query": "currency exchange counter money" }
+      "image": {
+        "query": "currency exchange counter money",
+        "id": "pexels-6266459",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/6266459/pexels-photo-6266459.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/money-bills-on-a-money-counter-6266459/"
+        },
+        "alt": "Free Close-up shot of a money counting machine with bills being processed indoors. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6266459.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -30,7 +65,22 @@
       "body": "אין מונים ברוב המקומות. מבקשים מחיר לפני שנכנסים, או מזמינים באפליקציה.",
       "swipe": "החלק ←",
       "alt": "רחוב עם מוניות בגאורגיה",
-      "image": { "query": "taxi street tbilisi georgia" }
+      "image": {
+        "query": "taxi street tbilisi georgia",
+        "id": "pexels-39377056",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39377056/pexels-photo-39377056/free-photo-of-vintage-yellow-car-in-tbilisi-city-street.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vintage-yellow-car-in-tbilisi-city-street-39377056/"
+        },
+        "alt": "Free A vintage yellow car loaded with appliances parked in front of a modern glass building in Tbilisi. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39377056.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -39,7 +89,22 @@
       "body": "יין ביתי במרתף קטן עולה חלק מהמחיר ולרוב טעים יותר.",
       "swipe": "החלק ←",
       "alt": "מרתף יין עם חביות",
-      "image": { "query": "wine cellar barrels georgia" }
+      "image": {
+        "query": "wine cellar barrels georgia",
+        "id": "pexels-37389867",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37389867/pexels-photo-37389867/free-photo-of-historic-wine-cellar-with-aging-barrels.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/historic-wine-cellar-with-aging-barrels-37389867/"
+        },
+        "alt": "Free Explore a historic wine cellar filled with aging barrels. Perfect for concepts of tradition and winemaking. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37389867.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -48,7 +113,22 @@
       "body": "הכבישים ההרריים מצדיקים ביטוח מלא. בודקים מה בדיוק מכוסה לפני שחותמים.",
       "swipe": "החלק ←",
       "alt": "כביש הררי בגאורגיה",
-      "image": { "query": "mountain road caucasus georgia" }
+      "image": {
+        "query": "mountain road caucasus georgia",
+        "id": "pexels-11066195",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/11066195/pexels-photo-11066195.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/concrete-road-between-mountains-11066195/"
+        },
+        "alt": "Free A tranquil mountain road in Sochumi, surrounded by towering cliffs and dense greenery. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11066195.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -57,7 +137,22 @@
       "body": "העיר על הים ומתרוקנת מחוץ לעונה. בחורף ההרים מעניינים יותר.",
       "swipe": "החלק ←",
       "alt": "חוף ים בבטומי",
-      "image": { "query": "batumi black sea beach promenade" }
+      "image": {
+        "query": "batumi black sea beach promenade",
+        "id": "pexels-26755467",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/26755467/pexels-photo-26755467/free-photo-of-view-of-a-ferris-wheel.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-a-ferris-wheel-26755467/"
+        },
+        "alt": "Free A scenic view of a Ferris wheel reflecting on wet pavement in Batumi's urban landscape. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26755467.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -66,13 +161,31 @@
       "body": "מחוץ לערים הגדולות עובדים במזומן. מושכים לפני שיוצאים לדרך.",
       "swipe": "החלק ←",
       "alt": "כפר הררי בגאורגיה",
-      "image": { "query": "georgian village mountains houses" }
+      "image": {
+        "query": "georgian village mountains houses",
+        "id": "pexels-16091989",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16091989/pexels-photo-16091989/free-photo-of-houses-in-mountains.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/houses-in-mountains-16091989/"
+        },
+        "alt": "Free Idyllic rural scene with mountains and scattered houses under a bright sky in Georgia. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16091989.jpg"
+      },
+      "credit": null
     },
     {
       "role": "screenshot",
       "align": "center",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

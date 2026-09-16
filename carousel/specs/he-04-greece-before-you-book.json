@@ -2,7 +2,11 @@
   "id": "he-04-greece-before-you-book",
   "demonstrates": "PLAYBOOK §2.2, the 'observed in 2 advertisers' item — one sentence running across the swipe. AYANA runs a single sentence across four slides and madetoroamfam breaks a line across the 5→6 swipe; the sentence cannot resolve without swiping, which is a stronger pull than an arrow. This is labelled observed-not-confirmed in the playbook, so this deck is the test of it: slides 1→2 carry one unfinished sentence, and the rest of the deck behaves normally so the variable is isolated.",
   "caption": "4 דברים לבדוק לפני שמזמינים אי ביוון. המרחק מהנמל הוא זה שמפיל את רוב התכנונים. איזה אי אתם הכי אוהבים?",
-  "hashtags": ["יוון", "איים", "טיפיםלטיול"],
+  "hashtags": [
+    "יוון",
+    "איים",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "role": "hook",
@@ -12,7 +16,22 @@
       "body": "וזאת בדיוק הסיבה שהטיול",
       "swipe": "החלק ←",
       "alt": "נוף של אי יווני עם בתים לבנים",
-      "image": { "query": "greek island white houses sea" }
+      "image": {
+        "query": "greek island white houses sea",
+        "id": "pexels-10611225",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10611225/pexels-photo-10611225.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/white-concrete-buildings-near-the-sea-10611225/"
+        },
+        "alt": "Free Beautiful view of Santorini's iconic white buildings and the Aegean Sea under a clear sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10611225.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -20,7 +39,22 @@
       "body": "ארבעה דברים שכדאי לבדוק לפני שמזמינים.",
       "swipe": "החלק ←",
       "alt": "מעבורת בנמל יווני",
-      "image": { "query": "ferry greek port harbour" }
+      "image": {
+        "query": "ferry greek port harbour",
+        "id": "pexels-28371458",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28371458/pexels-photo-28371458/free-photo-of-santorini-ferry.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/santorini-ferry-28371458/"
+        },
+        "alt": "Free Aerial view of Blue Star Ferry leaving Fira harbour with deep blue sea in Santorini, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28371458.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -29,7 +63,22 @@
       "body": "אי שנראה קרוב על המפה יכול להיות שתי מעבורות ויום שלם.",
       "swipe": "החלק ←",
       "alt": "לוח זמנים בנמל",
-      "image": { "query": "ferry schedule board port" }
+      "image": {
+        "query": "ferry schedule board port",
+        "id": "pexels-19904288",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/19904288/pexels-photo-19904288/free-photo-of-view-of-bay-from-a-window.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-bay-from-a-window-19904288/"
+        },
+        "alt": "Free Interior view of Beşiktaş ferry terminal windows showing Kadıköy ferry schedule and a sunny sea view. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19904288.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -38,7 +87,22 @@
       "body": "בקיץ המלטמי מבטל הפלגות. אי קטן בלי שדה תעופה נהיה פתאום סיפור.",
       "swipe": "החלק ←",
       "alt": "ים סוער עם גלים",
-      "image": { "query": "windy sea waves greek coast" }
+      "image": {
+        "query": "windy sea waves greek coast",
+        "id": "pexels-15986461",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15986461/pexels-photo-15986461/free-photo-of-a-greek-flag-on-the-rock.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-greek-flag-on-the-rock-15986461/"
+        },
+        "alt": "Free Scenic view of a Greek cliff with a flag, overlooking the sparkling sea on a cloudy day. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15986461.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -47,7 +111,22 @@
       "body": "שני קילומטרים בלי מדרכה ובלי תחבורה משנים את כל היום.",
       "swipe": "החלק ←",
       "alt": "כביש צר באי יווני",
-      "image": { "query": "narrow road greek island hills" }
+      "image": {
+        "query": "narrow road greek island hills",
+        "id": "pexels-15986342",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15986342/pexels-photo-15986342/free-photo-of-view-of-an-asphalt-road-between-buildings-on-a-greek-island.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-an-asphalt-road-between-buildings-on-a-greek-island-15986342/"
+        },
+        "alt": "Free Charming narrow street on a Greek island featuring historic architecture and parked cars under twilight skies. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15986342.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -56,13 +135,31 @@
       "body": "הרבה חופים באיים הם חלוקים ולא חול. זה לא רע, אבל כדאי לדעת מראש.",
       "swipe": "החלק ←",
       "alt": "חוף חלוקים ביוון",
-      "image": { "query": "pebble beach greece clear water" }
+      "image": {
+        "query": "pebble beach greece clear water",
+        "id": "pexels-38936837",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38936837/pexels-photo-38936837/free-photo-of-pebble-beach-on-a-sunny-day-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/pebble-beach-on-a-sunny-day-in-greece-38936837/"
+        },
+        "alt": "Free Close-up of smooth pebbles on a serene Greek beach with calm blue waters. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38936837.jpg"
+      },
+      "credit": null
     },
     {
       "role": "screenshot",
       "align": "center",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

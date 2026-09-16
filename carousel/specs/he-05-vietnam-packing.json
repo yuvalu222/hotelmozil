@@ -2,7 +2,11 @@
   "id": "he-05-vietnam-packing",
   "demonstrates": "PLAYBOOK §2.6 — the close. Photo-only decks stop on another photograph; every templated deck in the peer group closes properly, and two of them close on a photo-free card using a colour that appears nowhere else in the deck. This deck is built to hand off cleanly to that closing slide: the last content slide deliberately does not resolve the topic, so the closing slide is the resolution rather than an appendix. The closing slide itself is Yuval's own and is left as a marked placeholder.",
   "caption": "7 דברים שבאמת צריך בתיק לווייטנאם, ואחד שכולם לוקחים ומצטערים. הפונצ'ו הוא לא זה. מה אתם תמיד לוקחים?",
-  "hashtags": ["וייטנאם", "מזרחאסיה", "טיפיםלטיול"],
+  "hashtags": [
+    "וייטנאם",
+    "מזרחאסיה",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "role": "hook",
@@ -12,7 +16,22 @@
       "body": "ואחד שכולם לוקחים ומצטערים",
       "swipe": "החלק ←",
       "alt": "רחוב סואן בהאנוי",
-      "image": { "query": "hanoi vietnam street scooters" }
+      "image": {
+        "query": "hanoi vietnam street scooters",
+        "id": "pexels-32081864",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32081864/pexels-photo-32081864/free-photo-of-motorbikes-on-tree-lined-street-in-hanoi.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/motorbikes-on-tree-lined-street-in-hanoi-32081864/"
+        },
+        "alt": "Free Motorbikers commute on a tree-lined street in Hanoi, Vietnam, showcasing the city's vibrant daily life. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32081864.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -20,7 +39,22 @@
       "body": "יורד גשם והרחובות מתמלאים. נעל בד רגילה נשארת רטובה יומיים.",
       "swipe": "החלק ←",
       "alt": "נעליים על רחוב רטוב",
-      "image": { "query": "wet street shoes rain city" }
+      "image": {
+        "query": "wet street shoes rain city",
+        "id": "pexels-38069",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38069/pexels-photo-38069.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/shadow-of-person-on-water-during-daytime-38069/"
+        },
+        "alt": "Free Artistic reflection of black boots in a puddle during rain. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38069.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -28,7 +62,22 @@
       "body": "היום עובר על ניווט ועל תרגום, והסוללה נגמרת עד אחר הצהריים.",
       "swipe": "החלק ←",
       "alt": "מטען נייד וטלפון",
-      "image": { "query": "power bank phone charging travel" }
+      "image": {
+        "query": "power bank phone charging travel",
+        "id": "pexels-5208772",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/5208772/pexels-photo-5208772.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/overhead-shot-of-a-cellphone-charging-from-a-power-bank-5208772/"
+        },
+        "alt": "Free A mobile phone and power bank connected with a coiled cable on a beige background. Ideal for tech and lifestyle themes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5208772.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -36,7 +85,22 @@
       "body": "בתנועה בהאנוי ובסייגון זה משנה את התחושה בסוף היום.",
       "swipe": "החלק ←",
       "alt": "תנועה צפופה של אופנועים",
-      "image": { "query": "motorbike traffic vietnam city" }
+      "image": {
+        "query": "motorbike traffic vietnam city",
+        "id": "pexels-28719305",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28719305/pexels-photo-28719305/free-photo-of-man-on-motorcycle-in-urban-street-setting.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/man-on-motorcycle-in-urban-street-setting-28719305/"
+        },
+        "alt": "Free Adult man with phone and helmet on motorcycle in a busy urban street. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28719305.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -44,7 +108,22 @@
       "body": "בהרים בצפון קר בערב, ובאוטובוסים המיזוג עובד חזק.",
       "swipe": "החלק ←",
       "alt": "נוף הרים בצפון וייטנאם",
-      "image": { "query": "sapa vietnam mountains terraces" }
+      "image": {
+        "query": "sapa vietnam mountains terraces",
+        "id": "pexels-39388237",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39388237/pexels-photo-39388237/free-photo-of-stunning-terrace-rice-fields-in-vietnam-s-mountains.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/stunning-terrace-rice-fields-in-vietnam-s-mountains-39388237/"
+        },
+        "alt": "Free Lush green rice terraces against a mountainous backdrop under a bright blue sky in Vietnam. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39388237.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -52,7 +131,22 @@
       "body": "חלק מהמלונות מבקשים להשאיר דרכון. עותק פותר את זה בלי ויכוח.",
       "swipe": "החלק ←",
       "alt": "מסמכי נסיעה על שולחן",
-      "image": { "query": "passport documents desk travel" }
+      "image": {
+        "query": "passport documents desk travel",
+        "id": "pexels-30851143",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/30851143/pexels-photo-30851143/free-photo-of-two-jamaican-passports-on-a-blue-surface.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/two-jamaican-passports-on-a-blue-surface-30851143/"
+        },
+        "alt": "Free Close-up of two Jamaican passports resting on a blue surface, highlighting Caribbean identity. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30851143.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -60,7 +154,22 @@
       "body": "בשווקים ובאוטובוסים אין עודף לשטרות גדולים.",
       "swipe": "החלק ←",
       "alt": "שוק מקומי בווייטנאם",
-      "image": { "query": "vietnam local market stalls" }
+      "image": {
+        "query": "vietnam local market stalls",
+        "id": "pexels-36778335",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36778335/pexels-photo-36778335/free-photo-of-bustling-vietnamese-market-stall-with-fresh-produce.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/bustling-vietnamese-market-stall-with-fresh-produce-36778335/"
+        },
+        "alt": "Free Colorful market stall in Vietnam showcasing fresh produce and local foods in a lively indoor setting. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36778335.jpg"
+      },
+      "credit": null
     },
     {
       "align": "bottom",
@@ -68,13 +177,31 @@
       "body": "פונצ'ו מהבית. קונים אותו שם בפינה, בשקל וחצי, ביום שבו יורד גשם.",
       "swipe": "החלק ←",
       "alt": "גשם ברחוב בווייטנאם",
-      "image": { "query": "rain street vietnam umbrella" }
+      "image": {
+        "query": "rain street vietnam umbrella",
+        "id": "pexels-13115114",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/13115114/pexels-photo-13115114.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-man-holding-an-umbrella-while-walking-13115114/"
+        },
+        "alt": "Free A stylish young man walks on a rainy street holding a transparent umbrella, wearing casual attire. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13115114.jpg"
+      },
+      "credit": null
     },
     {
       "role": "screenshot",
       "align": "center",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }
