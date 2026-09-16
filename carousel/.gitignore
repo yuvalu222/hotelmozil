@@ -1,5 +1,10 @@
 cache/
 out/
 node_modules/
-recon/profile*
+recon/
 recon/shots/
+decks/
+ig-decks/
+sheets/
+*.out
+*.log

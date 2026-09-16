@@ -1,0 +1,14 @@
+[
+ {"country":"IL","q":"חופשה","label":"he-vacation"},
+ {"country":"IL","q":"טיסות","label":"he-flights"},
+ {"country":"IL","q":"מלון","label":"he-hotel"},
+ {"country":"IL","q":"חבילת נופש","label":"he-package"},
+ {"country":"IL","q":"טיול מאורגן","label":"he-organized-tour"},
+ {"country":"IL","q":"תאילנד","label":"he-thailand"},
+ {"country":"US","q":"travel tips","label":"en-travel-tips"},
+ {"country":"US","q":"hotel deals","label":"en-hotel-deals"},
+ {"country":"US","q":"things to do","label":"en-things-to-do"},
+ {"country":"GB","q":"holiday deals","label":"gb-holiday-deals"},
+ {"country":"US","q":"travel guide","label":"en-travel-guide"},
+ {"country":"US","q":"vacation packages","label":"en-vacation-pkg"}
+]
