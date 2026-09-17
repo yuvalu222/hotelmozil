@@ -1,0 +1,537 @@
+{
+  "id": "he-a-athens-free",
+  "skin": "clone",
+  "clonedFrom": "ig-DdOEGuHE1wG",
+  "clonedAccount": "mustvisitjapan",
+  "demonstrates": "Direct clone of mustvisitjapan's '7 FREE things to do in Tokyo that are actually worth your time' — the highest-engagement organic listicle in the corpus (ER 0.0234). Copied: the red 'DID YOU KNOW?' pill, heavy condensed all-caps headline over a bottom scrim, thin arrow; item slides as a 2x2 collage of one place with a red numbered pill, a red name bar with a pin, and a white two-line why/tip box. Topic idea copied verbatim (free things worth your time), destination swapped to Athens, the #1 Israeli destination.",
+  "caption": "7 דברים בחינם באתונה שבאמת שווים את הזמן. את רובם אפשר לעשות באותו יום, ברגל, בלי כרטיס. מה הייתם מוסיפים?",
+  "hashtags": [
+    "אתונה",
+    "יוון",
+    "טיפיםלטיול",
+    "חופשהבאתונה"
+  ],
+  "slides": [
+    {
+      "layout": "caps-scrim",
+      "label": "ידעתם?",
+      "headline": "7 דברים בחינם\nבאתונה שבאמת\nשווים את הזמן",
+      "alt": "נוף של אתונה עם האקרופוליס ברקע",
+      "image": {
+        "query": "athens acropolis city view sunset",
+        "id": "pexels-14355766",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14355766/pexels-photo-14355766.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/roofs-of-building-in-town-and-hill-behind-at-dusk-14355766/"
+        },
+        "alt": "Free Stunning sunset view over Athens cityscape with the iconic Acropolis and historic architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14355766.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "1",
+      "name": "גבעת פילופאפו",
+      "why": "הנוף הכי טוב על האקרופוליס, ואין כרטיס.",
+      "tip": "לעלות לפני השקיעה. הכניסה מהצד של פלאקה.",
+      "alt": "גבעת פילופאפו עם נוף לאקרופוליס",
+      "images": [
+        {
+          "query": "filopappou hill athens acropolis view",
+          "id": "pexels-15670565",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15670565/pexels-photo-15670565/free-photo-of-view-of-the-parthenon-in-athens-from-a-distance.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-the-parthenon-in-athens-from-a-distance-15670565/"
+          },
+          "alt": "Free Charming urban landscape of Athens featuring the iconic Acropolis and local architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15670565.jpg"
+        },
+        {
+          "query": "filopappou hill athens acropolis view",
+          "id": "pexels-17030821",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17030821/pexels-photo-17030821/free-photo-of-view-of-the-parthenon-from-distance-athens-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-the-parthenon-from-distance-athens-greece-17030821/"
+          },
+          "alt": "Free Breathtaking view of the Acropolis and Parthenon from Athens hill in Greece on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17030821.jpg"
+        },
+        {
+          "query": "filopappou hill athens acropolis view",
+          "id": "pexels-33201846",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33201846/pexels-photo-33201846/free-photo-of-majestic-view-of-acropolis-athens-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/majestic-view-of-acropolis-athens-greece-33201846/"
+          },
+          "alt": "Free Scenic view of the Acropolis in Athens, Greece with blue sky. Historical landmark. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33201846.jpg"
+        },
+        {
+          "query": "filopappou hill athens acropolis view",
+          "id": "pexels-33201840",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33201840/pexels-photo-33201840/free-photo-of-aerial-view-of-athens-with-mount-lycabettus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-athens-with-mount-lycabettus-33201840/"
+          },
+          "alt": "Free A panoramic view of Athens featuring Mount Lycabettus under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33201840.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "2",
+      "name": "שוק הפשפשים במונסטיראקי",
+      "why": "רחובות שלמים של יד שנייה, עתיקות ותקליטים.",
+      "tip": "ביום ראשון בבוקר השוק הכי גדול. אחרי הצהריים מתקפלים.",
+      "alt": "שוק הפשפשים במונסטיראקי",
+      "images": [
+        {
+          "query": "monastiraki flea market athens",
+          "id": "pexels-28243336",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28243336/pexels-photo-28243336/free-photo-of-a-market-with-people-walking-around-it.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-market-with-people-walking-around-it-28243336/"
+          },
+          "alt": "Free Explore a bustling market in Athens, Greece, with traditional architecture and lively crowds. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28243336.jpg"
+        },
+        {
+          "query": "monastiraki flea market athens",
+          "id": "pexels-37844351",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844351/pexels-photo-37844351/free-photo-of-street-scene-in-monastiraki-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/street-scene-in-monastiraki-athens-37844351/"
+          },
+          "alt": "Free A lively street scene in Monastiraki, Athens with people gathered under trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844351.jpg"
+        },
+        {
+          "query": "monastiraki flea market athens",
+          "id": "pexels-32444430",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32444430/pexels-photo-32444430/free-photo-of-vibrant-outdoor-flea-market-scene.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vibrant-outdoor-flea-market-scene-32444430/"
+          },
+          "alt": "Free A bustling flea market with eclectic items and artworks displayed on the street. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32444430.jpg"
+        },
+        {
+          "query": "monastiraki flea market athens",
+          "id": "pexels-30296090",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30296090/pexels-photo-30296090/free-photo-of-vintage-antiques-on-red-checkered-table.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vintage-antiques-on-red-checkered-table-30296090/"
+          },
+          "alt": "Free Assorted antique items displayed on a red checkered tablecloth at a market. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30296090.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "3",
+      "name": "חילופי המשמר בסינטגמה",
+      "why": "הטקס מול הפרלמנט, בכל שעה עגולה.",
+      "tip": "ביום ראשון ב-11:00 הטקס הגדול, עם התזמורת.",
+      "alt": "חילופי משמר בכיכר סינטגמה",
+      "images": [
+        {
+          "query": "evzones changing of the guard syntagma athens",
+          "id": "pexels-32054739",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32054739/pexels-photo-32054739/free-photo-of-evzones-guard-in-athens-performing-ceremonial-march.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/evzones-guard-in-athens-performing-ceremonial-march-32054739/"
+          },
+          "alt": "Free Evzones in traditional attire perform the ceremonial change of guard in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32054739.jpg"
+        },
+        {
+          "query": "evzones changing of the guard syntagma athens",
+          "id": "pexels-31803292",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31803292/pexels-photo-31803292/free-photo-of-changing-of-the-guard-at-syntagma-square-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/changing-of-the-guard-at-syntagma-square-athens-31803292/"
+          },
+          "alt": "Free Ceremonial changing of the Greek presidential guard in traditional uniforms at Syntagma Square, Athens. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31803292.jpg"
+        },
+        {
+          "query": "evzones changing of the guard syntagma athens",
+          "id": "pexels-16318256",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16318256/pexels-photo-16318256/free-photo-of-presidential-guard-on-duty.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/presidential-guard-on-duty-16318256/"
+          },
+          "alt": "Free Traditional Greek Presidential Guard standing at Syntagma Square, Athens. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16318256.jpg"
+        },
+        {
+          "query": "evzones changing of the guard syntagma athens",
+          "id": "pexels-32998276",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32998276/pexels-photo-32998276/free-photo-of-greek-presidential-guard-at-hellenic-parliament.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/greek-presidential-guard-at-hellenic-parliament-32998276/"
+          },
+          "alt": "Free Evzones guard standing in front of the Hellenic Parliament in Athens, Greece Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32998276.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "4",
+      "name": "אנאפיוטיקה",
+      "why": "בתים לבנים כמו באיים, ממש מתחת לאקרופוליס.",
+      "tip": "הכניסה מהסמטאות של פלאקה. קל לפספס, כדאי מפה.",
+      "alt": "בתים לבנים בשכונת אנאפיוטיקה",
+      "images": [
+        {
+          "query": "anafiotika athens white houses",
+          "id": "pexels-18252676",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18252676/pexels-photo-18252676/free-photo-of-small-yard-with-flowers-by-house-in-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/small-yard-with-flowers-by-house-in-town-18252676/"
+          },
+          "alt": "Free Picturesque Greek house in Athens with bougainvillea and classic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18252676.jpg"
+        },
+        {
+          "query": "anafiotika athens white houses",
+          "id": "pexels-35586823",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35586823/pexels-photo-35586823/free-photo-of-scenic-view-of-lycabettus-hill-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-lycabettus-hill-in-athens-35586823/"
+          },
+          "alt": "Free Picturesque view of Lycabettus Hill from Plaka neighborhood in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35586823.jpg"
+        },
+        {
+          "query": "anafiotika athens white houses",
+          "id": "pexels-21759229",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21759229/pexels-photo-21759229/free-photo-of-a-narrow-alley-between-buildings-in-a-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-narrow-alley-between-buildings-in-a-town-21759229/"
+          },
+          "alt": "Free Sunlit narrow alley in Athens, Greece with colorful graffiti and historic houses Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21759229.jpg"
+        },
+        {
+          "query": "anafiotika athens white houses",
+          "id": "pexels-14378906",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14378906/pexels-photo-14378906.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/traditional-old-building-with-balconies-14378906/"
+          },
+          "alt": "Free Charming historic building with balcony, roof garden in city setting during day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14378906.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "5",
+      "name": "הגן הלאומי",
+      "why": "פארק גדול ומוצל, צמוד לסינטגמה.",
+      "tip": "בצהריים החמים זה המקום להתחבא בו.",
+      "alt": "שביל מוצל בגן הלאומי של אתונה",
+      "images": [
+        {
+          "query": "national garden athens greece path",
+          "id": "pexels-5666100",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5666100/pexels-photo-5666100.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/cobblestone-passage-between-bushes-5666100/"
+          },
+          "alt": "Free Rustic cobblestone path in Athens surrounded by lush trees, offering a serene walk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5666100.jpg"
+        },
+        {
+          "query": "national garden athens greece path",
+          "id": "pexels-12715386",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12715386/pexels-photo-12715386.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/alley-in-cemetery-12715386/"
+          },
+          "alt": "Free Ancient cemetery with tombstones and sculptures lined with vibrant greenery under a tree canopy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12715386.jpg"
+        },
+        {
+          "query": "national garden athens greece path",
+          "id": "pexels-16704706",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16704706/pexels-photo-16704706/free-photo-of-street-lamp-in-park.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/street-lamp-in-park-16704706/"
+          },
+          "alt": "Free Vertical shot of a green street lamp amidst lush trees in an Athens park. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16704706.jpg"
+        },
+        {
+          "query": "national garden athens greece path",
+          "id": "pexels-28300852",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28300852/pexels-photo-28300852/free-photo-of-the-columns-of-a-building-with-a-white-roof.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/the-columns-of-a-building-with-a-white-roof-28300852/"
+          },
+          "alt": "Free A row of majestic Greek columns in Athens, Greece, showcasing classical architecture and shadows. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28300852.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "6",
+      "name": "גבעת ליקבטוס",
+      "why": "הנקודה הכי גבוהה בעיר. רואים עד הים.",
+      "tip": "העלייה ברגל בחינם. הרכבל בתשלום.",
+      "alt": "נוף מגבעת ליקבטוס על אתונה",
+      "images": [
+        {
+          "query": "lycabettus hill athens view",
+          "id": "pexels-36050711",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36050711/pexels-photo-36050711/free-photo-of-scenic-view-of-mount-lycabettus-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-mount-lycabettus-in-athens-36050711/"
+          },
+          "alt": "Free Aerial view of Mount Lycabettus overlooking Athens cityscape under a cloudy sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36050711.jpg"
+        },
+        {
+          "query": "lycabettus hill athens view",
+          "id": "pexels-21914258",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21914258/pexels-photo-21914258/free-photo-of-mount-lycabettus-in-athens-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/mount-lycabettus-in-athens-greece-21914258/"
+          },
+          "alt": "Free Panoramic cityscape of Athens with Mount Lycabettus under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21914258.jpg"
+        },
+        {
+          "query": "lycabettus hill athens view",
+          "id": "pexels-28793632",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28793632/pexels-photo-28793632/free-photo-of-panoramic-view-of-athens-with-lycabettus-hill.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/panoramic-view-of-athens-with-lycabettus-hill-28793632/"
+          },
+          "alt": "Free Aerial view of Athens showcasing Lycabettus Hill under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28793632.jpg"
+        },
+        {
+          "query": "lycabettus hill athens view",
+          "id": "pexels-13748603",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13748603/pexels-photo-13748603.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/hill-over-city-in-black-and-white-13748603/"
+          },
+          "alt": "Free A panoramic view of Athens with Lycabettus Hill in black and white, showcasing urban landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13748603.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-redcard",
+      "number": "7",
+      "name": "שוק ורבקיוס",
+      "why": "שוק הבשר והדגים המרכזי. אתונה בלי הפילטר.",
+      "tip": "לבוא בבוקר. בצהריים כבר סוגרים.",
+      "alt": "שוק ורבקיוס המרכזי באתונה",
+      "images": [
+        {
+          "query": "varvakios central market athens",
+          "id": "pexels-18362505",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18362505/pexels-photo-18362505/free-photo-of-alley-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/alley-in-city-18362505/"
+          },
+          "alt": "Free Captivating alleyway scene in Athens with sunlit buildings, capturing urban architecture at sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18362505.jpg"
+        },
+        {
+          "query": "varvakios central market athens",
+          "id": "pexels-28243336",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28243336/pexels-photo-28243336/free-photo-of-a-market-with-people-walking-around-it.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-market-with-people-walking-around-it-28243336/"
+          },
+          "alt": "Free Explore a bustling market in Athens, Greece, with traditional architecture and lively crowds. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28243336.jpg"
+        },
+        {
+          "query": "varvakios central market athens",
+          "id": "pexels-37844342",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844342/pexels-photo-37844342/free-photo-of-bustling-street-scene-in-plaka-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bustling-street-scene-in-plaka-athens-37844342/"
+          },
+          "alt": "Free Busy street scene in Plaka, Athens, showcasing local architecture and shopping ambiance. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844342.jpg"
+        },
+        {
+          "query": "varvakios central market athens",
+          "id": "pexels-32444393",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32444393/pexels-photo-32444393/free-photo-of-street-market-vendor-in-athens-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/street-market-vendor-in-athens-greece-32444393/"
+          },
+          "alt": "Free A street vendor selling various items at a bustling market in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32444393.jpg"
+        }
+      ]
+    },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
+    }
+  ]
+}

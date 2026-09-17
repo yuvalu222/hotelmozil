@@ -1,6 +1,7 @@
-// Build out/preview.html — every rendered carousel, slide by slide, and beside
-// each one the decks in the harvested corpus whose pattern it was built from,
-// with a live link to each source so the original can be opened and judged.
+// Build out/preview.html — each cloned carousel beside the exact deck it was
+// cloned from (contact sheet + live link), then the other decks in the corpus
+// that share the pattern. The earlier, superseded attempt is kept at the
+// bottom, collapsed, so the difference can be seen rather than remembered.
 //
 //   node analyze/preview.mjs
 
@@ -9,132 +10,126 @@ import path from 'node:path';
 
 const OUT = 'out';
 const specsDir = 'specs';
-const sourcesPath = 'analyze/sources.json';
+const manifest = JSON.parse(fs.readFileSync('harvest/manifest.json', 'utf8'));
+const byId = Object.fromEntries(manifest.map((r) => [r.id, r]));
+const sources = fs.existsSync('analyze/sources.json')
+  ? JSON.parse(fs.readFileSync('analyze/sources.json', 'utf8')) : {};
 
-const decks = fs.readdirSync(OUT)
-  .filter(d => fs.statSync(path.join(OUT, d)).isDirectory())
-  .filter(d => d.startsWith('he-'))
-  .sort();
+const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
-const sources = fs.existsSync(sourcesPath)
-  ? JSON.parse(fs.readFileSync(sourcesPath, 'utf8')) : {};
-
-const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-
-function specFor(id) {
+const specFor = (id) => {
   const p = path.join(specsDir, `${id}.json`);
   if (!fs.existsSync(p)) return {};
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return {}; }
-}
+};
 
-function sourceCard(s) {
-  // sheets live at carousel/harvest/sheets; this page sits in carousel/out
-  const sheet = s.sheet ? '../' + s.sheet : null;
-  const kind = s.organic ? 'אורגני · אינסטגרם' : 'מודעה · ספריית המודעות';
-  let metric = '';
+const deckDirs = fs.readdirSync(OUT)
+  .filter((d) => fs.statSync(path.join(OUT, d)).isDirectory() && d.startsWith('he-'))
+  .sort();
+const clones = deckDirs.filter((d) => specFor(d).skin === 'clone');
+const old = deckDirs.filter((d) => specFor(d).skin !== 'clone');
+
+function metricLine(s) {
   if (s.organic) {
-    metric = s.engagementRate != null
+    return s.engagementRate != null
       ? `לייקים ${s.metricValue ?? '—'} · מעורבות ${s.engagementRate}`
       : `לייקים ${s.metricValue ?? '—'}`;
-  } else {
-    metric = s.metricValue != null ? `רץ ${s.metricValue} ימים` : 'אין מדידה';
   }
+  return s.metricValue != null ? `רץ ${s.metricValue} ימים` : 'אין מדידה';
+}
+
+function sourceCard(s, big = false) {
+  const sheet = s.sheet ? '../' + s.sheet : null;
+  const kind = s.organic ? 'אורגני · אינסטגרם' : 'מודעה · ספריית המודעות';
   const slides = s.organic
     ? `${s.slideCount} שקופיות <span class="warn">(האמבד חותך ל-2)</span>`
     : `${s.slideCount} שקופיות (דק מלא)`;
-  return `<article class="src">
-    ${sheet ? `<a href="${esc(sheet)}" target="_blank"><img loading="lazy" src="${esc(sheet)}" alt=""></a>`
-            : `<div class="nosheet">אין גיליון</div>`}
+  return `<article class="src${big ? ' big' : ''}">
+    ${sheet ? `<a href="${esc(sheet)}" target="_blank"><img loading="lazy" src="${esc(sheet)}" alt=""></a>` : ''}
     <div class="meta">
       <div class="acct">${esc(s.account || s.id)}</div>
       <div class="kind">${kind}</div>
       <div class="num">${slides}</div>
-      <div class="num">${esc(metric)}</div>
+      <div class="num">${esc(metricLine(s))}</div>
       <a class="go" href="${esc(s.url)}" target="_blank" rel="noopener">פתח את המקור ↗</a>
     </div>
   </article>`;
 }
 
-const sections = decks.map(id => {
+function mySlides(id) {
   const dir = path.join(OUT, id);
-  const slides = fs.readdirSync(dir).filter(f => /-tiktok\.jpg$/.test(f)).sort();
-  const spec = specFor(id);
-  const mine = slides.map((f, i) =>
+  const files = fs.readdirSync(dir).filter((f) => /-ig\.jpg$/.test(f)).sort();
+  return files.map((f, i) =>
     `<figure><img loading="lazy" src="${id}/${f}"><figcaption>${i + 1}</figcaption></figure>`).join('');
+}
 
-  const src = sources[id];
-  // one card per distinct creative: AYANA ships the same deck under two
-  // library ids, and showing it twice would overstate the evidence
-  const seen = new Set();
-  const uniq = (src?.sources || []).filter(s => {
-    const k = (s.account || s.id) + '|' + s.slideCount;
-    if (seen.has(k)) return false;
-    seen.add(k); return true;
-  });
-
-  const srcBlock = src
-    ? `<div class="srcwrap">
-         <h3>המקור <span class="ref">${esc(src.ref)}</span></h3>
-         <p class="why">${esc(src.why)}</p>
-         <div class="srcgrid">${uniq.map(sourceCard).join('')}</div>
-       </div>`
-    : '';
-
+const cloneSections = clones.map((id) => {
+  const spec = specFor(id);
+  const src = byId[spec.clonedFrom];
+  const siblings = (sources[id]?.sources || sources[spec.patternKey]?.sources || [])
+    .filter((s) => s.id !== spec.clonedFrom);
   return `<section>
     <h2>${esc(id)}</h2>
     <p class="cap"><b>כיתוב:</b> ${esc(spec.caption)}</p>
-    <p class="tags">${(spec.hashtags || []).map(h => '#' + esc(h)).join(' ')}</p>
-    <h3>מה שנבנה</h3>
-    <div class="strip">${mine}</div>
-    ${srcBlock}
+    <p class="tags">${(spec.hashtags || []).map((h) => '#' + esc(h)).join(' ')}</p>
+    <div class="pair">
+      <div class="col">
+        <h3>המקור שהועתק <span class="ref">${esc(spec.clonedAccount || spec.clonedFrom)}</span></h3>
+        ${src ? sourceCard(src, true) : `<p class="warn">המקור ${esc(spec.clonedFrom)} לא נמצא במניפסט</p>`}
+      </div>
+      <div class="col grow">
+        <h3>השיבוט <span class="ref">(תצוגת אינסטגרם 4:5)</span></h3>
+        <div class="strip">${mySlides(id)}</div>
+      </div>
+    </div>
+    <p class="why">${esc(spec.demonstrates)}</p>
   </section>`;
 }).join('');
 
+const oldSections = old.length ? `<details class="old"><summary>הניסיון הקודם (${old.length} קרוסלות) — הוחלף. נשאר כאן רק כדי לראות את ההבדל.</summary>
+  ${old.map((id) => `<section class="dim"><h2>${esc(id)}</h2><div class="strip">${mySlides(id)}</div></section>`).join('')}
+</details>` : '';
+
 const html = `<!doctype html><html lang="he" dir="rtl"><head><meta charset="utf-8">
-<title>חמש הקרוסלות והמקור שלהן</title>
+<title>שיבוטים מול המקור</title>
 <style>
  :root{color-scheme:dark}
  *{box-sizing:border-box}
- body{margin:0;background:#0f1115;color:#e9e7e2;
-   font-family:'Segoe UI',system-ui,sans-serif;padding:26px 32px 90px}
+ body{margin:0;background:#0f1115;color:#e9e7e2;font-family:'Segoe UI',system-ui,sans-serif;padding:26px 32px 90px}
  h1{font-size:30px;margin:0 0 8px}
- .sub{color:#98a1ae;margin:0 0 34px;font-size:15px;line-height:1.65;max-width:86ch}
- .sub b{color:#d8dde4}
- section{margin:0 0 20px;padding:22px 0 30px;border-bottom:1px solid #242a33}
- h2{font-size:21px;margin:0 0 10px;color:#cfd6e0;direction:ltr;text-align:right}
- h3{font-size:14px;margin:22px 0 10px;color:#99a3b1;font-weight:600;letter-spacing:.02em}
- .ref{color:#6f7a88;font-weight:400}
+ .sub{color:#98a1ae;margin:0 0 30px;font-size:15px;line-height:1.65;max-width:88ch}
+ section{margin:0 0 18px;padding:22px 0 28px;border-bottom:1px solid #242a33}
+ h2{font-size:21px;margin:0 0 8px;color:#cfd6e0;direction:ltr;text-align:right}
+ h3{font-size:14px;margin:0 0 10px;color:#99a3b1;font-weight:600}
+ .ref{color:#6f7a88;font-weight:400;direction:ltr;unicode-bidi:embed}
  .cap{font-size:15px;line-height:1.65;margin:0 0 4px;color:#d6dae1;max-width:88ch}
- .tags{color:#7f8b9a;font-size:13px;margin:0}
- .why{color:#aab3c0;font-size:14px;line-height:1.6;margin:0 0 14px;max-width:88ch}
- .strip{display:flex;gap:11px;overflow-x:auto;padding-bottom:8px}
- figure{margin:0;flex:0 0 auto;width:206px}
- figure img{width:206px;height:366px;object-fit:cover;border-radius:7px;display:block;background:#1b1f26}
+ .tags{color:#7f8b9a;font-size:13px;margin:0 0 16px}
+ .why{color:#8d97a5;font-size:13px;line-height:1.6;margin:14px 0 0;direction:ltr;text-align:left;max-width:110ch}
+ .pair{display:flex;gap:22px;align-items:flex-start}
+ .col{flex:0 0 auto} .col.grow{flex:1 1 auto;min-width:0}
+ .strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:8px}
+ figure{margin:0;flex:0 0 auto;width:236px}
+ figure img{width:236px;height:295px;object-fit:cover;border-radius:7px;display:block;background:#1b1f26}
  figcaption{text-align:center;color:#7f8b9a;font-size:12px;padding-top:4px}
- .srcwrap{margin-top:26px;padding:18px 20px 20px;background:#141821;border-radius:12px;
-   border:1px solid #232a35}
- .srcgrid{display:flex;gap:14px;overflow-x:auto;padding-bottom:6px}
- .src{flex:0 0 auto;width:330px;background:#181d26;border:1px solid #262d39;
-   border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:9px}
+ .src{width:330px;background:#181d26;border:1px solid #262d39;border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:9px}
+ .src.big{width:420px}
  .src img{width:100%;border-radius:6px;display:block;background:#11141a}
- .nosheet{height:120px;display:flex;align-items:center;justify-content:center;color:#5f6874;
-   border:1px dashed #333b47;border-radius:6px;font-size:13px}
  .meta{display:flex;flex-direction:column;gap:3px}
  .acct{font-size:14.5px;font-weight:600;color:#e4e8ee;direction:ltr;text-align:right}
- .kind{font-size:12.5px;color:#7f8b9a}
- .num{font-size:12.5px;color:#9aa4b2;direction:rtl}
+ .kind,.num{font-size:12.5px;color:#8f99a7}
  .warn{color:#c49a4a}
  .go{margin-top:5px;font-size:13px;color:#7fb2ff;text-decoration:none}
- .go:hover{text-decoration:underline}
+ details.old{margin-top:40px;color:#7f8b9a}
+ details.old summary{cursor:pointer;font-size:14px;padding:10px 0}
+ section.dim{opacity:.55}
+ section.dim figure img{height:260px}
 </style></head><body>
-<h1>חמש הקרוסלות, והמקור של כל אחת</h1>
-<p class="sub">מתחת לכל קרוסלה יושבים הדקים האמיתיים שמהם נגזר הפורמט, עם קישור חי לכל אחד.
-<b>שים לב למה שאפשר ומה שאי אפשר להסיק מהם:</b> הדקים האורגניים מאינסטגרם מוצגים
-בשתי שקופיות בלבד, כי האמבד חותך שם — מהם רואים את הפתיחה ואת שקופית 2 ולא יותר.
-הדקים המלאים הם מודעות. ואף אחד מהמספרים כאן אינו "ניצחון": אין חציון לחשבון, ולכן
-זה תיאור של מה שהז'אנר עושה, לא הוכחה שזה עובד. ההסבר המלא ב-PLAYBOOK §0.</p>
-${sections}
+<h1>חמישה שיבוטים, כל אחד מול המקור שלו</h1>
+<p class="sub">משמאל המקור מהקורפוס, מימין מה שנבנה ממנו: אותה מערכת ויזואלית, אותו רעיון נושא, יעד ישראלי.
+המקורות האורגניים מוצגים בשתי שקופיות כי האמבד של אינסטגרם חותך שם. אף מספר כאן אינו "ניצחון": אין חציון לחשבון.</p>
+${cloneSections}
+${oldSections}
 </body></html>`;
 
 fs.writeFileSync(path.join(OUT, 'preview.html'), html);
-console.log(`preview -> ${path.join(OUT, 'preview.html')} (${decks.length} decks)`);
+console.log(`preview -> ${path.join(OUT, 'preview.html')} (${clones.length} clones, ${old.length} superseded)`);

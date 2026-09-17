@@ -341,23 +341,39 @@ not a call this study should make for you.
 
 ---
 
-## 4b. The five carousels
+## 4b. The five carousels — direct clones
 
-Built with the existing builder, in Hebrew, photos from Pexels. Each one exists
-to demonstrate a different thing the study actually found, and each spec carries
-a `demonstrates` field saying which and why.
+The first attempt at this section was wrong in two ways Yuval named precisely:
+the type looked machine-made and nothing like the sources, and the topics were
+invented ("how to get around Bangkok") instead of copied from decks that already
+work ("things to do in <place>"). That attempt is kept under `he-01`…`he-05`
+only so the difference is visible; it is superseded.
 
-| Spec | Topic | Demonstrates |
-| --- | --- | --- |
-| `he-01-thailand-seven-eleven` | 8 things I buy at 7-Eleven in Thailand | §2.2 — count announced in the hook, **no numeral drawn anywhere**; parallel grammar carries the rhythm |
-| `he-02-bangkok-getting-around` | 5 ways to move around Bangkok | §2.3 — slide 2 is the **first real item**, not a bridge; the most useful line is spent early |
-| `he-03-georgia-mistakes` | 6 mistakes that cost money in Georgia | §1.2 — **one identical recurring container** on every slide, the device the whole peer group shares |
-| `he-04-greece-before-you-book` | 4 things to check before booking a Greek island | §2.2's *observed-once* item — **one sentence running across the 1→2 swipe**, isolated so it can be tested |
-| `he-05-vietnam-packing` | 7 things you actually need in Vietnam | §2.6 — built to **hand off to the close**; the last content slide deliberately does not resolve |
+The replacement rule is simpler and stricter: **each carousel is a clone of one
+specific deck in the corpus** — its visual system copied element by element
+(font character, box shape, placement, amount of text, colour), and its *topic
+idea* copied verbatim, with only the destination swapped to one Israelis fly to
+(Athens and Larnaca are the top two, Greek islands are rising, Bangkok is the
+long-haul default — verified against 2026 airport-authority figures).
 
-Topics are real Israeli travel substance, not filler: Thailand is confirmed
-territory (you have posted 7-Eleven recommendations), and Georgia, Greece and
-Vietnam are where Israelis actually go.
+Each spec carries `clonedFrom` (the deck id), `clonedAccount`, and a
+`demonstrates` field listing exactly what was copied. `out/preview.html` shows
+every clone beside its source with a live link.
+
+| Spec | Cloned from | Copied system | Topic idea, transposed |
+| --- | --- | --- | --- |
+| `he-a-athens-free` | **mustvisitjapan** `ig-DdOEGuHE1wG` (highest-ER organic listicle) | red "did you know?" pill · heavy condensed caps over a bottom scrim · thin arrow · item = 2×2 collage of one place, red numbered pill, red pin-bar, white why/tip box | "7 free things in Tokyo actually worth your time" → **7 דברים בחינם באתונה** |
+| `he-b-cyprus-20` | **travel2losangeles** `ig-DbQrhvojYzv` | 2×2 white-gutter grid every slide · cover = two stacked white rounded stickers in a heavy rounded sans · items = four cells each labelled at the foot, no numbers | "20 things to do in Los Angeles" → **20 דברים לעשות בקפריסין** |
+| `he-c-greece-unreal` | **switzerlandersss** `ig-Dc-WVj2Dd1U` (highest ER in its batch, 0.078) | 2×2 collage · white display serif with a soft shadow on the seam · items carry only the place name | "8 Swiss places that feel unreal" → **8 מקומות ביוון שלא נראים אמיתיים** |
+| `he-d-bangkok-ifthen` | **whatshappening365** `ig-Db7w740EWZ-` | two photos stacked · sharp white box · heavy black text with one hot-pink keyword · the if/then sentence repeats unchanged | "If you are at X, you must visit Y" → **אם אתם ב־X, חייבים לבקר ב־Y** in Bangkok |
+| `he-e-rhodes-notusual` | **vietnamessence_tours** `ig-DbBEEAVk4km` | creator-style full photo · Stories-style white stickers in a plain medium sans · cover = count / pin+place / parenthetical · item = bold title sticker over a first-person body sticker | "20 things to do in Hanoi (not the usual tourist list)" → **8 דברים לעשות ברודוס (לא הרשימה הרגילה)** |
+
+Mechanically this needed a second template (`lib/template2.html`) and a skin
+per source (`lib/skins.js`), plus multi-photo slides in the builder for the
+collages. Two things the copies cannot reproduce and say so: flag emoji, which
+Windows Chrome draws as letter pairs and were therefore dropped; and the
+sources' own photography — the clones use Pexels, and mustvisitjapan-style
+collages of one place come from four candidates of a single search.
 
 **The closing slide is a marked placeholder in all five.** It is your screenshot
 and your idea, and §2.6 says it works because it looks unstyled. Designing a

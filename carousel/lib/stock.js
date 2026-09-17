@@ -98,6 +98,36 @@ export async function gather(spec, { cacheDir, perSlide = 4 }) {
       out.push({ index: i, local: slide.image.local, candidates: [] });
       continue;
     }
+    // Collage skins take several photos per slide: `images` is a list of
+    // { query, count } entries, and `count` asks for that many distinct
+    // photos from ONE query (a 2x2 collage of a single place, for instance).
+    if (Array.isArray(slide.images)) {
+      const viaBrowser = !process.env.PEXELS_API_KEY;
+      const multi = [];
+      for (const [k, entry] of slide.images.entries()) {
+        const want = Math.max(1, entry.count || 1);
+        let cands = [];
+        try {
+          cands = viaBrowser
+            ? await searchPexelsBrowser(entry.query, { perPage: want * 2 + 2 })
+            : await searchPexels(entry.query, { perPage: want * 2 + 2 });
+        } catch (err) {
+          multi.push({ entryIndex: k, query: entry.query, error: String(err.message), picks: [] });
+          continue;
+        }
+        const picks = [];
+        for (const c of cands) {
+          if (picks.length >= want) break;
+          try {
+            c.file = viaBrowser ? await downloadBrowser(c, cacheDir) : await download(c, cacheDir);
+            picks.push(c);
+          } catch (err) { /* try the next candidate */ }
+        }
+        multi.push({ entryIndex: k, query: entry.query, want, picks });
+      }
+      out.push({ index: i, multi, candidates: [] });
+      continue;
+    }
     if (!slide.image?.query) {
       out.push({ index: i, candidates: [] });
       continue;

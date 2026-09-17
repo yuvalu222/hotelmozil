@@ -9,8 +9,13 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
 
+import { slideMarkup2 } from './skins.js';
+
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const TEMPLATE = path.join(HERE, 'template.html');
+// A spec with `"skin": "clone"` renders through the per-source layouts in
+// skins.js, each a direct copy of one deck from the corpus (see PLAYBOOK 4b).
+const TEMPLATE2 = path.join(HERE, 'template2.html');
 
 export const CANVAS = { width: 1080, height: 1920 };
 // Instagram's publishing API accepts 0.8 (4:5) to 1.91:1 only. 1080x1350 is the
@@ -116,7 +121,8 @@ export async function renderSpec(spec, { outDir, debug = false, quality = 88 } =
       viewport: { ...CANVAS },
       deviceScaleFactor: 1,
     });
-    await page.goto(`file://${TEMPLATE}`, { waitUntil: 'networkidle' });
+    const clone = spec.skin === 'clone';
+    await page.goto(`file://${clone ? TEMPLATE2 : TEMPLATE}`, { waitUntil: 'networkidle' });
     // Webfonts must be resolved before the first screenshot or slide 1 renders
     // in the fallback face while the rest render in Heebo.
     await page.evaluate(() => document.fonts.ready);
@@ -127,9 +133,20 @@ export async function renderSpec(spec, { outDir, debug = false, quality = 88 } =
       const n = String(i + 1).padStart(2, '0');
       const photoDataUri = await toDataUri(slide.image?.file);
 
+      let html;
+      if (clone) {
+        // collage skins take several photos per slide, in spec order
+        const files = [slide.image?.file, ...(slide.images || []).map((im) => im.file)].filter(Boolean);
+        const photos = [];
+        for (const f of files) photos.push(await toDataUri(f));
+        html = slideMarkup2(slide, { photos, debug });
+      } else {
+        html = slideMarkup(slide, { photoDataUri, debug });
+      }
+
       await page.evaluate(
         ({ html }) => { document.getElementById('slide').innerHTML = html; },
-        { html: slideMarkup(slide, { photoDataUri, debug }) }
+        { html }
       );
       await page.evaluate(() => document.fonts.ready);
 

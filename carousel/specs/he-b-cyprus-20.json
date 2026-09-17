@@ -1,0 +1,83 @@
+{
+  "id": "he-b-cyprus-20",
+  "skin": "clone",
+  "clonedFrom": "ig-DbQrhvojYzv",
+  "clonedAccount": "travel2losangeles",
+  "demonstrates": "Direct clone of travel2losangeles's '20 Things to do in Los Angeles'. Copied: 2x2 photo grid with thin white gutters on every slide; the cover carries two stacked white rounded stickers in a heavy rounded sans ('20 Things to do' / '📍in Los Angeles'); each item slide labels its four cells at the foot with the same sticker, four places per slide, no numbers anywhere. Topic copied verbatim (20 things to do in <place>), destination swapped to Cyprus (Larnaca is a top-3 Israeli destination).",
+  "caption": "20 דברים לעשות בקפריסין, לפי אזור. חלק מהם במרחק שעה מלרנקה, וחלק דורשים רכב ליום. איזה אזור אתם מכירים הכי טוב?",
+  "hashtags": ["קפריסין", "לרנקה", "פאפוס", "טיפיםלטיול"],
+  "slides": [
+    {
+      "layout": "grid-stickers",
+      "lines": ["20 דברים לעשות", "📍בקפריסין"],
+      "alt": "ארבע תמונות מקפריסין: נמל, חוף, הרים וטיילת",
+      "images": [
+        { "query": "paphos harbour castle cyprus" },
+        { "query": "nissi beach ayia napa" },
+        { "query": "troodos mountains cyprus village" },
+        { "query": "larnaca finikoudes promenade palm trees" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["קברי המלכים", "סלע אפרודיטה", "הנמל של פאפוס", "קורל ביי"],
+      "alt": "ארבעה מקומות בפאפוס",
+      "images": [
+        { "query": "tombs of the kings paphos" },
+        { "query": "aphrodite rock petra tou romiou" },
+        { "query": "paphos harbour" },
+        { "query": "coral bay beach cyprus" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["הלגונה הכחולה", "קניון אבקאס", "חוף לארה", "אמבטיות אדוניס"],
+      "alt": "ארבעה מקומות בחצי האי אקאמס",
+      "images": [
+        { "query": "blue lagoon akamas cyprus" },
+        { "query": "avakas gorge cyprus" },
+        { "query": "lara beach cyprus turtles" },
+        { "query": "adonis baths waterfall paphos" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["חוף ניסי", "מערות הים", "קייפ גרקו", "מפרץ קונוס"],
+      "alt": "ארבעה מקומות באיה נאפה",
+      "images": [
+        { "query": "nissi beach ayia napa cyprus" },
+        { "query": "ayia napa sea caves" },
+        { "query": "cape greco cyprus" },
+        { "query": "konnos bay protaras" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["טיילת פיניקודס", "אגם המלח", "הלה סולטן טקה", "לפקרה"],
+      "alt": "ארבעה מקומות באזור לרנקה",
+      "images": [
+        { "query": "larnaca finikoudes beach promenade" },
+        { "query": "larnaca salt lake flamingos" },
+        { "query": "hala sultan tekke mosque larnaca" },
+        { "query": "lefkara village cyprus" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["מרינה לימסול", "קוריון", "מנזר קיקוס", "הכפר אומודוס"],
+      "alt": "ארבעה מקומות בלימסול ובהרי טרודוס",
+      "images": [
+        { "query": "limassol marina cyprus" },
+        { "query": "kourion ancient theatre cyprus" },
+        { "query": "kykkos monastery cyprus" },
+        { "query": "omodos village cyprus" }
+      ]
+    },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}

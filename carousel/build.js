@@ -93,6 +93,22 @@ async function main() {
         console.error(`  slide ${g.index + 1}: ${g.error}`);
         continue;
       }
+      if (g.multi) {
+        // Expand { query, count } entries into one resolved entry per photo, so
+        // the written-back spec names every file a collage was built from.
+        const slide = spec.slides[g.index];
+        const expanded = [];
+        for (const m of g.multi) {
+          if (m.error) { console.error(`  slide ${g.index + 1}: "${m.query}": ${m.error}`); continue; }
+          if (m.picks.length < m.want) {
+            console.error(`  slide ${g.index + 1}: "${m.query}" wanted ${m.want}, got ${m.picks.length}`);
+          }
+          for (const p of m.picks) expanded.push({ query: m.query, ...p });
+        }
+        slide.images = expanded;
+        console.log(`  slide ${g.index + 1}: ${expanded.length} photos for ${g.multi.length} quer${g.multi.length === 1 ? 'y' : 'ies'}`);
+        continue;
+      }
       const pick = g.candidates.find((c) => c.file);
       if (pick) {
         // Default to the top-ranked candidate. Swapping in a different one is a

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- One face per source system, all with Hebrew glyphs:
+     Karantina 700   = the heavy condensed caps of mustvisitjapan / vnexpress
+     Rubik 800/900   = the rounded heavy sans of travel2losangeles
+     Frank Ruhl 700/900 = the display serif of switzerlandersss / madetoroamfam
+     Heebo 500/800   = the plain "Stories sticker" sans of vietnamessence, and
+                       the bold box text of whatshappening365 -->
+<link href="https://fonts.googleapis.com/css2?family=Karantina:wght@700&family=Rubik:wght@800;900&family=Frank+Ruhl+Libre:wght@700;900&family=Heebo:wght@500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  /* Canvas 1080x1920 (TikTok). Instagram gets the 1080x1350 band at y=285.
+     Every source deck here is a 4:5 Instagram post, so each skin composes
+     INSIDE that band and fills the rest with a blurred stretch of its own
+     photo, which is how 4:5 posts are normally carried to 9:16. */
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { width:1080px; height:1920px; overflow:hidden; background:#000; }
+  body { font-family:'Heebo', sans-serif; }
+  .slide { position:relative; width:1080px; height:1920px; background:#0b0b0f; overflow:hidden; }
+
+  /* --- backdrop for 4:5 compositions --- */
+  .bg { position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
+        filter:blur(34px) brightness(.55); transform:scale(1.12); }
+  .band { position:absolute; top:285px; left:0; width:1080px; height:1350px; overflow:hidden; background:#111; }
+
+  /* --- full-bleed photo skins --- */
+  .photo { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .scrim-bottom { position:absolute; inset:0;
+    background:linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 46%, rgba(0,0,0,.55) 66%, rgba(0,0,0,.86) 100%); }
+  .scrim-top { position:absolute; inset:0;
+    background:linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,.55) 74%, rgba(0,0,0,.80) 100%); }
+
+  /* ======== skin: caps-scrim (mustvisitjapan cover, vnexpress cover) ======== */
+  .caps { position:absolute; right:64px; left:64px; bottom:420px; display:flex; flex-direction:column; align-items:flex-start; gap:18px; }
+  .caps .pill { display:inline-block; background:#d81e1e; color:#fff; font:700 34px/1 'Heebo'; padding:12px 20px 10px; border-radius:6px; letter-spacing:.02em; }
+  .caps .head { font:700 152px/0.98 'Karantina'; color:#fff; text-shadow:0 4px 18px rgba(0,0,0,.45); white-space:pre-line; }
+  .caps .head.rubik { font:900 96px/1.06 'Rubik'; letter-spacing:-.01em; }
+  .caps .sub { font:500 40px/1.2 'Heebo'; color:#fff; opacity:.95; }
+  .caps .emoji { font-size:44px; line-height:1; margin-top:4px; }
+  .arrow { position:absolute; left:80px; bottom:436px; font:400 90px/1 'Heebo'; color:#fff; }
+
+  /* ======== skin: grid (2x2 collage, white gutters) ======== */
+  .grid { position:absolute; inset:0; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; gap:8px; background:#fff; }
+  .grid .cell { position:relative; overflow:hidden; background:#222; }
+  .grid .cell img { width:100%; height:100%; object-fit:cover; display:block; }
+
+  /* travel2losangeles: each line its own white rounded sticker, rounded heavy sans */
+  .center-stack { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px; pointer-events:none; }
+  .sticker { display:inline-block; background:#fff; color:#111; border-radius:18px; padding:10px 30px 12px; font:800 66px/1.15 'Rubik'; box-shadow:0 2px 10px rgba(0,0,0,.18); white-space:nowrap; }
+  .sticker.sm { font-size:54px; }
+  .cell .label { position:absolute; left:0; right:0; bottom:22px; display:flex; justify-content:center; }
+  .cell .label span { background:#fff; color:#111; border-radius:14px; padding:8px 22px 10px; font:800 40px/1.1 'Rubik'; box-shadow:0 2px 8px rgba(0,0,0,.2); white-space:nowrap; }
+
+  /* switzerlandersss: white display serif straddling the seam */
+  .seam-serif { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; text-align:center; padding:0 40px; pointer-events:none; }
+  .seam-serif .t { font:900 104px/1.08 'Frank Ruhl Libre'; color:#fff; text-shadow:0 3px 14px rgba(0,0,0,.65), 0 0 40px rgba(0,0,0,.35); white-space:pre-line; }
+  .seam-serif .t.name { font-size:84px; }
+
+  /* mustvisitjapan item: red number pill + red name bar + white why/tip box */
+  .redcard { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:0; pointer-events:none; }
+  .redcard .num { background:#d81e1e; color:#fff; font:900 58px/1 'Heebo'; padding:12px 26px 10px; border-radius:8px 8px 0 0; }
+  .redcard .name { background:#d81e1e; color:#fff; font:900 44px/1 'Heebo'; padding:14px 34px 12px; border-radius:6px; }
+  .redcard .box { background:#fff; color:#111; width:820px; padding:18px 26px; text-align:center; font:500 27px/1.45 'Heebo'; margin-top:8px; border-radius:4px; box-shadow:0 3px 12px rgba(0,0,0,.25); }
+  .redcard .box b { font-weight:800; }
+  .redcard .box .row { display:block; }
+
+  /* ======== skin: split (whatshappening365) — two photos stacked, sharp white box, pink keyword ======== */
+  .split { position:absolute; inset:0; display:grid; grid-template-rows:1fr 1fr; gap:8px; background:#fff; }
+  .split .half { position:relative; overflow:hidden; background:#222; }
+  .split .half img { width:100%; height:100%; object-fit:cover; display:block; }
+  .split .box { position:absolute; left:0; right:0; display:flex; justify-content:center; }
+  .split .half:first-child .box { bottom:34px; }
+  .split .half:last-child .box { top:34px; }
+  .split .box > span { background:#fff; color:#111; padding:8px 20px 10px; font:800 46px/1.15 'Heebo'; white-space:nowrap; box-shadow:0 2px 8px rgba(0,0,0,.2); }
+  .split .box .kw { color:#ff1f8f; }
+
+  /* ======== skin: sticker (vietnamessence / madetoroamfam) — Stories-style white boxes on a full photo ======== */
+  .stk { position:absolute; left:60px; right:60px; display:flex; flex-direction:column; align-items:center; gap:14px; text-align:center; }
+  .stk.top { top:340px; } .stk.center { top:50%; transform:translateY(-50%); } .stk.bottom { bottom:400px; }
+  .stk .s { background:#fff; color:#111; border-radius:16px; padding:8px 26px 10px; font:500 50px/1.25 'Heebo'; box-shadow:0 2px 10px rgba(0,0,0,.18); white-space:pre-line; max-width:880px; }
+  .stk .s.title { font-weight:700; }
+  .stk .s.body { font-size:38px; font-weight:500; line-height:1.4; }
+  .stk.serif .s { font:700 54px/1.25 'Frank Ruhl Libre'; }
+  .stk.serif .s.body { font-size:40px; }
+
+  /* ======== closing placeholder (unchanged from template.html) ======== */
+  .shot { position:absolute; top:340px; left:190px; width:700px; height:1240px; border-radius:36px; overflow:hidden; box-shadow:0 30px 90px rgba(0,0,0,.6); background:#111; }
+  .shot img { width:100%; height:100%; object-fit:cover; display:block; }
+
+  .guide { display:none; position:absolute; inset:0; pointer-events:none; }
+  .guide.on { display:block; }
+  .guide .ig { position:absolute; top:285px; height:1350px; left:0; right:0; outline:3px dashed rgba(255,80,220,.8); }
+</style>
+</head>
+<body><div class="slide" id="slide"></div></body>
+</html>

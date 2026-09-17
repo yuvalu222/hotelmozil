@@ -1,0 +1,36 @@
+{
+  "id": "he-c-greece-unreal",
+  "skin": "clone",
+  "clonedFrom": "ig-Dc-WVj2Dd1U",
+  "clonedAccount": "switzerlandersss",
+  "demonstrates": "Direct clone of switzerlandersss's '8 Swiss places that feel unreal 🇨🇭' — the highest engagement-rate deck in its batch (0.078). Copied: 2x2 photo collage with thin white gutters on every slide; a white high-contrast display serif with a soft shadow sitting on the seam; cover headline in two lines ending with the flag; each item slide is a 2x2 of ONE place with only its name on the seam. Topic idea copied verbatim (<n> places in <country> that feel unreal), country swapped to Greece.",
+  "caption": "8 מקומות ביוון שלא נראים אמיתיים, ורובם במרחק טיסה של שעתיים. חלק מהם רואים מהאוטובוס, לחלק צריך סירה. באיזה מהם הייתם?",
+  "hashtags": ["יוון", "איייוון", "כרתים", "טיפיםלטיול"],
+  "slides": [
+    {
+      "layout": "grid-serif",
+      "headline": "8 מקומות ביוון\nשלא נראים אמיתיים",
+      "alt": "ארבעה נופים מיוון: מטאורה, נבאג'יו, באלוס, אויה",
+      "images": [
+        { "query": "meteora monastery greece" },
+        { "query": "navagio beach zakynthos shipwreck" },
+        { "query": "balos lagoon crete" },
+        { "query": "oia santorini blue domes" }
+      ]
+    },
+    { "layout": "grid-serif", "name": "מטאורה", "alt": "מנזרי מטאורה על הסלעים", "images": [{ "query": "meteora monasteries rocks greece", "count": 4 }] },
+    { "layout": "grid-serif", "name": "נבאג'יו, זקינתוס", "alt": "חוף ספינת הטרופים בזקינתוס", "images": [{ "query": "navagio shipwreck beach zakynthos", "count": 4 }] },
+    { "layout": "grid-serif", "name": "באלוס, כרתים", "alt": "הלגונה של באלוס בכרתים", "images": [{ "query": "balos lagoon crete turquoise", "count": 4 }] },
+    { "layout": "grid-serif", "name": "אלפוניסי, כרתים", "alt": "חוף החול הוורוד אלפוניסי", "images": [{ "query": "elafonisi pink sand beach crete", "count": 4 }] },
+    { "layout": "grid-serif", "name": "מערת מליסאני, קפלוניה", "alt": "אגם המערה מליסאני", "images": [{ "query": "melissani cave kefalonia", "count": 4 }] },
+    { "layout": "grid-serif", "name": "סרקיניקו, מילוס", "alt": "סלעי הירח הלבנים של סרקיניקו", "images": [{ "query": "sarakiniko beach milos white rocks", "count": 4 }] },
+    { "layout": "grid-serif", "name": "אויה, סנטוריני", "alt": "אויה בשקיעה", "images": [{ "query": "oia santorini sunset caldera", "count": 4 }] },
+    { "layout": "grid-serif", "name": "קניון ויקוס", "alt": "קניון ויקוס בצפון יוון", "images": [{ "query": "vikos gorge zagori greece", "count": 4 }] },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}
