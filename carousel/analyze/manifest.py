@@ -6,12 +6,31 @@
 # count and format label. Everything except the format label (which viewing
 # assigns) is known here, so it is written now and the viewers only add labels.
 
-import json, pathlib, sys, io
+import json, pathlib, sys, io, re, statistics, collections
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 H = ROOT / "harvest"
 SHEETS = H / "sheets"
+
+
+def adv_from_text(txt):
+    """Recover an advertiser name from a card's text.
+
+    Two card layouts exist. A single-creative card reads
+    "See ad details <name> Sponsored"; a card grouping several creatives reads
+    "See summary details <name>" with no "Sponsored" at all. The harvester only
+    handled the first, so every grouped ad came through with a null advertiser
+    (AYANA Phuket among them, which is one of the named reference decks).
+    """
+    for pat in (r"See ad details\s+(.*?)\s+Sponsored",
+                r"See summary details\s+(.{2,60}?)(?:\s+Sponsored|\s{2,}|$)"):
+        m = re.search(pat, txt or "")
+        if m:
+            cand = re.sub(r"\s+", " ", m.group(1)).strip()
+            if cand and not re.match(r"^(This ad has|\d+ ads use|Open Dropdown)", cand):
+                return cand
+    return None
 
 rows = []
 seen = set()
@@ -53,7 +72,7 @@ for line in (H / "harvest.jsonl").open(encoding="utf-8"):
             "sheet": str(sheet.relative_to(ROOT)).replace("\\", "/"),
             "pile": "A1", "organic": False, "source": "meta-ad-library",
             "url": r.get("url"),
-            "account": r.get("advertiser"),
+            "account": r.get("advertiser") or adv_from_text(r.get("text", "")),
             "metric": "runDays", "metricValue": r.get("runDays"),
             "baseline": "advertiser median runDays", "baselineValue": None,
             "engagementRate": None,
@@ -63,7 +82,6 @@ for line in (H / "harvest.jsonl").open(encoding="utf-8"):
         })
 
 # fill advertiser medians from the full ad population
-import statistics, collections, re
 pop = collections.defaultdict(list)
 raw = H / "adlib-raw.jsonl"
 if raw.exists():
@@ -73,8 +91,7 @@ if raw.exists():
             continue
         try: r = json.loads(line)
         except json.JSONDecodeError: continue
-        m = re.search(r"See ad details\s+(.*?)\s+Sponsored", r.get("text", ""))
-        a = m.group(1).strip() if m else None
+        a = adv_from_text(r.get("text", ""))
         if a and isinstance(r.get("runDays"), int):
             pop[re.sub(r"\s+", " ", a)].append(r["runDays"])
 for row in rows:
