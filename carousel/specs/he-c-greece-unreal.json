@@ -5,32 +5,624 @@
   "clonedAccount": "switzerlandersss",
   "demonstrates": "Direct clone of switzerlandersss's '8 Swiss places that feel unreal 🇨🇭' — the highest engagement-rate deck in its batch (0.078). Copied: 2x2 photo collage with thin white gutters on every slide; a white high-contrast display serif with a soft shadow sitting on the seam; cover headline in two lines ending with the flag; each item slide is a 2x2 of ONE place with only its name on the seam. Topic idea copied verbatim (<n> places in <country> that feel unreal), country swapped to Greece.",
   "caption": "8 מקומות ביוון שלא נראים אמיתיים, ורובם במרחק טיסה של שעתיים. חלק מהם רואים מהאוטובוס, לחלק צריך סירה. באיזה מהם הייתם?",
-  "hashtags": ["יוון", "איייוון", "כרתים", "טיפיםלטיול"],
+  "hashtags": [
+    "יוון",
+    "איייוון",
+    "כרתים",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "layout": "grid-serif",
       "headline": "8 מקומות ביוון\nשלא נראים אמיתיים",
       "alt": "ארבעה נופים מיוון: מטאורה, נבאג'יו, באלוס, אויה",
       "images": [
-        { "query": "meteora monastery greece" },
-        { "query": "navagio beach zakynthos shipwreck" },
-        { "query": "balos lagoon crete" },
-        { "query": "oia santorini blue domes" }
+        {
+          "query": "meteora monastery greece",
+          "id": "pexels-34228342",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34228342/pexels-photo-34228342/free-photo-of-scenic-view-of-meteora-monasteries-in-autumn.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-meteora-monasteries-in-autumn-34228342/"
+          },
+          "alt": "Free A breathtaking aerial view of the Meteora monasteries perched on rocky cliffs amidst autumn foliage. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34228342.jpg"
+        },
+        {
+          "query": "navagio beach zakynthos shipwreck",
+          "id": "pexels-29326444",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29326444/pexels-photo-29326444/free-photo-of-shipwreck-on-navagio-beach-with-limestone-cliffs.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/shipwreck-on-navagio-beach-with-limestone-cliffs-29326444/"
+          },
+          "alt": "Free Rusty shipwreck on Navagio Beach with towering limestone cliffs and turquoise sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29326444.jpg"
+        },
+        {
+          "query": "balos lagoon crete",
+          "id": "pexels-31908261",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31908261/pexels-photo-31908261/free-photo-of-stunning-aerial-view-of-balos-lagoon-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-aerial-view-of-balos-lagoon-crete-31908261/"
+          },
+          "alt": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31908261.jpg"
+        },
+        {
+          "query": "oia santorini blue domes",
+          "id": "pexels-28000967",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28000967/pexels-photo-28000967/free-photo-of-the-blue-domes-of-the-church-are-seen-in-this-photo.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/the-blue-domes-of-the-church-are-seen-in-this-photo-28000967/"
+          },
+          "alt": "Free Scenic view of Santorini's iconic blue domes and whitewashed buildings in Oia, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28000967.jpg"
+        }
       ]
     },
-    { "layout": "grid-serif", "name": "מטאורה", "alt": "מנזרי מטאורה על הסלעים", "images": [{ "query": "meteora monasteries rocks greece", "count": 4 }] },
-    { "layout": "grid-serif", "name": "נבאג'יו, זקינתוס", "alt": "חוף ספינת הטרופים בזקינתוס", "images": [{ "query": "navagio shipwreck beach zakynthos", "count": 4 }] },
-    { "layout": "grid-serif", "name": "באלוס, כרתים", "alt": "הלגונה של באלוס בכרתים", "images": [{ "query": "balos lagoon crete turquoise", "count": 4 }] },
-    { "layout": "grid-serif", "name": "אלפוניסי, כרתים", "alt": "חוף החול הוורוד אלפוניסי", "images": [{ "query": "elafonisi pink sand beach crete", "count": 4 }] },
-    { "layout": "grid-serif", "name": "מערת מליסאני, קפלוניה", "alt": "אגם המערה מליסאני", "images": [{ "query": "melissani cave kefalonia", "count": 4 }] },
-    { "layout": "grid-serif", "name": "סרקיניקו, מילוס", "alt": "סלעי הירח הלבנים של סרקיניקו", "images": [{ "query": "sarakiniko beach milos white rocks", "count": 4 }] },
-    { "layout": "grid-serif", "name": "אויה, סנטוריני", "alt": "אויה בשקיעה", "images": [{ "query": "oia santorini sunset caldera", "count": 4 }] },
-    { "layout": "grid-serif", "name": "קניון ויקוס", "alt": "קניון ויקוס בצפון יוון", "images": [{ "query": "vikos gorge zagori greece", "count": 4 }] },
+    {
+      "layout": "grid-serif",
+      "name": "מטאורה",
+      "alt": "מנזרי מטאורה על הסלעים",
+      "images": [
+        {
+          "query": "meteora monasteries rocks greece",
+          "id": "pexels-37844945",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844945/pexels-photo-37844945/free-photo-of-aerial-view-of-meteora-monasteries-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-meteora-monasteries-in-greece-37844945/"
+          },
+          "alt": "Free Stunning aerial view of ancient Meteora monasteries perched on cliffs in Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844945.jpg"
+        },
+        {
+          "query": "meteora monasteries rocks greece",
+          "id": "pexels-2897548",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2897548/pexels-photo-2897548.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/landscape-photography-of-gray-rock-formations-2897548/"
+          },
+          "alt": "Free Breathtaking aerial view of the Meteora monasteries nestled among towering rock formations in Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2897548.jpg"
+        },
+        {
+          "query": "meteora monasteries rocks greece",
+          "id": "pexels-37439775",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37439775/pexels-photo-37439775/free-photo-of-stunning-view-of-meteora-monastery-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-view-of-meteora-monastery-in-greece-37439775/"
+          },
+          "alt": "Free A breathtaking view of the Meteora Monastery perched atop a dramatic rock formation in Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37439775.jpg"
+        },
+        {
+          "query": "meteora monasteries rocks greece",
+          "id": "pexels-37844951",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844951/pexels-photo-37844951/free-photo-of-stunning-aerial-view-of-meteora-monasteries-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-aerial-view-of-meteora-monasteries-greece-37844951/"
+          },
+          "alt": "Free A breathtaking aerial view of Meteora's cliffside monasteries surrounded by majestic mountains in Greece's verdant landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844951.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "נבאג'יו, זקינתוס",
+      "alt": "חוף ספינת הטרופים בזקינתוס",
+      "images": [
+        {
+          "query": "navagio shipwreck beach zakynthos",
+          "id": "pexels-29326444",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29326444/pexels-photo-29326444/free-photo-of-shipwreck-on-navagio-beach-with-limestone-cliffs.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/shipwreck-on-navagio-beach-with-limestone-cliffs-29326444/"
+          },
+          "alt": "Free Rusty shipwreck on Navagio Beach with towering limestone cliffs and turquoise sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29326444.jpg"
+        },
+        {
+          "query": "navagio shipwreck beach zakynthos",
+          "id": "pexels-18091376",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18091376/pexels-photo-18091376/free-photo-of-island-with-scenic-bay.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/island-with-scenic-bay-18091376/"
+          },
+          "alt": "Free A stunning aerial shot of Navagio Beach, Zakynthos, with its turquoise waters and dramatic cliffs. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18091376.jpg"
+        },
+        {
+          "query": "navagio shipwreck beach zakynthos",
+          "id": "pexels-19183351",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19183351/pexels-photo-19183351/free-photo-of-scenic-navagio-beach-on-zakynthos-island.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-navagio-beach-on-zakynthos-island-19183351/"
+          },
+          "alt": "Free Stunning aerial shot of Navagio Beach's turquoise waters and cliffs on Zakynthos Island, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19183351.jpg"
+        },
+        {
+          "query": "navagio shipwreck beach zakynthos",
+          "id": "pexels-38225187",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38225187/pexels-photo-38225187/free-photo-of-rustic-shipwreck-on-navagio-beach-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/rustic-shipwreck-on-navagio-beach-greece-38225187/"
+          },
+          "alt": "Free Eerie shipwreck on sandy Navagio Beach framed by cliffside, capturing a serene and isolated scene. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38225187.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "באלוס, כרתים",
+      "alt": "הלגונה של באלוס בכרתים",
+      "images": [
+        {
+          "query": "balos lagoon crete turquoise",
+          "id": "pexels-31908261",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31908261/pexels-photo-31908261/free-photo-of-stunning-aerial-view-of-balos-lagoon-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-aerial-view-of-balos-lagoon-crete-31908261/"
+          },
+          "alt": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31908261.jpg"
+        },
+        {
+          "query": "balos lagoon crete turquoise",
+          "id": "pexels-15071871",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15071871/pexels-photo-15071871/free-photo-of-island-in-blue-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/island-in-blue-sea-15071871/"
+          },
+          "alt": "Free A stunning aerial photo capturing the vibrant turquoise waters of an exotic bay with a distant boat and rugged landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15071871.jpg"
+        },
+        {
+          "query": "balos lagoon crete turquoise",
+          "id": "pexels-9544063",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9544063/pexels-photo-9544063.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/beach-under-the-blue-sky-9544063/"
+          },
+          "alt": "Free Breathtaking aerial view of Balos Beach lagoon with turquoise waters and clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9544063.jpg"
+        },
+        {
+          "query": "balos lagoon crete turquoise",
+          "id": "pexels-38168995",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38168995/pexels-photo-38168995/free-photo-of-aerial-view-of-elafonissi-beach-lagoon-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-elafonissi-beach-lagoon-in-greece-38168995/"
+          },
+          "alt": "Free Stunning aerial photograph of Elafonissi Beach, showcasing turquoise waters, sandy shores, and sun umbrellas. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38168995.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "אלפוניסי, כרתים",
+      "alt": "חוף החול הוורוד אלפוניסי",
+      "images": [
+        {
+          "query": "elafonisi pink sand beach crete",
+          "id": "pexels-15071869",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15071869/pexels-photo-15071869/free-photo-of-a-clear-water-on-the-beach-under-the-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-clear-water-on-the-beach-under-the-blue-sky-15071869/"
+          },
+          "alt": "Free Experience the turquoise waters and sandy shores of Elafonisi Beach, a famous location in Crete, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15071869.jpg"
+        },
+        {
+          "query": "elafonisi pink sand beach crete",
+          "id": "pexels-39556751",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39556751/pexels-photo-39556751/free-photo-of-stunning-aerial-view-of-balos-beach-in-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-aerial-view-of-balos-beach-in-crete-39556751/"
+          },
+          "alt": "Free A breathtaking aerial view of Balos Beach's turquoise waters and sandy shores on a sunny day in Crete, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39556751.jpg"
+        },
+        {
+          "query": "elafonisi pink sand beach crete",
+          "id": "pexels-12507015",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12507015/pexels-photo-12507015.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/white-sailboats-near-seashore-under-blue-sky-12507015/"
+          },
+          "alt": "Free Serene view of turquoise waters and sailboats at Gramvousa beach, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12507015.jpg"
+        },
+        {
+          "query": "elafonisi pink sand beach crete",
+          "id": "pexels-10068092",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10068092/pexels-photo-10068092.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/straw-beach-umbrella-and-a-lounge-chair-on-an-empty-beach-at-sunset-10068092/"
+          },
+          "alt": "Free Peaceful sunset view with a straw umbrella on a Greek beach. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10068092.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "מערת מליסאני, קפלוניה",
+      "alt": "אגם המערה מליסאני",
+      "images": [
+        {
+          "query": "melissani cave kefalonia",
+          "id": "pexels-8761358",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/8761358/pexels-photo-8761358.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/rusty-boats-docked-on-the-side-of-the-river-near-a-cave-8761358/"
+          },
+          "alt": "Free Vibrant yellow and blue boats floating on clear water in Karavomilos cave, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8761358.jpg"
+        },
+        {
+          "query": "melissani cave kefalonia",
+          "id": "pexels-17134558",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17134558/pexels-photo-17134558/free-photo-of-stalactites-in-cave.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stalactites-in-cave-17134558/"
+          },
+          "alt": "Free Explore the stunning stalactites and reflective waters of Bermuda's Crystal Caves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17134558.jpg"
+        },
+        {
+          "query": "melissani cave kefalonia",
+          "id": "pexels-18696251",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18696251/pexels-photo-18696251/free-photo-of-stalactites-and-stalagmites-in-cave.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stalactites-and-stalagmites-in-cave-18696251/"
+          },
+          "alt": "Free Explore the breathtaking stalactites and stalagmites formations in a Meyrueis cave. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18696251.jpg"
+        },
+        {
+          "query": "melissani cave kefalonia",
+          "id": "pexels-34997125",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34997125/pexels-photo-34997125/free-photo-of-rock-climber-rappelling-down-cave-wall.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/rock-climber-rappelling-down-cave-wall-34997125/"
+          },
+          "alt": "Free A climber rappels down a dramatic cave wall, showcasing skill and adventure. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34997125.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "סרקיניקו, מילוס",
+      "alt": "סלעי הירח הלבנים של סרקיניקו",
+      "images": [
+        {
+          "query": "sarakiniko beach milos white rocks",
+          "id": "pexels-12097283",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12097283/pexels-photo-12097283.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/sarakiniko-beach-under-blue-sky-12097283/"
+          },
+          "alt": "Free Stunning view of Sarakiniko Beach's unique volcanic rock formations and turquoise waters in Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12097283.jpg"
+        },
+        {
+          "query": "sarakiniko beach milos white rocks",
+          "id": "pexels-9323944",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9323944/pexels-photo-9323944.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/white-natural-rock-formation-9323944/"
+          },
+          "alt": "Free Majestic white rock formations at serene Sarakiniko Beach, Milos during daytime. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9323944.jpg"
+        },
+        {
+          "query": "sarakiniko beach milos white rocks",
+          "id": "pexels-14004705",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14004705/pexels-photo-14004705.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/estuary-among-rocky-shore-14004705/"
+          },
+          "alt": "Free Explore the tranquil waters and unique rock formations of Sarakiniko in Greece, captured in vibrant summer light. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14004705.jpg"
+        },
+        {
+          "query": "sarakiniko beach milos white rocks",
+          "id": "pexels-8041073",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/8041073/pexels-photo-8041073.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/gray-rocky-mountain-under-the-blue-sky-8041073/"
+          },
+          "alt": "Free A breathtaking view of rocky mountains under a clear blue sky, showcasing natural beauty and tranquility. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8041073.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "אויה, סנטוריני",
+      "alt": "אויה בשקיעה",
+      "images": [
+        {
+          "query": "oia santorini sunset caldera",
+          "id": "pexels-32517021",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32517021/pexels-photo-32517021/free-photo-of-sunset-view-of-santorini-cliffside-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/sunset-view-of-santorini-cliffside-architecture-32517021/"
+          },
+          "alt": "Free Captivating sunset over Santorini's iconic whitewashed buildings on a rocky cliffside. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32517021.jpg"
+        },
+        {
+          "query": "oia santorini sunset caldera",
+          "id": "pexels-10611752",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10611752/pexels-photo-10611752.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/white-concrete-buildings-near-the-sea-10611752/"
+          },
+          "alt": "Free Experience the stunning cliffs and blue sea of Santorini with traditional Greek architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10611752.jpg"
+        },
+        {
+          "query": "oia santorini sunset caldera",
+          "id": "pexels-37908299",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37908299/pexels-photo-37908299/free-photo-of-iconic-blue-domes-of-santorini-overlooking-the-aegean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/iconic-blue-domes-of-santorini-overlooking-the-aegean-sea-37908299/"
+          },
+          "alt": "Free Classic view of Santorini's blue domes against the deep blue Aegean Sea under a cloudy sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37908299.jpg"
+        },
+        {
+          "query": "oia santorini sunset caldera",
+          "id": "pexels-17410647",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17410647/pexels-photo-17410647/free-photo-of-townscape-of-oia-on-santorini-island.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/townscape-of-oia-on-santorini-island-17410647/"
+          },
+          "alt": "Free Picturesque white houses on Thera's cliffs overlooking the Aegean Sea under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17410647.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "grid-serif",
+      "name": "קניון ויקוס",
+      "alt": "קניון ויקוס בצפון יוון",
+      "images": [
+        {
+          "query": "vikos gorge zagori greece",
+          "id": "pexels-39368540",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39368540/pexels-photo-39368540/free-photo-of-spectacular-view-of-vikos-gorge-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/spectacular-view-of-vikos-gorge-in-greece-39368540/"
+          },
+          "alt": "Free Explore the breathtaking depths of Vikos Gorge in stunning natural beauty, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39368540.jpg"
+        },
+        {
+          "query": "vikos gorge zagori greece",
+          "id": "pexels-15325455",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15325455/pexels-photo-15325455/free-photo-of-clouds-over-rocks-in-mountains.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/clouds-over-rocks-in-mountains-15325455/"
+          },
+          "alt": "Free Explore the stunning rock formations and breathtaking views of Vikos Gorge in Greece, a nature lover's paradise. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15325455.jpg"
+        },
+        {
+          "query": "vikos gorge zagori greece",
+          "id": "pexels-33279704",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33279704/pexels-photo-33279704/free-photo-of-ancient-stone-bridge-over-serene-mountain-stream.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-stone-bridge-over-serene-mountain-stream-33279704/"
+          },
+          "alt": "Free A historic stone arch bridge spans a tranquil mountain stream, surrounded by lush nature and misty peaks. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33279704.jpg"
+        },
+        {
+          "query": "vikos gorge zagori greece",
+          "id": "pexels-28316526",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28316526/pexels-photo-28316526/free-photo-of-rock-formation.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/rock-formation-28316526/"
+          },
+          "alt": "Free Explore the stunning layered rock formations and lush greenery in Greece's natural landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28316526.jpg"
+        }
+      ]
+    },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

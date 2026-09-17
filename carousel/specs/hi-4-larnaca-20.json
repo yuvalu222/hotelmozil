@@ -1,0 +1,86 @@
+{
+  "id": "hi-4-larnaca-20",
+  "skin": "clone",
+  "clonedFrom": "ig-DbQrhvojYzv",
+  "clonedAccount": "travel2losangeles",
+  "sourceLikes": 5334,
+  "sourceFollowers": 87800,
+  "sourceER": 0.0607,
+  "demonstrates": "Cloned from travel2losangeles's '20 Things to do in Los Angeles' — 5,334 likes (3.8x the corpus median) at ER 0.061, which clears both bars. Copied: 2x2 photo grid with thin white gutters on every slide; the cover carries two stacked white rounded stickers in a heavy rounded sans; item slides label each of the four cells at its foot with the same sticker, four places per slide, no numbers anywhere. Replaces the earlier Cyprus version: the source names a CITY and so does this one. Larnaca is where the flights actually land, and everything listed is inside an hour of it.",
+  "caption": "20 דברים לעשות בלרנקה ובשעה נסיעה ממנה. חלק ברגל מהטיילת, וחלק דורשים רכב ליום אחד. מה אתם מכירים שם?",
+  "hashtags": ["לרנקה", "קפריסין", "טיפיםלטיול"],
+  "slides": [
+    {
+      "layout": "grid-stickers",
+      "lines": ["20 דברים לעשות", "📍בלרנקה"],
+      "alt": "ארבע תמונות מלרנקה: טיילת, חוף, אגם המלח ומסגד",
+      "images": [
+        { "query": "larnaca finikoudes promenade palm trees" },
+        { "query": "larnaca beach cyprus" },
+        { "query": "larnaca salt lake flamingos" },
+        { "query": "hala sultan tekke mosque larnaca" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["טיילת פיניקודס", "מבצר לרנקה", "כנסיית לזרוס", "שוק העיר"],
+      "alt": "ארבעה מקומות במרכז לרנקה",
+      "images": [
+        { "query": "finikoudes promenade larnaca" },
+        { "query": "larnaca castle cyprus" },
+        { "query": "saint lazarus church larnaca" },
+        { "query": "larnaca old town market street" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["אגם המלח", "הלה סולטן טקה", "כפר קיטי", "אמאתוס"],
+      "alt": "ארבעה מקומות סביב לרנקה",
+      "images": [
+        { "query": "larnaca salt lake cyprus flamingo" },
+        { "query": "hala sultan tekke cyprus" },
+        { "query": "kiti village cyprus church" },
+        { "query": "amathus ruins cyprus" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["לפקרה", "כפר קאטו דריס", "מנזר סטברובוני", "חוות הדבש"],
+      "alt": "ארבעה מקומות בכפרי ההר",
+      "images": [
+        { "query": "lefkara village cyprus street" },
+        { "query": "kato drys cyprus village" },
+        { "query": "stavrovouni monastery cyprus" },
+        { "query": "cyprus countryside village stone house" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["חוף מקנזי", "צוללת זנוביה", "מפרץ קונוס", "קייפ גרקו"],
+      "alt": "ארבעה מקומות על הים",
+      "images": [
+        { "query": "mackenzie beach larnaca" },
+        { "query": "diving wreck mediterranean cyprus" },
+        { "query": "konnos bay protaras cyprus" },
+        { "query": "cape greco cyprus sea caves" }
+      ]
+    },
+    {
+      "layout": "grid-labels",
+      "labels": ["חוף ניסי", "מערות הים", "נמל אייה נאפה", "כפר הדייגים"],
+      "alt": "ארבעה מקומות באיה נאפה",
+      "images": [
+        { "query": "nissi beach ayia napa" },
+        { "query": "ayia napa sea caves cyprus" },
+        { "query": "ayia napa harbour boats" },
+        { "query": "potamos liopetri fishing village cyprus" }
+      ]
+    },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}

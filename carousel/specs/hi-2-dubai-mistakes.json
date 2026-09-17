@@ -1,0 +1,218 @@
+{
+  "id": "hi-2-dubai-mistakes",
+  "skin": "clone",
+  "clonedFrom": "ig-DWLr1vHFI8q",
+  "clonedAccount": "detouristahq",
+  "sourceLikes": 4449,
+  "sourceFollowers": 48000,
+  "sourceER": 0.0927,
+  "demonstrates": "Cloned from detouristahq's '15 MISTAKES TO AVOID IN THAILAND' — ER 0.0927, the highest of any account in the corpus above 20k followers, and 4,449 likes against a corpus median of 1,414. Copied: one coloured keyword inside an otherwise plain line, the destination beneath at display size, the creator standing in frame; item slides carry a white bar across the top with the mistake framed by two ✗ and nothing else on the image. Destination swapped to Dubai, a top-three Israeli destination where the mistakes are real and specific.",
+  "caption": "10 טעויות שכדאי להימנע מהן בדובאי. רובן לא עולות כסף אלא זמן, וחלקן פשוט לא נעימות. איזו מהן תפסה אתכם?",
+  "hashtags": [
+    "דובאי",
+    "איחודהאמירויות",
+    "טיפיםלטיול"
+  ],
+  "slides": [
+    {
+      "layout": "mistakes",
+      "kw": "10 טעויות",
+      "rest": "שכדאי להימנע מהן ב",
+      "place": "דובאי",
+      "alt": "קו הרקיע של דובאי",
+      "image": {
+        "query": "dubai skyline burj khalifa",
+        "id": "pexels-34025535",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34025535/pexels-photo-34025535/free-photo-of-majestic-view-of-burj-khalifa-from-dubai-road.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/majestic-view-of-burj-khalifa-from-dubai-road-34025535/"
+        },
+        "alt": "Free Stunning sunrise view of Burj Khalifa and Dubai skyline from a curved road. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34025535.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "להזמין מונית ברחוב במקום באפליקציה",
+      "alt": "מוניות בדובאי",
+      "image": {
+        "query": "dubai taxi street",
+        "id": "pexels-17901811",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/17901811/pexels-photo-17901811/free-photo-of-city-street-with-a-view-of-a-ferris-wheel.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/city-street-with-a-view-of-a-ferris-wheel-17901811/"
+        },
+        "alt": "Free Urban scene in Dubai featuring a city street with a view of the famous Ferris wheel. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17901811.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "לצאת בצהריים בקיץ",
+      "alt": "רחוב ריק בחום של דובאי",
+      "image": {
+        "query": "dubai hot empty street summer",
+        "id": "pexels-32727853",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32727853/pexels-photo-32727853/free-photo-of-vintage-desert-architecture-in-dubai.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vintage-desert-architecture-in-dubai-32727853/"
+        },
+        "alt": "Free An aesthetic view of vintage architecture in a deserted area of Dubai, UAE. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32727853.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "להגיע לבורג' חליפה בלי כרטיס מראש",
+      "alt": "בורג' חליפה",
+      "image": {
+        "query": "burj khalifa dubai tower",
+        "id": "pexels-12352560",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12352560/pexels-photo-12352560.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/low-angle-shot-of-the-burj-khalifa-in-dubai-united-arab-emirates-12352560/"
+        },
+        "alt": "Free Stunning view of the Burj Khalifa against a clear blue sky in Dubai, UAE, showcasing modern architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12352560.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "לנסוע למדבר בלי לבדוק מי המפעיל",
+      "alt": "ספארי מדברי בדובאי",
+      "image": {
+        "query": "dubai desert safari dunes",
+        "id": "pexels-38036768",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38036768/pexels-photo-38036768/free-photo-of-suv-adventuring-in-dubai-s-expansive-dunes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/suv-adventuring-in-dubai-s-expansive-dunes-38036768/"
+        },
+        "alt": "Free A lone SUV driving over the vast sand dunes of Dubai, showcasing desert exploration and adventure. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38036768.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "ללבוש גופייה בקניון",
+      "alt": "קניון בדובאי",
+      "image": {
+        "query": "dubai mall interior shopping",
+        "id": "pexels-18669679",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18669679/pexels-photo-18669679/free-photo-of-the-dubai-mall-interior-united-arab-emirates.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/the-dubai-mall-interior-united-arab-emirates-18669679/"
+        },
+        "alt": "Free Explore the ornate archways and luxurious design of Dubai Mall's interior, showcasing its architectural beauty. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18669679.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "לפספס את דובאי הישנה",
+      "alt": "שוק הבשמים בדירה",
+      "image": {
+        "query": "deira old dubai souk",
+        "id": "pexels-28940779",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28940779/pexels-photo-28940779/free-photo-of-traditional-architecture-in-dubai-s-spice-market.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/traditional-architecture-in-dubai-s-spice-market-28940779/"
+        },
+        "alt": "Free Explore a traditional building in Dubai's historic spice market with vibrant cultural vibes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28940779.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "לשכור רכב בלי לדעת על אגרות",
+      "alt": "כביש מהיר בדובאי",
+      "image": {
+        "query": "dubai highway cars sheikh zayed road",
+        "id": "pexels-33349003",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33349003/pexels-photo-33349003/free-photo-of-aerial-view-of-sheikh-zayed-road-in-dubai-cityscape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-sheikh-zayed-road-in-dubai-cityscape-33349003/"
+        },
+        "alt": "Free Stunning aerial view of Dubai's Sheikh Zayed Road featuring modern skyscrapers and intricate highway network. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33349003.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "mistakes",
+      "item": "לצלם אנשים בלי לשאול",
+      "alt": "רחוב בדובאי",
+      "image": {
+        "query": "dubai street people walking",
+        "id": "pexels-11452143",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/11452143/pexels-photo-11452143.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/cross-road-under-a-bridge-11452143/"
+        },
+        "alt": "Free Pedestrian lane and traffic lights under a bridge in Dubai's cityscape. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11452143.jpg"
+      },
+      "credit": null
+    },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
+    }
+  ]
+}

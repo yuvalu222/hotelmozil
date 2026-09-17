@@ -1,0 +1,39 @@
+{
+  "id": "hi-3-route-notsaying",
+  "skin": "clone",
+  "clonedFrom": "ig-DboDU_OERUL",
+  "clonedAccount": "lexilaube",
+  "sourceLikes": 354828,
+  "sourceFollowers": 155000,
+  "sourceER": 2.2892,
+  "demonstrates": "Cloned from lexilaube's 'I'm not saying we SHOULD, but.. / we coulddd..' — 354,828 likes on 155,000 followers, an engagement rate of 2.29 and by a wide margin the single biggest post in the entire corpus. Copied: an unstyled creator photo carrying one centred white serif line high in the frame, and a payoff slide that is a ROUTE, not designed artwork. The source screenshots Google Maps directly; redrawing Google's own interface would be fabricating another product's UI, so the card here is plainly ours and the real version should be a screenshot Yuval takes himself. Four Greek islands within one short flight, which is the Israeli version of the same fantasy.",
+  "caption": "אני לא אומר שצריך, אבל ארבעה איים ביוון נכנסים בשבוע אחד, וכולם במעבורת אחת זה מזה. מי בא?",
+  "hashtags": ["יוון", "איייוון", "טיפיםלטיול"],
+  "slides": [
+    {
+      "layout": "maps",
+      "headline": "אני לא אומר\nשצריך, אבל..",
+      "alt": "נוף של אי יווני מהמעבורת",
+      "image": { "query": "greek island ferry deck sea view" }
+    },
+    {
+      "layout": "maps",
+      "stops": ["אתונה", "מיקונוס", "נאקסוס", "סנטוריני"],
+      "total": "סך הכול: 6 לילות",
+      "action": "סיום",
+      "note": "אפשר לגמרי..",
+      "alt": "מסלול בין ארבעה איים ביוון",
+      "image": { "query": "aegean sea islands aerial greece" }
+    },
+    { "layout": "city-huge", "line": "אתונה, שני לילות", "alt": "אתונה בערב", "image": { "query": "athens evening street acropolis" } },
+    { "layout": "city-huge", "line": "מיקונוס, מעבורת של שעתיים", "alt": "מיקונוס", "image": { "query": "mykonos windmills white houses" } },
+    { "layout": "city-huge", "line": "נאקסוס, הכי זול מהארבעה", "alt": "נאקסוס", "image": { "query": "naxos greece portara beach" } },
+    { "layout": "city-huge", "line": "סנטוריני, וטיסה הביתה", "alt": "סנטוריני בשקיעה", "image": { "query": "santorini oia sunset caldera" } },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": { "local": "assets/closing-placeholder.jpg" }
+    }
+  ]
+}

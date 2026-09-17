@@ -5,79 +5,451 @@
   "clonedAccount": "travel2losangeles",
   "demonstrates": "Direct clone of travel2losangeles's '20 Things to do in Los Angeles'. Copied: 2x2 photo grid with thin white gutters on every slide; the cover carries two stacked white rounded stickers in a heavy rounded sans ('20 Things to do' / '📍in Los Angeles'); each item slide labels its four cells at the foot with the same sticker, four places per slide, no numbers anywhere. Topic copied verbatim (20 things to do in <place>), destination swapped to Cyprus (Larnaca is a top-3 Israeli destination).",
   "caption": "20 דברים לעשות בקפריסין, לפי אזור. חלק מהם במרחק שעה מלרנקה, וחלק דורשים רכב ליום. איזה אזור אתם מכירים הכי טוב?",
-  "hashtags": ["קפריסין", "לרנקה", "פאפוס", "טיפיםלטיול"],
+  "hashtags": [
+    "קפריסין",
+    "לרנקה",
+    "פאפוס",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "layout": "grid-stickers",
-      "lines": ["20 דברים לעשות", "📍בקפריסין"],
+      "lines": [
+        "20 דברים לעשות",
+        "📍בקפריסין"
+      ],
       "alt": "ארבע תמונות מקפריסין: נמל, חוף, הרים וטיילת",
       "images": [
-        { "query": "paphos harbour castle cyprus" },
-        { "query": "nissi beach ayia napa" },
-        { "query": "troodos mountains cyprus village" },
-        { "query": "larnaca finikoudes promenade palm trees" }
+        {
+          "query": "paphos harbour castle cyprus",
+          "id": "pexels-25587814",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/25587814/pexels-photo-25587814/free-photo-of-photo-of-a-seacoast-with-a-castle.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-a-seacoast-with-a-castle-25587814/"
+          },
+          "alt": "Free An ancient coastal castle fort against a vibrant blue sea under a clear sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-25587814.jpg"
+        },
+        {
+          "query": "nissi beach ayia napa",
+          "id": "pexels-32056712",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32056712/pexels-photo-32056712/free-photo-of-aerial-view-of-ayia-napa-beachfront-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-ayia-napa-beachfront-cyprus-32056712/"
+          },
+          "alt": "Free Stunning aerial shot of Ayia Napa's rocky coast and clear blue waters in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32056712.jpg"
+        },
+        {
+          "query": "troodos mountains cyprus village",
+          "id": "pexels-13799165",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13799165/pexels-photo-13799165.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/mountain-landscape-with-pine-trees-and-cones-on-the-ground-13799165/"
+          },
+          "alt": "Free Breathtaking landscape of Troodos Mountains, Cyprus, with pine trees and valleys. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13799165.jpg"
+        },
+        {
+          "query": "larnaca finikoudes promenade palm trees",
+          "id": "pexels-4967376",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4967376/pexels-photo-4967376.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-pier-by-sea-4967376/"
+          },
+          "alt": "Free Stunning view of a coastal city walkway perfect for leisure and tourism activities. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967376.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["קברי המלכים", "סלע אפרודיטה", "הנמל של פאפוס", "קורל ביי"],
+      "labels": [
+        "קברי המלכים",
+        "סלע אפרודיטה",
+        "הנמל של פאפוס",
+        "קורל ביי"
+      ],
       "alt": "ארבעה מקומות בפאפוס",
       "images": [
-        { "query": "tombs of the kings paphos" },
-        { "query": "aphrodite rock petra tou romiou" },
-        { "query": "paphos harbour" },
-        { "query": "coral bay beach cyprus" }
+        {
+          "query": "tombs of the kings paphos",
+          "id": "pexels-17057352",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17057352/pexels-photo-17057352/free-photo-of-tombs-of-kings-in-paphos-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tombs-of-kings-in-paphos-cyprus-17057352/"
+          },
+          "alt": "Free Explore the historic tombs with classic columns in Paphos, Cyprus. A glimpse into ancient architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17057352.jpg"
+        },
+        {
+          "query": "aphrodite rock petra tou romiou",
+          "id": "pexels-6190823",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/6190823/pexels-photo-6190823.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-a-road-beside-the-ocean-6190823/"
+          },
+          "alt": "Free Aerial shot capturing a rocky coastline with a winding road in Paphos, Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6190823.jpg"
+        },
+        {
+          "query": "paphos harbour",
+          "id": "pexels-25587814",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/25587814/pexels-photo-25587814/free-photo-of-photo-of-a-seacoast-with-a-castle.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-a-seacoast-with-a-castle-25587814/"
+          },
+          "alt": "Free An ancient coastal castle fort against a vibrant blue sea under a clear sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-25587814.jpg"
+        },
+        {
+          "query": "coral bay beach cyprus",
+          "id": "pexels-30563689",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30563689/pexels-photo-30563689/free-photo-of-aerial-view-of-coastal-city-paphos-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-coastal-city-paphos-cyprus-30563689/"
+          },
+          "alt": "Free Stunning aerial photo of Paphos, Cyprus coastline with a boat in the blue sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30563689.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["הלגונה הכחולה", "קניון אבקאס", "חוף לארה", "אמבטיות אדוניס"],
+      "labels": [
+        "הלגונה הכחולה",
+        "קניון אבקאס",
+        "חוף לארה",
+        "אמבטיות אדוניס"
+      ],
       "alt": "ארבעה מקומות בחצי האי אקאמס",
       "images": [
-        { "query": "blue lagoon akamas cyprus" },
-        { "query": "avakas gorge cyprus" },
-        { "query": "lara beach cyprus turtles" },
-        { "query": "adonis baths waterfall paphos" }
+        {
+          "query": "blue lagoon akamas cyprus",
+          "id": "pexels-27410189",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27410189/pexels-photo-27410189/free-photo-of-the-blue-water-is-clear-and-clear-in-the-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/the-blue-water-is-clear-and-clear-in-the-clear-blue-sky-27410189/"
+          },
+          "alt": "Free Discover the vivid turquoise waters and rocky shoreline of Ayia Napa, Cyprus's stunning beach landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27410189.jpg"
+        },
+        {
+          "query": "avakas gorge cyprus",
+          "id": "pexels-19758124",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19758124/pexels-photo-19758124/free-photo-of-barren-rocks-and-stones-in-canyon.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/barren-rocks-and-stones-in-canyon-19758124/"
+          },
+          "alt": "Free Explore the stunning, natural rock formations in Dagestan's breathtaking canyon landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19758124.jpg"
+        },
+        {
+          "query": "lara beach cyprus turtles",
+          "id": "pexels-34595684",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34595684/pexels-photo-34595684/free-photo-of-young-sea-turtle-crawling-on-gazimagusa-beach.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/young-sea-turtle-crawling-on-gazimagusa-beach-34595684/"
+          },
+          "alt": "Free A baby sea turtle crawling towards the ocean on a serene Gazimağusa beach at sunrise. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34595684.jpg"
+        },
+        {
+          "query": "adonis baths waterfall paphos",
+          "id": "pexels-2220407",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2220407/pexels-photo-2220407.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/man-near-falls-2220407/"
+          },
+          "alt": "Free Man standing in front of a waterfall, enjoying nature and tranquility in summer. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2220407.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["חוף ניסי", "מערות הים", "קייפ גרקו", "מפרץ קונוס"],
+      "labels": [
+        "חוף ניסי",
+        "מערות הים",
+        "קייפ גרקו",
+        "מפרץ קונוס"
+      ],
       "alt": "ארבעה מקומות באיה נאפה",
       "images": [
-        { "query": "nissi beach ayia napa cyprus" },
-        { "query": "ayia napa sea caves" },
-        { "query": "cape greco cyprus" },
-        { "query": "konnos bay protaras" }
+        {
+          "query": "nissi beach ayia napa cyprus",
+          "id": "pexels-32056712",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32056712/pexels-photo-32056712/free-photo-of-aerial-view-of-ayia-napa-beachfront-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-ayia-napa-beachfront-cyprus-32056712/"
+          },
+          "alt": "Free Stunning aerial shot of Ayia Napa's rocky coast and clear blue waters in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32056712.jpg"
+        },
+        {
+          "query": "ayia napa sea caves",
+          "id": "pexels-34672073",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34672073/pexels-photo-34672073/free-photo-of-stunning-sea-caves-on-cyprus-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-sea-caves-on-cyprus-coastline-34672073/"
+          },
+          "alt": "Free Explore the breathtaking sea caves along the rocky coastline of Cyprus, capturing nature's beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34672073.jpg"
+        },
+        {
+          "query": "cape greco cyprus",
+          "id": "pexels-34672073",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34672073/pexels-photo-34672073/free-photo-of-stunning-sea-caves-on-cyprus-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-sea-caves-on-cyprus-coastline-34672073/"
+          },
+          "alt": "Free Explore the breathtaking sea caves along the rocky coastline of Cyprus, capturing nature's beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34672073.jpg"
+        },
+        {
+          "query": "konnos bay protaras",
+          "id": "pexels-28379234",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28379234/pexels-photo-28379234/free-photo-of-aerial-view-of-rocky-shoreline-in-protaras-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-rocky-shoreline-in-protaras-cyprus-28379234/"
+          },
+          "alt": "Free Stunning aerial shot of a rocky shoreline with turquoise waters in Protaras, Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28379234.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["טיילת פיניקודס", "אגם המלח", "הלה סולטן טקה", "לפקרה"],
+      "labels": [
+        "טיילת פיניקודס",
+        "אגם המלח",
+        "הלה סולטן טקה",
+        "לפקרה"
+      ],
       "alt": "ארבעה מקומות באזור לרנקה",
       "images": [
-        { "query": "larnaca finikoudes beach promenade" },
-        { "query": "larnaca salt lake flamingos" },
-        { "query": "hala sultan tekke mosque larnaca" },
-        { "query": "lefkara village cyprus" }
+        {
+          "query": "larnaca finikoudes beach promenade",
+          "id": "pexels-36725370",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36725370/pexels-photo-36725370/free-photo-of-aerial-view-of-larnaca-seafront-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-larnaca-seafront-in-cyprus-36725370/"
+          },
+          "alt": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36725370.jpg"
+        },
+        {
+          "query": "larnaca salt lake flamingos",
+          "id": "pexels-35415125",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35415125/pexels-photo-35415125/free-photo-of-flock-of-flamingos-wading-in-tranquil-water-at-dawn.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/flock-of-flamingos-wading-in-tranquil-water-at-dawn-35415125/"
+          },
+          "alt": "Free A serene scene of flamingos wading in calm waters during twilight, with a distant horizon. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35415125.jpg"
+        },
+        {
+          "query": "hala sultan tekke mosque larnaca",
+          "id": "pexels-5655087",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5655087/pexels-photo-5655087.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/green-trees-beside-the-mosque-5655087/"
+          },
+          "alt": "Free Scenic view of the historical Hala Sultan Tekke Mosque in Larnaca surrounded by lush palm trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5655087.jpg"
+        },
+        {
+          "query": "lefkara village cyprus",
+          "id": "pexels-1544413",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/1544413/pexels-photo-1544413.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/black-road-in-between-beige-walls-under-cloudy-sky-1544413/"
+          },
+          "alt": "Free Narrow street in Yukarı Lefkara, Cyprus with rustic architecture and overcast sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1544413.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["מרינה לימסול", "קוריון", "מנזר קיקוס", "הכפר אומודוס"],
+      "labels": [
+        "מרינה לימסול",
+        "קוריון",
+        "מנזר קיקוס",
+        "הכפר אומודוס"
+      ],
       "alt": "ארבעה מקומות בלימסול ובהרי טרודוס",
       "images": [
-        { "query": "limassol marina cyprus" },
-        { "query": "kourion ancient theatre cyprus" },
-        { "query": "kykkos monastery cyprus" },
-        { "query": "omodos village cyprus" }
+        {
+          "query": "limassol marina cyprus",
+          "id": "pexels-30563630",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30563630/pexels-photo-30563630/free-photo-of-aerial-view-of-limassol-marina-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-limassol-marina-at-sunset-30563630/"
+          },
+          "alt": "Free Stunning aerial shot of Limassol Marina with yachts and cityscape during golden sunset light. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30563630.jpg"
+        },
+        {
+          "query": "kourion ancient theatre cyprus",
+          "id": "pexels-39138480",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39138480/pexels-photo-39138480/free-photo-of-ancient-stone-archway-overlooking-mediterranean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-stone-archway-overlooking-mediterranean-sea-39138480/"
+          },
+          "alt": "Free Stone archway at the ancient ruins in Cyprus with a view of the Mediterranean Sea under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39138480.jpg"
+        },
+        {
+          "query": "kykkos monastery cyprus",
+          "id": "pexels-17577833",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17577833/pexels-photo-17577833/free-photo-of-bellapais-abbey-in-northern-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bellapais-abbey-in-northern-cyprus-17577833/"
+          },
+          "alt": "Free Discover the historic Bellapais Abbey in Northern Cyprus on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17577833.jpg"
+        },
+        {
+          "query": "omodos village cyprus",
+          "id": "pexels-20049934",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20049934/pexels-photo-20049934/free-photo-of-village-under-hill.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/village-under-hill-20049934/"
+          },
+          "alt": "Free Charming aerial view of Bağlıköy village with hills and lush greenery, showcasing rural Cyprus beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20049934.jpg"
+        }
       ]
     },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

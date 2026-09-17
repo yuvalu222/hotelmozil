@@ -106,6 +106,77 @@ const SKINS = {
     return `<img class="photo" src="${photos[0]}" alt=""><div class="${cls}">${inner}</div>`;
   },
 
+  // veeceecheng (16,127 likes / 351k followers): a small lowercase label, the
+  // CITY at display size, a small secondary line. Items are one photo and a
+  // single centred line, low in the frame. No boxes anywhere.
+  'city-huge'(s, photos) {
+    if (s.line) {
+      return `<img class="photo" src="${photos[0]}" alt="">
+        <div class="scrim-bottom"></div>
+        <div class="cityline">${esc(s.line)}</div>`;
+    }
+    return `<img class="photo" src="${photos[0]}" alt="">
+      <div class="scrim-bottom"></div>
+      <div class="cityh">
+        <div class="lbl">${esc(s.label)}</div>
+        <div class="city">${esc(s.city)}</div>
+        ${s.secondary ? `<div class="sec">${esc(s.secondary)}</div>` : ''}
+      </div>`;
+  },
+
+  // detouristahq (ER 0.093, the highest of any mid-sized account in the corpus):
+  // a coloured keyword inside an otherwise plain line, the destination at
+  // display size beneath, and item slides carrying a white bar across the top
+  // with the mistake framed by two ✗.
+  'mistakes'(s, photos) {
+    if (s.item) {
+      return `<img class="photo" src="${photos[0]}" alt="">
+        <div class="mistbar"><span class="x">❌</span><span>${esc(s.item)}</span><span class="x">❌</span></div>`;
+    }
+    return `<img class="photo" src="${photos[0]}" alt="">
+      <div class="scrim-bottom"></div>
+      <div class="mist">
+        <div class="l1"><span class="kw">${esc(s.kw)}</span> ${esc(s.rest)}</div>
+        <div class="big">${esc(s.place)}</div>
+      </div>`;
+  },
+
+  // moresocialclub (5,689 likes / 102k, ER 0.056): cream ground, serif
+  // throughout, a large serif numeral, a headline carrying one italic word, a
+  // body paragraph, artwork beneath.
+  'editorial'(s, photos) {
+    const head = esc(s.head).replace('{', '<em>').replace('}', '</em>');
+    const body = esc(s.body || '').replace(/\*(.+?)\*/g, '<b>$1</b>');
+    return `<div class="edi">
+      <div class="brand">${esc(s.brand || '')}</div>
+      ${s.brandsub ? `<div class="brandsub">${esc(s.brandsub)}</div>` : ''}
+      <div class="num">${esc(s.num)}</div>
+      <div class="head">${head}</div>
+      ${body ? `<div class="body">${body}</div>` : ''}
+      ${photos[0] ? `<div class="art">${img(photos[0])}</div>` : ''}
+    </div>`;
+  },
+
+  // lexilaube (354,828 likes on 155k followers — by a wide margin the biggest
+  // post in the corpus). Cover: an unstyled creator photo, one centred white
+  // serif line. Payoff: a route card. The source screenshots Google Maps; this
+  // card is deliberately our own chrome rather than a redraw of theirs.
+  'maps'(s, photos) {
+    if (s.stops) {
+      const marks = ['◎', 'A', 'B', 'C', 'D', 'E'];
+      const rows = s.stops.map((t, i) =>
+        `<div class="row"><div class="mk">${marks[i] || '•'}</div><div class="fld">${esc(t)}</div></div>`).join('');
+      return `<img class="photo" src="${photos[0]}" alt="">
+        <div class="scrim-bottom"></div>
+        <div class="routewrap"><div class="route">${rows}
+          <div class="tot"><span>${esc(s.total)}</span><span class="go">${esc(s.action || 'סיום')}</span></div>
+        </div></div>
+        ${s.note ? `<div class="mapnote">${esc(s.note)}</div>` : ''}`;
+    }
+    return `<img class="photo" src="${photos[0]}" alt="">
+      <div class="mapline">${esc(s.headline)}</div>`;
+  },
+
   // Closing placeholder, shown whole in a phone frame on a flat ground.
   'screenshot'(s, photos) {
     return `<div class="shot">${img(photos[0])}</div>`;

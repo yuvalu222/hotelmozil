@@ -341,7 +341,63 @@ not a call this study should make for you.
 
 ---
 
-## 4b. The five carousels — direct clones
+## 4b. The five carousels — clones of decks that actually performed
+
+**This section was rebuilt twice, and the second rebuild fixed a real error in
+the first.** Round one invented its own typography and its own topics. Round two
+cloned real decks, but chose them on how interesting the craft looked — and the
+numbers say that was wrong:
+
+| Round-two source | Likes | Corpus position |
+| --- | --- | --- |
+| switzerlandersss | **1,351** | *below* the median |
+| vietnamessence_tours | 1,724 | at the median |
+| mustvisitjapan | 1,736 | at the median |
+| travel2losangeles | 5,334 | 3.8× median |
+| whatshappening365 | 11,809 | high reach, but ER 0.015 |
+
+The organic corpus median is **1,414 likes**. Four of the five sources were
+sitting on it. A clone of a median deck carries no information about what works.
+
+### The selection rule now
+
+A deck qualifies as a cloning target only if it clears **both** bars:
+
+1. **Reach** — absolute likes well above the corpus median.
+2. **Engagement rate** — likes ÷ followers, so a big account posting to a dead
+   audience does not qualify on size alone.
+
+One honest limit: **the Instagram embed does not expose view counts.** Likes are
+the closest proxy available here, and are labelled as likes everywhere rather
+than dressed up as views.
+
+And the destinations are now **cities, not countries** — Athens, Dubai, Larnaca
+— because that is what people book flights to, and because the best-performing
+sources name cities too (`things to do in: seoul`, not `things to do in Korea`).
+
+### The five
+
+| Spec | Cloned from | Source likes | ER | Copied system | Destination |
+| --- | --- | --- | --- | --- | --- |
+| `hi-3-route-notsaying` | **lexilaube** | **354,828** | **2.29** | unstyled creator photo + one centred white serif line; payoff is a **route**, not artwork | Greek islands, from Athens |
+| `hi-1-athens-things` | **veeceecheng** | **16,127** | 0.046 | tiny lowercase label, **city name at display size**, small secondary line; no boxes anywhere | **אתונה** |
+| `hi-5-hacks-editorial` | **moresocialclub** | 5,689 | 0.056 | cream ground, serif throughout, large serif numeral, one italic word in the headline | not destination-specific (nor is the source) |
+| `hi-4-larnaca-20` | **travel2losangeles** | 5,334 | 0.061 | 2×2 grid with white gutters, stacked rounded stickers, footed cell labels | **לרנקה** (was "Cyprus") |
+| `hi-2-dubai-mistakes` | **detouristahq** | 4,449 | **0.093** | coloured keyword in a plain line, destination at display size, white ✗ bar on items | **דובאי** |
+
+`lexilaube` is worth its own line: 354,828 likes against 155,000 followers is an
+engagement rate of 2.29, meaning the post left its own audience entirely. Its
+payoff slide is **a screenshot of Google Maps** — not designed artwork. That is
+the same instinct as Yuval's closing slide, and it is the strongest single
+signal in the corpus. The clone does **not** redraw Google's interface, because
+that would be fabricating another product's UI; it uses a plainly-ours route
+card, and the real version should be a screenshot he takes himself.
+
+One thing that could not be copied: moresocialclub builds its artwork from
+cut-out collage, which stock photography cannot produce. A single framed photo
+stands in, and the gap is recorded rather than hidden.
+
+## 4c. Superseded: the first clone round
 
 The first attempt at this section was wrong in two ways Yuval named precisely:
 the type looked machine-made and nothing like the sources, and the topics were

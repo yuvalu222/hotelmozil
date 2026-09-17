@@ -1,0 +1,218 @@
+{
+  "id": "hi-1-athens-things",
+  "skin": "clone",
+  "clonedFrom": "ig-DdG8vvYmJnb",
+  "clonedAccount": "veeceecheng",
+  "sourceLikes": 16127,
+  "sourceFollowers": 351000,
+  "sourceER": 0.0459,
+  "demonstrates": "Cloned from veeceecheng's 'things to do in: seoul 서울' — 16,127 likes on 351k followers (2nd highest absolute reach in the organic corpus, ER 0.046). Copied: one strong photo per slide, no boxes and no stickers anywhere; a small lowercase label, the CITY NAME at display size filling most of the width, a small secondary line set to its right; item slides carry one short centred line low in the frame. Destination is a city rather than a country, and Athens is the single most-flown destination out of Ben Gurion.",
+  "caption": "12 דברים לעשות באתונה, רובם ברגל ובאותו יום. אם יש לכם יומיים בעיר זה הסדר שהייתי הולך בו. מה הייתם מוסיפים?",
+  "hashtags": [
+    "אתונה",
+    "יוון",
+    "טיפיםלטיול"
+  ],
+  "slides": [
+    {
+      "layout": "city-huge",
+      "label": "דברים לעשות ב:",
+      "city": "אתונה",
+      "secondary": "Αθήνα",
+      "alt": "רחוב באתונה עם האקרופוליס ברקע",
+      "image": {
+        "query": "athens greece street acropolis",
+        "id": "pexels-10367892",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10367892/pexels-photo-10367892.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/cars-passing-on-a-street-between-high-rise-buildings-10367892/"
+        },
+        "alt": "Free High-angle view of a busy street in Athens, Greece, showcasing traffic and urban architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10367892.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "לעלות לגבעת פילופאפו לפני השקיעה",
+      "alt": "נוף מגבעת פילופאפו",
+      "image": {
+        "query": "filopappou hill athens view acropolis",
+        "id": "pexels-15670565",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15670565/pexels-photo-15670565/free-photo-of-view-of-the-parthenon-in-athens-from-a-distance.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-the-parthenon-in-athens-from-a-distance-15670565/"
+        },
+        "alt": "Free Charming urban landscape of Athens featuring the iconic Acropolis and local architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15670565.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "לאכול בשוק ורבקיוס בבוקר",
+      "alt": "שוק ורבקיוס באתונה",
+      "image": {
+        "query": "varvakios market athens food",
+        "id": "pexels-29475652",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/29475652/pexels-photo-29475652/free-photo-of-fresh-produce-at-athens-market-stall.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/fresh-produce-at-athens-market-stall-29475652/"
+        },
+        "alt": "Free Vibrant display of fruits at a market stall in Athens, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29475652.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "ללכת לאיבוד באנאפיוטיקה",
+      "alt": "סמטאות אנאפיוטיקה",
+      "image": {
+        "query": "anafiotika athens alley white houses",
+        "id": "pexels-8253725",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/8253725/pexels-photo-8253725.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/cars-parked-on-side-of-the-narrow-road-8253725/"
+        },
+        "alt": "Free Stroll through a narrow, sunlit street in Greece, lined with rustic buildings and parked cars. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8253725.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "קפה על גג במונסטיראקי",
+      "alt": "גג עם נוף לאקרופוליס",
+      "image": {
+        "query": "athens rooftop bar acropolis view",
+        "id": "pexels-14446401",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14446401/pexels-photo-14446401.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/clear-sky-over-buildings-roofs-14446401/"
+        },
+        "alt": "Free A scenic view of Athens rooftops with the Acropolis in the background during sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14446401.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "שוק הפשפשים ביום ראשון",
+      "alt": "שוק הפשפשים במונסטיראקי",
+      "image": {
+        "query": "monastiraki flea market athens",
+        "id": "pexels-28243336",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28243336/pexels-photo-28243336/free-photo-of-a-market-with-people-walking-around-it.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-market-with-people-walking-around-it-28243336/"
+        },
+        "alt": "Free Explore a bustling market in Athens, Greece, with traditional architecture and lively crowds. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28243336.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "המוזיאון הארכיאולוגי הלאומי",
+      "alt": "המוזיאון הארכיאולוגי הלאומי באתונה",
+      "image": {
+        "query": "national archaeological museum athens",
+        "id": "pexels-31492867",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31492867/pexels-photo-31492867/free-photo-of-national-archaeological-museum-athens-exterior-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/national-archaeological-museum-athens-exterior-view-31492867/"
+        },
+        "alt": "Free A frontal view of the National Archaeological Museum in Athens, Greece with visitors. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31492867.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "שקיעה מגבעת ליקבטוס",
+      "alt": "נוף מגבעת ליקבטוס",
+      "image": {
+        "query": "lycabettus hill athens sunset",
+        "id": "pexels-31079246",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31079246/pexels-photo-31079246/free-photo-of-breathtaking-athens-sunset-skyline-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/breathtaking-athens-sunset-skyline-view-31079246/"
+        },
+        "alt": "Free Stunning sunset over Athens cityscape with vibrant sky colors. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31079246.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "ערב בשכונת קוקאקי",
+      "alt": "רחוב בשכונת קוקאקי",
+      "image": {
+        "query": "koukaki athens neighbourhood street evening",
+        "id": "pexels-18362505",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18362505/pexels-photo-18362505/free-photo-of-alley-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/alley-in-city-18362505/"
+        },
+        "alt": "Free Captivating alleyway scene in Athens with sunlit buildings, capturing urban architecture at sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18362505.jpg"
+      },
+      "credit": null
+    },
+    {
+      "role": "screenshot",
+      "layout": "screenshot",
+      "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
+    }
+  ]
+}

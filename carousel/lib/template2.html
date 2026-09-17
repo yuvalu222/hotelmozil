@@ -86,6 +86,74 @@
   .stk.serif .s { font:700 54px/1.25 'Frank Ruhl Libre'; }
   .stk.serif .s.body { font-size:40px; }
 
+
+  /* ======== skin: city-huge (veeceecheng, 16,127 likes / 351k) ========
+     Tiny lowercase label, then the CITY NAME at display size, then a small
+     secondary line. No boxes, no scrim beyond a soft one. Items carry a single
+     centred lowercase line low in the frame. */
+  .cityh { position:absolute; right:90px; left:90px; top:50%; transform:translateY(-50%);
+           display:flex; flex-direction:column; align-items:flex-start; }
+  .cityh .lbl { font:500 46px/1 'Heebo'; color:#fff; opacity:.95; margin-bottom:6px; }
+  .cityh .city { font:900 210px/0.86 'Heebo'; color:#fff; letter-spacing:-.03em;
+                 text-shadow:0 6px 30px rgba(0,0,0,.35); }
+  .cityh .sec { font:500 44px/1 'Heebo'; color:#fff; opacity:.9; align-self:flex-end; margin-top:10px; }
+  .cityline { position:absolute; left:80px; right:80px; bottom:430px; text-align:center;
+              font:700 52px/1.25 'Heebo'; color:#fff; text-shadow:0 2px 16px rgba(0,0,0,.75); }
+
+  /* ======== skin: mistakes (detouristahq, ER 0.093) ========
+     Coloured keyword inside a plain line, then the destination at display size.
+     Item slides put a white bar across the top with the mistake between two X. */
+  .mist { position:absolute; left:70px; right:70px; top:34%; text-align:center; }
+  .mist .l1 { font:800 62px/1.2 'Heebo'; color:#fff; text-shadow:0 3px 16px rgba(0,0,0,.6); }
+  .mist .l1 .kw { color:#27d3f5; }
+  .mist .big { font:900 150px/1 'Heebo'; color:#fff; letter-spacing:-.02em;
+               text-shadow:0 4px 22px rgba(0,0,0,.5); margin-top:6px; }
+  .mistbar { position:absolute; left:64px; right:64px; top:150px; background:#fff;
+             display:flex; align-items:center; justify-content:center; gap:16px;
+             padding:16px 22px; box-shadow:0 3px 14px rgba(0,0,0,.28); }
+  .mistbar span { font:800 50px/1.2 'Heebo'; color:#111; }
+  .mistbar .x { font-size:44px; line-height:1; }
+
+  /* ======== skin: editorial (moresocialclub, ER 0.056) ========
+     Cream ground, serif throughout, a large serif numeral, a headline with one
+     italic word, a justified body paragraph, and artwork beneath. The source
+     builds its artwork from cut-out collage, which stock photography cannot
+     reproduce; a single framed photo stands in for it. */
+  .edi { position:absolute; inset:0; background:#f2efe9; display:flex; flex-direction:column;
+         align-items:center; padding:300px 96px 300px; text-align:center; }
+  .edi .brand { font:400 40px/1.1 'Frank Ruhl Libre'; color:#1a1a1a; letter-spacing:.02em; }
+  .edi .brandsub { font:500 22px/1 'Heebo'; color:#444; letter-spacing:.34em; margin-top:8px; }
+  .edi .num { font:400 104px/1 'Frank Ruhl Libre'; color:#111; margin-top:54px; }
+  .edi .head { font:700 76px/1.18 'Frank Ruhl Libre'; color:#111; margin-top:18px; }
+  .edi .head em { font-style:italic; font-weight:400; }
+  .edi .body { font:500 34px/1.5 'Heebo'; color:#222; margin-top:26px; max-width:820px; }
+  .edi .body b { font-weight:800; }
+  .edi .art { margin-top:40px; width:640px; height:420px; overflow:hidden; border-radius:6px; }
+  .edi .art img { width:100%; height:100%; object-fit:cover; display:block; }
+
+  /* ======== skin: maps (lexilaube, 354,828 likes, ER 2.29) ========
+     Cover: an unstyled creator photo with a centred white serif line high in
+     the frame. Payoff: a route card. The source screenshots Google Maps itself;
+     redrawing Google's chrome would be fabricating another product's UI, so
+     this card is plainly our own and the spec says to swap in a real one. */
+  .mapline { position:absolute; left:80px; right:80px; top:210px; text-align:center;
+             font:700 64px/1.22 'Frank Ruhl Libre'; color:#fff;
+             text-shadow:0 3px 18px rgba(0,0,0,.6); white-space:pre-line; }
+  .routewrap { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; }
+  .route { width:860px; background:#fff; border-radius:20px; padding:34px 30px 26px;
+           box-shadow:0 20px 60px rgba(0,0,0,.4); }
+  .route .row { display:flex; align-items:center; gap:18px; margin-bottom:14px; }
+  .route .mk { width:58px; height:58px; border-radius:29px; background:#eceff3; color:#333;
+               font:800 30px/58px 'Heebo'; text-align:center; flex:0 0 auto; }
+  .route .fld { flex:1 1 auto; background:#f4f6f8; border-radius:12px; padding:16px 20px;
+                font:600 38px/1.2 'Heebo'; color:#111; text-align:right; }
+  .route .tot { border-top:1px solid #e2e6ea; margin-top:8px; padding-top:18px;
+                display:flex; justify-content:space-between; align-items:center;
+                font:600 34px/1 'Heebo'; color:#333; }
+  .route .tot .go { color:#1a73e8; font-weight:800; }
+  .mapnote { position:absolute; left:80px; right:80px; bottom:300px; text-align:center;
+             font:700 56px/1.2 'Frank Ruhl Libre'; color:#fff; text-shadow:0 3px 18px rgba(0,0,0,.7); }
+
   /* ======== closing placeholder (unchanged from template.html) ======== */
   .shot { position:absolute; top:340px; left:190px; width:700px; height:1240px; border-radius:36px; overflow:hidden; box-shadow:0 30px 90px rgba(0,0,0,.6); background:#111; }
   .shot img { width:100%; height:100%; object-fit:cover; display:block; }
