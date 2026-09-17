@@ -8,79 +8,450 @@
   "sourceER": 0.0607,
   "demonstrates": "Cloned from travel2losangeles's '20 Things to do in Los Angeles' — 5,334 likes (3.8x the corpus median) at ER 0.061, which clears both bars. Copied: 2x2 photo grid with thin white gutters on every slide; the cover carries two stacked white rounded stickers in a heavy rounded sans; item slides label each of the four cells at its foot with the same sticker, four places per slide, no numbers anywhere. Replaces the earlier Cyprus version: the source names a CITY and so does this one. Larnaca is where the flights actually land, and everything listed is inside an hour of it.",
   "caption": "20 דברים לעשות בלרנקה ובשעה נסיעה ממנה. חלק ברגל מהטיילת, וחלק דורשים רכב ליום אחד. מה אתם מכירים שם?",
-  "hashtags": ["לרנקה", "קפריסין", "טיפיםלטיול"],
+  "hashtags": [
+    "לרנקה",
+    "קפריסין",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "layout": "grid-stickers",
-      "lines": ["20 דברים לעשות", "📍בלרנקה"],
+      "lines": [
+        "20 דברים לעשות",
+        "📍בלרנקה"
+      ],
       "alt": "ארבע תמונות מלרנקה: טיילת, חוף, אגם המלח ומסגד",
       "images": [
-        { "query": "larnaca finikoudes promenade palm trees" },
-        { "query": "larnaca beach cyprus" },
-        { "query": "larnaca salt lake flamingos" },
-        { "query": "hala sultan tekke mosque larnaca" }
+        {
+          "query": "larnaca finikoudes promenade palm trees",
+          "id": "pexels-4967376",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4967376/pexels-photo-4967376.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-pier-by-sea-4967376/"
+          },
+          "alt": "Free Stunning view of a coastal city walkway perfect for leisure and tourism activities. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967376.jpg"
+        },
+        {
+          "query": "larnaca beach cyprus",
+          "id": "pexels-36725370",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36725370/pexels-photo-36725370/free-photo-of-aerial-view-of-larnaca-seafront-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-larnaca-seafront-in-cyprus-36725370/"
+          },
+          "alt": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36725370.jpg"
+        },
+        {
+          "query": "larnaca salt lake flamingos",
+          "id": "pexels-35415125",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35415125/pexels-photo-35415125/free-photo-of-flock-of-flamingos-wading-in-tranquil-water-at-dawn.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/flock-of-flamingos-wading-in-tranquil-water-at-dawn-35415125/"
+          },
+          "alt": "Free A serene scene of flamingos wading in calm waters during twilight, with a distant horizon. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35415125.jpg"
+        },
+        {
+          "query": "hala sultan tekke mosque larnaca",
+          "id": "pexels-5655087",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5655087/pexels-photo-5655087.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/green-trees-beside-the-mosque-5655087/"
+          },
+          "alt": "Free Scenic view of the historical Hala Sultan Tekke Mosque in Larnaca surrounded by lush palm trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5655087.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["טיילת פיניקודס", "מבצר לרנקה", "כנסיית לזרוס", "שוק העיר"],
+      "labels": [
+        "טיילת פיניקודס",
+        "מבצר לרנקה",
+        "כנסיית לזרוס",
+        "שוק העיר"
+      ],
       "alt": "ארבעה מקומות במרכז לרנקה",
       "images": [
-        { "query": "finikoudes promenade larnaca" },
-        { "query": "larnaca castle cyprus" },
-        { "query": "saint lazarus church larnaca" },
-        { "query": "larnaca old town market street" }
+        {
+          "query": "finikoudes promenade larnaca",
+          "id": "pexels-4967376",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4967376/pexels-photo-4967376.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-pier-by-sea-4967376/"
+          },
+          "alt": "Free Stunning view of a coastal city walkway perfect for leisure and tourism activities. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967376.jpg"
+        },
+        {
+          "query": "larnaca castle cyprus",
+          "id": "pexels-26860860",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/26860860/pexels-photo-26860860/free-photo-of-chairs-and-tables-in-an-alley.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/chairs-and-tables-in-an-alley-26860860/"
+          },
+          "alt": "Free Aerial view of a vibrant alley in Larnaca, Cyprus, with colorful rooftops and Mediterranean architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26860860.jpg"
+        },
+        {
+          "query": "saint lazarus church larnaca",
+          "id": "pexels-33794348",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33794348/pexels-photo-33794348/free-photo-of-historic-church-with-bell-tower-under-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-church-with-bell-tower-under-blue-sky-33794348/"
+          },
+          "alt": "Free A historic stone church with a bell tower in a sunny courtyard against a blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33794348.jpg"
+        },
+        {
+          "query": "larnaca old town market street",
+          "id": "pexels-37044299",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37044299/pexels-photo-37044299/free-photo-of-historic-stone-architecture-on-narrow-street.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-stone-architecture-on-narrow-street-37044299/"
+          },
+          "alt": "Free View of an ancient stone archway and building on a narrow street. Captured in day light. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37044299.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["אגם המלח", "הלה סולטן טקה", "כפר קיטי", "אמאתוס"],
+      "labels": [
+        "אגם המלח",
+        "הלה סולטן טקה",
+        "כפר קיטי",
+        "אמאתוס"
+      ],
       "alt": "ארבעה מקומות סביב לרנקה",
       "images": [
-        { "query": "larnaca salt lake cyprus flamingo" },
-        { "query": "hala sultan tekke cyprus" },
-        { "query": "kiti village cyprus church" },
-        { "query": "amathus ruins cyprus" }
+        {
+          "query": "larnaca salt lake cyprus flamingo",
+          "id": "pexels-35415125",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35415125/pexels-photo-35415125/free-photo-of-flock-of-flamingos-wading-in-tranquil-water-at-dawn.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/flock-of-flamingos-wading-in-tranquil-water-at-dawn-35415125/"
+          },
+          "alt": "Free A serene scene of flamingos wading in calm waters during twilight, with a distant horizon. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35415125.jpg"
+        },
+        {
+          "query": "hala sultan tekke cyprus",
+          "id": "pexels-5655087",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5655087/pexels-photo-5655087.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/green-trees-beside-the-mosque-5655087/"
+          },
+          "alt": "Free Scenic view of the historical Hala Sultan Tekke Mosque in Larnaca surrounded by lush palm trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5655087.jpg"
+        },
+        {
+          "query": "kiti village cyprus church",
+          "id": "pexels-12703806",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12703806/pexels-photo-12703806.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/an-entrance-of-a-stone-building-with-a-welcome-sign-12703806/"
+          },
+          "alt": "Free Rustic stone building with a welcome sign in Larnaca, Cyprus, featuring a scenic view of a church tower. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12703806.jpg"
+        },
+        {
+          "query": "amathus ruins cyprus",
+          "id": "pexels-34146601",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34146601/pexels-photo-34146601/free-photo-of-ancient-ruins-overlooking-mediterranean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-ruins-overlooking-mediterranean-sea-34146601/"
+          },
+          "alt": "Free Stone ruins with lush tree on hilltop, overlooking Mediterranean seascape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34146601.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["לפקרה", "כפר קאטו דריס", "מנזר סטברובוני", "חוות הדבש"],
+      "labels": [
+        "לפקרה",
+        "כפר קאטו דריס",
+        "מנזר סטברובוני",
+        "חוות הדבש"
+      ],
       "alt": "ארבעה מקומות בכפרי ההר",
       "images": [
-        { "query": "lefkara village cyprus street" },
-        { "query": "kato drys cyprus village" },
-        { "query": "stavrovouni monastery cyprus" },
-        { "query": "cyprus countryside village stone house" }
+        {
+          "query": "lefkara village cyprus street",
+          "id": "pexels-1544413",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/1544413/pexels-photo-1544413.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/black-road-in-between-beige-walls-under-cloudy-sky-1544413/"
+          },
+          "alt": "Free Narrow street in Yukarı Lefkara, Cyprus with rustic architecture and overcast sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1544413.jpg"
+        },
+        {
+          "query": "kato drys cyprus village",
+          "id": "pexels-20049934",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20049934/pexels-photo-20049934/free-photo-of-village-under-hill.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/village-under-hill-20049934/"
+          },
+          "alt": "Free Charming aerial view of Bağlıköy village with hills and lush greenery, showcasing rural Cyprus beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20049934.jpg"
+        },
+        {
+          "query": "stavrovouni monastery cyprus",
+          "id": "pexels-12585149",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12585149/pexels-photo-12585149.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/green-plants-in-the-garden-12585149/"
+          },
+          "alt": "Free Explore the gothic arches of Bellapais Abbey surrounded by lush gardens and towering trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12585149.jpg"
+        },
+        {
+          "query": "cyprus countryside village stone house",
+          "id": "pexels-20049934",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20049934/pexels-photo-20049934/free-photo-of-village-under-hill.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/village-under-hill-20049934/"
+          },
+          "alt": "Free Charming aerial view of Bağlıköy village with hills and lush greenery, showcasing rural Cyprus beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20049934.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["חוף מקנזי", "צוללת זנוביה", "מפרץ קונוס", "קייפ גרקו"],
+      "labels": [
+        "חוף מקנזי",
+        "צוללת זנוביה",
+        "מפרץ קונוס",
+        "קייפ גרקו"
+      ],
       "alt": "ארבעה מקומות על הים",
       "images": [
-        { "query": "mackenzie beach larnaca" },
-        { "query": "diving wreck mediterranean cyprus" },
-        { "query": "konnos bay protaras cyprus" },
-        { "query": "cape greco cyprus sea caves" }
+        {
+          "query": "mackenzie beach larnaca",
+          "id": "pexels-36725370",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36725370/pexels-photo-36725370/free-photo-of-aerial-view-of-larnaca-seafront-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-larnaca-seafront-in-cyprus-36725370/"
+          },
+          "alt": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36725370.jpg"
+        },
+        {
+          "query": "diving wreck mediterranean cyprus",
+          "id": "pexels-30572249",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30572249/pexels-photo-30572249/free-photo-of-freediver-exploring-shipwreck-in-cyprus-waters.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/freediver-exploring-shipwreck-in-cyprus-waters-30572249/"
+          },
+          "alt": "Free A breathtaking underwater scene of a freediver investigating a sunken ship in the clear waters of Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30572249.jpg"
+        },
+        {
+          "query": "konnos bay protaras cyprus",
+          "id": "pexels-28379234",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28379234/pexels-photo-28379234/free-photo-of-aerial-view-of-rocky-shoreline-in-protaras-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-rocky-shoreline-in-protaras-cyprus-28379234/"
+          },
+          "alt": "Free Stunning aerial shot of a rocky shoreline with turquoise waters in Protaras, Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28379234.jpg"
+        },
+        {
+          "query": "cape greco cyprus sea caves",
+          "id": "pexels-34672073",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34672073/pexels-photo-34672073/free-photo-of-stunning-sea-caves-on-cyprus-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-sea-caves-on-cyprus-coastline-34672073/"
+          },
+          "alt": "Free Explore the breathtaking sea caves along the rocky coastline of Cyprus, capturing nature's beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34672073.jpg"
+        }
       ]
     },
     {
       "layout": "grid-labels",
-      "labels": ["חוף ניסי", "מערות הים", "נמל אייה נאפה", "כפר הדייגים"],
+      "labels": [
+        "חוף ניסי",
+        "מערות הים",
+        "נמל אייה נאפה",
+        "כפר הדייגים"
+      ],
       "alt": "ארבעה מקומות באיה נאפה",
       "images": [
-        { "query": "nissi beach ayia napa" },
-        { "query": "ayia napa sea caves cyprus" },
-        { "query": "ayia napa harbour boats" },
-        { "query": "potamos liopetri fishing village cyprus" }
+        {
+          "query": "nissi beach ayia napa",
+          "id": "pexels-32056712",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32056712/pexels-photo-32056712/free-photo-of-aerial-view-of-ayia-napa-beachfront-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-ayia-napa-beachfront-cyprus-32056712/"
+          },
+          "alt": "Free Stunning aerial shot of Ayia Napa's rocky coast and clear blue waters in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32056712.jpg"
+        },
+        {
+          "query": "ayia napa sea caves cyprus",
+          "id": "pexels-34672073",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34672073/pexels-photo-34672073/free-photo-of-stunning-sea-caves-on-cyprus-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-sea-caves-on-cyprus-coastline-34672073/"
+          },
+          "alt": "Free Explore the breathtaking sea caves along the rocky coastline of Cyprus, capturing nature's beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34672073.jpg"
+        },
+        {
+          "query": "ayia napa harbour boats",
+          "id": "pexels-1544412",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/1544412/pexels-photo-1544412.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/silhouette-photography-of-boat-1544412/"
+          },
+          "alt": "Free A serene sunset over a sailboat in Ayia Napa, Cyprus, capturing vibrant colors and calm seas. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1544412.jpg"
+        },
+        {
+          "query": "potamos liopetri fishing village cyprus",
+          "id": "pexels-13916776",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13916776/pexels-photo-13916776.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-boat-on-the-water-13916776/"
+          },
+          "alt": "Free Front view of a fishing boat moored in Cyprus, showcasing classic maritime equipment. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13916776.jpg"
+        }
       ]
     },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

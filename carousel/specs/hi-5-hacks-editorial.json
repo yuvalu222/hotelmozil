@@ -8,7 +8,11 @@
   "sourceER": 0.0558,
   "demonstrates": "Cloned from moresocialclub's '6 Travel Hacks Every Cool Kid Knows' — 5,689 likes at ER 0.056, clearing both bars. Copied: a cream ground with no photograph behind the type, serif throughout, a large serif numeral above the headline, one italic word inside the headline, a centred body paragraph with a bolded clause, and artwork beneath. One thing could not be copied: the source builds its artwork from cut-out collage, which stock photography cannot produce, so a single framed photo stands in for it and the gap is noted rather than hidden. This is the only deck of the five that is not destination-specific, which is also true of the source.",
   "caption": "6 דברים שמי שטס הרבה עושה אחרת. אף אחד מהם לא דורש כרטיס יקר יותר, רק להחליט מראש. מה שלכם?",
-  "hashtags": ["טיפיםלטיול", "טיסות", "מטיילים"],
+  "hashtags": [
+    "טיפיםלטיול",
+    "טיסות",
+    "מטיילים"
+  ],
   "slides": [
     {
       "layout": "editorial",
@@ -17,55 +21,181 @@
       "num": "6",
       "head": "דברים שמי שטס הרבה\n{עושה אחרת}",
       "alt": "מזוודה וכרטיס טיסה",
-      "image": { "query": "vintage suitcase passport boarding pass flatlay" }
+      "image": {
+        "query": "vintage suitcase passport boarding pass flatlay",
+        "id": "pexels-14545897",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14545897/pexels-photo-14545897.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/venezuelan-passport-lying-on-leathear-suitcase-with-a-lock-14545897/"
+        },
+        "alt": "Free Venezuelan passport resting on vintage suitcases, ideal travel concept imagery for vacation and adventure themes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14545897.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "01",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "01",
       "head": "{הזמן} הוא המטבע",
       "body": "מסלול מהיר בביקורת, העברה מסודרת מהשדה, צ'ק-אין מוקדם. *מי שטס הרבה יודע שהמותרות האמיתיות הן לא לבזבז זמן*, וכל דבר שמקצר את הדרך שווה את זה.",
       "alt": "שעון חול ליד שעון",
-      "image": { "query": "hourglass clock time concept" }
+      "image": {
+        "query": "hourglass clock time concept",
+        "id": "pexels-4397906",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/set-of-modern-hourglasses-on-table-4397906/"
+        },
+        "alt": "Free Amber and transparent hourglasses with rose and black sand placed on white table Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4397906.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "02",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "02",
       "head": "לארוז {פחות} ממה שנדמה",
       "body": "תיק עלייה למטוס בלבד מוריד המתנה במסוע, מאפשר להחליף טיסה ברגע האחרון, *וכמעט תמיד חוזרים עם חצי מהבגדים לא לבושים*.",
       "alt": "תיק עלייה למטוס ארוז",
-      "image": { "query": "packed carry on bag clothes" }
+      "image": {
+        "query": "packed carry on bag clothes",
+        "id": "pexels-9186152",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9186152/pexels-photo-9186152.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/packing-suitcase-for-traveling-9186152/"
+        },
+        "alt": "Free Open suitcase filled with neatly folded clothes on bed, ready for travel preparation. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9186152.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "03",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "03",
       "head": "לבחור {מיקום} לפני כוכבים",
       "body": "מלון שלוש כוכבים במרכז מנצח חמישה כוכבים ברבע שעה נסיעה. *המרחק הוא מה שקובע כמה מהיום באמת נשאר לכם*, לא הלובי.",
       "alt": "רחוב במרכז עיר אירופית",
-      "image": { "query": "european city centre street cafe morning" }
+      "image": {
+        "query": "european city centre street cafe morning",
+        "id": "pexels-32521137",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32521137/pexels-photo-32521137/free-photo-of-european-urban-street-scene-in-kassel-germany.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/european-urban-street-scene-in-kassel-germany-32521137/"
+        },
+        "alt": "Free Vibrant urban street in Kassel with outdoor seating, highlighting European charm. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32521137.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "04",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "04",
       "head": "להוריד {מפה} לא מקוונת",
       "body": "לפני שיוצאים מהבית. אין רשת בשדה, אין סים מקומי בשעה הראשונה, *ודווקא אז צריך להבין לאן ללכת*.",
       "alt": "טלפון עם מפה ברחוב",
-      "image": { "query": "phone offline map street navigation" }
+      "image": {
+        "query": "phone offline map street navigation",
+        "id": "pexels-4542998",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/4542998/pexels-photo-4542998.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/person-holding-black-android-smartphone-4542998/"
+        },
+        "alt": "Free Close-up of a hand using a smartphone displaying a map for navigation. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4542998.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "05",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "05",
       "head": "לאכול איפה ש{עובדים}",
       "body": "לא איפה שיש תפריט בחמש שפות. *שתי סמטאות מהאטרקציה המחיר נחתך והאוכל משתפר*, וזה נכון כמעט בכל עיר.",
       "alt": "מסעדה מקומית קטנה",
-      "image": { "query": "small local restaurant locals eating" }
+      "image": {
+        "query": "small local restaurant locals eating",
+        "id": "pexels-14257225",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14257225/pexels-photo-14257225.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-restaurant-in-a-building-14257225/"
+        },
+        "alt": "Free A street view of Ensaladas Alvita restaurant with a lively atmosphere and visible signage. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14257225.jpg"
+      },
+      "credit": null
     },
     {
-      "layout": "editorial", "brand": "HotelMozil", "brandsub": "TEL AVIV", "num": "06",
+      "layout": "editorial",
+      "brand": "HotelMozil",
+      "brandsub": "TEL AVIV",
+      "num": "06",
       "head": "להשאיר {יום אחד} ריק",
       "body": "בלי כלום ביומן. *זה תמיד היום שנזכרים ממנו*, ובלעדיו הטיול הופך לרשימת מטלות.",
       "alt": "בוקר שקט על מרפסת",
-      "image": { "query": "quiet balcony morning coffee view" }
+      "image": {
+        "query": "quiet balcony morning coffee view",
+        "id": "pexels-17574129",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/17574129/pexels-photo-17574129/free-photo-of-a-cup-of-coffee-on-a-wooden-balustrade-on-a-terrace-with-the-view-of-the-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-cup-of-coffee-on-a-wooden-balustrade-on-a-terrace-with-the-view-of-the-city-17574129/"
+        },
+        "alt": "Free Enjoy a serene coffee moment with a stunning coastal cityscape at sunset in the background. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17574129.jpg"
+      },
+      "credit": null
     },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

@@ -8,32 +8,154 @@
   "sourceER": 2.2892,
   "demonstrates": "Cloned from lexilaube's 'I'm not saying we SHOULD, but.. / we coulddd..' — 354,828 likes on 155,000 followers, an engagement rate of 2.29 and by a wide margin the single biggest post in the entire corpus. Copied: an unstyled creator photo carrying one centred white serif line high in the frame, and a payoff slide that is a ROUTE, not designed artwork. The source screenshots Google Maps directly; redrawing Google's own interface would be fabricating another product's UI, so the card here is plainly ours and the real version should be a screenshot Yuval takes himself. Four Greek islands within one short flight, which is the Israeli version of the same fantasy.",
   "caption": "אני לא אומר שצריך, אבל ארבעה איים ביוון נכנסים בשבוע אחד, וכולם במעבורת אחת זה מזה. מי בא?",
-  "hashtags": ["יוון", "איייוון", "טיפיםלטיול"],
+  "hashtags": [
+    "יוון",
+    "איייוון",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "layout": "maps",
       "headline": "אני לא אומר\nשצריך, אבל..",
       "alt": "נוף של אי יווני מהמעבורת",
-      "image": { "query": "greek island ferry deck sea view" }
+      "image": {
+        "query": "greek island ferry deck sea view",
+        "id": "pexels-15264137",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15264137/pexels-photo-15264137/free-photo-of-ferry-on-a-sea-in-sunlight.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/ferry-on-a-sea-in-sunlight-15264137/"
+        },
+        "alt": "Free View of the Marmara Sea from a ferry near Büyükada, Istanbul. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15264137.jpg"
+      },
+      "credit": null
     },
     {
       "layout": "maps",
-      "stops": ["אתונה", "מיקונוס", "נאקסוס", "סנטוריני"],
+      "stops": [
+        "אתונה",
+        "מיקונוס",
+        "נאקסוס",
+        "סנטוריני"
+      ],
       "total": "סך הכול: 6 לילות",
       "action": "סיום",
       "note": "אפשר לגמרי..",
       "alt": "מסלול בין ארבעה איים ביוון",
-      "image": { "query": "aegean sea islands aerial greece" }
+      "image": {
+        "query": "aegean sea islands aerial greece",
+        "id": "pexels-37844625",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37844625/pexels-photo-37844625/free-photo-of-aerial-view-of-cruise-ship-near-patmos-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-cruise-ship-near-patmos-greece-37844625/"
+        },
+        "alt": "Free Scenic aerial shot of a cruise ship in calm blue waters near Patmos Island, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844625.jpg"
+      },
+      "credit": null
     },
-    { "layout": "city-huge", "line": "אתונה, שני לילות", "alt": "אתונה בערב", "image": { "query": "athens evening street acropolis" } },
-    { "layout": "city-huge", "line": "מיקונוס, מעבורת של שעתיים", "alt": "מיקונוס", "image": { "query": "mykonos windmills white houses" } },
-    { "layout": "city-huge", "line": "נאקסוס, הכי זול מהארבעה", "alt": "נאקסוס", "image": { "query": "naxos greece portara beach" } },
-    { "layout": "city-huge", "line": "סנטוריני, וטיסה הביתה", "alt": "סנטוריני בשקיעה", "image": { "query": "santorini oia sunset caldera" } },
+    {
+      "layout": "city-huge",
+      "line": "אתונה, שני לילות",
+      "alt": "אתונה בערב",
+      "image": {
+        "query": "athens evening street acropolis",
+        "id": "pexels-39304869",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39304869/pexels-photo-39304869/free-photo-of-vibrant-evening-in-athens-with-acropolis-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vibrant-evening-in-athens-with-acropolis-view-39304869/"
+        },
+        "alt": "Free Bustling street scene in Athens at sunset with the Acropolis in view, capturing cultural charm. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39304869.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "מיקונוס, מעבורת של שעתיים",
+      "alt": "מיקונוס",
+      "image": {
+        "query": "mykonos windmills white houses",
+        "id": "pexels-37844835",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37844835/pexels-photo-37844835/free-photo-of-aerial-view-of-mykonos-windmills-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-mykonos-windmills-in-greece-37844835/"
+        },
+        "alt": "Free Stunning aerial view of the iconic Mykonos windmills against a vibrant sea and sky in Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844835.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "נאקסוס, הכי זול מהארבעה",
+      "alt": "נאקסוס",
+      "image": {
+        "query": "naxos greece portara beach",
+        "id": "pexels-18624415",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18624415/pexels-photo-18624415/free-photo-of-hill-over-sea-shore-in-town-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/hill-over-sea-shore-in-town-in-greece-18624415/"
+        },
+        "alt": "Free Explore the iconic Portara on Naxos island with a picturesque coastal promenade. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18624415.jpg"
+      },
+      "credit": null
+    },
+    {
+      "layout": "city-huge",
+      "line": "סנטוריני, וטיסה הביתה",
+      "alt": "סנטוריני בשקיעה",
+      "image": {
+        "query": "santorini oia sunset caldera",
+        "id": "pexels-11047819",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/11047819/pexels-photo-11047819.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/steps-in-a-town-11047819/"
+        },
+        "alt": "Free Captivating dusk view of Santorini’s white steps and sea, offering a serene urban escape. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11047819.jpg"
+      },
+      "credit": null
+    },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\assets\\closing-placeholder.jpg"
+      }
     }
   ]
 }

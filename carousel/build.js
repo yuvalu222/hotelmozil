@@ -12,6 +12,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { gather } from './lib/stock.js';
+import { closeBrowser } from './lib/stock-browser.js';
 import { renderSpec } from './lib/render.js';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
@@ -150,4 +151,11 @@ async function main() {
   if (problems.length) console.log(`\n${problems.length} non-fatal spec problem(s) above.`);
 }
 
-main().catch((err) => fail(err.stack || err.message));
+// The keyless Pexels path holds a Chromium open at module scope, so without an
+// explicit close the process keeps its event loop alive long after every file
+// has been written — the build looks hung when it has actually finished.
+main()
+  .catch((err) => { console.error(`error: ${err.stack || err.message}`); process.exitCode = 1; })
+  .finally(async () => {
+    try { await closeBrowser(); } catch { /* already gone */ }
+  });

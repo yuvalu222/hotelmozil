@@ -95,7 +95,7 @@
            display:flex; flex-direction:column; align-items:flex-start; }
   .cityh .lbl { font:500 46px/1 'Heebo'; color:#fff; opacity:.95; margin-bottom:6px; }
   .cityh .city { font:900 210px/0.86 'Heebo'; color:#fff; letter-spacing:-.03em;
-                 text-shadow:0 6px 30px rgba(0,0,0,.35); }
+                 text-shadow:0 6px 34px rgba(0,0,0,.6); }
   .cityh .sec { font:500 44px/1 'Heebo'; color:#fff; opacity:.9; align-self:flex-end; margin-top:10px; }
   .cityline { position:absolute; left:80px; right:80px; bottom:430px; text-align:center;
               font:700 52px/1.25 'Heebo'; color:#fff; text-shadow:0 2px 16px rgba(0,0,0,.75); }
@@ -103,12 +103,17 @@
   /* ======== skin: mistakes (detouristahq, ER 0.093) ========
      Coloured keyword inside a plain line, then the destination at display size.
      Item slides put a white bar across the top with the mistake between two X. */
+  .scrim-mid { position:absolute; inset:0;
+    background:linear-gradient(180deg, rgba(0,0,0,0) 14%, rgba(0,0,0,.52) 34%,
+                                       rgba(0,0,0,.52) 52%, rgba(0,0,0,0) 72%); }
   .mist { position:absolute; left:70px; right:70px; top:34%; text-align:center; }
-  .mist .l1 { font:800 62px/1.2 'Heebo'; color:#fff; text-shadow:0 3px 16px rgba(0,0,0,.6); }
+  .mist .l1 { font:800 62px/1.2 'Heebo'; color:#fff; text-shadow:0 3px 18px rgba(0,0,0,.85); }
   .mist .l1 .kw { color:#27d3f5; }
   .mist .big { font:900 150px/1 'Heebo'; color:#fff; letter-spacing:-.02em;
-               text-shadow:0 4px 22px rgba(0,0,0,.5); margin-top:6px; }
-  .mistbar { position:absolute; left:64px; right:64px; top:150px; background:#fff;
+               text-shadow:0 4px 26px rgba(0,0,0,.8); margin-top:6px; }
+  /* y=150 sat ABOVE the Instagram crop, which starts at 285, so the bar was
+     rendered on the 9:16 file and cut off the 4:5 one entirely. */
+  .mistbar { position:absolute; left:64px; right:64px; top:352px; background:#fff;
              display:flex; align-items:center; justify-content:center; gap:16px;
              padding:16px 22px; box-shadow:0 3px 14px rgba(0,0,0,.28); }
   .mistbar span { font:800 50px/1.2 'Heebo'; color:#111; }
@@ -136,7 +141,7 @@
      the frame. Payoff: a route card. The source screenshots Google Maps itself;
      redrawing Google's chrome would be fabricating another product's UI, so
      this card is plainly our own and the spec says to swap in a real one. */
-  .mapline { position:absolute; left:80px; right:80px; top:210px; text-align:center;
+  .mapline { position:absolute; left:80px; right:80px; top:390px; text-align:center;
              font:700 64px/1.22 'Frank Ruhl Libre'; color:#fff;
              text-shadow:0 3px 18px rgba(0,0,0,.6); white-space:pre-line; }
   .routewrap { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; }

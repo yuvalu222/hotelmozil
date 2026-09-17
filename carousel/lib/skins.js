@@ -134,7 +134,7 @@ const SKINS = {
         <div class="mistbar"><span class="x">❌</span><span>${esc(s.item)}</span><span class="x">❌</span></div>`;
     }
     return `<img class="photo" src="${photos[0]}" alt="">
-      <div class="scrim-bottom"></div>
+      <div class="scrim-mid"></div>
       <div class="mist">
         <div class="l1"><span class="kw">${esc(s.kw)}</span> ${esc(s.rest)}</div>
         <div class="big">${esc(s.place)}</div>
