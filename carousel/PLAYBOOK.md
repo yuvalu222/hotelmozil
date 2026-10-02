@@ -446,6 +446,77 @@ study:
 - **The safe band gained bottom padding.** The swipe affordance is absolutely
   positioned and was overlapping the body line on every bottom-aligned slide.
 
+## 4d. Captions — the element the study skipped entirely
+
+Every lens file in this study says some version of *"the copy lives in the
+caption"* — 263 times — and then goes on to analyse the image. The captions were
+on disk the whole time, all 57 of them, and nobody read them. `analyze/captions.py`
+reads them now.
+
+One correction first, because it changed every number: the embed wraps each
+caption in chrome, and the stored field is flattened to one line, so a first
+pass left `Like Comment Share Save 354,828 likes lexilaube` *inside* the text.
+That scored as a "comment" CTA in all 57 rows and put a like count inside the
+first 125 characters. The figures below are after anchoring the strip on the
+like count and dropping the repeated handle.
+
+### What the corpus does
+
+| | share of 57 |
+| --- | --- |
+| contains a question | 33% |
+| **ends on a question** | **0%** |
+| a number inside the first 125 characters | 42% |
+| any hashtag at all | 31% |
+| 1–5 hashtags | 28% |
+| 6+ hashtags | 3% |
+| any emoji | 89% |
+| an explicit CTA ("save this", "tag a…") | 42% |
+
+Median caption is **410 characters of prose** — long, not punchy — with a median
+of **0 hashtags** and **4 emoji**.
+
+### The gap worth acting on
+
+**Not one caption in the corpus ends on a question.** The brief's §6 names
+ending on a question as *the best-evidenced single tactic available anywhere* —
++26.19% comments, measured across 2.3M posts. Zero of 57 do it. That is not a
+pattern to copy; it is an opening nobody in this corpus has taken.
+
+### Features against engagement rate
+
+*Medians of unbalanced groups, n=52 with a usable rate. These are hints, not
+findings: engagement rate is confounded by account size and topic, and nothing
+here establishes direction. The one solid line above is the 0%, which is a
+count rather than a correlation.*
+
+| caption feature | ER with | ER without | ratio |
+| --- | ---: | ---: | ---: |
+| **1–5 hashtags** | 0.0571 | 0.0125 | **4.6×** |
+| explicit CTA | 0.0390 | 0.0199 | 2.0× |
+| contains a question | 0.0347 | 0.0195 | 1.8× |
+| prose under 200 chars | 0.0262 | 0.0234 | 1.1× |
+| number inside 125 chars | 0.0240 | 0.0262 | 0.9× — *inverted* |
+| any emoji | 0.0248 | 0.0258 | 1.0× — *no signal* |
+
+Two of these cut against conventions this repo already encodes. `README.md`
+tells you to put the number in the first 125 characters; in this corpus that
+group has a slightly *lower* median rate. And emoji, which 89% of captions
+carry, separate nothing at all.
+
+The hashtag line is the strongest signal in the caption data and matches the
+published figure's direction, but only 28% of the corpus does it — so it is
+simultaneously the best-supported tactic and the least used.
+
+### What the top captions open with
+
+The first line is all the feed shows. In the ten highest-rate decks it is,
+verbatim: a first-person confession (`I could do this road trip a million times
+& never get sick of it`), a credential (`Day 28/60: the checklist I PERSONALLY
+SWEAR by`), an alarm (`🚨 Planning a trip to Italy? These tourist mistakes could
+cost you hundreds`), or a bare instruction (`🌞 SAVE THIS.`). None of them opens
+by naming the format.
+
 ## 5. Corpus composition
 
 See `harvest/link-list.md` for the full table. Summary at time of writing:

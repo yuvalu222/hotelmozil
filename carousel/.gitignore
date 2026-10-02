@@ -8,3 +8,8 @@ ig-decks/
 sheets/
 *.out
 *.log
+tt-decks/
+tt-covers/
+tt-sheets/
+igv-decks/
+*.out
