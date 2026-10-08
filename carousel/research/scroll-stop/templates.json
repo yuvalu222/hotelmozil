@@ -1,11 +1,11 @@
 [
  {
   "name": "underrated / hidden / niche",
-  "covers": 19,
-  "creators": 10,
-  "endorse": 7,
-  "winRate": 0.631578947368421,
-  "median": 0.08362431135139925,
+  "covers": 24,
+  "creators": 12,
+  "endorse": 9,
+  "winRate": 0.7083333333333334,
+  "median": 0.1754176512563812,
   "best": {
    "text": "underrated destinations for your / 2026 euro summer / part 4",
    "creator": "ellastraveldiaries0",
@@ -13,12 +13,25 @@
   }
  },
  {
+  "name": "N things / places to do in X",
+  "covers": 77,
+  "creators": 19,
+  "endorse": 6,
+  "winRate": 0.44155844155844154,
+  "median": -0.01130085395343805,
+  "best": {
+   "text": "10 / things you NEED to do in / COSTA RICA",
+   "creator": "yoshandtils",
+   "x": 42.17040007300465
+  }
+ },
+ {
   "name": "best / recommendations",
-  "covers": 37,
-  "creators": 11,
-  "endorse": 4,
-  "winRate": 0.5405405405405406,
-  "median": 0.053884316791371845,
+  "covers": 51,
+  "creators": 15,
+  "endorse": 5,
+  "winRate": 0.5098039215686274,
+  "median": 0.015171149069854284,
   "best": {
    "text": "TOP Hurghada hotels / 2026",
    "creator": "maryamontour",
@@ -27,37 +40,37 @@
  },
  {
   "name": "mistakes / what not to do",
-  "covers": 21,
-  "creators": 10,
-  "endorse": 4,
-  "winRate": 0.42857142857142855,
-  "median": -0.008743467806079153,
+  "covers": 26,
+  "creators": 12,
+  "endorse": 5,
+  "winRate": 0.46153846153846156,
+  "median": -0.004371733903039576,
   "best": {
-   "text": "What NOT to do / on your 1st trip / to Japan",
-   "creator": "itsjustinjapan",
-   "x": 8.247422680412384
+   "text": "Things you should NEVER do / in Japan / And what you should do instead",
+   "creator": "dreamrreve",
+   "x": 26.48726478131479
   }
  },
  {
-  "name": "N things / places to do in X",
-  "covers": 62,
-  "creators": 15,
-  "endorse": 3,
-  "winRate": 0.41935483870967744,
-  "median": -0.018438696187848658,
+  "name": "guide / ultimate / everything",
+  "covers": 72,
+  "creators": 9,
+  "endorse": 4,
+  "winRate": 0.5694444444444444,
+  "median": 0.051138670902384664,
   "best": {
-   "text": "Places to visit / NEWYORK",
-   "creator": "maryamontour",
-   "x": 20.156912338455477
+   "text": "After travelling to South / Korea for almost 5 years / I made the ultimate travel / guide for you",
+   "creator": "dreamrreve",
+   "x": 17.83975160078274
   }
  },
  {
   "name": "itinerary / route / N days",
-  "covers": 23,
-  "creators": 9,
+  "covers": 31,
+  "creators": 12,
   "endorse": 3,
-  "winRate": 0.4782608695652174,
-  "median": -0.08362431135139925,
+  "winRate": 0.4838709677419355,
+  "median": -0.07216103393694251,
   "best": {
    "text": "7 day itinerary / HURGHADA EGYPT",
    "creator": "maryamontour",
@@ -65,25 +78,12 @@
   }
  },
  {
-  "name": "guide / ultimate / everything",
-  "covers": 10,
-  "creators": 5,
-  "endorse": 2,
-  "winRate": 0.6,
-  "median": 0.37924485549079145,
-  "best": {
-   "text": "13 Areas in Tokyo / You Need to / Know!!!",
-   "creator": "itsjustinjapan",
-   "x": 6.338144329896912
-  }
- },
- {
   "name": "how to plan (first-timers)",
-  "covers": 12,
-  "creators": 3,
+  "covers": 14,
+  "creators": 4,
   "endorse": 2,
-  "winRate": 0.6666666666666666,
-  "median": 0.18794649854595624,
+  "winRate": 0.6428571428571429,
+  "median": 0.03444379269801834,
   "best": {
    "text": "What NOT to do / on your 1st trip / to Japan",
    "creator": "itsjustinjapan",
@@ -92,11 +92,11 @@
  },
  {
   "name": "shopping (apps/brands/stores)",
-  "covers": 26,
-  "creators": 6,
+  "covers": 28,
+  "creators": 7,
   "endorse": 2,
-  "winRate": 0.5,
-  "median": 0.01968845080309234,
+  "winRate": 0.4642857142857143,
+  "median": -0.02097581443381058,
   "best": {
    "text": "whimsical stores to / check out in Tokyo",
    "creator": "itsjustinjapan",
@@ -105,11 +105,11 @@
  },
  {
   "name": "what it costs",
-  "covers": 15,
-  "creators": 6,
+  "covers": 17,
+  "creators": 8,
   "endorse": 2,
-  "winRate": 0.3333333333333333,
-  "median": -0.009127737120151913,
+  "winRate": 0.29411764705882354,
+  "median": -0.07950738041614791,
   "best": {
    "text": "Budget-saving / tips / in Japan / Part 1",
    "creator": "izzy_travels_",
@@ -118,11 +118,11 @@
  },
  {
   "name": "going to X? here's where",
-  "covers": 24,
-  "creators": 2,
-  "endorse": 0,
-  "winRate": 0.5,
-  "median": 0.04370151266562461,
+  "covers": 26,
+  "creators": 3,
+  "endorse": 1,
+  "winRate": 0.5384615384615384,
+  "median": 0.09564635321144799,
   "best": {
    "text": "Puglia, Italy? / Here's where to go!!",
    "creator": "houseofhela_",
