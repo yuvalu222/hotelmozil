@@ -12,6 +12,7 @@
     "playwright": "^1.63.0"
   },
   "dependencies": {
-    "emoji-datasource-apple": "^16.0.0"
+    "emoji-datasource-apple": "^16.0.0",
+    "tesseract.js": "^5.1.1"
   }
 }

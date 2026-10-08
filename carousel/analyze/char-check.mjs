@@ -35,7 +35,9 @@ const walk = (p) => {
   if (!fs.existsSync(p)) return;
   const st = fs.statSync(p);
   if (st.isDirectory()) { for (const f of fs.readdirSync(p)) walk(path.join(p, f)); return; }
-  if (/\.(json|js|mjs|html|md|txt)$/i.test(p)) files.push(p);
+  // jsonl too: the blind-coded covers hold hand-typed Hebrew, and that file
+  // type was missed until the first ten were already written
+  if (/\.(json|jsonl|js|mjs|html|md|txt)$/i.test(p)) files.push(p);
 };
 targets.forEach(walk);
 
