@@ -1,11 +1,11 @@
 [
  {
   "name": "N things / places to do in X",
-  "covers": 130,
-  "creators": 33,
-  "endorse": 17,
-  "winRate": 0.5384615384615384,
-  "median": 0.0813498553000831,
+  "covers": 131,
+  "creators": 34,
+  "endorse": 18,
+  "winRate": 0.5419847328244275,
+  "median": 0.11262084625684832,
   "best": {
    "text": "Top 10 Places to Visit in / Bali",
    "creator": "downtoearthtravel25",
@@ -14,11 +14,11 @@
  },
  {
   "name": "best / recommendations",
-  "covers": 103,
-  "creators": 32,
-  "endorse": 15,
-  "winRate": 0.5728155339805825,
-  "median": 0.17514282607492415,
+  "covers": 104,
+  "creators": 33,
+  "endorse": 16,
+  "winRate": 0.5769230769230769,
+  "median": 0.18546038074143079,
   "best": {
    "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
    "creator": "travel_guide_g",
@@ -92,15 +92,41 @@
  },
  {
   "name": "how to plan (first-timers)",
-  "covers": 14,
-  "creators": 4,
-  "endorse": 2,
-  "winRate": 0.6428571428571429,
-  "median": 0.03444379269801834,
+  "covers": 15,
+  "creators": 5,
+  "endorse": 3,
+  "winRate": 0.6666666666666666,
+  "median": 0.03851951558819877,
   "best": {
    "text": "What NOT to do / on your 1st trip / to Japan",
    "creator": "itsjustinjapan",
    "x": 8.247422680412384
+  }
+ },
+ {
+  "name": "shopping (apps/brands/stores)",
+  "covers": 32,
+  "creators": 10,
+  "endorse": 3,
+  "winRate": 0.46875,
+  "median": -0.02097581443381058,
+  "best": {
+   "text": "whimsical stores to / check out in Tokyo",
+   "creator": "itsjustinjapan",
+   "x": 12.37113402061858
+  }
+ },
+ {
+  "name": "going to X? here's where",
+  "covers": 29,
+  "creators": 5,
+  "endorse": 2,
+  "winRate": 0.5517241379310345,
+  "median": 0.10388968109164676,
+  "best": {
+   "text": "Oh you're going to Greece? / I love Santorini!",
+   "creator": "sheida.travels",
+   "x": 20.157657089648225
   }
  },
  {
@@ -114,32 +140,6 @@
    "text": "5 things I wish I knew / before going to Japan / part 16",
    "creator": "nearxfar",
    "x": 8.614411280340194
-  }
- },
- {
-  "name": "shopping (apps/brands/stores)",
-  "covers": 31,
-  "creators": 9,
-  "endorse": 2,
-  "winRate": 0.45161290322580644,
-  "median": -0.04195162886762116,
-  "best": {
-   "text": "whimsical stores to / check out in Tokyo",
-   "creator": "itsjustinjapan",
-   "x": 12.37113402061858
-  }
- },
- {
-  "name": "going to X? here's where",
-  "covers": 27,
-  "creators": 4,
-  "endorse": 1,
-  "winRate": 0.5185185185185185,
-  "median": 0.08740302533124922,
-  "best": {
-   "text": "Puglia, Italy? / Here's where to go!!",
-   "creator": "houseofhela_",
-   "x": 8.030726256983236
   }
  },
  {
