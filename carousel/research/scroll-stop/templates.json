@@ -27,15 +27,15 @@
  },
  {
   "name": "best / recommendations",
-  "covers": 51,
-  "creators": 15,
+  "covers": 56,
+  "creators": 16,
   "endorse": 5,
-  "winRate": 0.5098039215686274,
-  "median": 0.015171149069854284,
+  "winRate": 0.5,
+  "median": 0.0006482026445699951,
   "best": {
-   "text": "TOP Hurghada hotels / 2026",
-   "creator": "maryamontour",
-   "x": 39.46050001269715
+   "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
+   "creator": "travel_guide_g",
+   "x": 405.9719579989414
   }
  },
  {
@@ -66,15 +66,28 @@
  },
  {
   "name": "itinerary / route / N days",
-  "covers": 31,
-  "creators": 12,
-  "endorse": 3,
-  "winRate": 0.4838709677419355,
-  "median": -0.07216103393694251,
+  "covers": 33,
+  "creators": 13,
+  "endorse": 4,
+  "winRate": 0.5151515151515151,
+  "median": 0.005935780080505992,
   "best": {
-   "text": "7 day itinerary / HURGHADA EGYPT",
-   "creator": "maryamontour",
-   "x": 44.326756881592004
+   "text": "ITALY TRIP / 19 DAYS",
+   "creator": "travel_guide_g",
+   "x": 113.43334120558646
+  }
+ },
+ {
+  "name": "what it costs",
+  "covers": 20,
+  "creators": 9,
+  "endorse": 3,
+  "winRate": 0.4,
+  "median": -0.006546180595917495,
+  "best": {
+   "text": "\"But London is so expensive\"",
+   "creator": "travel_guide_g",
+   "x": 358.2105511755364
   }
  },
  {
@@ -104,25 +117,12 @@
   }
  },
  {
-  "name": "what it costs",
-  "covers": 17,
-  "creators": 8,
-  "endorse": 2,
-  "winRate": 0.29411764705882354,
-  "median": -0.07950738041614791,
-  "best": {
-   "text": "Budget-saving / tips / in Japan / Part 1",
-   "creator": "izzy_travels_",
-   "x": 134.1018766756032
-  }
- },
- {
   "name": "going to X? here's where",
-  "covers": 26,
-  "creators": 3,
+  "covers": 27,
+  "creators": 4,
   "endorse": 1,
-  "winRate": 0.5384615384615384,
-  "median": 0.09564635321144799,
+  "winRate": 0.5185185185185185,
+  "median": 0.08740302533124922,
   "best": {
    "text": "Puglia, Italy? / Here's where to go!!",
    "creator": "houseofhela_",

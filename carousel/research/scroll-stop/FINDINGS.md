@@ -26,6 +26,17 @@ owner's instruction require it, not because reach proves it. Held firm:
 number ×1.56 [1.11, 2.08] · text in top third ×0.54 [0.39, 0.88] · first
 person ×0.65 [0.48, 0.90] · short ≤8 words, 12 of 13 creators.
 
+**Update at 30 creators, 616 covers (11:50, 8.10):** number ×1.42 [1.08,
+1.84], 11 of 18 creators: still holds, the most stable reach finding. First
+person ×0.64 [0.40, 0.89], 5 of 18: still holds. Short ≤8 words 17 of 19
+creators, ×1.28 (interval touches 1). Place ×1.32 [0.89, 1.91], 13 of 19.
+Text in the top third weakened on plays to ×0.66 [0.47, 1.06], but on likes
+it is ×0.68 [0.45, 0.90]: the two together still point the same way, so
+`pos: mid` stays. Blue sky on top: ×0.69 on plays, ×1.40 on likes, the
+contradiction persists. Template "underrated / hidden / niche": 9 of 12
+creators, 71% beat own median, ×1.50, unchanged.
+
+
 Text at the BOTTOM beat text mid-frame in 6 of 6 creators (×2.6), but only
 24 bottom covers, mostly big bare place names (PORTO, Puglia): exploratory.
 
