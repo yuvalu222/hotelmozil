@@ -1,0 +1,4 @@
+# The Upworthy CSVs are 80 MB and public: re-download from osf.io/jd64p
+#   exploratory  https://osf.io/download/3vqmp/
+#   confirmatory https://osf.io/download/vy8mj/
+*.csv
