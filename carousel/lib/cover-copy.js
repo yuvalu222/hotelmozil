@@ -71,3 +71,25 @@ export function checkCover(spec) {
   }
   return problems;
 }
+
+/**
+ * The count on the cover has to be the count in the deck.
+ *
+ * His two highest covers that carry a second line put a NUMBER there —
+ * "10 מדינות!!!" at 23,400 views, "שמונה מדינות!" at 17,000 — so the route
+ * covers do the same. A number on a cover is a promise, and a promise that
+ * drifts when a stop is added or dropped is the easiest false claim there is
+ * to ship: nothing else in the pipeline reads it.
+ *
+ * @param {object} spec a deck spec
+ * @returns {string[]} problems, empty when the cover counts correctly
+ */
+export function checkCoverCount(spec) {
+  const text = coverText(spec);
+  const m = text.match(/(\d+)\s*עצירות/);
+  if (!m) return [];
+  const claimed = Number(m[1]);
+  const actual = (spec.slides || []).reduce((n, s) => n + ((s.items || []).length), 0);
+  if (claimed === actual) return [];
+  return [`the cover says ${claimed} stops and the deck has ${actual}`];
+}

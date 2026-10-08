@@ -19,7 +19,7 @@ import { rank as wowRank, measure as wowMeasure, closeWow } from './lib/wow.js';
 import { renderSpec } from './lib/render.js';
 import { checkFacts } from './lib/facts.js';
 import { checkWiring, checkCountry, checkDuplicateSubjects } from './lib/wiring.js';
-import { checkCover } from './lib/cover-copy.js';
+import { checkCover, checkCoverCount } from './lib/cover-copy.js';
 import { checkRouteRows } from './lib/route-rows.js';
 import { rankCovers } from './lib/cover.js';
 import { checkCaption } from './lib/caption.js';
@@ -71,6 +71,7 @@ function validate(spec) {
   // 13 of his 13 travel covers name their destination, and both decks he
   // flagged on 8.10 did not. See lib/cover-copy.js.
   problems.push(...checkCover(spec).map((p) => `cover: ${p}`));
+  problems.push(...checkCoverCount(spec).map((p) => `cover: ${p}`));
   problems.push(...checkRouteRows(spec));
   // Caption patterns measured over 663 decks (TIKTOK.md §14). Every one of
   // these was already known when the last two decks shipped and none had been
