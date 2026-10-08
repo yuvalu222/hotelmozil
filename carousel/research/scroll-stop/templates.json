@@ -1,11 +1,11 @@
 [
  {
   "name": "N things / places to do in X",
-  "covers": 136,
-  "creators": 36,
+  "covers": 137,
+  "creators": 37,
   "endorse": 20,
-  "winRate": 0.5514705882352942,
-  "median": 0.0813498553000831,
+  "winRate": 0.5474452554744526,
+  "median": 0.050078864343317875,
   "best": {
    "text": "Top 10 Places to Visit in / Bali",
    "creator": "downtoearthtravel25",
@@ -14,11 +14,11 @@
  },
  {
   "name": "best / recommendations",
-  "covers": 133,
-  "creators": 36,
-  "endorse": 18,
-  "winRate": 0.5939849624060151,
-  "median": 0.1727589256152422,
+  "covers": 136,
+  "creators": 37,
+  "endorse": 19,
+  "winRate": 0.5955882352941176,
+  "median": 0.17125320500656271,
   "best": {
    "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
    "creator": "travel_guide_g",
@@ -52,6 +52,19 @@
   }
  },
  {
+  "name": "mistakes / what not to do",
+  "covers": 33,
+  "creators": 18,
+  "endorse": 9,
+  "winRate": 0.5151515151515151,
+  "median": 0.003964624071683076,
+  "best": {
+   "text": "TOURIST TRAPS / VS / ALTERNATIVES / ~ Croatia edition ~",
+   "creator": "travel.destinations7",
+   "x": 202.52014552178304
+  }
+ },
+ {
   "name": "what it costs",
   "covers": 55,
   "creators": 17,
@@ -75,19 +88,6 @@
    "text": "ITALY TRIP / 19 DAYS",
    "creator": "travel_guide_g",
    "x": 113.43334120558646
-  }
- },
- {
-  "name": "mistakes / what not to do",
-  "covers": 32,
-  "creators": 17,
-  "endorse": 8,
-  "winRate": 0.5,
-  "median": 0.001982312035841538,
-  "best": {
-   "text": "TOURIST TRAPS / VS / ALTERNATIVES / ~ Croatia edition ~",
-   "creator": "travel.destinations7",
-   "x": 202.52014552178304
   }
  },
  {
