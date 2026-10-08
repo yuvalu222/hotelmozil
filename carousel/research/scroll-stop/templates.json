@@ -1,28 +1,41 @@
 [
  {
   "name": "underrated / hidden / niche",
-  "covers": 24,
-  "creators": 12,
-  "endorse": 9,
-  "winRate": 0.7083333333333334,
-  "median": 0.1754176512563812,
+  "covers": 25,
+  "creators": 13,
+  "endorse": 10,
+  "winRate": 0.72,
+  "median": 0.25472289208316923,
   "best": {
-   "text": "underrated destinations for your / 2026 euro summer / part 4",
-   "creator": "ellastraveldiaries0",
-   "x": 17.54677625322416
+   "text": "Welcome to the underrated / tropical side of Japan",
+   "creator": "soft.nrt",
+   "x": 453.95188053140674
   }
  },
  {
   "name": "N things / places to do in X",
-  "covers": 77,
-  "creators": 19,
-  "endorse": 6,
-  "winRate": 0.44155844155844154,
-  "median": -0.01130085395343805,
+  "covers": 78,
+  "creators": 20,
+  "endorse": 7,
+  "winRate": 0.44871794871794873,
+  "median": -0.010834872151612274,
   "best": {
    "text": "10 / things you NEED to do in / COSTA RICA",
    "creator": "yoshandtils",
    "x": 42.17040007300465
+  }
+ },
+ {
+  "name": "guide / ultimate / everything",
+  "covers": 76,
+  "creators": 11,
+  "endorse": 5,
+  "winRate": 0.5789473684210527,
+  "median": 0.05804545839487085,
+  "best": {
+   "text": "5 things you NEED to know / before going to Japan",
+   "creator": "soft.nrt",
+   "x": 25.75945313913422
   }
  },
  {
@@ -49,19 +62,6 @@
    "text": "Things you should NEVER do / in Japan / And what you should do instead",
    "creator": "dreamrreve",
    "x": 26.48726478131479
-  }
- },
- {
-  "name": "guide / ultimate / everything",
-  "covers": 73,
-  "creators": 10,
-  "endorse": 4,
-  "winRate": 0.5616438356164384,
-  "median": 0.030368069807837905,
-  "best": {
-   "text": "After travelling to South / Korea for almost 5 years / I made the ultimate travel / guide for you",
-   "creator": "dreamrreve",
-   "x": 17.83975160078274
   }
  },
  {
