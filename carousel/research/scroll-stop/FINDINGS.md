@@ -19,6 +19,13 @@ Within-creator, pooled, interval by resampling whole creators
 | short (≤8 words) | ×1.23 | [0.80, 1.88] | **11 of 12** | — direction very consistent, size uncertain |
 | blue sky on top | ×0.54 vs likes ×1.53 | — | — | **contradicts itself across samples: unusable** |
 
+**Update at 24 creators:** names the place ×1.16 [0.73, 1.66] — one added
+creator moved it from ×1.34 and it no longer excludes 1. Downgraded to
+directional; the destination gate stays because his own 13/13 covers and the
+owner's instruction require it, not because reach proves it. Held firm:
+number ×1.56 [1.11, 2.08] · text in top third ×0.54 [0.39, 0.88] · first
+person ×0.65 [0.48, 0.90] · short ≤8 words, 12 of 13 creators.
+
 Text at the BOTTOM beat text mid-frame in 6 of 6 creators (×2.6), but only
 24 bottom covers, mostly big bare place names (PORTO, Puglia): exploratory.
 
