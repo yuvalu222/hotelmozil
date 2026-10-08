@@ -1,0 +1,87 @@
+{
+  "_": "Three chains for tt-28-larnaca-route. The stop list is the Larnaka Tourism Board's and Visit Cyprus's own main attractions for the region; the three-chain shape and five-stops-a-chain are the precedent's.",
+  "city": "Larnaca, Cyprus",
+  "slideWord": "יום",
+  "en": {
+    "טיילת פיניקודס": "Foinikoudes",
+    "מצודת לרנקה": "Larnaca Castle",
+    "כנסיית אגיוס לאזארוס": "Agios Lazaros Church",
+    "אתר קיטיון": "Kition Archaeological Site",
+    "מוזיאון פיירידס": "Pierides Museum",
+    "חוף מקנזי": "Mackenzie Beach",
+    "אמת המים קמארס": "Kamares Aqueduct",
+    "אגם המלח": "Larnaca Salt Lake",
+    "חלה סולטן טקה": "Hala Sultan Tekke",
+    "אנגלוקטיסטי בכיתי": "Angeloktisti",
+    "מנזר סטברובוני": "Stavrovouni Monastery",
+    "חירוקיטיה": "Choirokoitia",
+    "מנזר אגיוס מינאס": "Agios Minas Monastery",
+    "קאטו דריס": "Kato Drys",
+    "לפקרה": "Pano Lefkara"
+  },
+  "chains": {
+    "1": [
+      "טיילת פיניקודס",
+      "מצודת לרנקה",
+      "כנסיית אגיוס לאזארוס",
+      "אתר קיטיון",
+      "מוזיאון פיירידס"
+    ],
+    "2": [
+      "חוף מקנזי",
+      "אמת המים קמארס",
+      "אגם המלח",
+      "חלה סולטן טקה",
+      "אנגלוקטיסטי בכיתי"
+    ],
+    "3": [
+      "מנזר סטברובוני",
+      "חירוקיטיה",
+      "מנזר אגיוס מינאס",
+      "קאטו דריס",
+      "לפקרה"
+    ]
+  },
+  "modes": {
+    "1": "foot",
+    "2": "car",
+    "3": "car"
+  },
+  "areas": {
+    "1": "",
+    "2": "",
+    "3": ""
+  },
+  "backdrop": {
+    "1": "larnaca cyprus old town seafront wide view",
+    "2": "larnaca salt lake cyprus wide landscape",
+    "3": "troodos foothills cyprus stone village landscape"
+  },
+  "shots": {
+    "טיילת פיניקודס": "finikoudes promenade larnaca palm trees seafront",
+    "מצודת לרנקה": "larnaca medieval castle cyprus stone fort sea",
+    "כנסיית אגיוס לאזארוס": "church of agios lazaros larnaca stone bell tower",
+    "אתר קיטיון": "kition archaeological site larnaca ancient ruins",
+    "מוזיאון פיירידס": "pierides museum larnaca cyprus colonial house",
+    "חוף מקנזי": "mackenzie beach larnaca airplane landing low over beach",
+    "אמת המים קמארס": "kamares aqueduct larnaca cyprus stone arches",
+    "אגם המלח": "larnaca salt lake cyprus flamingos pink water",
+    "חלה סולטן טקה": "hala sultan tekke mosque larnaca minaret palm trees",
+    "אנגלוקטיסטי בכיתי": "panagia angeloktisti church kiti cyprus stone",
+    "מנזר סטברובוני": "stavrovouni monastery cyprus hilltop mountain peak",
+    "חירוקיטיה": "choirokoitia neolithic settlement cyprus round stone houses",
+    "מנזר אגיוס מינאס": "agios minas monastery vavla cyprus courtyard",
+    "קאטו דריס": "kato drys village cyprus stone alley",
+    "לפקרה": "pano lefkara village cyprus stone street lace"
+  },
+  "closing": {
+    "line1": "סיימנו את לרנקה 🇨🇾",
+    "line2": "לאיזו עיר בא לכם הבא?",
+    "emoji": "כתבו בתגובות 👇",
+    "alt": "לרנקה",
+    "query": "larnaca cyprus sunset sea coast view",
+    "must": [
+      "cyprus"
+    ]
+  }
+}

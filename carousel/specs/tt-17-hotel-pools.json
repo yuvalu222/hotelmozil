@@ -1,0 +1,240 @@
+{
+  "clonedFrom": "tt-7594993883558186262",
+  "clonedUrl": "https://www.tiktok.com/@thaleadesign/photo/7594993883558186262",
+  "clonedAccount": "thaleadesign",
+  "sourceLikes": 678100,
+  "sourceSaves": 244000,
+  "sourceSlides": 8,
+  "sourceCaption": "For my girls, save this for the best restaurant bathrooms",
+  "id": "tt-17-hotel-pools",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "מנגנון מ-@thaleadesign (244,000 שמירות): קטגוריה צרה עד אבסורד, מצולמת יפה. השדרוג כאן אינו ניסוח אלא אימות — כל שקופית מצהירה על הנושא שלה (image.must), ותמונה שהצלם לא תיאר כבריכה נפסלת. הגרסה הקודמת של הדק הציגה שבע ערים ואפס בריכות.",
+  "caption": "הבריכות שבגללן אנשים בוחרים מלון. באיזו אתם קופצים ראשונה?",
+  "hashtags": [
+    "מלונות",
+    "בריכות",
+    "טיפיםלטיול",
+    "אירופה",
+    "טיולים"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "בשביל הבריכות",
+        "האלה שווה",
+        "להחליף מלון"
+      ],
+      "sub": "באיזו אתם קופצים ראשונה?",
+      "alt": "הבריכות שבגללן אנשים בוחרים את המלון",
+      "image": {
+        "query": "infinity pool sunset mountains sea dramatic",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-32727436",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32727436/pexels-photo-32727436/free-photo-of-sunset-over-mediterranean-sea-with-infinity-pool-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/sunset-over-mediterranean-sea-with-infinity-pool-view-32727436/"
+        },
+        "alt": "Free Breathtaking sunset view over the Mediterranean from an infinity pool in Mykonos. Stock Photo",
+        "altRaw": "Free Breathtaking sunset view over the Mediterranean from an infinity pool in Mykonos. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32727436.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "place": "אי יווני, בריכת אינסוף",
+      "lines": [
+        "לא רואים איפה הבריכה נגמרת",
+        "והים מתחיל. פשוט ואו"
+      ],
+      "image": {
+        "query": "greek island infinity pool sea view",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-10268572",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10268572/pexels-photo-10268572.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-lying-down-in-swimming-pool-in-holiday-resort-10268572/"
+        },
+        "alt": "Free Woman lounging by the infinity pool overlooking the Aegean Sea in Megalochori, Greece. Stock Photo",
+        "altRaw": "Free Woman lounging by the infinity pool overlooking the Aegean Sea in Megalochori, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10268572.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "אי יווני, בריכת אינסוף 🏝️",
+      "credit": null
+    },
+    {
+      "place": "דובאי",
+      "lines": [
+        "שוחים מול בורג׳ חליפה",
+        "גבוה בטירוף"
+      ],
+      "image": {
+        "query": "dubai infinity pool burj khalifa view",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-10906733",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10906733/pexels-photo-10906733.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/burj-khalifa-during-daytime-10906733/"
+        },
+        "alt": "Free Epic view of Burj Khalifa from an infinity pool at sunrise, capturing Dubai's majestic skyline. Stock Photo",
+        "altRaw": "Free Epic view of Burj Khalifa from an infinity pool at sunrise, capturing Dubai's majestic skyline. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10906733.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "דובאי 🌇",
+      "credit": null
+    },
+    {
+      "place": "בריכה על הגג",
+      "lines": [
+        "כל העיר מתחתיכם",
+        "תלכו בשקיעה, לא בצהריים"
+      ],
+      "image": {
+        "query": "rooftop pool overlooking city skyline",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-28962800",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28962800/pexels-photo-28962800/free-photo-of-rooftop-pool-with-city-skyline-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/rooftop-pool-with-city-skyline-view-28962800/"
+        },
+        "alt": "Free Rooftop pool overlooking a vibrant city skyline under a bright blue sky. Stock Photo",
+        "altRaw": "Free Rooftop pool overlooking a vibrant city skyline under a bright blue sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28962800.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "בריכה על הגג 🌆",
+      "credit": null
+    },
+    {
+      "place": "האלפים, בריכה מחוממת",
+      "lines": [
+        "מים חמים ושלג מסביב",
+        "הדבר הכי מוזר ומושלם שיש"
+      ],
+      "image": {
+        "query": "heated pool mountain snow alps view",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-7041586",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/7041586/pexels-photo-7041586.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-in-nude-color-bathing-suit-7041586/"
+        },
+        "alt": "Free Woman enjoying a snowy day in an outdoor heated pool, embracing winter tranquility. Stock Photo",
+        "altRaw": "Free Woman enjoying a snowy day in an outdoor heated pool, embracing winter tranquility. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7041586.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "האלפים, בריכה מחוממת ❄️",
+      "credit": null
+    },
+    {
+      "place": "ארוחת בוקר על המים",
+      "lines": [
+        "מגש צף עם קפה",
+        "אין שום סיבה לצאת"
+      ],
+      "image": {
+        "query": "floating breakfast tray pool resort",
+        "must": [
+          "pool",
+          "breakfast"
+        ],
+        "id": "pexels-36650609",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36650609/pexels-photo-36650609/free-photo-of-luxurious-breakfast-by-the-infinity-pool.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/luxurious-breakfast-by-the-infinity-pool-36650609/"
+        },
+        "alt": "Free Sumptuous breakfast served on a floating tray by a scenic infinity pool view. Stock Photo",
+        "altRaw": "Free Sumptuous breakfast served on a floating tray by a scenic infinity pool view. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36650609.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "ארוחת בוקר על המים 🥐",
+      "credit": null
+    },
+    {
+      "place": "בריכה אחרי חשכה",
+      "lines": [
+        "התאורה נדלקת והמים משתנים",
+        "וכולם כבר בארוחת ערב"
+      ],
+      "image": {
+        "query": "resort pool night lights palm trees",
+        "must": [
+          "pool"
+        ],
+        "id": "pexels-9119770",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9119770/pexels-photo-9119770.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/swimming-pool-during-nighttime-9119770/"
+        },
+        "alt": "Free A serene nighttime scene at a resort pool surrounded by palm trees, perfect for relaxation. Stock Photo",
+        "altRaw": "Free A serene nighttime scene at a resort pool surrounded by palm trees, perfect for relaxation. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9119770.jpg",
+        "keep": true
+      },
+      "layout": "tt-gem",
+      "alt": "בריכה אחרי חשכה 🌙",
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

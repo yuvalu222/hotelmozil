@@ -1,0 +1,1696 @@
+{
+  "id": "tt-9-weekend-cities",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7681311499226336545",
+  "clonedUrl": "https://www.tiktok.com/@aimsi.unfiltered/photo/7681311499226336545",
+  "clonedAccount": "aimsi.unfiltered",
+  "sourceLikes": 117600,
+  "sourceSaves": 66700,
+  "sourceShares": 22400,
+  "sourceComments": 219,
+  "sourceSlides": 12,
+  "sourceCaption": "you don't always need a full week to explore somewhere new - these european destinations are perfect for a long weekend",
+  "demonstrates": "פורמט רביעי, ומקור חדש: 117,600 לייקים ו-66,700 שמירות. הועתק: תמונה בודדת לפתיחה ולסיום, ובאמצע עיר אחת לשקופית כ״קולאז' 3x3 של תשע תמונות בלי מרווחים, עם תווית במרכז. תשע מסגרות מוכרות עיר כמצב-רוח במקום כרשימה, וזה מה שעוצר אגודל. הרעיון עצמו הועתק כלשונו — ערים שאפשר לעשות בסופ״ש ארוך — והוחלפו רק הערים, לאלה שישראלים באמת טסים אליהן. שינוי מודע אחד: במקור תווית העיר אפורה וזעירה ולא נקראת בפיד; אצלנו היא גדולה ועם מתאר.",
+  "caption": "עשר ערים שאפשר לעשות בסופ״ש ארוך. לא תמיד צריך שבוע. לאן אתם טסים?",
+  "hashtags": [
+    "סופש_ארוך",
+    "אירופה",
+    "טיפיםלטיול",
+    "טיולים",
+    "חופשה_קצרה"
+  ],
+  "sound": "המקור רוכב על טראק מספרייה. בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "pos": "mid",
+      "titleCaps": "עשר ערים לסופ״ש ארוך",
+      "sub": "לא תמיד צריך שבוע שלם",
+      "alt": "נוף עירוני באירופה",
+      "image": {
+        "query": "european city terrace view cypress trees golden hour",
+        "id": "pexels-36706020",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36706020/pexels-photo-36706020/free-photo-of-tranquil-river-view-framed-by-cypress-trees.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/tranquil-river-view-framed-by-cypress-trees-36706020/"
+        },
+        "alt": "Free Peaceful river scene with a bridge framed by lush trees, capturing the essence of serenity. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36706020.jpg",
+        "altRaw": "Free Peaceful river scene with a bridge framed by lush trees, capturing the essence of serenity. Stock Photo",
+        "keep": true
+      },
+      "credit": null,
+      "line": "לא תמיד צריך שבוע שלם"
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "אתונה",
+      "note": "טיסה קצרה, עיר שלמה",
+      "alt": "אתונה 🏛️",
+      "images": [
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-37844220",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844220/pexels-photo-37844220/free-photo-of-evening-dining-with-view-of-acropolis-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/evening-dining-with-view-of-acropolis-in-athens-37844220/"
+          },
+          "alt": "Free Outdoor dining scene with Acropolis view in Athens at night, featuring a relaxed atmosphere. Stock Photo",
+          "altRaw": "Free Outdoor dining scene with Acropolis view in Athens at night, featuring a relaxed atmosphere. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844220.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-3224229",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/3224229/pexels-photo-3224229.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-people-walking-on-monastiraki-square-3224229/"
+          },
+          "alt": "Free Lively scene at Monastiraki Square in Athens with people enjoying a sunny day, historic architecture in view. Stock Photo",
+          "altRaw": "Free Lively scene at Monastiraki Square in Athens with people enjoying a sunny day, historic architecture in view. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-3224229.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-8253756",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/8253756/pexels-photo-8253756.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-in-ruins-of-ancient-temple-8253756/"
+          },
+          "alt": "Free Visitors explore the historic ancient ruins of Athens, capturing the grandeur of ancient Greek architecture. Stock Photo",
+          "altRaw": "Free Visitors explore the historic ancient ruins of Athens, capturing the grandeur of ancient Greek architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8253756.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-37844368",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844368/pexels-photo-37844368/free-photo-of-tourists-enjoying-a-bright-day-at-the-acropolis.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-enjoying-a-bright-day-at-the-acropolis-37844368/"
+          },
+          "alt": "Free People enjoying a sunny day at the Acropolis, Athens. Capturing the historic landmark's beauty with modern photography. Stock Photo",
+          "altRaw": "Free People enjoying a sunny day at the Acropolis, Athens. Capturing the historic landmark's beauty with modern photography. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844368.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-36444566",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36444566/pexels-photo-36444566/free-photo-of-parthenon-view-from-modern-athens-street.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/parthenon-view-from-modern-athens-street-36444566/"
+          },
+          "alt": "Free An urban street view showcasing the Parthenon amidst Athens' modern architecture. Stock Photo",
+          "altRaw": "Free An urban street view showcasing the Parthenon amidst Athens' modern architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36444566.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-14375395",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14375395/pexels-photo-14375395.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-in-front-of-the-parthenon-acropolis-athens-greece-14375395/"
+          },
+          "alt": "Free Tourist photographing the ancient Parthenon at the Acropolis in Athens, Greece. Stock Photo",
+          "altRaw": "Free Tourist photographing the ancient Parthenon at the Acropolis in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14375395.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-37844370",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844370/pexels-photo-37844370/free-photo-of-acropolis-of-athens-with-crowds-on-a-sunny-day.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/acropolis-of-athens-with-crowds-on-a-sunny-day-37844370/"
+          },
+          "alt": "Free The Acropolis in Athens, Greece, with tourists admiring the ancient landmark under a clear blue sky. Stock Photo",
+          "altRaw": "Free The Acropolis in Athens, Greece, with tourists admiring the ancient landmark under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844370.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-37844254",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844254/pexels-photo-37844254/free-photo-of-dining-with-acropolis-view-at-twilight-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/dining-with-acropolis-view-at-twilight-in-athens-37844254/"
+          },
+          "alt": "Free A serene dining scene with a twilight view of the Acropolis in Athens, Greece. Stock Photo",
+          "altRaw": "Free A serene dining scene with a twilight view of the Acropolis in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844254.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens greece street food acropolis cafe people",
+          "id": "pexels-37844395",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37844395/pexels-photo-37844395/free-photo-of-tourists-at-the-acropolis-of-athens-in-summer.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-at-the-acropolis-of-athens-in-summer-37844395/"
+          },
+          "alt": "Free Visitors explore the iconic Acropolis in Athens, Greece under a bright summer sky. Stock Photo",
+          "altRaw": "Free Visitors explore the iconic Acropolis in Athens, Greece under a bright summer sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844395.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "טיסה קצרה ועיר שלמה"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "לרנקה",
+      "note": "שעה באוויר ואתם על החוף",
+      "alt": "לרנקה 🏖️",
+      "images": [
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-36725370",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36725370/pexels-photo-36725370/free-photo-of-aerial-view-of-larnaca-seafront-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-larnaca-seafront-in-cyprus-36725370/"
+          },
+          "alt": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "altRaw": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36725370.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-26860860",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/26860860/pexels-photo-26860860/free-photo-of-chairs-and-tables-in-an-alley.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/chairs-and-tables-in-an-alley-26860860/"
+          },
+          "alt": "Free Aerial view of a vibrant alley in Larnaca, Cyprus, with colorful rooftops and Mediterranean architecture. Stock Photo",
+          "altRaw": "Free Aerial view of a vibrant alley in Larnaca, Cyprus, with colorful rooftops and Mediterranean architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26860860.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-33826563",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33826563/pexels-photo-33826563/free-photo-of-sunny-day-at-varosha-beach-famagusta-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/sunny-day-at-varosha-beach-famagusta-cyprus-33826563/"
+          },
+          "alt": "Free People enjoying a sunny day at Varosha Beach with tall buildings in the backdrop. Stock Photo",
+          "altRaw": "Free People enjoying a sunny day at Varosha Beach with tall buildings in the backdrop. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33826563.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-2450141",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2450141/pexels-photo-2450141.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/two-white-and-brown-parasols-2450141/"
+          },
+          "alt": "Free Explore a quaint historic street in Limassol with vintage architecture and charming cafes. Stock Photo",
+          "altRaw": "Free Explore a quaint historic street in Limassol with vintage architecture and charming cafes. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2450141.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-39009255",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39009255/pexels-photo-39009255/free-photo-of-charming-outdoor-greek-taverna-with-nautical-decor.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-outdoor-greek-taverna-with-nautical-decor-39009255/"
+          },
+          "alt": "Free Cozy outdoor Greek taverna showcasing striped cushions and lush greenery, evoking a relaxed Mediterranean vibe. Stock Photo",
+          "altRaw": "Free Cozy outdoor Greek taverna showcasing striped cushions and lush greenery, evoking a relaxed Mediterranean vibe. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39009255.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-35873375",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35873375/pexels-photo-35873375/free-photo-of-rock-formations-with-view-of-paphos-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/rock-formations-with-view-of-paphos-cyprus-35873375/"
+          },
+          "alt": "Free View through rock formations in Paphos, Cyprus, showcasing Mediterranean architecture. Stock Photo",
+          "altRaw": "Free View through rock formations in Paphos, Cyprus, showcasing Mediterranean architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35873375.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-32487705",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32487705/pexels-photo-32487705/free-photo-of-scenic-coastal-view-with-pine-trees-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-coastal-view-with-pine-trees-at-sunset-32487705/"
+          },
+          "alt": "Free Beautiful coastal landscape with pine trees and palm trees against a sunset sky. Stock Photo",
+          "altRaw": "Free Beautiful coastal landscape with pine trees and palm trees against a sunset sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32487705.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-39668221",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39668221/pexels-photo-39668221/free-photo-of-beachfront-houses-under-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/beachfront-houses-under-clear-blue-sky-39668221/"
+          },
+          "alt": "Free Scenic view of beachfront houses with palm trees under a clear blue sky at dusk. Stock Photo",
+          "altRaw": "Free Scenic view of beachfront houses with palm trees under a clear blue sky at dusk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39668221.jpg",
+          "keep": true
+        },
+        {
+          "query": "cyprus larnaca beach taverna sea street",
+          "id": "pexels-4967376",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4967376/pexels-photo-4967376.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-pier-by-sea-4967376/"
+          },
+          "alt": "Free Stunning view of a coastal city walkway perfect for leisure and tourism activities. Stock Photo",
+          "altRaw": "Free Stunning view of a coastal city walkway perfect for leisure and tourism activities. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967376.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "שעה באוויר ואתם על החוף"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "בודפשט",
+      "note": "מרחצאות, גשרים, ולילה ארוך",
+      "alt": "בודפשט ♨️",
+      "images": [
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-33728406",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33728406/pexels-photo-33728406/free-photo-of-scenic-view-of-budapest-with-parliament-and-danube.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-budapest-with-parliament-and-danube-33728406/"
+          },
+          "alt": "Free Capture of Budapest's skyline featuring the Parliament and Danube River. Stock Photo",
+          "altRaw": "Free Capture of Budapest's skyline featuring the Parliament and Danube River. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33728406.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-21625237",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21625237/pexels-photo-21625237/free-photo-of-szechenyi-chain-bridge-on-danube-river-in-budapest.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/szechenyi-chain-bridge-on-danube-river-in-budapest-21625237/"
+          },
+          "alt": "Free Aerial view of Budapest's Chain Bridge over the Danube River with the Parliament building. Stock Photo",
+          "altRaw": "Free Aerial view of Budapest's Chain Bridge over the Danube River with the Parliament building. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21625237.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-18782261",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18782261/pexels-photo-18782261/free-photo-of-the-budapest-skyline-from-the-top-of-the-budapest-castle.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/the-budapest-skyline-from-the-top-of-the-budapest-castle-18782261/"
+          },
+          "alt": "Free Captivating view of Budapest's iconic Parliament building across the Danube River on a sunny day. Stock Photo",
+          "altRaw": "Free Captivating view of Budapest's iconic Parliament building across the Danube River on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18782261.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-29345744",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29345744/pexels-photo-29345744/free-photo-of-iconic-budapest-cityscape-with-szechenyi-chain-bridge.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/iconic-budapest-cityscape-with-szechenyi-chain-bridge-29345744/"
+          },
+          "alt": "Free Foggy view of the Széchenyi Chain Bridge and the Hungarian Parliament in Budapest. Stock Photo",
+          "altRaw": "Free Foggy view of the Széchenyi Chain Bridge and the Hungarian Parliament in Budapest. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29345744.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-20670171",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20670171/pexels-photo-20670171/free-photo-of-danube-in-budapest-with-orszaghaz-behind.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/danube-in-budapest-with-orszaghaz-behind-20670171/"
+          },
+          "alt": "Free Scenic view of Hungarian Parliament from under a bridge over the Danube River in Budapest during sunset. Stock Photo",
+          "altRaw": "Free Scenic view of Hungarian Parliament from under a bridge over the Danube River in Budapest during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20670171.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-9884530",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9884530/pexels-photo-9884530.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/hungarian-parliament-building-9884530/"
+          },
+          "alt": "Free A captivating view of Budapest's Chain Bridge and Parliament along the Danube River. Stock Photo",
+          "altRaw": "Free A captivating view of Budapest's Chain Bridge and Parliament along the Danube River. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9884530.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-3962769",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/3962769/pexels-photo-3962769.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bridge-over-body-of-water-3962769/"
+          },
+          "alt": "Free Aerial view of Budapest's iconic Szechenyi Chain Bridge spanning the Danube River under a bright blue sky. Stock Photo",
+          "altRaw": "Free Aerial view of Budapest's iconic Szechenyi Chain Bridge spanning the Danube River under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-3962769.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-18782359",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18782359/pexels-photo-18782359/free-photo-of-the-danube-river-and-chain-bridge-in-budapest.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/the-danube-river-and-chain-bridge-in-budapest-18782359/"
+          },
+          "alt": "Free Breathtaking view of Budapest with the Danube River, Chain Bridge, and historic architecture under a blue sky. Stock Photo",
+          "altRaw": "Free Breathtaking view of Budapest with the Danube River, Chain Bridge, and historic architecture under a blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18782359.jpg",
+          "keep": true
+        },
+        {
+          "query": "budapest parliament baths bridge street cafe",
+          "id": "pexels-15552968",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15552968/pexels-photo-15552968/free-photo-of-hungarian-parliament-building-in-budapest.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/hungarian-parliament-building-in-budapest-15552968/"
+          },
+          "alt": "Free View of the Hungarian Parliament Building with people walking along the promenade. Stock Photo",
+          "altRaw": "Free View of the Hungarian Parliament Building with people walking along the promenade. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15552968.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "מרחצאות, גשרים ולילה ארוך"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "פראג",
+      "note": "הכי יפה בין נובמבר למרץ",
+      "alt": "פראג 🏰",
+      "images": [
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-31108558",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31108558/pexels-photo-31108558/free-photo-of-charming-european-architecture-with-holiday-decor.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-european-architecture-with-holiday-decor-31108558/"
+          },
+          "alt": "Free Elegant European building adorned with festive holiday decorations in a historic city setting. Stock Photo",
+          "altRaw": "Free Elegant European building adorned with festive holiday decorations in a historic city setting. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31108558.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-39533692",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39533692/pexels-photo-39533692/free-photo-of-charming-canal-view-in-old-town-prague.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-canal-view-in-old-town-prague-39533692/"
+          },
+          "alt": "Free Picturesque canal scene in Prague's historic district with vibrant buildings and a cafe sign. Stock Photo",
+          "altRaw": "Free Picturesque canal scene in Prague's historic district with vibrant buildings and a cafe sign. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39533692.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-19469680",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19469680/pexels-photo-19469680/free-photo-of-vintage-car-between-classical-buildings.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vintage-car-between-classical-buildings-19469680/"
+          },
+          "alt": "Free A classic convertible car navigating a cobblestone street amidst Prague's historic architecture in Europe. Stock Photo",
+          "altRaw": "Free A classic convertible car navigating a cobblestone street amidst Prague's historic architecture in Europe. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19469680.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-20623447",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20623447/pexels-photo-20623447/free-photo-of-charles-bridge-in-prague-in-czech-republic.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charles-bridge-in-prague-in-czech-republic-20623447/"
+          },
+          "alt": "Free A vibrant street scene at the iconic Charles Bridge Tower in Prague, Czech Republic. Stock Photo",
+          "altRaw": "Free A vibrant street scene at the iconic Charles Bridge Tower in Prague, Czech Republic. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20623447.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-34834420",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34834420/pexels-photo-34834420/free-photo-of-charming-european-street-with-historic-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-european-street-with-historic-architecture-34834420/"
+          },
+          "alt": "Free Idyllic street scene capturing historic European architecture and lively pedestrians. Stock Photo",
+          "altRaw": "Free Idyllic street scene capturing historic European architecture and lively pedestrians. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34834420.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-20388176",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20388176/pexels-photo-20388176/free-photo-of-photography-travel-view-prague.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photography-travel-view-prague-20388176/"
+          },
+          "alt": "Free Charming view of Prague's Charles Bridge and Vltava River under a cloudy sky. Stock Photo",
+          "altRaw": "Free Charming view of Prague's Charles Bridge and Vltava River under a cloudy sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20388176.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-15112647",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15112647/pexels-photo-15112647/free-photo-of-clouds-over-old-town-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/clouds-over-old-town-in-city-15112647/"
+          },
+          "alt": "Free Aerial shot of Prague's historic square featuring a bustling market and iconic cathedral. Stock Photo",
+          "altRaw": "Free Aerial shot of Prague's historic square featuring a bustling market and iconic cathedral. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15112647.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-33803904",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33803904/pexels-photo-33803904/free-photo-of-gothic-powder-tower-in-prague-cityscape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/gothic-powder-tower-in-prague-cityscape-33803904/"
+          },
+          "alt": "Free View of the historic Gothic Powder Tower in Prague, Czech Republic, on a sunny day. Stock Photo",
+          "altRaw": "Free View of the historic Gothic Powder Tower in Prague, Czech Republic, on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33803904.jpg",
+          "keep": true
+        },
+        {
+          "query": "prague old town bridge christmas street cafe",
+          "id": "pexels-15022214",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15022214/pexels-photo-15022214/free-photo-of-city-at-night.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/city-at-night-15022214/"
+          },
+          "alt": "Free Magical Christmas market in Prague with illuminated tree and historic church under a full moon. Stock Photo",
+          "altRaw": "Free Magical Christmas market in Prague with illuminated tree and historic church under a full moon. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15022214.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "הכי יפה בין נובמבר למרץ"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "רומא",
+      "note": "שלושה ימים מספיקים למרכז",
+      "alt": "רומא 🍝",
+      "images": [
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-32867251",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32867251/pexels-photo-32867251/free-photo-of-bustling-piazza-navona-market-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bustling-piazza-navona-market-in-rome-italy-32867251/"
+          },
+          "alt": "Free Vibrant street market scene at Piazza Navona with historic architecture in Rome, Italy. Stock Photo",
+          "altRaw": "Free Vibrant street market scene at Piazza Navona with historic architecture in Rome, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32867251.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-39931585",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39931585/pexels-photo-39931585/free-photo-of-romantic-scene-at-piazza-navona-rome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/romantic-scene-at-piazza-navona-rome-39931585/"
+          },
+          "alt": "Free Couple embracing on a bench near the iconic Fountain of Neptune in Piazza Navona, Rome. Stock Photo",
+          "altRaw": "Free Couple embracing on a bench near the iconic Fountain of Neptune in Piazza Navona, Rome. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39931585.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-30166543",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30166543/pexels-photo-30166543/free-photo-of-vibrant-summer-day-at-piazza-del-popolo-rome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vibrant-summer-day-at-piazza-del-popolo-rome-30166543/"
+          },
+          "alt": "Free Explore the historic Piazza del Popolo in Rome, showcasing classic architecture and lively city life. Stock Photo",
+          "altRaw": "Free Explore the historic Piazza del Popolo in Rome, showcasing classic architecture and lively city life. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30166543.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-30166558",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30166558/pexels-photo-30166558/free-photo-of-charming-cobblestone-street-in-rome-during-daytime.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-cobblestone-street-in-rome-during-daytime-30166558/"
+          },
+          "alt": "Free Explore a lively cobblestone street in Rome, Italy with historic architecture and charming outdoor cafes. Stock Photo",
+          "altRaw": "Free Explore a lively cobblestone street in Rome, Italy with historic architecture and charming outdoor cafes. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30166558.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-9818104",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9818104/pexels-photo-9818104.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/fountain-on-the-square-in-rome-9818104/"
+          },
+          "alt": "Free Tourists admire the historic fountain at St. Peter's Square in Vatican City, Rome. Stock Photo",
+          "altRaw": "Free Tourists admire the historic fountain at St. Peter's Square in Vatican City, Rome. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9818104.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-36595927",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36595927/pexels-photo-36595927/free-photo-of-majestic-fountain-in-piazza-della-repubblica-rome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/majestic-fountain-in-piazza-della-repubblica-rome-36595927/"
+          },
+          "alt": "Free A stunning view of the Fountain of Naiads in Rome's Piazza della Repubblica. Stock Photo",
+          "altRaw": "Free A stunning view of the Fountain of Naiads in Rome's Piazza della Repubblica. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36595927.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-12907018",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12907018/pexels-photo-12907018.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/classical-building-and-neptune-monument-12907018/"
+          },
+          "alt": "Free The majestic Neptune Fountain with classical architecture at Piazza Navona, Rome. Stock Photo",
+          "altRaw": "Free The majestic Neptune Fountain with classical architecture at Piazza Navona, Rome. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12907018.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-35072112",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35072112/pexels-photo-35072112/free-photo-of-charming-italian-street-with-historic-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-italian-street-with-historic-architecture-35072112/"
+          },
+          "alt": "Free Historic street scene in Europe featuring classic Italian architecture and a foreground fountain under a clear blue sky. Stock Photo",
+          "altRaw": "Free Historic street scene in Europe featuring classic Italian architecture and a foreground fountain under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35072112.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome street food fountain piazza people cafe",
+          "id": "pexels-36585208",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36585208/pexels-photo-36585208/free-photo-of-fountain-of-neptune-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/fountain-of-neptune-in-rome-italy-36585208/"
+          },
+          "alt": "Free Majestic Fountain of Neptune at Piazza Navona, Rome, showcasing Baroque architecture. Stock Photo",
+          "altRaw": "Free Majestic Fountain of Neptune at Piazza Navona, Rome, showcasing Baroque architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36585208.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "שלושה ימים מספיקים למרכז"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "ברצלונה",
+      "note": "ים ועיר באותו יום",
+      "alt": "ברצלונה 🌊",
+      "images": [
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-10686719",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10686719/pexels-photo-10686719.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/postcards-at-souvenir-store-10686719/"
+          },
+          "alt": "Free Close-up of vibrant postcards on a rack in an outdoor shop, perfect travel souvenir. Stock Photo",
+          "altRaw": "Free Close-up of vibrant postcards on a rack in an outdoor shop, perfect travel souvenir. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10686719.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-18245877",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18245877/pexels-photo-18245877/free-photo-of-tourists-in-barcelona.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-in-barcelona-18245877/"
+          },
+          "alt": "Free Tourists gather around the iconic Gaudí-designed structure in Park Güell, Barcelona. Stock Photo",
+          "altRaw": "Free Tourists gather around the iconic Gaudí-designed structure in Park Güell, Barcelona. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18245877.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-30933375",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30933375/pexels-photo-30933375/free-photo-of-majestic-view-of-sagrada-familia-in-barcelona.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/majestic-view-of-sagrada-familia-in-barcelona-30933375/"
+          },
+          "alt": "Free Morning street scene with Sagrada Familia in Barcelona. Iconic landmark and bustling atmosphere. Stock Photo",
+          "altRaw": "Free Morning street scene with Sagrada Familia in Barcelona. Iconic landmark and bustling atmosphere. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30933375.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-33180429",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33180429/pexels-photo-33180429/free-photo-of-plaza-catalunya-barcelona-cityscape-with-pigeons.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/plaza-catalunya-barcelona-cityscape-with-pigeons-33180429/"
+          },
+          "alt": "Free Vibrant scene of Plaza Catalunya in Barcelona with its famous architecture and bustling activity. Stock Photo",
+          "altRaw": "Free Vibrant scene of Plaza Catalunya in Barcelona with its famous architecture and bustling activity. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33180429.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-21327964",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21327964/pexels-photo-21327964/free-photo-of-food-and-drink-for-lunch.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/food-and-drink-for-lunch-21327964/"
+          },
+          "alt": "Free A table set with a variety of Spanish tapas and a glass of sangria in a cozy Barcelona restaurant. Stock Photo",
+          "altRaw": "Free A table set with a variety of Spanish tapas and a glass of sangria in a cozy Barcelona restaurant. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21327964.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-9022637",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9022637/pexels-photo-9022637.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-city-buildings-9022637/"
+          },
+          "alt": "Free Stunning aerial view of Barcelona showcasing the Sagrada Familia amidst the city's unique grid layout. Stock Photo",
+          "altRaw": "Free Stunning aerial view of Barcelona showcasing the Sagrada Familia amidst the city's unique grid layout. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9022637.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-17606627",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17606627/pexels-photo-17606627/free-photo-of-church-in-park-guell.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/church-in-park-guell-17606627/"
+          },
+          "alt": "Free Stunning architecture of Park Güell in Barcelona, showcasing Gaudí's iconic design. Stock Photo",
+          "altRaw": "Free Stunning architecture of Park Güell in Barcelona, showcasing Gaudí's iconic design. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17606627.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-21327987",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21327987/pexels-photo-21327987/free-photo-of-food-wine-tapas-barcelona.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/food-wine-tapas-barcelona-21327987/"
+          },
+          "alt": "Free Tempting tapas served with lemon wedges and sauce in a cozy Barcelona eatery. Stock Photo",
+          "altRaw": "Free Tempting tapas served with lemon wedges and sauce in a cozy Barcelona eatery. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21327987.jpg",
+          "keep": true
+        },
+        {
+          "query": "barcelona gaudi beach tapas street market",
+          "id": "pexels-33040608",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33040608/pexels-photo-33040608/free-photo-of-churros-shop-front-in-barcelona-city-scene.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/churros-shop-front-in-barcelona-city-scene-33040608/"
+          },
+          "alt": "Free Xurreria Trebol churro shop front in Barcelona, capturing local street food culture. Stock Photo",
+          "altRaw": "Free Xurreria Trebol churro shop front in Barcelona, capturing local street food culture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33040608.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "ים ועיר באותו יום"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "וינה",
+      "note": "קפה, מוזיאונים, ואופרה",
+      "alt": "וינה ☕",
+      "images": [
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-20828091",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20828091/pexels-photo-20828091/free-photo-of-exterior-of-the-austrian-gallery-belvedere-museum.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/exterior-of-the-austrian-gallery-belvedere-museum-20828091/"
+          },
+          "alt": "Free Elegant view of Belvedere Palace exterior in Vienna, Austria, highlighting classic architecture. Stock Photo",
+          "altRaw": "Free Elegant view of Belvedere Palace exterior in Vienna, Austria, highlighting classic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20828091.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-36591993",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36591993/pexels-photo-36591993/free-photo-of-stunning-architectural-detail-of-belvedere-palace.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-architectural-detail-of-belvedere-palace-36591993/"
+          },
+          "alt": "Free Elegant Baroque architecture of Belvedere Palace in Vienna under clear blue skies. Captures historical charm. Stock Photo",
+          "altRaw": "Free Elegant Baroque architecture of Belvedere Palace in Vienna under clear blue skies. Captures historical charm. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36591993.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-16632384",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16632384/pexels-photo-16632384/free-photo-of-facade-of-austrian-gallery-belvedere.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/facade-of-austrian-gallery-belvedere-16632384/"
+          },
+          "alt": "Free Detailed view of Belvedere Palace's stunning architectural facade in Vienna, Austria. Stock Photo",
+          "altRaw": "Free Detailed view of Belvedere Palace's stunning architectural facade in Vienna, Austria. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16632384.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-20109727",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20109727/pexels-photo-20109727/free-photo-of-grand-hall-of-the-austrian-national-baroque-library-ceiling.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/grand-hall-of-the-austrian-national-baroque-library-ceiling-20109727/"
+          },
+          "alt": "Free Intricate baroque ceiling fresco art in an Austrian palace, Vienna. Stock Photo",
+          "altRaw": "Free Intricate baroque ceiling fresco art in an Austrian palace, Vienna. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20109727.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-39866458",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39866458/pexels-photo-39866458/free-photo-of-authentic-kaiserschmarrn-in-viennese-cafe.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/authentic-kaiserschmarrn-in-viennese-cafe-39866458/"
+          },
+          "alt": "Free Delicious Kaiserschmarrn with plum sauce and lemonade, showcasing traditional Viennese café culture. Stock Photo",
+          "altRaw": "Free Delicious Kaiserschmarrn with plum sauce and lemonade, showcasing traditional Viennese café culture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39866458.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-39835204",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39835204/pexels-photo-39835204/free-photo-of-elegant-interior-of-historic-palace-in-vienna.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/elegant-interior-of-historic-palace-in-vienna-39835204/"
+          },
+          "alt": "Free A grand stairwell inside a historic palace in Vienna, Austria, showcasing classic architecture. Stock Photo",
+          "altRaw": "Free A grand stairwell inside a historic palace in Vienna, Austria, showcasing classic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39835204.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-16632347",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16632347/pexels-photo-16632347/free-photo-of-hofburg-in-vienna.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/hofburg-in-vienna-16632347/"
+          },
+          "alt": "Free Capture of Hofburg Palace in Vienna, showcasing its neoclassical architecture under a bright blue sky. Stock Photo",
+          "altRaw": "Free Capture of Hofburg Palace in Vienna, showcasing its neoclassical architecture under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16632347.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-35841514",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35841514/pexels-photo-35841514/free-photo-of-elegant-european-architecture-in-vienna-s-belvedere-palace.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/elegant-european-architecture-in-vienna-s-belvedere-palace-35841514/"
+          },
+          "alt": "Free Stunning view of the Belvedere Palace's ornate entrance with neoclassical architecture in Vienna. Stock Photo",
+          "altRaw": "Free Stunning view of the Belvedere Palace's ornate entrance with neoclassical architecture in Vienna. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35841514.jpg",
+          "keep": true
+        },
+        {
+          "query": "vienna coffee house palace street cake museum",
+          "id": "pexels-39726430",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39726430/pexels-photo-39726430/free-photo-of-historic-architecture-at-vienna-s-natural-history-museum.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-architecture-at-vienna-s-natural-history-museum-39726430/"
+          },
+          "alt": "Free View of the ornate facade of Vienna's Natural History Museum, showcasing its historic architecture. Stock Photo",
+          "altRaw": "Free View of the ornate facade of Vienna's Natural History Museum, showcasing its historic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39726430.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "קפה, מוזיאונים ואופרה"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "סלוניקי",
+      "note": "הכי קרוב, והכי פחות מוכר",
+      "alt": "סלוניקי 🥙",
+      "images": [
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-12279413",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12279413/pexels-photo-12279413.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/silhouette-of-a-person-standing-on-a-water-fountain-12279413/"
+          },
+          "alt": "Free A captivating silhouette of a person near a water fountain at sunset in Thessaloniki, Greece. Stock Photo",
+          "altRaw": "Free A captivating silhouette of a person near a water fountain at sunset in Thessaloniki, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12279413.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-35886026",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35886026/pexels-photo-35886026/free-photo-of-scenic-waterfront-promenade-in-thessaloniki.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-waterfront-promenade-in-thessaloniki-35886026/"
+          },
+          "alt": "Free Explore the vibrant waterfront promenade in Thessaloniki, Greece, with stunning architectural views and serene sea. Stock Photo",
+          "altRaw": "Free Explore the vibrant waterfront promenade in Thessaloniki, Greece, with stunning architectural views and serene sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35886026.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-38916534",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38916534/pexels-photo-38916534/free-photo-of-peaceful-waterfront-scene-in-thessaloniki-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/peaceful-waterfront-scene-in-thessaloniki-greece-38916534/"
+          },
+          "alt": "Free A serene view of Thessaloniki's waterfront with trees and a person on a scooter. Stock Photo",
+          "altRaw": "Free A serene view of Thessaloniki's waterfront with trees and a person on a scooter. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38916534.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-8167596",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/8167596/pexels-photo-8167596.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/back-view-of-a-man-selling-food-8167596/"
+          },
+          "alt": "Free A street vendor sells food by the Bosphorus in Istanbul with a sunset backdrop. Stock Photo",
+          "altRaw": "Free A street vendor sells food by the Bosphorus in Istanbul with a sunset backdrop. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8167596.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-15349182",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15349182/pexels-photo-15349182/free-photo-of-clouds-over-food-stand.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/clouds-over-food-stand-15349182/"
+          },
+          "alt": "Free Moody scene of a street food cart at dusk with overcast skies and visible steam. Stock Photo",
+          "altRaw": "Free Moody scene of a street food cart at dusk with overcast skies and visible steam. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15349182.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-32158707",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32158707/pexels-photo-32158707/free-photo-of-arched-walkway-at-sunset-in-thessaloniki.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/arched-walkway-at-sunset-in-thessaloniki-32158707/"
+          },
+          "alt": "Free A serene scene of people walking under archways in Thessaloniki during sunset. Stock Photo",
+          "altRaw": "Free A serene scene of people walking under archways in Thessaloniki during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32158707.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-27534534",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27534534/pexels-photo-27534534/free-photo-of-a-man-sitting-on-a-bench-next-to-a-food-cart-at-night.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-man-sitting-on-a-bench-next-to-a-food-cart-at-night-27534534/"
+          },
+          "alt": "Free A lone street vendor with a lit cart by the seaside during twilight, offering a serene urban evening scene. Stock Photo",
+          "altRaw": "Free A lone street vendor with a lit cart by the seaside during twilight, offering a serene urban evening scene. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27534534.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-19295415",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19295415/pexels-photo-19295415/free-photo-of-an-umbrella-by-a-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/an-umbrella-by-a-sea-19295415/"
+          },
+          "alt": "Free A picturesque sunset scene with silhouettes by the waterfront and a vendor cart under a yellow umbrella. Stock Photo",
+          "altRaw": "Free A picturesque sunset scene with silhouettes by the waterfront and a vendor cart under a yellow umbrella. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19295415.jpg",
+          "keep": true
+        },
+        {
+          "query": "thessaloniki waterfront market food street sunset",
+          "id": "pexels-10017656",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10017656/pexels-photo-10017656.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/silhouette-of-people-walking-on-the-roadside-near-the-beach-10017656/"
+          },
+          "alt": "Free Silhouetted people walking along the sea under a vibrant sunset in Thessaloniki, Greece. Stock Photo",
+          "altRaw": "Free Silhouetted people walking along the sea under a vibrant sunset in Thessaloniki, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10017656.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "הכי קרוב והכי פחות מוכר"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "טביליסי",
+      "note": "זול, טעים, ומפתיע",
+      "alt": "טביליסי 🍷",
+      "images": [
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-16578522",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16578522/pexels-photo-16578522/free-photo-of-clothes-drying-by-building-wall.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/clothes-drying-by-building-wall-16578522/"
+          },
+          "alt": "Free Traditional Georgian building facade with drying clothes in Tbilisi, Georgia. Stock Photo",
+          "altRaw": "Free Traditional Georgian building facade with drying clothes in Tbilisi, Georgia. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16578522.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-33516855",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33516855/pexels-photo-33516855/free-photo-of-historic-wooden-balcony-in-urban-street-scene.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-wooden-balcony-in-urban-street-scene-33516855/"
+          },
+          "alt": "Free Charming wooden balcony on historic building amidst street architecture. Stock Photo",
+          "altRaw": "Free Charming wooden balcony on historic building amidst street architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33516855.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-33124640",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33124640/pexels-photo-33124640/free-photo-of-historic-architecture-in-tbilisi-georgia.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-architecture-in-tbilisi-georgia-33124640/"
+          },
+          "alt": "Free Vintage building facade with balcony and street light in Tbilisi, Georgia. Stock Photo",
+          "altRaw": "Free Vintage building facade with balcony and street light in Tbilisi, Georgia. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33124640.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-7539989",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/7539989/pexels-photo-7539989.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bridge-in-town-7539989/"
+          },
+          "alt": "Free Elegant cliffside houses with a spiral staircase and a charming bridge. Stock Photo",
+          "altRaw": "Free Elegant cliffside houses with a spiral staircase and a charming bridge. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7539989.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-33039412",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33039412/pexels-photo-33039412/free-photo-of-historic-tower-building-against-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-tower-building-against-clear-blue-sky-33039412/"
+          },
+          "alt": "Free A majestic historic tower with classic architecture set against a clear blue sky, capturing elegance and tranquility. Stock Photo",
+          "altRaw": "Free A majestic historic tower with classic architecture set against a clear blue sky, capturing elegance and tranquility. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33039412.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-36582122",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36582122/pexels-photo-36582122/free-photo-of-snow-covered-street-in-tbilisi-georgia.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/snow-covered-street-in-tbilisi-georgia-36582122/"
+          },
+          "alt": "Free Charming snowy street scene in Tbilisi, Georgia, showcasing traditional architecture. Stock Photo",
+          "altRaw": "Free Charming snowy street scene in Tbilisi, Georgia, showcasing traditional architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36582122.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-18781301",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18781301/pexels-photo-18781301/free-photo-of-a-view-of-the-city-from-a-high-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-view-of-the-city-from-a-high-building-18781301/"
+          },
+          "alt": "Free Explore the authentic charm and historic architecture of a Tbilisi street, showcasing vibrant urban life. Stock Photo",
+          "altRaw": "Free Explore the authentic charm and historic architecture of a Tbilisi street, showcasing vibrant urban life. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18781301.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-33124652",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33124652/pexels-photo-33124652/free-photo-of-historic-architecture-in-old-tbilisi.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-architecture-in-old-tbilisi-33124652/"
+          },
+          "alt": "Free View of traditional Georgian buildings in Tbilisi, showcasing unique architecture. Stock Photo",
+          "altRaw": "Free View of traditional Georgian buildings in Tbilisi, showcasing unique architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33124652.jpg",
+          "keep": true
+        },
+        {
+          "query": "tbilisi old town wine food street balcony",
+          "id": "pexels-36582118",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36582118/pexels-photo-36582118/free-photo-of-charming-snow-covered-balcony-in-tbilisi.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-snow-covered-balcony-in-tbilisi-36582118/"
+          },
+          "alt": "Free A rustic balcony adorned with snow, showcasing Tbilisi's architectural charm during winter. Stock Photo",
+          "altRaw": "Free A rustic balcony adorned with snow, showcasing Tbilisi's architectural charm during winter. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36582118.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "זול, טעים ומפתיע בטירוף"
+      ]
+    },
+    {
+      "layout": "tt-grid9",
+      "place": "איסטנבול",
+      "note": "שתי יבשות בסופ״ש אחד",
+      "alt": "איסטנבול 🌉",
+      "images": [
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-29766054",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29766054/pexels-photo-29766054/free-photo-of-nighttime-vendor-near-sultan-ahmed-mosque.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/nighttime-vendor-near-sultan-ahmed-mosque-29766054/"
+          },
+          "alt": "Free Street vendor with cart at night near Istanbul's iconic Sultan Ahmed Mosque. Stock Photo",
+          "altRaw": "Free Street vendor with cart at night near Istanbul's iconic Sultan Ahmed Mosque. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29766054.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-30537472",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30537472/pexels-photo-30537472/free-photo-of-scenic-view-of-istanbul-s-historic-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-istanbul-s-historic-architecture-30537472/"
+          },
+          "alt": "Free Aerial view of İstanbul showcasing historic architecture and vibrant cityscape under a warm daylight. Stock Photo",
+          "altRaw": "Free Aerial view of İstanbul showcasing historic architecture and vibrant cityscape under a warm daylight. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30537472.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-14719366",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14719366/pexels-photo-14719366.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-a-busy-street-in-istanbul-turkey-14719366/"
+          },
+          "alt": "Free Vibrant street scene in Istanbul with people, cars, and historic architecture in sunlight. Stock Photo",
+          "altRaw": "Free Vibrant street scene in Istanbul with people, cars, and historic architecture in sunlight. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14719366.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-34422131",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34422131/pexels-photo-34422131/free-photo-of-street-food-vendor-near-istanbul-s-iconic-mosque.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/street-food-vendor-near-istanbul-s-iconic-mosque-34422131/"
+          },
+          "alt": "Free Street vendor serving food with Istanbul's iconic mosque in the background, capturing vibrant city life. Stock Photo",
+          "altRaw": "Free Street vendor serving food with Istanbul's iconic mosque in the background, capturing vibrant city life. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34422131.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-10205952",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10205952/pexels-photo-10205952.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/people-on-bridge-in-istanbul-10205952/"
+          },
+          "alt": "Free Mesmerizing Istanbul cityscape featuring the bustling Galata Bridge over the water at dusk. Stock Photo",
+          "altRaw": "Free Mesmerizing Istanbul cityscape featuring the bustling Galata Bridge over the water at dusk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10205952.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-27664347",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27664347/pexels-photo-27664347/free-photo-of-a-cart-with-a-sign-that-says-tasty.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-cart-with-a-sign-that-says-tasty-27664347/"
+          },
+          "alt": "Free View of the iconic Blue Mosque with a street food cart in Istanbul, Türkiye, showcasing cultural vibrancy. Stock Photo",
+          "altRaw": "Free View of the iconic Blue Mosque with a street food cart in Istanbul, Türkiye, showcasing cultural vibrancy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27664347.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-36873016",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36873016/pexels-photo-36873016/free-photo-of-street-vendor-cart-in-istanbul-with-mosque-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/street-vendor-cart-in-istanbul-with-mosque-view-36873016/"
+          },
+          "alt": "Free Street vendor cart in Istanbul's busy area, showcasing local food with mosque towers in the background. Stock Photo",
+          "altRaw": "Free Street vendor cart in Istanbul's busy area, showcasing local food with mosque towers in the background. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36873016.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-7795989",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/7795989/pexels-photo-7795989.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-istanbul-from-the-galata-tower-7795989/"
+          },
+          "alt": "Free Aerial view of Istanbul cityscape featuring Bosphorus Strait and local landmarks. Stock Photo",
+          "altRaw": "Free Aerial view of Istanbul cityscape featuring Bosphorus Strait and local landmarks. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7795989.jpg",
+          "keep": true
+        },
+        {
+          "query": "istanbul bosphorus bazaar street food mosque",
+          "id": "pexels-29871153",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29871153/pexels-photo-29871153/free-photo-of-bustling-market-at-sunset-by-istanbul-mosque.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bustling-market-at-sunset-by-istanbul-mosque-29871153/"
+          },
+          "alt": "Free Vibrant market with fresh produce near an iconic Istanbul mosque at sunset. Stock Photo",
+          "altRaw": "Free Vibrant market with fresh produce near an iconic Istanbul mosque at sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29871153.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "שתי יבשות בסופ״ש אחד"
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

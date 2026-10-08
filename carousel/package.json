@@ -5,9 +5,13 @@
   "type": "module",
   "description": "Build cross-platform deal carousels from a JSON spec.",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "test": "node --test test/*.test.mjs"
   },
   "devDependencies": {
     "playwright": "^1.63.0"
+  },
+  "dependencies": {
+    "emoji-datasource-apple": "^16.0.0"
   }
 }

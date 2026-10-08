@@ -8,9 +8,15 @@
 // Photos arrive as an array of data URIs (`photos`), one per image entry in the
 // slide spec, in order.
 
+import { appleEmoji } from './emoji.js';
+
+// Escape, THEN swap emoji for Apple's artwork. Order matters: the swap injects
+// <img> tags, so running it first would escape them away. Every esc() in this
+// file feeds element content and never an attribute value — checked before
+// this changed — so an <img> can never land inside quotes.
 const esc = (s) =>
-  String(s ?? '').replace(/[&<>"']/g, (c) =>
-    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  appleEmoji(String(s ?? '').replace(/[&<>"']/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])));
 
 const img = (src) => (src ? `<img src="${src}" alt="">` : '');
 
@@ -175,6 +181,346 @@ const SKINS = {
     }
     return `<img class="photo" src="${photos[0]}" alt="">
       <div class="mapline">${esc(s.headline)}</div>`;
+  },
+
+  // ---------------------------------------------------------------------
+  // @izzy_travels_ "DON'T GO TO THAILAND before reading this" — 66,200 likes,
+  // 68,100 saves, 18,100 shares. Measured off the source slides at 2160px wide
+  // and scaled to this 1080px canvas (x0.5), so every size below is the
+  // source's size, not a taste decision.
+  //
+  // Hook slide: one dark personal photo, a contrarian line in very heavy white
+  // caps with a BLACK OUTLINE (not a shadow, not a box — paint-order puts the
+  // stroke behind the fill so the letterforms stay clean), a lighter line
+  // beneath it, and a two-line summary sitting low in the frame.
+  'tt-hook'(s, photos) {
+    const big = (s.titleLines || []).map((l) => `<div>${esc(l)}</div>`).join('');
+    const foot = (s.foot || []).map((l) => `<div>${esc(l)}</div>`).join('');
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      '<div class="tth">',
+      `<div class="tth-big">${big}</div>`,
+      s.sub ? `<div class="tth-sub">${esc(s.sub)}</div>` : '',
+      '</div>',
+      foot ? `<div class="tth-foot">${foot}</div>` : '',
+    ].join('');
+  },
+
+  // @izzy_travels_ content slide ("money", "SIM / internet", "mistakes to
+  // avoid"). A white rounded title chip centred at the top, an optional green
+  // fact chip under it, then the body as a stack of chips whose background
+  // hugs each LINE rather than the paragraph — that ragged edge is TikTok's
+  // own text-background style and is most of why the deck reads as native.
+  'tt-chips'(s, photos) {
+    const items = (s.items || []).map((t) =>
+      `<p class="tt-item"><span>${esc(t).split(String.fromCharCode(10)).join("</span><br><span>")}</span></p>`).join("");
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      '<div class="ttc">',
+      s.title ? `<div class="ttc-title">${esc(s.title)}</div>` : '',
+      s.accent ? `<div class="ttc-accent">${esc(s.accent)}</div>` : '',
+      items ? `<div class="ttc-body">${items}</div>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @emsriley "20 THINGS TO DO IN LISBON" — 52,200 likes, 54,200 saves. The
+  // opposite system: the photo carries the slide and the words get out of the
+  // way. One small white line, no chip and no box, parked in whatever part of
+  // the frame is empty (`pos` picks the band). Numbered 1..N.
+  'tt-tiny'(s, photos) {
+    const pos = ['top', 'upper', 'mid', 'low'].includes(s.pos) ? s.pos : 'upper';
+    // The number must lead the line on the RIGHT. Written as plain text it is a
+    // neutral run before Hebrew, so bidi pushes it to the left end. Giving it
+    // its own element inside an RTL flex row fixes the order in CSS, without
+    // putting a direction character anywhere near the content.
+    // No number. A numbered deck cannot be trimmed after it is built: drop one
+    // slide and the feed shows 1, 2, 5. The count lives on the cover instead,
+    // where it is one slide to edit. Owner's standing instruction 3.10.
+    const body = `<span>${esc(s.line)}</span>`;
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      `<div class="ttt ${pos}">`,
+      s.titleCaps ? `<div class="ttt-title">${esc(s.titleCaps)}</div>` : '',
+      s.line ? `<div class="ttt-line">${body}</div>` : '',
+      // Every slide says something. A bare place name was read as an empty
+      // slide ("לא כתוב כלום ברוב התמונות בכלל"), so each item carries a
+      // reason to care, not just a label.
+      s.note ? `<div class="ttt-note">${esc(s.note)}</div>` : '',
+      s.sub ? `<div class="ttt-sub">${esc(s.sub)}</div>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // ---------------------------------------------------------------------
+  // @cinexplorerr "How to do Italy (Properly)" — 216,500 likes and **126,300
+  // SAVES**, the highest save count anywhere in this corpus and roughly double
+  // the previous best. Saves are the number that matters here: a saved travel
+  // deck is the one that is open when a hotel gets booked.
+  //
+  // Cover: no photo at all. A cream paper card, a small "Memo" label,
+  // and the title in a serif. Against a feed of saturated photos a plain page
+  // is what stops the thumb.
+  'tt-memo'(s) {
+    return [
+      '<div class="memo">',
+      `<div class="memo-no">${esc(s.memoNo || 'Memo')}</div>`,
+      `<div class="memo-title">${(s.titleLines || []).map((l) => `<div>${esc(l)}</div>`).join('')}</div>`,
+      s.sub ? `<div class="memo-sub">${esc(s.sub)}</div>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @cinexplorerr item slide: one destination per photo with a structured
+  // block — place, temperature, budget, what to do, and WHERE TO STAY. That
+  // last heading is the source's own, and it is why this format was chosen:
+  // the hotel line belongs to the structure instead of being bolted on.
+  'tt-card'(s, photos) {
+    const list = (arr) => (arr || []).map((t) => `<li>${esc(t)}</li>`).join('');
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      '<div class="card">',
+      `<div class="card-head">${esc(s.place)}</div>`,
+      s.meta ? `<div class="card-meta">${(s.meta || []).map((m) => `<span>${esc(m)}</span>`).join('')}</div>` : '',
+      s.doLabel ? `<div class="card-label">${esc(s.doLabel)}</div>` : '',
+      s.todo ? `<ul class="card-list">${list(s.todo)}</ul>` : '',
+      s.stayLabel ? `<div class="card-label">${esc(s.stayLabel)}</div>` : '',
+      s.stay ? `<ul class="card-list">${list(s.stay)}</ul>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @patspassport "THREE HIDDEN GEMS IN ROME" — 135,500 likes and **100,800
+  // saves off FOUR slides**, the best effort-to-save ratio found. Cover is a
+  // serif all-caps stack over a moody night photo.
+  'tt-gem-cover'(s, photos) {
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      '<div class="gem-cover">',
+      (s.titleLines || []).map((l) => `<div>${esc(l)}</div>`).join(''),
+      '</div>',
+      s.sub ? `<div class="gem-cover-sub">${esc(s.sub)}</div>` : '',
+    ].join('');
+  },
+
+  // @patspassport item: a pin, the name in a large serif, then two or three
+  // short dashed lines. The source sets it in white with no outline and it
+  // disappears over bright sky — ours keeps the outline, per the standing
+  // instruction, which is the one place this clone knowingly beats its source.
+  'tt-gem'(s, photos) {
+    const lines = (s.lines || []).map((l) => `<div>${esc(l)}</div>`).join('');
+    return [
+      `<img class="photo" src="${photos[0]}" alt="">`,
+      '<div class="gem">',
+      `<div class="gem-name">${esc(s.pin || '')}${esc(s.place)}</div>`,
+      lines ? `<div class="gem-lines">${lines}</div>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @aimsi.unfiltered "10 european cities perfect for a 3-day trip" — 117,600
+  // likes, 66,700 saves. A 3x3 collage per city: nine photos, one label. The
+  // format sells a city as a MOOD rather than a list, and nine frames do that
+  // in the time one frame gets.
+  //
+  // The source sets its city label in tiny grey type that is unreadable at
+  // feed size. Ours is large and outlined — the standing instruction wins over
+  // the source wherever the two disagree about legibility.
+  'tt-grid9'(s, photos) {
+    const cells = Array.from({ length: 9 }, (_, i) =>
+      `<div class="g9-cell">${img(photos[i] || photos[photos.length - 1] || photos[0])}</div>`).join('');
+    return [
+      `<div class="g9">${cells}</div>`,
+      `<div class="g9-label"><span>${esc(s.place)}</span>`,
+      s.note ? `<span class="g9-note">${esc(s.note)}</span>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @epictodo "TOP 10 Things to do - Crete - Pt.1 Chania" — 68,000 likes,
+  // 49,800 saves. Two photos of the SAME place stacked full-bleed, label on
+  // the seam. Two angles answer "what is it actually like there" in the time
+  // one photo takes, which is why it keeps people.
+  //
+  // The cover also announces a PART NUMBER. The deck is episode one of a
+  // series on one island, which turns a single post into a reason to follow.
+  'tt-split2'(s, photos) {
+    return [
+      '<div class="sp2">',
+      `<div class="sp2-half">${img(photos[0])}</div>`,
+      `<div class="sp2-half">${img(photos[1] || photos[0])}</div>`,
+      '</div>',
+      `<div class="sp2-label"><span>${esc(s.place)}</span>`,
+      s.note ? `<span class="sp2-note">${esc(s.note)}</span>` : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @nearxfar "5 things I wish I knew before going to Japan, part 5" —
+  // 961,100 likes, **468,000 SAVES**, 123,200 shares. By a long way the
+  // highest-saving deck in this corpus: 3.7x the next best.
+  //
+  // It is the opposite of every other format here. No photo behind the words:
+  // a WHITE PAGE, a numbered question as the heading, and a genuinely dense
+  // paragraph with the load-bearing phrases in bold, over a small supporting
+  // image. It is reading, not scanning.
+  //
+  // What makes it save is specificity. Not "eat local food" but "lunch
+  // specials at high-end restaurants are a third of the dinner price". Named
+  // shops, named apps, real numbers. A deck this dense only works if every
+  // line is worth the reading, which is the bar the copy has to clear.
+  //
+  // The outline rule does not apply here for the same reason it does not apply
+  // to the memo card: there is no photograph for the text to fight.
+  'tt-page'(s, photos) {
+    const body = (s.paras || []).map((t) =>
+      `<p>${esc(t).split('**').map((part, i) => (i % 2 ? `<b>${part}</b>` : part)).join('')}</p>`).join('');
+    return [
+      '<div class="pg">',
+      `<div class="pg-q">${esc(s.q)}</div>`,
+      `<div class="pg-body">${body}</div>`,
+      photos[0] ? `<div class="pg-art">${img(photos[0])}` +
+        (s.caption ? `<div class="pg-cap">${esc(s.caption)}</div>` : '') + '</div>' : '',
+      '</div>',
+    ].join('');
+  },
+
+  // @cuddlynest "CAN'T AFFORD / GO TO" — 94,700 likes and **111,700 saves**,
+  // a ratio of 1.18. More saves than likes, the highest in this corpus, and
+  // it comes from a hotel-booking brand: a commercial account doing exactly
+  // the job this account has to do.
+  //
+  // One slide, two photos: the famous expensive place on top, the one that
+  // looks the same for a fraction underneath. The whole mechanic is the swap,
+  // which is why it saves — it is a list of decisions, not of sights.
+  //
+  // The source sets its labels in black and pink chips. Ours are outlined
+  // instead, per the standing instruction, with the pink kept as the colour of
+  // the place name so the pairing still reads at a glance.
+  'tt-swap'(s, photos) {
+    const row = (label, place, cls) =>
+      `<div class="swap-tag ${cls}"><span class="swap-l">${esc(label)}</span>`
+      + `<span class="swap-p">${esc(place)}</span></div>`;
+    return [
+      '<div class="swap">',
+      `<div class="swap-half">${img(photos[0])}${row(s.avoidLabel || 'לא בתקציב:', s.avoid, 'hi')}</div>`,
+      `<div class="swap-half">${img(photos[1] || photos[0])}${row(s.goLabel || 'לכו ל:', s.go, 'lo')}</div>`,
+      '</div>',
+    ].join('');
+  },
+
+  // The shape the top of the corpus actually uses (TIKTOK.md section 9).
+  //
+  // Measured over 524 decks: the slides people SAVE carry three times the text
+  // of the ones they scroll, starting higher in the frame, in a block roughly
+  // seven times taller. The two highest saves-per-like decks, from two
+  // different accounts, are both built as a dense stack of stops rather than
+  // one photograph with a caption over it.
+  //
+  // What is taken from them is the structure and nothing else: a blurred
+  // backdrop so type never fights the picture, a thumbnail per item so the eye
+  // has somewhere to land on every row, and a hard number on every row. The
+  // visual language here is ours — the owner's outlined white type, and the
+  // green he already uses on his own closing card for the number that matters.
+  'tt-stack'(s, photos) {
+    const rows = (s.items || []).slice(0, 4).map((it, i) => `
+      <div class="stk-row">
+        <div class="stk-thumb">${img(photos[i + 1] || photos[0])}</div>
+        <div class="stk-txt">
+          <div class="stk-name">${esc(it.name || '')}</div>
+          ${it.fact ? `<div class="stk-fact">${esc(it.fact).split('**')
+            .map((part, k) => (k % 2 ? `<b>${part}</b>` : part)).join('')}</div>` : ''}
+        </div>
+      </div>`).join('');
+    return `${photos[0] ? `<img class="stk-bg" src="${photos[0]}" alt="">` : ''}
+      <div class="stk-scrim"></div>
+      <div class="stk">
+        ${s.title ? `<div class="stk-head">${esc(s.title)}</div>` : ''}
+        ${s.sub ? `<div class="stk-sub">${esc(s.sub)}</div>` : ''}
+        <div class="stk-rows">${rows}</div>
+      </div>`;
+  },
+
+  // The route layout, rebuilt against the source instead of against my own
+  // drift. @trip.com (127,500 saves) and @vitortrip (1.54 saves per like, the
+  // highest in the corpus) both build a slide as a numbered ROUTE, and the
+  // things that make it one are the things `tt-stack` lost:
+  //
+  //   THREE stops to a slide, not four. Four is where the room ran out.
+  //   LARGE LANDSCAPE tiles, not small squares. Mine shrank 258 → 224 → 196
+  //     because every time a Hebrew line wrapped I took width from the photo.
+  //   SEVERAL LINES per stop. Theirs carry price, hours and duration; mine
+  //     was squeezed to one line, which is how a route became a list.
+  //   A DASHED RAIL down the side with the travel time between stops — the
+  //     single element that says "these are in order", and the one I dropped
+  //     without noticing.
+  //   COLOUR HIERARCHY: the name in the accent, one figure emphasised, the
+  //     rest plain.
+  //
+  // Owner, 7.10: "I have no idea what those 4 little pictures are, that is not
+  // what I meant." He is reacting to the drift, not to the source.
+  //
+  // READ OFF THE SOURCE, §13a, after the first rebuild still missed it:
+  //
+  //   FIVE stops on a slide, not three and not four.
+  //   The NAME sits in a yellow highlighter box, dark text — no outlined type
+  //     anywhere in the deck.
+  //   Facts are a LABELLED SCHEMA in white boxes, identical on every stop:
+  //     TIME SPENT: 30 MIN / PRICE: FREE. Not free prose.
+  //   A dashed ARROW down the side with the walk time in a white pill between
+  //     every pair of stops.
+  //   A day badge at the top, white rounded box.
+  //
+  // ⚠️ The white-box treatment is what the corpus does and it contradicts the
+  // owner's standing "white text, black outline" rule. Both looks are built:
+  // `boxed: false` on the slide returns the outlined type. His call, not mine.
+  //
+  // Item shape:
+  //   { name, time?: '30 דקות', price?: 'חינם', note?: string,
+  //     to?: '5 דקות הליכה' }
+  'tt-route'(s, photos) {
+    const boxed = s.boxed !== false;
+    const items = (s.items || []).slice(0, 5);
+    // One heading box, as all three precedents have: the day, then the area
+    // it covers. Rome "DAY 1", London "DAY 1: ROYAL ICONS". Rendering the
+    // badge and the title as two boxes on opposite edges was mine.
+    const head = [s.badge, s.title].filter(Boolean).join(': ');
+
+    const rows = items.map((it, i) => {
+      const last = i === items.length - 1;
+      // The schema, in the source's own order: how long, then what it costs,
+      // then anything else. A stop missing one simply omits that line, which
+      // is what the source does too.
+      const facts = [
+        it.time ? `<span class="rt-k">זמן</span> ${esc(it.time)}` : '',
+        it.price ? `<span class="rt-k">מחיר</span> ${esc(it.price)}` : '',
+        it.note ? esc(it.note) : '',
+      ].filter(Boolean).slice(0, 2);
+      return `
+      <div class="rt-row">
+        <div class="rt-txt">
+          <div class="rt-name"><span>${esc(it.name || '')}</span></div>
+          ${facts.map((f) => `<div class="rt-fact"><span>${f}</span></div>`).join('')}
+        </div>
+        <div class="rt-thumb">${img(photos[i + 1] || photos[0])}</div>
+        <div class="rt-rail"></div>
+      </div>${last ? '' : `
+      <div class="rt-link">
+        <div class="rt-arrow"></div>
+        ${it.to ? `<div class="rt-to">${esc(it.to)}</div>` : ''}
+      </div>`}`;
+    }).join('');
+
+    // its own backdrop and scrim classes: the markup is mounted into #slide
+    // with no layout class, so a `.tt-route .stk-scrim` rule could never match
+    return `${photos[0] ? `<img class="stk-bg rt-bg" src="${photos[0]}" alt="">` : ''}
+      <div class="stk-scrim rt-scrim"></div>
+      <div class="rt${boxed ? ' boxed' : ''}">
+        ${head ? `<div class="rt-head">${esc(head)}</div>` : ''}
+        <div class="rt-rows">${rows}</div>
+        <!-- no bottom line: none of the three precedents has one, and ours
+             landed at y=1800, inside TikTok's caption strip -->
+      </div>`;
   },
 
   // Closing placeholder, shown whole in a phone frame on a flat ground.

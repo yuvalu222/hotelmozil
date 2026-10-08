@@ -1,0 +1,240 @@
+{
+  "id": "tt-14-which-greek-island",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7533736563604311318",
+  "clonedUrl": "https://www.tiktok.com/@berigold/photo/7533736563604311318",
+  "clonedAccount": "berigold",
+  "sourceLikes": 382700,
+  "sourceSaves": 185100,
+  "sourceShares": 34200,
+  "sourceComments": 1062,
+  "sourceSlides": 8,
+  "sourceCaption": "Over 200+ Greek islands - here's how to pick the right one for you",
+  "demonstrates": "השני בגובהו באוסף: 382,700 לייקים ו-185,100 שמירות. המנגנון שהועתק אינו ויזואלי אלא רעיוני, והוא שונה מכל השאר כאן: **המיון הוא לפי מי שקורא, לא לפי מקום**. לזוגות, לטיול בנות, לאוהבי חופים, למשפחות, לתקציב. כל צופה מוצא את השקופית שלו, והדק פותר בעיית החלטה במקום לספק רשימת אתרים — ולכן שומרים אותו. 'איזה אי ביוון' היא בדיוק השאלה שישראלי שואל לפני ההזמנה. ההתאמות נבדקו אחת-אחת: במנגנון הזה התאמה שגויה גרועה יותר מהתאמה מעורפלת, כי כל העניין הוא שהקורא מזהה את עצמו.",
+  "caption": "יותר ממאתיים איים ביוון. ככה מצמצמים לאחד שמתאים לכם. איזה יצא לכם?",
+  "hashtags": [
+    "יוון",
+    "איים_ביוון",
+    "טיפיםלטיול",
+    "יוון2026",
+    "טיולים"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "איך בוחרים",
+        "את האי הנכון",
+        "ביוון"
+      ],
+      "sub": "יותר ממאתיים איים. ככה מצמצמים לאחד",
+      "alt": "מפרץ באי יווני",
+      "image": {
+        "query": "mykonos windmills white houses blue sea sunny",
+        "id": "pexels-37844835",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37844835/pexels-photo-37844835/free-photo-of-aerial-view-of-mykonos-windmills-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-mykonos-windmills-in-greece-37844835/"
+        },
+        "alt": "Free Stunning aerial view of the iconic Mykonos windmills against a vibrant sea and sky in Greece. Stock Photo",
+        "altRaw": "Free Stunning aerial view of the iconic Mykonos windmills against a vibrant sea and sky in Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844835.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לזוגות",
+      "lines": [
+        "פולגנדרוס, מילוס, קיתירה"
+      ],
+      "alt": "לזוגות 💞",
+      "image": {
+        "query": "folegandros milos greece sunset cliffs village",
+        "id": "pexels-12937088",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12937088/pexels-photo-12937088.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-white-houses-near-mountain-12937088/"
+        },
+        "alt": "Free Stunning view of a whitewashed hillside village in Folegandros at sunset, capturing serene Greek island beauty. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12937088.jpg",
+        "altRaw": "Free Stunning view of a whitewashed hillside village in Folegandros at sunset, capturing serene Greek island beauty. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לטיול בנות",
+      "lines": [
+        "פארוס, איוס, זאקינתוס"
+      ],
+      "alt": "לטיול בנות 💃",
+      "image": {
+        "query": "paros greece beach bar people summer day",
+        "id": "pexels-27203463",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27203463/pexels-photo-27203463/free-photo-of-a-beach-with-white-buildings-and-a-church.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-beach-with-white-buildings-and-a-church-27203463/"
+        },
+        "alt": "Free Explore the traditional architecture and seaside charm of Paros, Greece with vibrant blue skies and scenic town views. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27203463.jpg",
+        "altRaw": "Free Explore the traditional architecture and seaside charm of Paros, Greece with vibrant blue skies and scenic town views. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לאוהבי חופים",
+      "lines": [
+        "קרפאתוס, פאקסוס, לפקדה"
+      ],
+      "alt": "לאוהבי חופים 🏖️",
+      "image": {
+        "query": "lefkada greece turquoise beach cliffs",
+        "id": "pexels-6862344",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/6862344/pexels-photo-6862344.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/turquoise-water-beach-6862344/"
+        },
+        "alt": "Free Explore the stunning turquoise waters and dramatic cliffs of Lefkada's pristine beach. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6862344.jpg",
+        "altRaw": "Free Explore the stunning turquoise waters and dramatic cliffs of Lefkada's pristine beach. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "למטיילים לבד",
+      "lines": [
+        "פארוס, סקיאתוס, סירוס"
+      ],
+      "alt": "למטיילים לבד 🎒",
+      "image": {
+        "query": "greek island harbour taverna boats people",
+        "id": "pexels-12116738",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12116738/pexels-photo-12116738.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/waterfront-buildings-on-the-coast-of-simi-greece-12116738/"
+        },
+        "alt": "Free Vibrant houses on the Symi waterfront with boats and hills in the background, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12116738.jpg",
+        "altRaw": "Free Vibrant houses on the Symi waterfront with boats and hills in the background, Greece. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "למשפחות",
+      "lines": [
+        "נאקסוס, קורפו, כרתים"
+      ],
+      "alt": "למשפחות 👨‍👩‍👧",
+      "image": {
+        "query": "naxos greece sandy shallow beach family",
+        "id": "pexels-17875984",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/17875984/pexels-photo-17875984/free-photo-of-top-view-of-a-beach-with-umbrellas.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/top-view-of-a-beach-with-umbrellas-17875984/"
+        },
+        "alt": "Free Captivating aerial view of Naxos beach with aligned umbrellas and turquoise waves. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17875984.jpg",
+        "altRaw": "Free Captivating aerial view of Naxos beach with aligned umbrellas and turquoise waves. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לחובבי אוכל",
+      "lines": [
+        "סיפנוס, נאקסוס, כרתים, לסבוס"
+      ],
+      "alt": "לחובבי אוכל 🍽️",
+      "image": {
+        "query": "greek taverna table food people seaside",
+        "id": "pexels-38299607",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38299607/pexels-photo-38299607/free-photo-of-greek-souvlaki-with-tzatziki-and-roasted-vegetables.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/greek-souvlaki-with-tzatziki-and-roasted-vegetables-38299607/"
+        },
+        "alt": "Free Delicious Greek souvlaki with tzatziki, served with roasted vegetables and wedges. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38299607.jpg",
+        "altRaw": "Free Delicious Greek souvlaki with tzatziki, served with roasted vegetables and wedges. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "למי שבתקציב",
+      "lines": [
+        "רודוס, כרתים, קוס"
+      ],
+      "alt": "למי שבתקציב 💸",
+      "image": {
+        "query": "rhodes greece old town street people affordable",
+        "id": "pexels-39810420",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39810420/pexels-photo-39810420/free-photo-of-historic-medieval-street-with-stone-arches.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/historic-medieval-street-with-stone-arches-39810420/"
+        },
+        "alt": "Free Walk through a historic stone street framed by arches in the medieval town of Rhodes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39810420.jpg",
+        "altRaw": "Free Walk through a historic stone street framed by arches in the medieval town of Rhodes. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

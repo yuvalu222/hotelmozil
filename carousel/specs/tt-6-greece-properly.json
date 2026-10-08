@@ -1,0 +1,431 @@
+{
+  "id": "tt-6-greece-properly",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7585471517635431702",
+  "clonedUrl": "https://www.tiktok.com/@cinexplorerr/photo/7585471517635431702",
+  "clonedAccount": "cinexplorerr",
+  "sourceLikes": 216500,
+  "sourceSaves": 126300,
+  "sourceShares": 23400,
+  "sourceComments": 296,
+  "sourceSlides": 11,
+  "sourceCaption": "Save this for your future trip",
+  "demonstrates": "מקור חדש, והטוב ביותר שנמצא: 216,500 לייקים ו-126,300 שמירות — כמעט פי שניים שמירות מ-izzy, ופי שלושה לייקים. הועתק: שקופית פתיחה שהיא כרטיס נייר קרם בלי תמונה כלל, עם תווית Memo קטנה וכותרת בסריף; ואז יעד אחד לשקופית עם בלוק מובנה — מיקום, טמפרטורה, תקציב, מה עושים, ואיפה לישון. סעיף 'איפה לישון' הוא של המקור, וזו הסיבה שהפורמט הזה נבחר: טיפ המלונות שייך למבנה ולא מודבק עליו. היעד הוחלף מאיטליה ליוון.",
+  "caption": "איך עושים את יוון כמו שצריך. שמרו לטיול הבא. איזה אי הכי אהבתם?",
+  "hashtags": [
+    "יוון",
+    "איים_ביוון",
+    "טיפיםלטיול",
+    "יוון2026",
+    "טיולים"
+  ],
+  "sound": "המקור מריץ הקלטה מקורית שלו. בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-memo",
+      "memoNo": "Memo",
+      "titleLines": [
+        "איך עושים",
+        "את יוון",
+        "כמו שצריך"
+      ],
+      "sub": "עשרה יעדים, כמה עולה וכמה חם",
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "אתונה",
+      "meta": [
+        "🌡️ בקיץ בערך 33 מעלות",
+        "💰 תקציב: $"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "האקרופוליס מוקדם בבוקר",
+        "פלאקה ואנפיוטיקה",
+        "שוק ורבופולה",
+        "בר על הגג בערב"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "קוקאקי או מונסטיראקי",
+        "קרוב לתחנת מטרו"
+      ],
+      "alt": "אתונה",
+      "image": {
+        "query": "athens acropolis street summer people colourful",
+        "id": "pexels-39304869",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39304869/pexels-photo-39304869/free-photo-of-vibrant-evening-in-athens-with-acropolis-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/vibrant-evening-in-athens-with-acropolis-view-39304869/"
+        },
+        "alt": "Free Bustling street scene in Athens at sunset with the Acropolis in view, capturing cultural charm. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39304869.jpg",
+        "altRaw": "Free Bustling street scene in Athens at sunset with the Acropolis in view, capturing cultural charm. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "סנטוריני",
+      "meta": [
+        "🌡️ בקיץ בערך 28 מעלות",
+        "💰 תקציב: $$$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "שקיעה באויה",
+        "קאלדרה ברגל מפירה",
+        "חוף אדום",
+        "יקבי האי"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "פירה לנוחות",
+        "אויה לנוף, ביוקר"
+      ],
+      "alt": "סנטוריני",
+      "image": {
+        "query": "santorini oia white blue domes sunset",
+        "id": "pexels-33486705",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33486705/pexels-photo-33486705/free-photo-of-iconic-blue-dome-church-overlooking-santorini-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/iconic-blue-dome-church-overlooking-santorini-coastline-33486705/"
+        },
+        "alt": "Free Stunning view of a blue-domed church in Santorini with breathtaking coastal scenery. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33486705.jpg",
+        "altRaw": "Free Stunning view of a blue-domed church in Santorini with breathtaking coastal scenery. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "מיקונוס",
+      "meta": [
+        "🌡️ בקיץ בערך 28 מעלות",
+        "💰 תקציב: $$$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "העיר הישנה",
+        "טחנות הרוח",
+        "פרדייס ביץ",
+        "דלוס ביום"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "חורה למרכז",
+        "אורנוס לחוף"
+      ],
+      "alt": "מיקונוס",
+      "image": {
+        "query": "mykonos windmills white town bougainvillea",
+        "id": "pexels-15241712",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15241712/pexels-photo-15241712/free-photo-of-panoramic-view-of-a-greek-island.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/panoramic-view-of-a-greek-island-15241712/"
+        },
+        "alt": "Free Panoramic view of traditional white buildings and sea in Mykonos, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15241712.jpg",
+        "altRaw": "Free Panoramic view of traditional white buildings and sea in Mykonos, Greece. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "כרתים",
+      "meta": [
+        "🌡️ בקיץ בערך 29 מעלות",
+        "💰 תקציב: $$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "חוף באלוס",
+        "קניון סמריה",
+        "חאניה הוונציאנית",
+        "כפרי ההרים"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "חאניה או רתימנו",
+        "רכב שכור כמעט חובה"
+      ],
+      "alt": "כרתים",
+      "image": {
+        "query": "crete balos lagoon turquoise beach",
+        "id": "pexels-31908261",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31908261/pexels-photo-31908261/free-photo-of-stunning-aerial-view-of-balos-lagoon-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/stunning-aerial-view-of-balos-lagoon-crete-31908261/"
+        },
+        "alt": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31908261.jpg",
+        "altRaw": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "רודוס",
+      "meta": [
+        "🌡️ בקיץ בערך 30 מעלות",
+        "💰 תקציב: $$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "העיר העתיקה",
+        "לינדוס והאקרופוליס",
+        "עמק הפרפרים",
+        "חופי המזרח"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "בתוך החומות",
+        "פליראקי לחופים"
+      ],
+      "alt": "רודוס",
+      "image": {
+        "query": "rhodes lindos acropolis white village sea",
+        "id": "pexels-32661056",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32661056/pexels-photo-32661056/free-photo-of-scenic-view-of-lindos-acropolis-with-boats.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-view-of-lindos-acropolis-with-boats-32661056/"
+        },
+        "alt": "Free A picturesque view of Lindos Acropolis with sailboats on the vibrant blue sea, perfect for travel enthusiasts. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32661056.jpg",
+        "altRaw": "Free A picturesque view of Lindos Acropolis with sailboats on the vibrant blue sea, perfect for travel enthusiasts. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "קורפו",
+      "meta": [
+        "🌡️ בקיץ בערך 30 מעלות",
+        "💰 תקציב: $$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "העיר הוונציאנית",
+        "פאלאוקסטריצה",
+        "קנאל ד'אמור",
+        "כפרי הפנים"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "העיר הישנה",
+        "פאלאוקסטריצה לחוף"
+      ],
+      "alt": "קורפו",
+      "image": {
+        "query": "corfu old town venetian colourful street",
+        "id": "pexels-39611137",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39611137/pexels-photo-39611137/free-photo-of-charming-venetian-architecture-in-corfu-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/charming-venetian-architecture-in-corfu-town-39611137/"
+        },
+        "alt": "Free Beautiful Venetian-era buildings with vibrant colors under a bright sky in Corfu Town, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39611137.jpg",
+        "altRaw": "Free Beautiful Venetian-era buildings with vibrant colors under a bright sky in Corfu Town, Greece. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "פארוס",
+      "meta": [
+        "🌡️ בקיץ בערך 28 מעלות",
+        "💰 תקציב: $$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "נאוסה בערב",
+        "גולדן ביץ",
+        "לפקס",
+        "אנטיפארוס ביום"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "נאוסה לחיים",
+        "פאריקיה לנמל"
+      ],
+      "alt": "פארוס",
+      "image": {
+        "query": "paros naoussa harbour colourful boats",
+        "id": "pexels-18648802",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18648802/pexels-photo-18648802/free-photo-of-fishing-boats-moored-to-dock.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/fishing-boats-moored-to-dock-18648802/"
+        },
+        "alt": "Free Colorful fishing boats docked in Paros harbor, Greece, under a clear blue sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18648802.jpg",
+        "altRaw": "Free Colorful fishing boats docked in Paros harbor, Greece, under a clear blue sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "נאקסוס",
+      "meta": [
+        "🌡️ בקיץ בערך 28 מעלות",
+        "💰 תקציב: $"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "שער הפורטרה",
+        "כפר חלקי",
+        "אגיוס פרוקופיוס",
+        "הרי האי"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "חורה למרכז",
+        "פלאקה לחוף"
+      ],
+      "alt": "נאקסוס",
+      "image": {
+        "query": "naxos portara temple gate sunset sea",
+        "id": "pexels-9692222",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9692222/pexels-photo-9692222.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/the-temple-of-apollo-in-greece-9692222/"
+        },
+        "alt": "Free A stunning view of the Portara in Naxos, Greece, silhouetted against a vibrant sunset sky. Stock Photo",
+        "altRaw": "Free A stunning view of the Portara in Naxos, Greece, silhouetted against a vibrant sunset sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9692222.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "זאקינתוס",
+      "meta": [
+        "🌡️ בקיץ בערך 30 מעלות",
+        "💰 תקציב: $$"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "חוף הנאבארג'יו",
+        "מערות כחולות",
+        "לגאנאס",
+        "צבי ים"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "זאקינתוס עיר",
+        "ציאיבי לשקט"
+      ],
+      "alt": "זאקינתוס",
+      "image": {
+        "query": "zakynthos navagio shipwreck beach cliffs",
+        "id": "pexels-18091376",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18091376/pexels-photo-18091376/free-photo-of-island-with-scenic-bay.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/island-with-scenic-bay-18091376/"
+        },
+        "alt": "Free A stunning aerial shot of Navagio Beach, Zakynthos, with its turquoise waters and dramatic cliffs. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18091376.jpg",
+        "altRaw": "Free A stunning aerial shot of Navagio Beach, Zakynthos, with its turquoise waters and dramatic cliffs. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-card",
+      "place": "סלוניקי",
+      "meta": [
+        "🌡️ בקיץ בערך 31 מעלות",
+        "💰 תקציב: $"
+      ],
+      "doLabel": "מה עושים:",
+      "todo": [
+        "המגדל הלבן",
+        "שוק מודיאנו",
+        "העיר העליונה",
+        "טיילת הים"
+      ],
+      "stayLabel": "איפה לישון:",
+      "stay": [
+        "לדיקיס למרכז",
+        "ליד הטיילת"
+      ],
+      "alt": "סלוניקי",
+      "image": {
+        "query": "thessaloniki waterfront white tower sunset",
+        "id": "pexels-37845008",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37845008/pexels-photo-37845008/free-photo-of-aerial-view-of-thessaloniki-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-thessaloniki-at-sunset-37845008/"
+        },
+        "alt": "Free A stunning aerial view of Thessaloniki, Greece, showcasing the vibrant cityscape at sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37845008.jpg",
+        "altRaw": "Free A stunning aerial view of Thessaloniki, Greece, showcasing the vibrant cityscape at sunset. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

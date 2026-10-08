@@ -1,0 +1,595 @@
+{
+  "id": "tt-2-athens-20things",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7622782757621615875",
+  "clonedUrl": "https://www.tiktok.com/@emsriley/photo/7622782757621615875",
+  "clonedAccount": "emsriley",
+  "sourceLikes": 52200,
+  "sourceSaves": 54200,
+  "sourceShares": 15300,
+  "sourceComments": 145,
+  "sourceSlides": 21,
+  "sourceCaption": "Most being completely free",
+  "sourceHashtags": [
+    "lisbon",
+    "thingstodoinlisbon",
+    "london",
+    "thingstodoinlondon",
+    "LondonHiddenGems",
+    "LondonThingsToDo",
+    "VisitLondon"
+  ],
+  "demonstrates": "Cloned slide for slide from @emsriley — 52,200 likes and 54,200 SAVES. The visual system is the exact opposite of the chip-heavy deck, and it also cleared the floor, which is the point: both work, so the choice between them is a choice of voice, not of quality. Copied exactly: slide one is the count and the city in small white caps with a one-line brag beneath; every other slide is ONE photo filling the frame with ONE small numbered line, no chip, no box, no outline, parked in whatever part of the photo is empty; twenty numbered items, 1 to 20; the caption is a single short line that tells you the list is mostly free. Destination swapped Lisbon to Athens, which is the single most-flown route out of Ben Gurion (1,178,745 passengers).",
+  "caption": "20 דברים לעשות באתונה, ורובם בחינם. מה הייתם מוסיפים?",
+  "hashtags": [
+    "אתונה",
+    "יוון",
+    "טיפיםלטיול",
+    "אתונה2026",
+    "טיולים"
+  ],
+  "sound": "המקור רוכב על \"ridin x back on 74\", טראק מספריית טיקטוק — לא הקלטה שלו ולא קשור לליסבון. בחר סאונד טרנדי ביום ההעלאה; לרשימה שקטה אין למה לסנכרן, ולכן ערך הטרנד גובר על ההתאמה.",
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "pos": "upper",
+      "titleCaps": "20 דברים לעשות באתונה",
+      "sub": "רובם בחינם",
+      "alt": "נוף על אתונה עם האקרופוליס",
+      "image": {
+        "query": "acropolis parthenon dramatic sunset city below",
+        "id": "pexels-31079277",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31079277/pexels-photo-31079277/free-photo-of-temple-of-hephaestus-in-athens-at-dusk.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/temple-of-hephaestus-in-athens-at-dusk-31079277/"
+        },
+        "alt": "Free A stunning aerial view of Athens with the Temple of Hephaestus illuminated at dusk. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31079277.jpg",
+        "altRaw": "Free A stunning aerial view of Athens with the Temple of Hephaestus illuminated at dusk. Stock Photo",
+        "keep": true
+      },
+      "credit": null,
+      "line": "ורובם בחינם"
+    },
+    {
+      "layout": "tt-stack",
+      "title": "הקלאסיקות",
+      "items": [
+        {
+          "name": "האקרופוליס",
+          "fact": "תורים כבר ב-**8 בבוקר**. אל תגיעו ב-11"
+        },
+        {
+          "name": "מוזיאון האקרופוליס",
+          "fact": "רצפת זכוכית מעל **חפירות חיות**"
+        },
+        {
+          "name": "האגורה העתיקה",
+          "fact": "מקדש הפייסטוס, **השמור ביוון**"
+        },
+        {
+          "name": "מקדש זאוס",
+          "fact": "**16 עמודים** שנשארו מתוך 104"
+        }
+      ],
+      "alt": "הקלאסיקות",
+      "images": [
+        {
+          "query": "athens acropolis city view golden hour",
+          "id": "pexels-22679616",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/22679616/pexels-photo-22679616/free-photo-of-ancient-temples-on-rock-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-temples-on-rock-in-athens-22679616/"
+          },
+          "alt": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "altRaw": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679616.jpg",
+          "backdrop": true
+        },
+        {
+          "query": "acropolis athens morning light tourists",
+          "id": "pexels-15141425",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15141425/pexels-photo-15141425/free-photo-of-cityscape-seen-from-ancient-ruins.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/cityscape-seen-from-ancient-ruins-15141425/"
+          },
+          "alt": "Free Tourists explore historic ruins in a cityscape under clear skies, capturing Greece's ancient charm. Stock Photo",
+          "altRaw": "Free Tourists explore historic ruins in a cityscape under clear skies, capturing Greece's ancient charm. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15141425.jpg"
+        },
+        {
+          "query": "acropolis museum interior glass floor",
+          "id": "pexels-34686175",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34686175/pexels-photo-34686175/free-photo-of-elegant-classical-colonnade-in-athens-museum.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/elegant-classical-colonnade-in-athens-museum-34686175/"
+          },
+          "alt": "Free A stunning long corridor with classical columns inside an Athens museum. Stock Photo",
+          "altRaw": "Free A stunning long corridor with classical columns inside an Athens museum. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34686175.jpg"
+        },
+        {
+          "query": "ancient agora athens temple hephaestus",
+          "id": "pexels-32283652",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32283652/pexels-photo-32283652/free-photo-of-ancient-greek-temple-in-autumn-landscape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-greek-temple-in-autumn-landscape-32283652/"
+          },
+          "alt": "Free Scenic view of an ancient Greek temple surrounded by fall foliage. Stock Photo",
+          "altRaw": "Free Scenic view of an ancient Greek temple surrounded by fall foliage. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32283652.jpg"
+        },
+        {
+          "query": "temple of olympian zeus athens columns",
+          "id": "pexels-26747462",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/26747462/pexels-photo-26747462/free-photo-of-corinthian-column-of-temple-of-olympian-zeus-in-athens-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/corinthian-column-of-temple-of-olympian-zeus-in-athens-in-greece-26747462/"
+          },
+          "alt": "Free Corinthian column at the Temple of Olympian Zeus in Athens on a sunny day. Stock Photo",
+          "altRaw": "Free Corinthian column at the Temple of Olympian Zeus in Athens on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26747462.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "נקודות תצפית",
+      "items": [
+        {
+          "name": "גבעת פילופאפו",
+          "fact": "הנוף הכי טוב לשקיעה, ו**חינם**"
+        },
+        {
+          "name": "גבעת ליקאביטוס",
+          "fact": "**רכבל** למעלה, ברגל למטה"
+        },
+        {
+          "name": "בר על הגג",
+          "fact": "האקרופוליס מואר **מול הכוס**"
+        },
+        {
+          "name": "אנפיוטיקה",
+          "fact": "כפר קיקלאדי שלם **בתוך העיר**"
+        }
+      ],
+      "alt": "נקודות תצפית",
+      "images": [
+        {
+          "query": "athens acropolis city view golden hour",
+          "id": "pexels-22679616",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/22679616/pexels-photo-22679616/free-photo-of-ancient-temples-on-rock-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-temples-on-rock-in-athens-22679616/"
+          },
+          "alt": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "altRaw": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679616.jpg",
+          "backdrop": true
+        },
+        {
+          "query": "philopappos hill athens acropolis sunset view",
+          "id": "pexels-14355766",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14355766/pexels-photo-14355766.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/roofs-of-building-in-town-and-hill-behind-at-dusk-14355766/"
+          },
+          "alt": "Free Stunning sunset view over Athens cityscape with the iconic Acropolis and historic architecture. Stock Photo",
+          "altRaw": "Free Stunning sunset view over Athens cityscape with the iconic Acropolis and historic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14355766.jpg"
+        },
+        {
+          "query": "lycabettus hill athens funicular city view",
+          "id": "pexels-36050711",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36050711/pexels-photo-36050711/free-photo-of-scenic-view-of-mount-lycabettus-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-mount-lycabettus-in-athens-36050711/"
+          },
+          "alt": "Free Aerial view of Mount Lycabettus overlooking Athens cityscape under a cloudy sky. Stock Photo",
+          "altRaw": "Free Aerial view of Mount Lycabettus overlooking Athens cityscape under a cloudy sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36050711.jpg"
+        },
+        {
+          "query": "athens rooftop bar acropolis night illuminated",
+          "id": "pexels-14383890",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14383890/pexels-photo-14383890.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/city-of-athens-at-night-14383890/"
+          },
+          "alt": "Free Stunning nighttime view of the Parthenon in Athens, Greece, with vibrant city lights. Stock Photo",
+          "altRaw": "Free Stunning nighttime view of the Parthenon in Athens, Greece, with vibrant city lights. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14383890.jpg"
+        },
+        {
+          "query": "anafiotika athens white houses alley bougainvillea",
+          "id": "pexels-18252676",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18252676/pexels-photo-18252676/free-photo-of-small-yard-with-flowers-by-house-in-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/small-yard-with-flowers-by-house-in-town-18252676/"
+          },
+          "alt": "Free Picturesque Greek house in Athens with bougainvillea and classic architecture. Stock Photo",
+          "altRaw": "Free Picturesque Greek house in Athens with bougainvillea and classic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18252676.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "איפה אוכלים",
+      "items": [
+        {
+          "name": "שוק ורבופולה",
+          "fact": "תאכלו **איפה שהקצבים אוכלים**"
+        },
+        {
+          "name": "קוקאקי",
+          "fact": "פה אוכלים, **לא בכיכר התיירותית**"
+        },
+        {
+          "name": "פסאיירי",
+          "fact": "הרחובות מתמלאים **אחרי עשר**"
+        },
+        {
+          "name": "פלאקה",
+          "fact": "תיכנסו לסמטאות **בלי מפה**"
+        }
+      ],
+      "alt": "איפה אוכלים",
+      "images": [
+        {
+          "query": "athens acropolis city view golden hour",
+          "id": "pexels-22679616",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/22679616/pexels-photo-22679616/free-photo-of-ancient-temples-on-rock-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-temples-on-rock-in-athens-22679616/"
+          },
+          "alt": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "altRaw": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679616.jpg",
+          "backdrop": true
+        },
+        {
+          "query": "varvakios market athens meat stalls people",
+          "id": "pexels-19227970",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19227970/pexels-photo-19227970/free-photo-of-stall-with-meat-in-chorsu-bazaar.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stall-with-meat-in-chorsu-bazaar-19227970/"
+          },
+          "alt": "Free A vibrant scene at Chorsu Bazaar in Tashkent shows vendors selling fresh meat at a bustling indoor market. Stock Photo",
+          "altRaw": "Free A vibrant scene at Chorsu Bazaar in Tashkent shows vendors selling fresh meat at a bustling indoor market. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19227970.jpg"
+        },
+        {
+          "query": "koukaki athens neighbourhood street cafe evening",
+          "id": "pexels-36795951",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36795951/pexels-photo-36795951/free-photo-of-charming-alleyway-in-athens-greece-at-dusk.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-alleyway-in-athens-greece-at-dusk-36795951/"
+          },
+          "alt": "Free A serene alley in Athens, Greece with vibrant facades and cozy cafes at dusk. Stock Photo",
+          "altRaw": "Free A serene alley in Athens, Greece with vibrant facades and cozy cafes at dusk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36795951.jpg"
+        },
+        {
+          "query": "psiri athens street night lanterns crowd",
+          "id": "pexels-18881665",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18881665/pexels-photo-18881665/free-photo-of-lamps-over-women-and-girl-at-bazaar.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/lamps-over-women-and-girl-at-bazaar-18881665/"
+          },
+          "alt": "Free Bustling night market scene with diverse people and colorful stalls creating a lively atmosphere. Stock Photo",
+          "altRaw": "Free Bustling night market scene with diverse people and colorful stalls creating a lively atmosphere. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18881665.jpg"
+        },
+        {
+          "query": "plaka athens alley stairs flowers sunny",
+          "id": "pexels-15911487",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15911487/pexels-photo-15911487/free-photo-of-ivy-on-wall-near-building-in-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ivy-on-wall-near-building-in-town-15911487/"
+          },
+          "alt": "Free Discover the picturesque narrow alleyways with ivy-covered walls in Athens, Greece. Stock Photo",
+          "altRaw": "Free Discover the picturesque narrow alleyways with ivy-covered walls in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15911487.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "בחינם או כמעט",
+      "items": [
+        {
+          "name": "החלפת המשמרות",
+          "fact": "**כל שעה עגולה** בסינטגמה"
+        },
+        {
+          "name": "הגן הלאומי",
+          "fact": "**צל אמיתי** באמצע היום"
+        },
+        {
+          "name": "מונסטיראקי",
+          "fact": "בראשון זה **שוק פשפשים**"
+        },
+        {
+          "name": "האצטדיון הפנאתינאיקו",
+          "fact": "**שיש לבן**, ואפשר לרוץ בו"
+        }
+      ],
+      "alt": "בחינם או כמעט",
+      "images": [
+        {
+          "query": "athens acropolis city view golden hour",
+          "id": "pexels-22679616",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/22679616/pexels-photo-22679616/free-photo-of-ancient-temples-on-rock-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-temples-on-rock-in-athens-22679616/"
+          },
+          "alt": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "altRaw": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679616.jpg",
+          "backdrop": true
+        },
+        {
+          "query": "evzones guard change syntagma athens",
+          "id": "pexels-32054739",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32054739/pexels-photo-32054739/free-photo-of-evzones-guard-in-athens-performing-ceremonial-march.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/evzones-guard-in-athens-performing-ceremonial-march-32054739/"
+          },
+          "alt": "Free Evzones in traditional attire perform the ceremonial change of guard in Athens, Greece. Stock Photo",
+          "altRaw": "Free Evzones in traditional attire perform the ceremonial change of guard in Athens, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32054739.jpg"
+        },
+        {
+          "query": "national garden athens shade trees path",
+          "id": "pexels-5666100",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5666100/pexels-photo-5666100.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/cobblestone-passage-between-bushes-5666100/"
+          },
+          "alt": "Free Rustic cobblestone path in Athens surrounded by lush trees, offering a serene walk. Stock Photo",
+          "altRaw": "Free Rustic cobblestone path in Athens surrounded by lush trees, offering a serene walk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5666100.jpg"
+        },
+        {
+          "query": "monastiraki flea market athens stalls colorful",
+          "id": "pexels-14379150",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14379150/pexels-photo-14379150.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stall-on-city-square-market-14379150/"
+          },
+          "alt": "Free Captivating view of Athens Flea Market with vendors selling goods and shoppers exploring the area. Stock Photo",
+          "altRaw": "Free Captivating view of Athens Flea Market with vendors selling goods and shoppers exploring the area. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14379150.jpg"
+        },
+        {
+          "query": "panathenaic stadium athens marble",
+          "id": "pexels-30314054",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30314054/pexels-photo-30314054/free-photo-of-panathenaic-stadium-under-clear-sky-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/panathenaic-stadium-under-clear-sky-in-athens-30314054/"
+          },
+          "alt": "Free Iconic Panathenaic Stadium in Athens showcasing ancient Grecian architecture and stone seating under a bright blue sky. Stock Photo",
+          "altRaw": "Free Iconic Panathenaic Stadium in Athens showcasing ancient Grecian architecture and stone seating under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30314054.jpg"
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "יום מחוץ לעיר",
+      "items": [
+        {
+          "name": "קייפ סוניון",
+          "fact": "מקדש פוסידון **בדיוק בשקיעה**"
+        },
+        {
+          "name": "הריביירה האתונאית",
+          "fact": "**חוף אמיתי** בתוך העיר"
+        },
+        {
+          "name": "פיראוס",
+          "fact": "מכאן יוצאות **המעבורות לאיים**"
+        },
+        {
+          "name": "המוזיאון הארכיאולוגי",
+          "fact": "**המסכה של אגממנון** נמצאת כאן"
+        }
+      ],
+      "alt": "יום מחוץ לעיר",
+      "images": [
+        {
+          "query": "athens acropolis city view golden hour",
+          "id": "pexels-22679616",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/22679616/pexels-photo-22679616/free-photo-of-ancient-temples-on-rock-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-temples-on-rock-in-athens-22679616/"
+          },
+          "alt": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "altRaw": "Free Picturesque street in Athens with iconic Acropolis in the background during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679616.jpg",
+          "backdrop": true
+        },
+        {
+          "query": "cape sounion temple poseidon sunset",
+          "id": "pexels-38836760",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38836760/pexels-photo-38836760/free-photo-of-women-enjoying-sunset-at-temple-of-poseidon.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/women-enjoying-sunset-at-temple-of-poseidon-38836760/"
+          },
+          "alt": "Free Two women relax and enjoy the sunset at the ancient Temple of Poseidon in Greece. Stock Photo",
+          "altRaw": "Free Two women relax and enjoy the sunset at the ancient Temple of Poseidon in Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38836760.jpg"
+        },
+        {
+          "query": "athens riviera beach vouliagmeni turquoise",
+          "id": "pexels-39308210",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39308210/pexels-photo-39308210/free-photo-of-scenic-antalya-coastline-with-airplane-overhead.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-antalya-coastline-with-airplane-overhead-39308210/"
+          },
+          "alt": "Free Airplane flying over Antalya's rocky coastline with boats in the turquoise sea Stock Photo",
+          "altRaw": "Free Airplane flying over Antalya's rocky coastline with boats in the turquoise sea Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39308210.jpg"
+        },
+        {
+          "query": "piraeus port ferries athens",
+          "id": "pexels-15602086",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15602086/pexels-photo-15602086/free-photo-of-view-of-a-harbour-with-a-ferry-and-cranes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-a-harbour-with-a-ferry-and-cranes-15602086/"
+          },
+          "alt": "Free A dynamic view of Piraeus port featuring cargo ships and machinery under a clear blue sky. Stock Photo",
+          "altRaw": "Free A dynamic view of Piraeus port featuring cargo ships and machinery under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15602086.jpg"
+        },
+        {
+          "query": "national archaeological museum athens gold mask",
+          "id": "pexels-34017629",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34017629/pexels-photo-34017629/free-photo-of-ancient-egyptian-funerary-mask-with-gold-adornment.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-egyptian-funerary-mask-with-gold-adornment-34017629/"
+          },
+          "alt": "Free Elegant ancient Egyptian funerary mask featuring intricate gold and colorful patterns. Stock Photo",
+          "altRaw": "Free Elegant ancient Egyptian funerary mask featuring intricate gold and colorful patterns. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34017629.jpg"
+        }
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

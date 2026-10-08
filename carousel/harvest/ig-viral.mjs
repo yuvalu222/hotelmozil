@@ -16,6 +16,9 @@ import path from 'node:path';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36';
 const ROOT = 'harvest';
 const DECKS = path.join(ROOT, 'igv-decks');
+// Fresh profile per run: a crashed launch poisons the directory it used.
+const IG_PROFILE = path.join('recon', 'p-igv-' + Date.now().toString(36));
+process.on('exit', () => { try { fs.rmSync(IG_PROFILE, { recursive: true, force: true }); } catch {} });
 fs.mkdirSync(DECKS, { recursive: true });
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const jitter = (a, b) => a + Math.random() * (b - a);
@@ -40,7 +43,7 @@ const done = new Set(fs.existsSync(donePath) ? JSON.parse(fs.readFileSync(donePa
 const out = fs.createWriteStream(path.join(ROOT, 'ig-viral.jsonl'), { flags: 'a' });
 const log = (s) => console.log(s);
 
-const ctx = await chromium.launchPersistentContext('recon/p-igv', {
+const ctx = await chromium.launchPersistentContext(IG_PROFILE, {
   channel: 'chrome', headless: true, userAgent: UA,
   viewport: { width: 1200, height: 1200 }, locale: 'en-US',
   args: ['--disable-blink-features=AutomationControlled'],
@@ -54,8 +57,14 @@ const ENGINES = [
 ];
 let ei = 0;
 const sp = await ctx.newPage();
+// SKIP_ENUM=1 goes straight to fetching the shortcodes already on file.
+// Enumeration is 7 shapes x 38 places = 266 search queries at a few seconds
+// each, and NOTHING is fetched until every one of them finishes — so a run
+// that already has 55 codes waiting burns hours re-finding the same ones
+// before it writes a single row. The embed itself was proved to answer
+// separately: three codes, three 200s with handle, followers and caption.
 outer:
-for (const shape of SHAPES) {
+for (const shape of (process.env.SKIP_ENUM ? [] : SHAPES)) {
   for (const place of PLACES) {
     const q = `site:instagram.com/p "${shape}" ${place}`;
     try {
@@ -106,7 +115,11 @@ const likeDist = [];
 
 for (const code of codes) {
   if (done.has(code)) continue;
-  done.add(code);
+  // NOT marked done here. It used to be, and a run that crashed part-way left
+  // every code it had merely reached recorded as finished — all 55 were marked
+  // done without one being fetched, so every later run skipped the lot and
+  // reported "examined=0" while looking perfectly healthy. A code is done when
+  // it has been read, not when it has been reached.
   try {
     const r = await page.goto(`https://www.instagram.com/p/${code}/embed/captioned/`,
       { timeout: 35000, waitUntil: 'domcontentloaded' });
@@ -136,6 +149,7 @@ for (const code of codes) {
       };
     });
     if (d.imgs.length < 2) continue;
+    done.add(code);   // read successfully — now it is done
     looked++;
     const likes = num(d.likesRaw);
     likeDist.push(likes || 0);

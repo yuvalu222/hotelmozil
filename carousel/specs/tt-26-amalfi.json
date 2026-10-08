@@ -1,0 +1,972 @@
+{
+  "clonedFrom": "tt-7523532908951309590",
+  "clonedUrl": "https://www.tiktok.com/@travellingcloset1",
+  "clonedAccount": "travellingcloset1",
+  "sourceLikes": 79300,
+  "sourceSaves": 57600,
+  "sourceSlides": 20,
+  "sourceCaption": "Positano / Amalfi pin list",
+  "id": "tt-26-amalfi",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "נבנה מאפס לפי research/00-THE-SPEC.md. היעד נבחר בחיתוך שני אותות נפרדים: איטליה היא יעד הטיסה החמישי מתל אביב ויש לנו רק רומא, והמילה positano מופיעה פי 9 בשליש העליון של הקפשנים בקורפוס. דירוג היעדים בקורפוס משקף קהל אנגלי גלובלי ואינו עובר לקהל ישראלי; רק ממצאי הפורמט עוברים.",
+  "caption": "🇮🇹 המסלול המלא לחוף אמלפי בלי לשרוף את כל התקציב. לינה בחצי מחיר, אוטובוס ב-1.5 יורו, ושביל האלים בחינם. כולל מה לא לעשות.\nשמרו את זה לפני שאתם מזמינים 📌 מי כבר היה?",
+  "hashtags": [
+    "אמלפי",
+    "איטליה",
+    "פוזיטאנו",
+    "המלצות",
+    "טיול"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ],
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "pos": "upper",
+      "titleCaps": "טסתם לרומא?",
+      "line": "פספסתם את זה, שעה וחצי משם",
+      "note": "📌 שמרו את זה לפני שאתם מזמינים",
+      "alt": "חוף אמלפי",
+      "image": {
+        "query": "positano amalfi coast colorful houses cliff sea sunset",
+        "id": "pexels-39431290",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39431290/pexels-photo-39431290/free-photo-of-twilight-view-of-positano-on-the-amalfi-coast.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/twilight-view-of-positano-on-the-amalfi-coast-39431290/"
+        },
+        "alt": "Free Captivating twilight view of Positano on the Amalfi Coast, showcasing the vibrant lights and serene sea. Stock Photo",
+        "altRaw": "Free Captivating twilight view of Positano on the Amalfi Coast, showcasing the vibrant lights and serene sea. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39431290.jpg",
+        "m": {
+          "sat": 0.3785,
+          "satHigh": 0.3245,
+          "chroma": 56.58,
+          "contrast": 50.69,
+          "warm": 0.1552,
+          "vivid": 0.4076,
+          "dark": 0.3016,
+          "blown": 0,
+          "busy": 0.1072,
+          "lum": 86.7
+        },
+        "dud": null,
+        "score": 0.812
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-stack",
+      "title": "הערים",
+      "sub": "כל אחת אחרת לגמרי",
+      "alt": "הערים",
+      "items": [
+        {
+          "name": "פוזיטאנו",
+          "fact": "הכי מצולמת. **250-450 יורו**"
+        },
+        {
+          "name": "אמלפי",
+          "fact": "**62 מדרגות** עד הקתדרלה"
+        },
+        {
+          "name": "ראוולו",
+          "fact": "**350 מטר** מעל הים. הכי שקטה"
+        },
+        {
+          "name": "סורנטו",
+          "fact": "**120-200 יורו**. חצי מחיר"
+        }
+      ],
+      "images": [
+        {
+          "query": "positano italy cliffside colorful houses",
+          "id": "pexels-33839189",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33839189/pexels-photo-33839189/free-photo-of-scenic-view-of-colorful-positano-cliffside-homes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-colorful-positano-cliffside-homes-33839189/"
+          },
+          "alt": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+          "altRaw": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33839189.jpg",
+          "m": {
+            "sat": 0.3968,
+            "satHigh": 0.4274,
+            "chroma": 63.83,
+            "contrast": 54.66,
+            "warm": 0.1081,
+            "vivid": 0.4404,
+            "dark": 0.2136,
+            "blown": 0.0023,
+            "busy": 0.1624,
+            "lum": 111.2
+          },
+          "dud": null,
+          "score": 0.76
+        },
+        {
+          "query": "positano italy colorful houses stairs sea",
+          "for": "פוזיטאנו",
+          "id": "pexels-17876978",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17876978/pexels-photo-17876978/free-photo-of-town-on-hill-on-sea-shore-in-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/town-on-hill-on-sea-shore-in-italy-17876978/"
+          },
+          "alt": "Free A stunning view of Positano's colorful buildings cascading towards the tranquil Mediterranean Sea. Stock Photo",
+          "altRaw": "Free A stunning view of Positano's colorful buildings cascading towards the tranquil Mediterranean Sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17876978.jpg",
+          "m": {
+            "sat": 0.3464,
+            "satHigh": 0.3284,
+            "chroma": 65.17,
+            "contrast": 55.54,
+            "warm": 0.0108,
+            "vivid": 0.5102,
+            "dark": 0.1149,
+            "blown": 0,
+            "busy": 0.0897,
+            "lum": 146
+          },
+          "dud": null,
+          "score": 0.761
+        },
+        {
+          "query": "amalfi cathedral duomo stairs italy",
+          "for": "אמלפי",
+          "id": "pexels-35424458",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35424458/pexels-photo-35424458/free-photo-of-stunning-view-of-amalfi-cathedral-tower-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-view-of-amalfi-cathedral-tower-at-sunset-35424458/"
+          },
+          "alt": "Free Capture the beauty of Amalfi Cathedral with its unique architecture and Mediterranean charm. Stock Photo",
+          "altRaw": "Free Capture the beauty of Amalfi Cathedral with its unique architecture and Mediterranean charm. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35424458.jpg",
+          "m": {
+            "sat": 0.431,
+            "satHigh": 0.5233,
+            "chroma": 61.49,
+            "contrast": 45.46,
+            "warm": 0.4224,
+            "vivid": 0.762,
+            "dark": 0.1398,
+            "blown": 0,
+            "busy": 0.1989,
+            "lum": 105.6
+          },
+          "dud": null,
+          "score": 0.9
+        },
+        {
+          "query": "ravello villa gardens terrace amalfi view",
+          "for": "ראוולו",
+          "id": "pexels-34832329",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/34832329/pexels-photo-34832329/free-photo-of-scenic-garden-view-overlooking-the-mediterranean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-garden-view-overlooking-the-mediterranean-sea-34832329/"
+          },
+          "alt": "Free A picturesque garden on the Amalfi Coast with a view of the Mediterranean Sea. Stock Photo",
+          "altRaw": "Free A picturesque garden on the Amalfi Coast with a view of the Mediterranean Sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34832329.jpg",
+          "m": {
+            "sat": 0.3524,
+            "satHigh": 0.2535,
+            "chroma": 52.07,
+            "contrast": 58.72,
+            "warm": 0.0987,
+            "vivid": 0.391,
+            "dark": 0.194,
+            "blown": 0,
+            "busy": 0.157,
+            "lum": 116.7
+          },
+          "dud": null,
+          "score": 0.903
+        },
+        {
+          "query": "sorrento italy cliff town harbour",
+          "for": "סורנטו",
+          "id": "pexels-38899225",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38899225/pexels-photo-38899225/free-photo-of-scenic-view-of-sorrento-coastline-in-summer.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-sorrento-coastline-in-summer-38899225/"
+          },
+          "alt": "Free Aerial view of Sorrento's coastline with sunlit cliffs and calm blue waters. Stock Photo",
+          "altRaw": "Free Aerial view of Sorrento's coastline with sunlit cliffs and calm blue waters. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38899225.jpg",
+          "m": {
+            "sat": 0.3945,
+            "satHigh": 0.3432,
+            "chroma": 52.15,
+            "contrast": 53.83,
+            "warm": 0.0533,
+            "vivid": 0.5921,
+            "dark": 0.1515,
+            "blown": 0,
+            "busy": 0.0816,
+            "lum": 119.1
+          },
+          "dud": null,
+          "score": 0.738
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "איך זזים",
+      "sub": "וזו הטעות הכי יקרה",
+      "alt": "איך זזים",
+      "items": [
+        {
+          "name": "מעבורת",
+          "fact": "**חצי שעה** על הים"
+        },
+        {
+          "name": "האוטובוס",
+          "fact": "**1.5-3.4 יורו**. יומי 10"
+        },
+        {
+          "name": "לא לשכור רכב",
+          "fact": "**50 ק״מ** סרפנטינות. אין חניה"
+        },
+        {
+          "name": "קאפרי",
+          "fact": "מעבורת **23-30 יורו** לכיוון"
+        }
+      ],
+      "images": [
+        {
+          "query": "amalfi coast village houses terraces",
+          "id": "pexels-12986070",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12986070/pexels-photo-12986070.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/mountain-townscape-and-purple-flowers-12986070/"
+          },
+          "alt": "Free Charming hillside townscape of Positano with colorful houses and vibrant flora under a bright blue sky. Stock Photo",
+          "altRaw": "Free Charming hillside townscape of Positano with colorful houses and vibrant flora under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12986070.jpg",
+          "m": {
+            "sat": 0.4643,
+            "satHigh": 0.5081,
+            "chroma": 97.84,
+            "contrast": 49.63,
+            "warm": 0.0916,
+            "vivid": 0.4278,
+            "dark": 0.1092,
+            "blown": 0.0019,
+            "busy": 0.2843,
+            "lum": 121.6
+          },
+          "dud": null,
+          "score": 0.846
+        },
+        {
+          "query": "ferry amalfi coast boat sea italy",
+          "for": "מעבורת",
+          "id": "pexels-27064832",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27064832/pexels-photo-27064832/free-photo-of-town-on-sea-coast-in-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/town-on-sea-coast-in-italy-27064832/"
+          },
+          "alt": "Free Picturesque coastline of Capri, Italy with hills and architecture as seen from a boat. Stock Photo",
+          "altRaw": "Free Picturesque coastline of Capri, Italy with hills and architecture as seen from a boat. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27064832.jpg",
+          "m": {
+            "sat": 0.5895,
+            "satHigh": 0.6657,
+            "chroma": 78.65,
+            "contrast": 46.71,
+            "warm": 0.0055,
+            "vivid": 0.4549,
+            "dark": 0.0435,
+            "blown": 0.0005,
+            "busy": 0.0344,
+            "lum": 118.9
+          },
+          "dud": "empty frame, nothing to look at",
+          "score": 0
+        },
+        {
+          "query": "sita bus amalfi coast road",
+          "for": "האוטובוס",
+          "id": "pexels-38733974",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38733974/pexels-photo-38733974/free-photo-of-picturesque-view-of-positano-on-the-amalfi-coast.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/picturesque-view-of-positano-on-the-amalfi-coast-38733974/"
+          },
+          "alt": "Free Charming hillside town of Positano with colorful buildings and lush vegetation, captured on a sunny day. Stock Photo",
+          "altRaw": "Free Charming hillside town of Positano with colorful buildings and lush vegetation, captured on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38733974.jpg",
+          "m": {
+            "sat": 0.3528,
+            "satHigh": 0.3355,
+            "chroma": 45.28,
+            "contrast": 62.39,
+            "warm": 0.1674,
+            "vivid": 0.176,
+            "dark": 0.2257,
+            "blown": 0.0057,
+            "busy": 0.2774,
+            "lum": 111.4
+          },
+          "dud": null,
+          "score": 0.754
+        },
+        {
+          "query": "amalfi coast narrow road cliff",
+          "for": "לא לשכור רכב",
+          "id": "pexels-13543020",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13543020/pexels-photo-13543020.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/fiordo-di-furore-bridge-in-summer-13543020/"
+          },
+          "alt": "Free Beautiful shot of the Fiordo di Furore bridge overlooking the turquoise sea along Italy's Amalfi Coast. Stock Photo",
+          "altRaw": "Free Beautiful shot of the Fiordo di Furore bridge overlooking the turquoise sea along Italy's Amalfi Coast. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13543020.jpg",
+          "m": {
+            "sat": 0.2415,
+            "satHigh": 0.0907,
+            "chroma": 53.64,
+            "contrast": 72.98,
+            "warm": 0.0464,
+            "vivid": 0.2959,
+            "dark": 0.1444,
+            "blown": 0.0253,
+            "busy": 0.1276,
+            "lum": 142.5
+          },
+          "dud": null,
+          "score": 0.87
+        },
+        {
+          "query": "capri island italy faraglioni sea",
+          "for": "קאפרי",
+          "id": "pexels-15027834",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15027834/pexels-photo-15027834/free-photo-of-clear-sky-over-rock-formations-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/clear-sky-over-rock-formations-on-sea-shore-15027834/"
+          },
+          "alt": "Free Breathtaking view of Capri's Faraglioni rocks towering above the azure sea, perfect for travel inspiration. Stock Photo",
+          "altRaw": "Free Breathtaking view of Capri's Faraglioni rocks towering above the azure sea, perfect for travel inspiration. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15027834.jpg",
+          "m": {
+            "sat": 0.5959,
+            "satHigh": 0.7095,
+            "chroma": 79.13,
+            "contrast": 58.88,
+            "warm": 0.0034,
+            "vivid": 0.8284,
+            "dark": 0.1323,
+            "blown": 0.0001,
+            "busy": 0.0966,
+            "lum": 116
+          },
+          "dud": null,
+          "score": 0.867
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "מה עושים",
+      "sub": "מעבר לתמונות",
+      "alt": "מה עושים",
+      "items": [
+        {
+          "name": "שביל האלים",
+          "fact": "**7.8 ק״מ, שלוש שעות. חינם**"
+        },
+        {
+          "name": "וילה צימברונה",
+          "fact": "**נפתחת ב-9**, לפני הקבוצות"
+        },
+        {
+          "name": "חוף פורנילו",
+          "fact": "**עשר דקות** מהחוף הראשי"
+        },
+        {
+          "name": "אנאקפרי",
+          "fact": "רכבל **12 דקות** ל-589 מטר"
+        }
+      ],
+      "images": [
+        {
+          "query": "ravello italy garden terrace coast view",
+          "id": "pexels-39037565",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39037565/pexels-photo-39037565/free-photo-of-scenic-view-through-gothic-arch-in-ravello.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-through-gothic-arch-in-ravello-39037565/"
+          },
+          "alt": "Free Breathtaking mountain view framed by a Gothic arch in Campania, Italy. Stock Photo",
+          "altRaw": "Free Breathtaking mountain view framed by a Gothic arch in Campania, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39037565.jpg",
+          "m": {
+            "sat": 0.4379,
+            "satHigh": 0.4863,
+            "chroma": 62.78,
+            "contrast": 61.26,
+            "warm": 0.3918,
+            "vivid": 0.5999,
+            "dark": 0.2098,
+            "blown": 0,
+            "busy": 0.0865,
+            "lum": 107
+          },
+          "dud": null,
+          "score": 0.792
+        },
+        {
+          "query": "path of the gods amalfi hiking view",
+          "for": "שביל האלים",
+          "id": "pexels-33704022",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33704022/pexels-photo-33704022/free-photo-of-breathtaking-cliffside-pathway-in-capri-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/breathtaking-cliffside-pathway-in-capri-italy-33704022/"
+          },
+          "alt": "Free Stunning aerial view of a winding cliffside path above the turquoise sea in Capri, Italy. Stock Photo",
+          "altRaw": "Free Stunning aerial view of a winding cliffside path above the turquoise sea in Capri, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33704022.jpg",
+          "m": {
+            "sat": 0.407,
+            "satHigh": 0.3842,
+            "chroma": 75.01,
+            "contrast": 45.9,
+            "warm": 0.1534,
+            "vivid": 0.2972,
+            "dark": 0.161,
+            "blown": 0,
+            "busy": 0.3299,
+            "lum": 102
+          },
+          "dud": null,
+          "score": 0.671
+        },
+        {
+          "query": "villa cimbrone terrace infinity ravello",
+          "for": "וילה צימברונה",
+          "id": "pexels-18523340",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18523340/pexels-photo-18523340/free-photo-of-statue-at-villa-cimbrone-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/statue-at-villa-cimbrone-italy-18523340/"
+          },
+          "alt": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
+          "altRaw": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18523340.jpg",
+          "m": {
+            "sat": 0.4487,
+            "satHigh": 0.4831,
+            "chroma": 50.92,
+            "contrast": 66.22,
+            "warm": 0.5248,
+            "vivid": 0.5248,
+            "dark": 0.1072,
+            "blown": 0.0221,
+            "busy": 0.1101,
+            "lum": 116.1
+          },
+          "dud": null,
+          "score": 0.771
+        },
+        {
+          "query": "fornillo beach positano italy",
+          "for": "חוף פורנילו",
+          "id": "pexels-13353684",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13353684/pexels-photo-13353684.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-fornillo-beach-13353684/"
+          },
+          "alt": "Free Discover the stunning coastline of Fornillo Beach with vibrant waters and lush greenery in Positano, Italy. Stock Photo",
+          "altRaw": "Free Discover the stunning coastline of Fornillo Beach with vibrant waters and lush greenery in Positano, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13353684.jpg",
+          "m": {
+            "sat": 0.4771,
+            "satHigh": 0.5209,
+            "chroma": 87.33,
+            "contrast": 46.26,
+            "warm": 0.1198,
+            "vivid": 0.5014,
+            "dark": 0.0479,
+            "blown": 0.0002,
+            "busy": 0.226,
+            "lum": 130.2
+          },
+          "dud": null,
+          "score": 0.963
+        },
+        {
+          "query": "anacapri monte solaro chairlift view",
+          "for": "אנאקפרי",
+          "id": "pexels-38900279",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38900279/pexels-photo-38900279/free-photo-of-scenic-aerial-view-of-capri-s-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-aerial-view-of-capri-s-coastline-38900279/"
+          },
+          "alt": "Free Stunning aerial photo of Capri, Italy's coastline with cliffs, sea, and vibrant landscape. Stock Photo",
+          "altRaw": "Free Stunning aerial photo of Capri, Italy's coastline with cliffs, sea, and vibrant landscape. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38900279.jpg",
+          "m": {
+            "sat": 0.402,
+            "satHigh": 0.446,
+            "chroma": 59.06,
+            "contrast": 50.64,
+            "warm": 0.0789,
+            "vivid": 0.6466,
+            "dark": 0.1336,
+            "blown": 0.0001,
+            "busy": 0.1341,
+            "lum": 112.2
+          },
+          "dud": null,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "אוכל ומחיר",
+      "sub": "ואיפה חוסכים",
+      "alt": "אוכל ומחיר",
+      "items": [
+        {
+          "name": "לימונצ׳לו",
+          "fact": "מלימוני סורנטו. **30 אחוז**"
+        },
+        {
+          "name": "דליציה אל לימונה",
+          "fact": "קינוח שנולד בסורנטו ב-**1978**"
+        },
+        {
+          "name": "ספגטי אלה נרנו",
+          "fact": "נולד בכפר נרנו **ב-1952**"
+        },
+        {
+          "name": "לאכול למעלה",
+          "fact": "כל מדרגה מהחוף מורידה מחיר"
+        }
+      ],
+      "images": [
+        {
+          "query": "italy terrace restaurant lemon trees sea view",
+          "id": "pexels-39342778",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39342778/pexels-photo-39342778/free-photo-of-scenic-mediterranean-view-from-ischia-terrace.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-mediterranean-view-from-ischia-terrace-39342778/"
+          },
+          "alt": "Free Vibrant summer view of the Mediterranean Sea from a decorated terrace in Ischia, Italy. Stock Photo",
+          "altRaw": "Free Vibrant summer view of the Mediterranean Sea from a decorated terrace in Ischia, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39342778.jpg",
+          "m": {
+            "sat": 0.6848,
+            "satHigh": 0.726,
+            "chroma": 86.2,
+            "contrast": 48.58,
+            "warm": 0.0296,
+            "vivid": 0.668,
+            "dark": 0.2766,
+            "blown": 0,
+            "busy": 0.0543,
+            "lum": 89.3
+          },
+          "dud": null,
+          "score": 0.76
+        },
+        {
+          "query": "limoncello lemons amalfi italy",
+          "for": "לימונצ׳לו",
+          "id": "pexels-18061858",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18061858/pexels-photo-18061858/free-photo-of-bottles-of-alcohol-cooling-in-a-bowl-with-ice.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/bottles-of-alcohol-cooling-in-a-bowl-with-ice-18061858/"
+          },
+          "alt": "Free Stylish arrangement of limoncello and drinks on ice in a decorative bowl, perfect for parties. Stock Photo",
+          "altRaw": "Free Stylish arrangement of limoncello and drinks on ice in a decorative bowl, perfect for parties. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18061858.jpg",
+          "m": {
+            "sat": 0.5493,
+            "satHigh": 0.593,
+            "chroma": 60.99,
+            "contrast": 35.56,
+            "warm": 0.602,
+            "vivid": 0.6097,
+            "dark": 0.2041,
+            "blown": 0,
+            "busy": 0.0859,
+            "lum": 85.7
+          },
+          "dud": null,
+          "score": 0.707
+        },
+        {
+          "query": "delizia al limone dessert italy",
+          "for": "דליציה אל לימונה",
+          "id": "pexels-36752526",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36752526/pexels-photo-36752526/free-photo-of-fresh-lemons-and-apples-at-catania-market.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/fresh-lemons-and-apples-at-catania-market-36752526/"
+          },
+          "alt": "Free Vibrant assortment of lemons and apples at an outdoor market in Catania, Italy. Stock Photo",
+          "altRaw": "Free Vibrant assortment of lemons and apples at an outdoor market in Catania, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36752526.jpg",
+          "m": {
+            "sat": 0.6612,
+            "satHigh": 0.7248,
+            "chroma": 85.42,
+            "contrast": 56.84,
+            "warm": 0.6079,
+            "vivid": 0.6086,
+            "dark": 0.384,
+            "blown": 0,
+            "busy": 0.0647,
+            "lum": 86.7
+          },
+          "dud": null,
+          "score": 0.84
+        },
+        {
+          "query": "spaghetti pasta zucchini italian dish plate",
+          "must": [
+            "pasta",
+            "spaghetti"
+          ],
+          "for": "ספגטי אלה נרנו",
+          "id": "pexels-11675216",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/11675216/pexels-photo-11675216.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/pasta-on-white-ceramic-plate-11675216/"
+          },
+          "alt": "Free Delicious Italian pasta with zucchini and basil captured in close-up from above. Stock Photo",
+          "altRaw": "Free Delicious Italian pasta with zucchini and basil captured in close-up from above. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11675216.jpg",
+          "m": {
+            "sat": 0.4499,
+            "satHigh": 0.4943,
+            "chroma": 65.77,
+            "contrast": 59.28,
+            "warm": 0.4525,
+            "vivid": 0.4593,
+            "dark": 0.0679,
+            "blown": 0.0034,
+            "busy": 0.1285,
+            "lum": 148.6
+          },
+          "dud": null,
+          "score": 0.895
+        },
+        {
+          "query": "italian trattoria alley tables evening",
+          "for": "לאכול למעלה",
+          "id": "pexels-38015353",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38015353/pexels-photo-38015353/free-photo-of-charming-outdoor-cafe-alley-in-matera-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-outdoor-cafe-alley-in-matera-italy-38015353/"
+          },
+          "alt": "Free Explore a quaint alleyway cafe in Matera's historic district, perfect for a cozy meal. Stock Photo",
+          "altRaw": "Free Explore a quaint alleyway cafe in Matera's historic district, perfect for a cozy meal. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38015353.jpg",
+          "m": {
+            "sat": 0.4808,
+            "satHigh": 0.4694,
+            "chroma": 70.21,
+            "contrast": 43.78,
+            "warm": 0.6056,
+            "vivid": 0.6056,
+            "dark": 0.1089,
+            "blown": 0.001,
+            "busy": 0.1128,
+            "lum": 117
+          },
+          "dud": null,
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "מה לא לעשות",
+      "sub": "הראשונה עולה הכי הרבה",
+      "alt": "מה לא לעשות",
+      "items": [
+        {
+          "name": "לבוא באוגוסט",
+          "fact": "עמוס. עדיף **מאי או אוקטובר**"
+        },
+        {
+          "name": "נעליים לא נכונות",
+          "fact": "**1,500 מדרגות**. לא סנדלים"
+        },
+        {
+          "name": "לטוס לרומא",
+          "fact": "**נאפולי שעה וחצי**, רומא ארבע"
+        },
+        {
+          "name": "לנסות הכל ביומיים",
+          "fact": "**שלושה לילות** זה המינימום"
+        }
+      ],
+      "images": [
+        {
+          "query": "amalfi coast aerial colorful cliff town sea",
+          "id": "pexels-33839189",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33839189/pexels-photo-33839189/free-photo-of-scenic-view-of-colorful-positano-cliffside-homes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-colorful-positano-cliffside-homes-33839189/"
+          },
+          "alt": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+          "altRaw": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33839189.jpg",
+          "m": {
+            "sat": 0.3968,
+            "satHigh": 0.4274,
+            "chroma": 63.83,
+            "contrast": 54.66,
+            "warm": 0.1081,
+            "vivid": 0.4404,
+            "dark": 0.2136,
+            "blown": 0.0023,
+            "busy": 0.1624,
+            "lum": 111.2
+          },
+          "dud": null,
+          "score": 0.938
+        },
+        {
+          "query": "crowded italian beach summer umbrellas",
+          "for": "לבוא באוגוסט",
+          "id": "pexels-30433324",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30433324/pexels-photo-30433324/free-photo-of-scenic-beach-view-in-polignano-a-mare-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-beach-view-in-polignano-a-mare-italy-30433324/"
+          },
+          "alt": "Free Vibrant beach scene at Polignano a Mare, Italy with colorful umbrellas and iconic cliffs. Stock Photo",
+          "altRaw": "Free Vibrant beach scene at Polignano a Mare, Italy with colorful umbrellas and iconic cliffs. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30433324.jpg",
+          "m": {
+            "sat": 0.3182,
+            "satHigh": 0.1929,
+            "chroma": 60.99,
+            "contrast": 67.66,
+            "warm": 0.1068,
+            "vivid": 0.3251,
+            "dark": 0.1412,
+            "blown": 0.0161,
+            "busy": 0.2536,
+            "lum": 139.4
+          },
+          "dud": null,
+          "score": 1
+        },
+        {
+          "query": "positano stairs steps alley italy walking",
+          "for": "נעליים לא נכונות",
+          "id": "pexels-20376461",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20376461/pexels-photo-20376461/free-photo-of-woman-standing-on-stairs-in-narrow-alley-on-sea-coast-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/woman-standing-on-stairs-in-narrow-alley-on-sea-coast-in-city-20376461/"
+          },
+          "alt": "Free A woman walks down a narrow alley with sea view on a sunny summer day. Stock Photo",
+          "altRaw": "Free A woman walks down a narrow alley with sea view on a sunny summer day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20376461.jpg",
+          "m": {
+            "sat": 0.451,
+            "satHigh": 0.5183,
+            "chroma": 59.57,
+            "contrast": 40.15,
+            "warm": 0.7345,
+            "vivid": 0.8153,
+            "dark": 0.0666,
+            "blown": 0,
+            "busy": 0.1499,
+            "lum": 109.2
+          },
+          "dud": null,
+          "score": 0.84
+        },
+        {
+          "query": "naples italy bay vesuvius city view",
+          "for": "לטוס לרומא",
+          "id": "pexels-12063877",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/12063877/pexels-photo-12063877.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-a-small-city-between-palm-trees-12063877/"
+          },
+          "alt": "Free Explore a picturesque view of Naples skyline with Mount Vesuvius in the background and a tall palm tree. Stock Photo",
+          "altRaw": "Free Explore a picturesque view of Naples skyline with Mount Vesuvius in the background and a tall palm tree. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12063877.jpg",
+          "m": {
+            "sat": 0.2497,
+            "satHigh": 0.1361,
+            "chroma": 54.79,
+            "contrast": 66.01,
+            "warm": 0.0819,
+            "vivid": 0.256,
+            "dark": 0.1075,
+            "blown": 0.0007,
+            "busy": 0.137,
+            "lum": 171.5
+          },
+          "dud": null,
+          "score": 0.926
+        },
+        {
+          "query": "amalfi coast hotel terrace evening lights",
+          "for": "לנסות הכל ביומיים",
+          "id": "pexels-36823293",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36823293/pexels-photo-36823293/free-photo-of-scenic-view-of-mediterranean-coastline-in-campania.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-mediterranean-coastline-in-campania-36823293/"
+          },
+          "alt": "Free Aerial view of the Mediterranean coast in Campania, Italy with luxury yachts and azure waters. Stock Photo",
+          "altRaw": "Free Aerial view of the Mediterranean coast in Campania, Italy with luxury yachts and azure waters. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36823293.jpg",
+          "m": {
+            "sat": 0.3649,
+            "satHigh": 0.3499,
+            "chroma": 48.79,
+            "contrast": 47.76,
+            "warm": 0.0992,
+            "vivid": 0.5027,
+            "dark": 0.1362,
+            "blown": 0,
+            "busy": 0.202,
+            "lum": 107.8
+          },
+          "dud": null,
+          "score": 0.883
+        }
+      ]
+    }
+  ],
+  "country": "Italy"
+}

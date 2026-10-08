@@ -1,0 +1,26 @@
+{
+  "_": "Every price and practical fact used in tt-28-larnaca-route. Checked 8.10.2026 against the Larnaka Tourism Board (larnakaregion.com), Visit Cyprus (the Deputy Ministry of Tourism) and the Department of Antiquities.",
+  "_stops": "No route-format deck for Cyprus exists in the 847-deck corpus — the best Cyprus deck saves at 0.409 against 1.2-1.5 for the route decks, and it is a photo dump. So the FORMAT comes from the three route precedents and the STOP LIST comes from the official tourism board's own 'main attractions' for the region, not from me.",
+  "_durations": "From research/visit-durations.json: the median the three precedent decks give for that kind of stop, across 64 rows. The one judgement left is which kind a stop belongs to, and that is written down per stop as `kind`.",
+  "stops": {
+    "טיילת פיניקודס":   { "kind":"street",   "time":"30 דקות", "price":"חינם", "src":"https://larnakaregion.com" },
+    "מצודת לרנקה":      { "kind":"monument", "time":"45 דקות", "price":"2.50 יורו", "note":"המוזיאון שבתוכה סגור לשיפוץ", "src":"https://larnakaregion.com/en/directory/product/larnaka-medieval-castle" },
+    "כנסיית אגיוס לאזארוס": { "kind":"church", "time":"שעה", "price":"חינם", "src":"https://larnakaregion.com" },
+    "אתר קיטיון":       { "kind":"site",     "time":"45 דקות", "price":"2.50 יורו", "src":"https://larnakaregion.com/directory/product/kition-archaeological-site" },
+    "מוזיאון פיירידס":  { "kind":"museum",   "time":"שעה", "price":"3 יורו", "src":"https://larnakaregion.com/directory/product/pierides-museum-bank-cyprus-cultural-foundation" },
+
+    "חוף מקנזי":        { "kind":"park",     "time":"שעה", "price":"חינם", "note":"מטוסים נוחתים נמוך מעל החוף", "src":"https://larnakaregion.com" },
+    "אמת המים קמארס":   { "kind":"monument", "time":"45 דקות", "price":"חינם", "src":"https://larnakaregion.com" },
+    "אגם המלח":         { "kind":"park",     "time":"שעה", "price":"חינם", "note":"הפלמינגו שם רק בחורף. בקיץ האגם יבש", "src":"https://www.visitcyprus.com/discover-cyprus/regions-cities/larnaka-regions-cities/the-larnaka-larnaca-region/" },
+    "חלה סולטן טקה":    { "kind":"church",   "time":"שעה", "price":"חינם", "src":"https://www.visitcyprus.com" },
+    "אנגלוקטיסטי בכיתי": { "kind":"church",  "time":"שעה", "price":"חינם", "note":"פסיפס מהמאה ה-6, מהתקופה היוסטיניאנית", "src":"https://www.visitcyprus.com" },
+
+    "מנזר סטברובוני":   { "kind":"church",   "time":"שעה", "price":"חינם", "note":"נשים אינן נכנסות. כלל אבאטו, כמו באתוס", "src":"https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/stavrovouni-monastery/" },
+    "חירוקיטיה":        { "kind":"site",     "time":"45 דקות", "price":"2.50 יורו", "note":"אתר מורשת עולמית של אונסקו", "src":"https://larnakaregion.com/directory/product/choirokoitia-archaeological-site-neolithic-settlement" },
+    "מנזר אגיוס מינאס": { "kind":"church",   "time":"שעה", "price":"חינם", "note":"פתוח 09:30-11:30 ו-14:00-16:00", "src":"https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/agios-minas-convent/" },
+    "קאטו דריס":        { "kind":"district", "time":"שעה", "price":"חינם", "src":"https://www.visitcyprus.com/places-to-go/villages/kato-drys-village-3/" },
+    "לפקרה":            { "kind":"district", "time":"שעה", "price":"חינם", "note":"תחרת לפקרה וכסף פיליגרן. 43 קילומטר מלרנקה", "src":"https://www.visitcyprus.com/discover-cyprus/rural/villages-rural/lefkara-village-2/" }
+  },
+  "_district": "There is no `district` row in the precedent table, so the figure for a village is the median of the two district rows the precedents do carry — London's China Town (60 min) and Covent Garden (60 min). Named rather than relabelled, so the basis is visible.",
+  "_passes": "Department of Antiquities multi-site cards: one day 8.50, three days 17, seven days 25. Not used on the deck — three paid stops at 2.50-3 come to 8, under the one-day card."
+}

@@ -1,0 +1,191 @@
+{
+  "clonedFrom": "tt-7608957319065488661",
+  "clonedUrl": "https://www.tiktok.com/@wabisabi.trips.japan/photo/7608957319065488661",
+  "clonedAccount": "wabisabi.trips.japan",
+  "sourceLikes": 259900,
+  "sourceSaves": 113400,
+  "sourceSlides": 6,
+  "sourceCaption": "These real places inspired some of the most unforgettable moments in anime",
+  "id": "tt-15-screen-locations",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "מנגנון חדש, ממקור עם 113,400 שמירות: המקום האמיתי שמאחורי משהו שכבר אוהבים. המקור עושה את זה עם סצנות אנימה ביפן; הגרסה כאן היא סרטים וסדרות שכל ישראלי מכיר, וכל אחד מהיעדים הוא כזה שטסים אליו ממילא. ההוק הוא ההכרה — רואים את התמונה, מזהים את הסצנה, ואז מגלים שאפשר פשוט להיות שם.",
+  "caption": "המקומות האמיתיים מהסדרות שכולם ראו, וכולם במרחק טיסה. באיזה הייתם?",
+  "hashtags": [
+    "יעדים",
+    "טיפיםלטיול",
+    "טיולים",
+    "סדרות",
+    "אירופה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "ראיתם את הסצנה",
+        "עכשיו תראו",
+        "את המקום"
+      ],
+      "sub": "כולם במרחק טיסה מכאן",
+      "alt": "ראיתם את הסצנה עכשיו תראו את המקום",
+      "image": {
+        "query": "positano amalfi coast colorful cliff houses golden hour",
+        "id": "pexels-33839189",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33839189/pexels-photo-33839189/free-photo-of-scenic-view-of-colorful-positano-cliffside-homes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-view-of-colorful-positano-cliffside-homes-33839189/"
+        },
+        "alt": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+        "altRaw": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33839189.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "סקופלוס, יוון",
+      "lines": [
+        "הכנסייה מהסוף של מאמה מיה",
+        "200 מדרגות, ושווה כל אחת"
+      ],
+      "alt": "סקופלוס, יוון ⛪",
+      "image": {
+        "query": "white chapel on cliff top greek island aerial turquoise sea",
+        "id": "pexels-27025121",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27025121/pexels-photo-27025121/free-photo-of-sea-and-cliffs-kos-island-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/sea-and-cliffs-kos-island-greece-27025121/"
+        },
+        "alt": "Free A serene view of Agios Stefanos island featuring a quaint blue and white chapel by the sea with soaring cliffs. Stock Photo",
+        "altRaw": "Free A serene view of Agios Stefanos island featuring a quaint blue and white chapel by the sea with soaring cliffs. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27025121.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "דוברובניק, קרואטיה",
+      "lines": [
+        "קינגס לנדינג האמיתית",
+        "אפשר ללכת על כל החומות"
+      ],
+      "alt": "דוברובניק, קרואטיה 🐉",
+      "image": {
+        "query": "dubrovnik city walls old town sunset aerial",
+        "id": "pexels-15553018",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15553018/pexels-photo-15553018/free-photo-of-old-town-in-dubrovnik.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/old-town-in-dubrovnik-15553018/"
+        },
+        "alt": "Free Aerial shot capturing Dubrovnik's iconic old town and scenic coastline. Stock Photo",
+        "altRaw": "Free Aerial shot capturing Dubrovnik's iconic old town and scenic coastline. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15553018.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "טאורמינה, סיציליה",
+      "lines": [
+        "המלון מ-The White Lotus",
+        "ותיאטרון יווני ממש מעליו"
+      ],
+      "alt": "טאורמינה, סיציליה 🍋",
+      "image": {
+        "query": "taormina sicily greek theatre etna sunset",
+        "id": "pexels-20406050",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/20406050/pexels-photo-20406050/free-photo-of-ruins-of-the-ancient-theater-of-taormina-and-the-mount-etna-stratovolcano.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/ruins-of-the-ancient-theater-of-taormina-and-the-mount-etna-stratovolcano-20406050/"
+        },
+        "alt": "Free Explore the ancient ruins of Taormina with the majestic Mount Etna in the background, Italy. Stock Photo",
+        "altRaw": "Free Explore the ancient ruins of Taormina with the majestic Mount Etna in the background, Italy. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20406050.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "נהר הסוצ׳ה, סלובניה",
+      "lines": [
+        "מכאן הגיעו הסצנות של נרניה",
+        "המים הכי תכולים שראיתם"
+      ],
+      "alt": "נהר הסוצ׳ה, סלובניה 💙",
+      "image": {
+        "query": "soca river emerald turquoise canyon slovenia alps",
+        "id": "pexels-23914303",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/23914303/pexels-photo-23914303/free-photo-of-the-turquoise-river-is-flowing-through-a-valley.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/the-turquoise-river-is-flowing-through-a-valley-23914303/"
+        },
+        "alt": "Free Explore the stunning Tolmin Gorge with its vibrant turquoise waters in Slovenia. Stock Photo",
+        "altRaw": "Free Explore the stunning Tolmin Gorge with its vibrant turquoise waters in Slovenia. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-23914303.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מטאורה, יוון",
+      "lines": [
+        "המנזרים התלויים מג׳יימס בונד",
+        "שישה מהם פתוחים לכניסה"
+      ],
+      "alt": "מטאורה, יוון 🧗",
+      "image": {
+        "query": "meteora monastery on rock pillar close up golden hour",
+        "id": "pexels-15211382",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15211382/pexels-photo-15211382/free-photo-of-some-mountains-with-a-rare-and-extremely-beautiful-shape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/some-mountains-with-a-rare-and-extremely-beautiful-shape-15211382/"
+        },
+        "alt": "Free Stunning aerial view of Meteora monasteries perched atop towering cliffs in Kalabaka, Greece. Stock Photo",
+        "altRaw": "Free Stunning aerial view of Meteora monasteries perched atop towering cliffs in Kalabaka, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15211382.jpg",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

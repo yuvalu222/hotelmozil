@@ -1,0 +1,306 @@
+{
+  "clonedFrom": "tt-7673426741272055072",
+  "clonedUrl": "https://www.tiktok.com/@klyvytee/photo/7673426741272055072",
+  "clonedAccount": "klyvytee",
+  "sourceLikes": 59800,
+  "sourceSaves": 57000,
+  "sourceSlides": 8,
+  "sourceCaption": "My favourite picture spots in Budapest",
+  "id": "tt-25-budapest-spots",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "שתי מכניקות מאותו ממצא (TIKTOK.md § 7). הנושא מ-@klyvytee — \"נקודות הצילום האהובות עלי בבודפשט\", 57,000 שמירות. הקפשן מ-@travellingcloset1, שמגיע ל-1.06 שמירות ללייק — יותר שמירות מלייקים, הגבוה בקורפוס — בכך שהוא מרכיב את הקפשן כרשימת פינים, כך שאפשר לשמור את הפוסט כרשימת כתובות ולא רק כתמונות. בודפשט נבחרה כי היא ארבעה מתוך שבעת הראשונים בדירוג, ולא כי ניחשנו עיר.",
+  "caption": "נקודות הצילום הכי יפות בבודפשט, לפי הסדר שכדאי לעשות אותן:\n מצודת הדייגים\n הפרלמנט מגדת פשט\n גשר השלשלאות\n גבעת גלרט\n בית האופרה\n טירת ואידהוניאד\n שוק המרכזי\n רובע ברי החורבות\n מרחצאות סצ׳ני\nשמרו לפני הטיסה.",
+  "hashtags": [
+    "בודפשט",
+    "הונגריה",
+    "יעדים",
+    "טיפיםלטיול",
+    "טיולים"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "נקודות הצילום",
+        "הכי יפות",
+        "בבודפשט"
+      ],
+      "sub": "לפי הסדר שכדאי לעשות אותן",
+      "alt": "נקודות הצילום הכי יפות בבודפשט",
+      "image": {
+        "query": "budapest parliament danube sunset aerial",
+        "id": "pexels-38116986",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38116986/pexels-photo-38116986/free-photo-of-majestic-view-of-the-hungarian-parliament-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/majestic-view-of-the-hungarian-parliament-building-38116986/"
+        },
+        "alt": "Free Sunset view of the iconic Hungarian Parliament Building in Budapest. Stock Photo",
+        "altRaw": "Free Sunset view of the iconic Hungarian Parliament Building in Budapest. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38116986.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מצודת הדייגים",
+      "lines": [
+        "תגיעו בשבע בבוקר",
+        "ריק לגמרי, כל התמונה שלכם"
+      ],
+      "alt": "מצודת הדייגים 🤍",
+      "image": {
+        "query": "fishermans bastion budapest arches view",
+        "id": "pexels-20541531",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/20541531/pexels-photo-20541531/free-photo-of-hungarian-parliament-seen-from-the-fishermans-bastion.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/hungarian-parliament-seen-from-the-fishermans-bastion-20541531/"
+        },
+        "alt": "Free Framed view of the Budapest Parliament building through an arch at Fisherman's Bastion. Stock Photo",
+        "altRaw": "Free Framed view of the Budapest Parliament building through an arch at Fisherman's Bastion. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20541531.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "הפרלמנט מגדת פשט",
+      "lines": [
+        "תחכו לשעה הכחולה",
+        "הבניין נדלק בבת אחת"
+      ],
+      "alt": "הפרלמנט מגדת פשט 🌃",
+      "image": {
+        "query": "budapest parliament night illuminated danube",
+        "id": "pexels-33243759",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33243759/pexels-photo-33243759/free-photo-of-night-view-of-budapest-parliament-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/night-view-of-budapest-parliament-building-33243759/"
+        },
+        "alt": "Free Stunning night view of the Budapest Parliament reflecting over the Danube River. Stock Photo",
+        "altRaw": "Free Stunning night view of the Budapest Parliament reflecting over the Danube River. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33243759.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "גשר השלשלאות",
+      "lines": [
+        "אריות משני הצדדים",
+        "וכל העיר נפתחת מאחורה"
+      ],
+      "alt": "גשר השלשלאות 🦁",
+      "image": {
+        "query": "chain bridge budapest danube evening",
+        "id": "pexels-18810495",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18810495/pexels-photo-18810495/free-photo-of-szechenyi-chain-bridge-in-evening.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/szechenyi-chain-bridge-in-evening-18810495/"
+        },
+        "alt": "Free Stunning view of Budapest's Szechenyi Chain Bridge illuminated against a twilight sky. Stock Photo",
+        "altRaw": "Free Stunning view of Budapest's Szechenyi Chain Bridge illuminated against a twilight sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18810495.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "גבעת גלרט",
+      "lines": [
+        "כל העיר בפריים אחד",
+        "עשרים דקות הליכה למעלה"
+      ],
+      "alt": "גבעת גלרט ⛰️",
+      "image": {
+        "query": "budapest panorama danube bridges sunset aerial",
+        "id": "pexels-34431048",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34431048/pexels-photo-34431048/free-photo-of-aerial-view-of-budapest-s-iconic-danube-river.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-budapest-s-iconic-danube-river-34431048/"
+        },
+        "alt": "Free Stunning aerial view of Budapest, showcasing the winding Danube River and iconic bridges. Stock Photo",
+        "altRaw": "Free Stunning aerial view of Budapest, showcasing the winding Danube River and iconic bridges. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34431048.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "בית האופרה",
+      "lines": [
+        "תקרה מוזהבת, נכנסים בסיור",
+        "הכי יפה דווקא מבפנים"
+      ],
+      "alt": "בית האופרה ✨",
+      "image": {
+        "query": "budapest opera house interior golden ornate",
+        "id": "pexels-37429960",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37429960/pexels-photo-37429960/free-photo-of-luxurious-interior-of-paris-opera-house.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/luxurious-interior-of-paris-opera-house-37429960/"
+        },
+        "alt": "Free Ornate interior view showcasing stunning frescoes and gilded details in a Parisian landmark. Stock Photo",
+        "altRaw": "Free Ornate interior view showcasing stunning frescoes and gilded details in a Parisian landmark. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37429960.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "טירת ואידהוניאד",
+      "lines": [
+        "טירה על אגם בתוך פארק",
+        "חינם, ופתוח תמיד"
+      ],
+      "alt": "טירת ואידהוניאד 🏰",
+      "image": {
+        "query": "vajdahunyad castle budapest autumn sunny reflection",
+        "id": "pexels-16222899",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16222899/pexels-photo-16222899/free-photo-of-lake-side-of-vajdahunyad-castle-in-budapest-city-park.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/lake-side-of-vajdahunyad-castle-in-budapest-city-park-16222899/"
+        },
+        "alt": "Free Beautiful reflection of Vajdahunyad Castle on a serene lake in Budapest's city park. Stock Photo",
+        "altRaw": "Free Beautiful reflection of Vajdahunyad Castle on a serene lake in Budapest's city park. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16222899.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "שוק המרכזי",
+      "lines": [
+        "קומה שלמה של דוכנים",
+        "תעלו לקומה שנייה לאוכל"
+      ],
+      "alt": "שוק המרכזי 🥟",
+      "image": {
+        "query": "great market hall budapest interior stalls",
+        "id": "pexels-28376775",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28376775/pexels-photo-28376775/free-photo-of-the-interior-of-a-large-building-with-a-large-roof.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/the-interior-of-a-large-building-with-a-large-roof-28376775/"
+        },
+        "alt": "Free Bustling market scene inside historic iron-structured building. Stock Photo",
+        "altRaw": "Free Bustling market scene inside historic iron-structured building. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28376775.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "רובע ברי החורבות",
+      "lines": [
+        "בניין נטוש מלא נורות",
+        "תגיעו אחרי שמחשיך"
+      ],
+      "alt": "רובע ברי החורבות 💡",
+      "image": {
+        "query": "ruin bar budapest colorful lights interior",
+        "id": "pexels-35714290",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35714290/pexels-photo-35714290/free-photo-of-eclectic-ruin-bar-in-budapest-s-unique-district.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/eclectic-ruin-bar-in-budapest-s-unique-district-35714290/"
+        },
+        "alt": "Free Explore a colorful and artistic ruin bar in Budapest with vibrant graffiti and rustic charm. Stock Photo",
+        "altRaw": "Free Explore a colorful and artistic ruin bar in Budapest with vibrant graffiti and rustic charm. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35714290.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מרחצאות סצ׳ני",
+      "lines": [
+        "שחמט בתוך המים",
+        "והאדים עולים בחורף"
+      ],
+      "alt": "מרחצאות סצ׳ני ♨️",
+      "image": {
+        "query": "szechenyi thermal bath budapest people water",
+        "must": [
+          "thermal",
+          "bath",
+          "spa",
+          "pool"
+        ],
+        "id": "pexels-20519158",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/20519158/pexels-photo-20519158/free-photo-of-elderly-men-playing-chess-in-pool.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/elderly-men-playing-chess-in-pool-20519158/"
+        },
+        "alt": "Free Senior men playing chess in a thermal bath in Budapest, Hungary, enjoying a day of relaxation. Stock Photo",
+        "altRaw": "Free Senior men playing chess in a thermal bath in Budapest, Hungary, enjoying a day of relaxation. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20519158.jpg",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "longCaption": "הקפשן הארוך הוא המנגנון, לא תקלה: @travellingcloset1 מכניס את כל הכתובות לקפשן כדי שאפשר יהיה לשמור את הפוסט כרשימה, ומגיע ל-1.06 שמירות ללייק. מאה וחמישים התווים הראשונים כאן כבר נקראים כרשימה.",
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

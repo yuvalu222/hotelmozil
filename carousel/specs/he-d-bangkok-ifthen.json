@@ -5,67 +5,219 @@
   "clonedAccount": "whatshappening365",
   "demonstrates": "Direct clone of whatshappening365's 'If you are at X / You must visit Y' deck. Copied: two photos stacked with a thin white gutter; each photo carries a sharp-cornered white box with heavy black text and exactly one hot-pink keyword; the if/then sentence template repeats unchanged on every slide, which is what does the numbering's job. Topic idea copied verbatim (if you are at a known spot, the lesser-known spot next to it), city swapped to Bangkok.",
   "caption": "8 זוגות בבנגקוק: אם אתם כבר במקום המוכר, המקום השני במרחק הליכה או מעבורת של דקה. איזה זוג הייתם מוסיפים?",
-  "hashtags": ["בנגקוק", "תאילנד", "טיפיםלטיול"],
+  "hashtags": [
+    "בנגקוק",
+    "תאילנד",
+    "טיפיםלטיול"
+  ],
   "slides": [
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "בנגקוק" }, { "lead": "חייבים לראות את ", "kw": "8 הזוגות האלה" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "בנגקוק"
+        },
+        {
+          "lead": "חייבים לראות את ",
+          "kw": "8 הזוגות האלה"
+        }
+      ],
       "alt": "בנגקוק: קו הרקיע ווואט ארון",
-      "images": [{ "query": "bangkok skyline night" }, { "query": "wat arun bangkok river" }]
+      "images": [
+        {
+          "query": "bangkok skyline night"
+        },
+        {
+          "query": "wat arun bangkok river"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "סיאם" }, { "lead": "חייבים לבקר ב", "kw": "בית ג'ים תומפסון" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "סיאם"
+        },
+        {
+          "lead": "חייבים לבקר ב",
+          "kw": "בית ג'ים תומפסון"
+        }
+      ],
       "alt": "סיאם ובית ג'ים תומפסון",
-      "images": [{ "query": "siam bangkok bts skytrain crowd" }, { "query": "jim thompson house bangkok" }]
+      "images": [
+        {
+          "query": "siam bangkok bts skytrain crowd"
+        },
+        {
+          "query": "jim thompson house bangkok"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "צ'יינה טאון" }, { "lead": "חייבים לבקר ב", "kw": "וואט טראימיט" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "צ'יינה טאון"
+        },
+        {
+          "lead": "חייבים לבקר ב",
+          "kw": "וואט טראימיט"
+        }
+      ],
       "alt": "רחוב יאוואראט ווואט טראימיט",
-      "images": [{ "query": "yaowarat road chinatown bangkok night" }, { "query": "wat traimit golden buddha" }]
+      "images": [
+        {
+          "query": "yaowarat road chinatown bangkok night"
+        },
+        {
+          "query": "wat traimit golden buddha"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "וואט פו" }, { "lead": "חייבים לחצות ל", "kw": "וואט ארון" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "וואט פו"
+        },
+        {
+          "lead": "חייבים לחצות ל",
+          "kw": "וואט ארון"
+        }
+      ],
       "alt": "וואט פו ווואט ארון",
-      "images": [{ "query": "wat pho reclining buddha" }, { "query": "wat arun temple bangkok" }]
+      "images": [
+        {
+          "query": "wat pho reclining buddha"
+        },
+        {
+          "query": "wat arun temple bangkok"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "צ'אטוצ'אק" }, { "lead": "חייבים לבקר ב", "kw": "שוק אור טור קור" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "צ'אטוצ'אק"
+        },
+        {
+          "lead": "חייבים לבקר ב",
+          "kw": "שוק אור טור קור"
+        }
+      ],
       "alt": "שוק צ'אטוצ'אק ושוק אור טור קור",
-      "images": [{ "query": "chatuchak weekend market bangkok" }, { "query": "or tor kor market fruit bangkok" }]
+      "images": [
+        {
+          "query": "chatuchak weekend market bangkok"
+        },
+        {
+          "query": "or tor kor market fruit bangkok"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "קאו סאן" }, { "lead": "חייבים לבקר ב", "kw": "רחוב פרה אטיט" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "קאו סאן"
+        },
+        {
+          "lead": "חייבים לבקר ב",
+          "kw": "רחוב פרה אטיט"
+        }
+      ],
       "alt": "קאו סאן ורחוב פרה אטיט",
-      "images": [{ "query": "khao san road bangkok" }, { "query": "phra athit road bangkok cafe" }]
+      "images": [
+        {
+          "query": "khao san road bangkok"
+        },
+        {
+          "query": "phra athit road bangkok cafe"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "לומפיני" }, { "lead": "חייבים לבקר ב", "kw": "פארק בנג'אקיטי" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "לומפיני"
+        },
+        {
+          "lead": "חייבים לבקר ב",
+          "kw": "פארק בנג'אקיטי"
+        }
+      ],
       "alt": "פארק לומפיני ופארק בנג'אקיטי",
-      "images": [{ "query": "lumphini park bangkok" }, { "query": "benjakitti forest park bangkok skywalk" }]
+      "images": [
+        {
+          "query": "lumphini park bangkok"
+        },
+        {
+          "query": "benjakitti forest park bangkok skywalk"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "איקון סיאם" }, { "lead": "חייבים לעלות על ", "kw": "מעבורת הנהר" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "איקון סיאם"
+        },
+        {
+          "lead": "חייבים לעלות על ",
+          "kw": "מעבורת הנהר"
+        }
+      ],
       "alt": "איקון סיאם ומעבורת בנהר צ'או פראיה",
-      "images": [{ "query": "iconsiam bangkok mall riverside" }, { "query": "chao phraya express boat bangkok" }]
+      "images": [
+        {
+          "query": "iconsiam bangkok mall riverside"
+        },
+        {
+          "query": "chao phraya express boat bangkok"
+        }
+      ]
     },
     {
       "layout": "split",
-      "parts": [{ "lead": "אם אתם ב", "kw": "אסיאטיק" }, { "lead": "חייבים לעלות על ", "kw": "הגלגל הענק בשקיעה" }],
+      "parts": [
+        {
+          "lead": "אם אתם ב",
+          "kw": "אסיאטיק"
+        },
+        {
+          "lead": "חייבים לעלות על ",
+          "kw": "הגלגל הענק בשקיעה"
+        }
+      ],
       "alt": "אסיאטיק והגלגל הענק",
-      "images": [{ "query": "asiatique the riverfront bangkok" }, { "query": "asiatique ferris wheel bangkok sunset" }]
+      "images": [
+        {
+          "query": "asiatique the riverfront bangkok"
+        },
+        {
+          "query": "asiatique ferris wheel bangkok sunset"
+        }
+      ]
     },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg"
+      }
     }
-  ]
+  ],
+  "observedSlides": 2,
+  "fidelityCaveat": "⚠️ המקור נצפה חלקית: ה-embed הציבורי של אינסטגרם מגיש 2 שקופיות בלבד, והשיבוט הזה מכיל 10. השקופיות הראשונות מעתיקות מה שנראה; הנותרות מיישמות את אותה מערכת ויזואלית בלי שהמקור שלהן נצפה. זו הרחבה, לא העתקה. שיבוטי הטיקטוק (tt-*) לא סובלים מזה, כי דף פוסט בטיקטוק מגיש את כל השקופיות."
 }

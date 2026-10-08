@@ -1,0 +1,276 @@
+{
+  "clonedFrom": "tt-7594993883558186262",
+  "clonedUrl": "https://www.tiktok.com/@thaleadesign/photo/7594993883558186262",
+  "clonedAccount": "thaleadesign",
+  "sourceLikes": 678100,
+  "sourceSaves": 244000,
+  "sourceSlides": 8,
+  "sourceCaption": "For my girls, save this for the best restaurant bathrooms",
+  "id": "tt-21-first-vs-fifth",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "מנגנון החלטה חדש: לא 'לאן' אלא **באיזו פעם**. הדק מדבר אל שני קהלים בבת אחת — מי שעוד לא היה מקבל את הרשימה הראשונה, ומי שכבר היה מקבל סיבה לחזור. הזוג על שקופית אחת הוא מה שהופך את זה להשוואה ולא לרשימה.",
+  "caption": "מה רואים בפעם הראשונה, ומה רק בחמישית. שמרו למי שכבר היה.",
+  "hashtags": [
+    "טיפיםלטיול",
+    "יעדים",
+    "טיולים",
+    "אירופה",
+    "מקומותנסתרים"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "פעם ראשונה",
+        "מול",
+        "פעם חמישית"
+      ],
+      "sub": "אותה עיר, שני טיולים אחרים לגמרי",
+      "alt": "רחוב עירוני",
+      "image": {
+        "query": "rome colosseum sunset golden crowd",
+        "id": "pexels-35333800",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35333800/pexels-photo-35333800/free-photo-of-sunset-view-of-the-colosseum-in-rome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/sunset-view-of-the-colosseum-in-rome-35333800/"
+        },
+        "alt": "Free Captivating sunset over the Colosseum in Rome, framed by lush pine trees and dramatic clouds. Stock Photo",
+        "altRaw": "Free Captivating sunset over the Colosseum in Rome, framed by lush pine trees and dramatic clouds. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35333800.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "האקרופוליס ופלאקה",
+      "go": "אגיה אירידנוס ואקסרכיה",
+      "avoidLabel": "בפעם הראשונה:",
+      "goLabel": "בפעם החמישית:",
+      "alt": "אתונה",
+      "images": [
+        {
+          "query": "acropolis athens crowd tourists day",
+          "id": "pexels-32414293",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/32414293/pexels-photo-32414293/free-photo-of-tourists-flock-to-ancient-acropolis-in-athens.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/tourists-flock-to-ancient-acropolis-in-athens-32414293/"
+          },
+          "alt": "Free Crowded scene at the Acropolis in Athens, showcasing ancient Greek architecture and culture. Stock Photo",
+          "altRaw": "Free Crowded scene at the Acropolis in Athens, showcasing ancient Greek architecture and culture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32414293.jpg",
+          "keep": true
+        },
+        {
+          "query": "athens cafe street lanterns evening people",
+          "id": "pexels-36795951",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36795951/pexels-photo-36795951/free-photo-of-charming-alleyway-in-athens-greece-at-dusk.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-alleyway-in-athens-greece-at-dusk-36795951/"
+          },
+          "alt": "Free A serene alley in Athens, Greece with vibrant facades and cozy cafes at dusk. Stock Photo",
+          "altRaw": "Free A serene alley in Athens, Greece with vibrant facades and cozy cafes at dusk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36795951.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "הקולוסיאום ומזרקת טרווי",
+      "go": "קוואדרארו ואוסטיה אנטיקה",
+      "avoidLabel": "בפעם הראשונה:",
+      "goLabel": "בפעם החמישית:",
+      "alt": "רומא",
+      "images": [
+        {
+          "query": "trevi fountain rome crowd day",
+          "id": "pexels-18578565",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/18578565/pexels-photo-18578565/free-photo-of-crowd-near-fountain-in-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/crowd-near-fountain-in-town-18578565/"
+          },
+          "alt": "Free Large crowd gathered near a famous European fountain on a sunny day in the city center. Stock Photo",
+          "altRaw": "Free Large crowd gathered near a famous European fountain on a sunny day in the city center. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18578565.jpg",
+          "keep": true
+        },
+        {
+          "query": "trastevere rome ivy street lanterns evening",
+          "id": "pexels-35687609",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35687609/pexels-photo-35687609/free-photo-of-magical-evening-in-a-european-cobblestone-alley.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/magical-evening-in-a-european-cobblestone-alley-35687609/"
+          },
+          "alt": "Free Charming cobbled street adorned with lanterns in a cozy European city, perfect for a picturesque stroll. Stock Photo",
+          "altRaw": "Free Charming cobbled street adorned with lanterns in a cozy European city, perfect for a picturesque stroll. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35687609.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "הארמון וקאו סאן",
+      "go": "יאוואראט, צ׳יינטאון בלילה",
+      "avoidLabel": "בפעם הראשונה:",
+      "goLabel": "בפעם החמישית:",
+      "alt": "בנגקוק",
+      "images": [
+        {
+          "query": "bangkok grand palace golden crowd",
+          "id": "pexels-33444008",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33444008/pexels-photo-33444008/free-photo-of-intricate-architecture-of-grand-palace-bangkok.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/intricate-architecture-of-grand-palace-bangkok-33444008/"
+          },
+          "alt": "Free Stunning view of the ornate Grand Palace in Bangkok, showcasing its intricate roof design and architecture. Stock Photo",
+          "altRaw": "Free Stunning view of the ornate Grand Palace in Bangkok, showcasing its intricate roof design and architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33444008.jpg",
+          "keep": true
+        },
+        {
+          "query": "bangkok chinatown yaowarat neon night street crowd",
+          "id": "pexels-15211286",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15211286/pexels-photo-15211286/free-photo-of-yaowarat-road-in-bangkok-thailand-at-nighttime.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/yaowarat-road-in-bangkok-thailand-at-nighttime-15211286/"
+          },
+          "alt": "Free Illuminated streets of Bangkok's Chinatown, featuring neon signs and active nightlife. Stock Photo",
+          "altRaw": "Free Illuminated streets of Bangkok's Chinatown, featuring neon signs and active nightlife. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15211286.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "בורג' חליפה והקניון",
+      "go": "אל סיף, על המים",
+      "avoidLabel": "בפעם הראשונה:",
+      "goLabel": "בפעם החמישית:",
+      "alt": "דובאי",
+      "images": [
+        {
+          "query": "burj khalifa dubai mall fountain crowd",
+          "id": "pexels-16920824",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16920824/pexels-photo-16920824/free-photo-of-fountain-and-buildings-in-city-at-night.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/fountain-and-buildings-in-city-at-night-16920824/"
+          },
+          "alt": "Free Illuminated fountains in front of a city skyline at night, capturing vibrant urban energy. Stock Photo",
+          "altRaw": "Free Illuminated fountains in front of a city skyline at night, capturing vibrant urban energy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16920824.jpg",
+          "keep": true
+        },
+        {
+          "query": "dubai creek abra wooden boat traditional sunset",
+          "id": "pexels-20542411",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20542411/pexels-photo-20542411/free-photo-of-man-on-a-boat-in-harbor.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/man-on-a-boat-in-harbor-20542411/"
+          },
+          "alt": "Free A traditional abra carries passengers on Dubai Creek, showcasing cultural transport. Stock Photo",
+          "altRaw": "Free A traditional abra carries passengers on Dubai Creek, showcasing cultural transport. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20542411.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "סגרדה פמיליה ולאס ראמבלאס",
+      "go": "גרסיה ובונקרס דל כרמל",
+      "avoidLabel": "בפעם הראשונה:",
+      "goLabel": "בפעם החמישית:",
+      "alt": "ברצלונה",
+      "images": [
+        {
+          "query": "sagrada familia barcelona crowd day",
+          "id": "pexels-33053368",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33053368/pexels-photo-33053368/free-photo-of-intricate-facade-of-sagrada-familia-in-barcelona.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/intricate-facade-of-sagrada-familia-in-barcelona-33053368/"
+          },
+          "alt": "Free Visitors admire the detailed carvings on the Sagrada Familia's facade in sunny Barcelona. Stock Photo",
+          "altRaw": "Free Visitors admire the detailed carvings on the Sagrada Familia's facade in sunny Barcelona. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33053368.jpg",
+          "keep": true
+        },
+        {
+          "query": "park guell barcelona colorful mosaic view",
+          "id": "pexels-11840567",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/11840567/pexels-photo-11840567.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-city-buildings-under-the-blue-sky-11840567/"
+          },
+          "alt": "Free Explore the vibrant architecture and scenery of Antoni Gaudí's Park Güell in Barcelona. Stock Photo",
+          "altRaw": "Free Explore the vibrant architecture and scenery of Antoni Gaudí's Park Güell in Barcelona. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11840567.jpg",
+          "keep": true
+        }
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

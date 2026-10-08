@@ -5,76 +5,115 @@
   "clonedAccount": "vietnamessence_tours",
   "demonstrates": "Direct clone of vietnamessence_tours's '20 Things To Do In 📍Hanoi, Vietnam 🇻🇳 (not the usual tourist list)'. Copied: a creator-style full-frame photo; Instagram-Stories-style white rounded stickers in a plain medium sans, black text, centred in the upper part of the frame; the cover is three stacked sticker lines (count, pin+place+flag, the parenthetical), each item is a bold title sticker over a first-person body sticker. Topic idea copied verbatim (things to do, 'not the usual tourist list'), place swapped to Rhodes. Count reduced from 20 to 8 so the deck stays under the 10-slide cross-post ceiling.",
   "caption": "8 דברים לעשות ברודוס שלא נמצאים ברשימה הרגילה. רובם בצד הפחות מתויר של האי, וכולם במרחק נסיעה קצרה מהעיר. מה אתם הייתם מוסיפים?",
-  "hashtags": ["רודוס", "יוון", "טיפיםלטיול", "איייוון"],
+  "hashtags": [
+    "רודוס",
+    "יוון",
+    "טיפיםלטיול",
+    "איייוון"
+  ],
   "slides": [
     {
       "layout": "sticker",
       "pos": "top",
-      "lines": ["8 דברים לעשות", "📍ברודוס", "(לא הרשימה הרגילה)"],
+      "lines": [
+        "8 דברים לעשות",
+        "📍ברודוס",
+        "(לא הרשימה הרגילה)"
+      ],
       "alt": "סמטה בעיר העתיקה של רודוס",
-      "image": { "query": "rhodes old town street greece" }
+      "image": {
+        "query": "rhodes old town street greece"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "מפרץ אנתוני קווין",
       "body": "מים ירוקים בין סלעים, עשר דקות מפאליראקי. להגיע לפני עשר בבוקר, אחרי זה אין איפה לשים מגבת.",
       "alt": "מפרץ אנתוני קווין ברודוס",
-      "image": { "query": "anthony quinn bay rhodes" }
+      "image": {
+        "query": "anthony quinn bay rhodes"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "לינדוס בזריחה",
       "body": "האקרופוליס פתוח מוקדם. בשמונה בבוקר עוד אין חום ואין אוטובוסים, ועולים לבד.",
       "alt": "לינדוס והאקרופוליס בבוקר",
-      "image": { "query": "lindos acropolis rhodes morning" }
+      "image": {
+        "query": "lindos acropolis rhodes morning"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "רחוב האבירים בלילה",
       "body": "בעיר העתיקה, אחרי שהחנויות נסגרות. הרחוב מתרוקן ונראה כמו לפני חמש מאות שנה.",
       "alt": "רחוב האבירים ברודוס בלילה",
-      "image": { "query": "street of the knights rhodes night" }
+      "image": {
+        "query": "street of the knights rhodes night"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "פרסוניסי",
       "body": "הקצה הדרומי של האי, איפה ששני ימים נפגשים. בצד אחד גלים, בצד השני שקט.",
       "alt": "פרסוניסי, מפגש שני הימים",
-      "image": { "query": "prasonisi rhodes beach windsurf" }
+      "image": {
+        "query": "prasonisi rhodes beach windsurf"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "מעיינות קליתאה",
       "body": "בריכות טבעיות בתוך מבנה איטלקי ישן. לשחות, ואז קפה תחת הקשתות.",
       "alt": "מעיינות קליתאה ברודוס",
-      "image": { "query": "kallithea springs rhodes" }
+      "image": {
+        "query": "kallithea springs rhodes"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "חוף צמביקה",
       "body": "חול רך ומים רדודים, טוב עם ילדים. המנזר על ההר מעל שווה את העלייה בשביל הנוף.",
       "alt": "חוף צמביקה מלמעלה",
-      "image": { "query": "tsambika beach rhodes aerial" }
+      "image": {
+        "query": "tsambika beach rhodes aerial"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "מצודת מונוליתוס",
       "body": "מצודה על צוק בצד השקט של האי. אחרי הצהריים כמעט אין שם אף אחד.",
       "alt": "מצודת מונוליתוס על הצוק",
-      "image": { "query": "monolithos castle rhodes" }
+      "image": {
+        "query": "monolithos castle rhodes"
+      }
     },
     {
-      "layout": "sticker", "pos": "top",
+      "layout": "sticker",
+      "pos": "top",
       "title": "עמק הפרפרים",
       "body": "רק בקיץ, יוני עד ספטמבר. ללכת בשקט. כשרועשים הם עפים, וזה מה שבאתם לראות.",
       "alt": "עמק הפרפרים ברודוס",
-      "image": { "query": "valley of the butterflies rhodes" }
+      "image": {
+        "query": "valley of the butterflies rhodes"
+      }
     },
     {
       "role": "screenshot",
       "layout": "screenshot",
       "alt": "שקופית סיום — מציין מיקום לצילום המסך של יובל",
-      "image": { "local": "assets/closing-placeholder.jpg" }
+      "image": {
+        "local": "assets/closing-placeholder.jpg"
+      }
     }
-  ]
+  ],
+  "observedSlides": 2,
+  "fidelityCaveat": "⚠️ המקור נצפה חלקית: ה-embed הציבורי של אינסטגרם מגיש 2 שקופיות בלבד, והשיבוט הזה מכיל 10. השקופיות הראשונות מעתיקות מה שנראה; הנותרות מיישמות את אותה מערכת ויזואלית בלי שהמקור שלהן נצפה. זו הרחבה, לא העתקה. שיבוטי הטיקטוק (tt-*) לא סובלים מזה, כי דף פוסט בטיקטוק מגיש את כל השקופיות."
 }

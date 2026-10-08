@@ -1,0 +1,141 @@
+{
+  "clonedFrom": "tt-7217640502072446251",
+  "clonedUrl": "https://www.tiktok.com/@nearxfar/photo/7217640502072446251",
+  "clonedAccount": "nearxfar",
+  "sourceLikes": 961100,
+  "sourceSaves": 468000,
+  "sourceSlides": 7,
+  "sourceCaption": "5 things I wish I knew before going to Japan",
+  "id": "tt-20-what-a-day-costs",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "הפורמט של @nearxfar — 468,000 שמירות, הגבוה באוסף — על השאלה שהוא הכי מתאים לה. עמוד לבן, שאלה, פסקה צפופה עם המספרים מודגשים. מה שגורם לפורמט הזה להישמר הוא ספציפיות, וכסף הוא הנושא הכי ספציפי שיש. המספרים הם טווחים ליום אחד לאדם, בלי טיסה ובלי לינה, כדי שיישארו נכונים גם כשהמחירים זזים.",
+  "caption": "כמה באמת עולה יום בכל יעד. השלישי זול ממה שכולם חושבים. שמרו לתכנון.",
+  "hashtags": [
+    "טיפיםלטיול",
+    "תקציב",
+    "יעדים",
+    "טיולים",
+    "חופשה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "pos": "mid",
+      "titleCaps": "כמה עולה יום",
+      "line": "בכל יעד שישראלים טסים אליו",
+      "note": "בלי טיסה ובלי לינה",
+      "alt": "ארנק ומפה",
+      "image": {
+        "query": "cafe table coffee map notebook sunny",
+        "id": "pexels-2678301",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/2678301/pexels-photo-2678301.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/white-ceramic-cup-on-map-2678301/"
+        },
+        "alt": "Free Flat lay of map, coffee, coins, and notebook for travel planning. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2678301.jpg",
+        "altRaw": "Free Flat lay of map, coffee, coins, and notebook for travel planning. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-page",
+      "q": "כמה עולה יום ביוון?",
+      "paras": [
+        "אוכל: **גירוס ברחוב 4-5 אירו**, ארוחה בטברנה 15-20.",
+        "תחבורה: מעבורת בין איים **20-40 אירו** לכיוון, אוטובוס עירוני אירו וחצי.",
+        "כניסות: האקרופוליס **20 אירו** בקיץ, רוב המצפים והכפרים בחינם."
+      ],
+      "caption": "יום סביר ביוון: 50-70 אירו לאדם",
+      "alt": "כמה עולה יום ביוון?",
+      "image": {
+        "query": "greek taverna table food people sunny terrace",
+        "id": "pexels-22679618",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/22679618/pexels-photo-22679618/free-photo-of-tables-and-chairs-of-restaurant.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/tables-and-chairs-of-restaurant-22679618/"
+        },
+        "alt": "Free Authentic Greek restaurant outdoor seating with classic architecture in Athens. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-22679618.jpg",
+        "altRaw": "Free Authentic Greek restaurant outdoor seating with classic architecture in Athens. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-page",
+      "q": "וכמה בתאילנד?",
+      "paras": [
+        "אוכל: **אוכל רחוב 50-80 באט**, מסעדה טובה 300-500.",
+        "תחבורה: מונית באפליקציה בבנגקוק **80-150 באט**, רכבת לילה 600-1000.",
+        "גם כשחוסכים אוכלים מעולה. זה היעד שהכי קשה לפספס בו."
+      ],
+      "caption": "יום בתאילנד: 30-50 דולר לאדם",
+      "alt": "וכמה בתאילנד?",
+      "image": {
+        "query": "thai street food market colourful wok night",
+        "id": "pexels-36829318",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36829318/pexels-photo-36829318/free-photo-of-street-vendor-cooking-thai-food-in-mae-klong.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/street-vendor-cooking-thai-food-in-mae-klong-36829318/"
+        },
+        "alt": "Free A vibrant street food scene in Mae Klong, Thailand with a vendor preparing traditional dishes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36829318.jpg",
+        "altRaw": "Free A vibrant street food scene in Mae Klong, Thailand with a vendor preparing traditional dishes. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-page",
+      "q": "ודובאי, שכולם חושבים שהיא יקרה?",
+      "paras": [
+        "אוכל: **שווארמה 10-15 דירהם**, מסעדה בקניון 120-200.",
+        "תחבורה: **המטרו 3-8 דירהם** לנסיעה, ומגיע כמעט לכל מקום תיירותי.",
+        "החופים הציבוריים, המזרקות והטיילות **בחינם**. היקר זה מה שאתם בוחרים להוסיף."
+      ],
+      "caption": "יום בדובאי: 40-80 דולר, תלוי לגמרי בבחירות",
+      "alt": "ודובאי, שכולם חושבים שהיא יקרה?",
+      "image": {
+        "query": "dubai metro station modern interior people",
+        "id": "pexels-15995541",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/15995541/pexels-photo-15995541/free-photo-of-metro-dubai.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/metro-dubai-15995541/"
+        },
+        "alt": "Free Bright and futuristic interior of an empty train in New York. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15995541.jpg",
+        "altRaw": "Free Bright and futuristic interior of an empty train in New York. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

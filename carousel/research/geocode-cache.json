@@ -1,0 +1,342 @@
+{
+ "Rue de l'Universite, Paris, France": {
+  "lat": 48.8610852,
+  "lon": 2.3017841,
+  "name": "Rue de l'Université, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "Tour Eiffel, Paris, France": {
+  "lat": 48.8582599,
+  "lon": 2.2945006,
+  "name": "Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "Place du Trocadero, Paris, France": {
+  "lat": 48.8620816,
+  "lon": 2.2885435,
+  "name": "Place du Trocadéro, Quartier de la Muette, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75016, France"
+ },
+ "Arc de Triomphe, Paris, France": {
+  "lat": 48.8737791,
+  "lon": 2.2950372,
+  "name": "Arc de Triomphe, Passage du Souvenir, Quartier des Ternes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France"
+ },
+ "Avenue des Champs-Elysees, Paris, France": {
+  "lat": 48.8714974,
+  "lon": 2.3022156,
+  "name": "Avenue des Champs-Élysées, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "Hotel des Invalides, Paris, France": {
+  "lat": 48.8559537,
+  "lon": 2.3133431,
+  "name": "Hôtel des Invalides, 129, Rue de Grenelle, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "Pont Alexandre III, Paris, France": {
+  "lat": 48.8634697,
+  "lon": 2.3135181,
+  "name": "Pont Alexandre III, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "Grand Palais, Paris, France": {
+  "lat": 48.8661614,
+  "lon": 2.3122229,
+  "name": "Grand Palais, Avenue de Selves, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "Place de la Concorde, Paris, France": {
+  "lat": 48.8655715,
+  "lon": 2.3212248,
+  "name": "Place de la Concorde, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "Jardin des Tuileries, Paris, France": {
+  "lat": 48.8635662,
+  "lon": 2.3269552,
+  "name": "Jardin des Tuileries, 113, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "Palais-Royal, Paris, France": {
+  "lat": 48.8635847,
+  "lon": 2.3362042,
+  "name": "Palais Royal, Galerie de Chartres, Quartier du Palais Royal, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "Carrousel du Louvre, Paris, France": {
+  "lat": 48.861827,
+  "lon": 2.334305,
+  "name": "Carrousel du Louvre, Allée du Carrousel, Saint-Germain-l'Auxerrois, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "Musee du Louvre, Paris, France": {
+  "lat": 48.8611473,
+  "lon": 2.3380277,
+  "name": "Musée du Louvre, Pont du Carrousel, Saint-Germain-l'Auxerrois, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "Le Marais, Paris, France": {
+  "lat": 48.8603823,
+  "lon": 2.360742,
+  "name": "Le Marais, Paris, Île-de-France, France métropolitaine, France"
+ },
+ "Place de la Bastille, Paris, France": {
+  "lat": 48.8526733,
+  "lon": 2.3688193,
+  "name": "Place de la Bastille, Quartier de l'Arsenal, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France"
+ },
+ "Jardin du Luxembourg, Paris, France": {
+  "lat": 48.8467228,
+  "lon": 2.3364148,
+  "name": "Jardin du Luxembourg, Rue d'Assas, Quartier de l'Odéon, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France"
+ },
+ "Pantheon, Paris, France": {
+  "lat": 48.8461947,
+  "lon": 2.3460507,
+  "name": "Panthéon, Place du Panthéon, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France"
+ },
+ "Shakespeare and Company, Paris, France": {
+  "lat": 48.8525747,
+  "lon": 2.3471123,
+  "name": "Shakespeare and Company, 37, Rue de la Bûcherie, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France"
+ },
+ "Sainte-Chapelle, Paris, France": {
+  "lat": 48.8553933,
+  "lon": 2.3449941,
+  "name": "Sainte-Chapelle, 8, Boulevard du Palais, Saint-Germain-l'Auxerrois, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "Cathedrale Notre-Dame de Paris, Paris, France": {
+  "lat": 48.8529371,
+  "lon": 2.3500501,
+  "name": "Cathédrale Notre-Dame de Paris, 6, Parvis Notre-Dame - Place Jean-Paul II, Quartier Les Îles, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France"
+ },
+ "Eglise de la Madeleine, Paris, France": {
+  "lat": 48.8701338,
+  "lon": 2.3245425,
+  "name": "Église de la Madeleine, Place de la Madeleine, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "Palais Garnier, Paris, France": {
+  "lat": 48.8720949,
+  "lon": 2.3323339,
+  "name": "L'Opéra Restaurant, Place Jacques Rouché, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+ },
+ "Galeries Lafayette Haussmann, Paris, France": {
+  "lat": 48.8736459,
+  "lon": 2.3321271,
+  "name": "Galeries Lafayette, 40, Boulevard Haussmann, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+ },
+ "Moulin Rouge, Paris, France": {
+  "lat": 48.8841094,
+  "lon": 2.3323564,
+  "name": "Moulin Rouge, 82, Boulevard de Clichy, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France"
+ },
+ "Basilique du Sacre-Coeur, Paris, France": {
+  "lat": 48.8868058,
+  "lon": 2.3430153,
+  "name": "Basilique du Sacré-Cœur, Rue du Chevalier de la Barre, Quartier de Clignancourt, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France"
+ },
+ "Kition Archaeological Site, Larnaca, Cyprus": {
+  "lat": 34.9206088,
+  "lon": 33.6328522,
+  "name": "Ancient Military Port of Kition, Kimonos, Χρυσοπολίτισσα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6015, Κύπρος - Kıbrıs"
+ },
+ "Pierides Museum, Larnaca, Cyprus": {
+  "lat": 34.9161627,
+  "lon": 33.6363974,
+  "name": "Pierides Museum - Bank of Cyprus Cultural Foundation, 4, Zinonos Kitieos, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6023, Κύπρος - Kıbrıs"
+ },
+ "Mackenzie Beach, Larnaca, Cyprus": {
+  "lat": 34.8905288,
+  "lon": 33.6381178,
+  "name": "Mackenzie Beach, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, Κύπρος - Kıbrıs"
+ },
+ "Kamares Aqueduct, Larnaca, Cyprus": {
+  "lat": 34.9122497,
+  "lon": 33.598904,
+  "name": "Υδραγωγείο Καμάρες, Larissis, Άγιος Νικόλαος, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6041, Κύπρος - Kıbrıs"
+ },
+ "Larnaca Salt Lake, Larnaca, Cyprus": {
+  "lat": 34.8790786,
+  "lon": 33.6197136,
+  "name": "Larnaca Salt Lake, Άγιος Νικόλαος, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, Κύπρος - Kıbrıs"
+ },
+ "Hala Sultan Tekke, Larnaca, Cyprus": {
+  "lat": 34.8853584,
+  "lon": 33.6099603,
+  "name": "Hala Sultan Tekke, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, Κύπρος - Kıbrıs"
+ },
+ "Panagia Angeloktisti, Kiti, Larnaca, Cyprus": {
+  "lat": 34.8475744,
+  "lon": 33.5709829,
+  "name": "Παναγία της Αγγελόκτιστης, Panagias Angeloktistis, Κίτι, Δήμος Δρομολαξιάς - Μενεού, Επαρχία Λάρνακας, Κύπρος, 7550, Κύπρος - Kıbrıs"
+ },
+ "Stavrovouni Monastery, Larnaca, Cyprus": {
+  "lat": 34.8863765,
+  "lon": 33.4356605,
+  "name": "Stavrovouni Monastery, F106, Pyrga Larnacas, Σύμπλεγμα Κοινοτήτων Τρέμιθου Ποταμού, Επαρχία Λάρνακας, Κύπρος, 7571, Κύπρος - Kıbrıs"
+ },
+ "Choirokoitia, Larnaca, Cyprus": {
+  "lat": 34.7982318,
+  "lon": 33.3346161,
+  "name": "Χοιροκοιτία, Choirokoitia, Σύμπλεγμα Κοινοτήτων Βασιλικού-Πεντάσχοινου, Επαρχία Λάρνακας, Κύπρος, 7741, Κύπρος - Kıbrıs"
+ },
+ "Agios Minas Monastery, Vavla, Larnaca, Cyprus": {
+  "lat": 34.8409742,
+  "lon": 33.2851425,
+  "name": "Agios Minas Monastery 1, F110, Βάβλα, Vavla, Δήμος Λεύκαρών, Επαρχία Λάρνακας, Κύπρος, 7713, Κύπρος - Kıbrıs"
+ },
+ "Kato Drys, Larnaca, Cyprus": {
+  "lat": 34.8510676,
+  "lon": 33.3045079,
+  "name": "Κάτω Δρυς, Kato Drys, Σύμπλεγμα Κοινοτήτων Ορεινής Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 7700, Κύπρος - Kıbrıs"
+ },
+ "Pano Lefkara, Larnaca, Cyprus": {
+  "lat": 34.8665517,
+  "lon": 33.3068524,
+  "name": "Pano Lefkara, Δήμος Λεύκαρών, Επαρχία Λάρνακας, Κύπρος, 7700, Κύπρος - Kıbrıs"
+ },
+ "Finikoudes, Larnaca, Cyprus": {
+  "lat": 34.9124807,
+  "lon": 33.6367658,
+  "name": "Lois Parking Finikoudes Multipark, Kosma Lysioti, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6022, Κύπρος - Kıbrıs"
+ },
+ "Larnaca Castle, Larnaca, Cyprus": {
+  "lat": 34.9102759,
+  "lon": 33.6376657,
+  "name": "Κάστρο Λάρνακας, Kamil Kenan, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6022, Κύπρος - Kıbrıs"
+ },
+ "Agios Lazaros Church, Larnaca, Cyprus": {
+  "lat": 34.9114668,
+  "lon": 33.6348256,
+  "name": "Agios Lazaros Church, Agiou Lazarou, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6022, Κύπρος - Kıbrıs"
+ },
+ "Kition, Larnaca, Cyprus": {
+  "lat": 34.9173918,
+  "lon": 33.6378957,
+  "name": "Zeno of Kition, Europe square, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6300, Κύπρος - Kıbrıs"
+ },
+ "Angeloktisti, Larnaca, Cyprus": {
+  "lat": 34.8475744,
+  "lon": 33.5709829,
+  "name": "Παναγία της Αγγελόκτιστης, Panagias Angeloktistis, Κίτι, Δήμος Δρομολαξιάς - Μενεού, Επαρχία Λάρνακας, Κύπρος, 7550, Κύπρος - Kıbrıs"
+ },
+ "Agios Minas Monastery, Larnaca, Cyprus": {
+  "lat": 34.8410641,
+  "lon": 33.2852631,
+  "name": "Agios Minas Monastery 2, F110, Βάβλα, Vavla, Δήμος Λεύκαρών, Επαρχία Λάρνακας, Κύπρος, 7713, Κύπρος - Kıbrıs"
+ },
+ "Foinikoudes, Larnaca, Cyprus": {
+  "lat": 34.9129744,
+  "lon": 33.6379283,
+  "name": "Foinikoudes - Kosma Lysioti, Λεωφόρος Αθηνών, Σκάλα, Δήμος Λάρνακας, Επαρχία Λάρνακας, Κύπρος, 6300, Κύπρος - Kıbrıs"
+ },
+ "Pompeii Archaeological Park, Campania, Italy": {
+  "lat": 40.7497718,
+  "lon": 14.4953119,
+  "name": "Scavi Archeologici di Pompei - Bigliettaria Piazza Anfiteatro, Piazza Anfiteatro, Masseria Curato, Pompei, Napoli, Campania, 80045, Italia"
+ },
+ "Ercolano Scavi, Campania, Italy": {
+  "lat": 40.8094583,
+  "lon": 14.3625572,
+  "name": "Ercolano Scavi, Autostrada A3 Napoli-Salerno, Ercolano, Napoli, Campania, 80056, Italia"
+ },
+ "Mount Vesuvius, Campania, Italy": {
+  "lat": 40.8213963,
+  "lon": 14.4261967,
+  "name": "Vesuvio, Trecase, Napoli, Campania, 80040, Italia"
+ },
+ "Marina Grande, Sorrento, Campania, Italy": {
+  "lat": 40.6274993,
+  "lon": 14.3656272,
+  "name": "Marina Grande, Sorrento, Napoli, Campania, 80067, Italia"
+ },
+ "Villa Comunale, Sorrento, Campania, Italy": {
+  "lat": 40.6280891,
+  "lon": 14.3728414,
+  "name": "Villa Comunale \"Salve D'Esposito\", Marina Piccola, Sorrento, Napoli, Campania, Italia"
+ },
+ "Sentiero degli Dei, Bomerano, Campania, Italy": {
+  "lat": 40.6288001,
+  "lon": 14.5376822,
+  "name": "Via Sentiero degli Dei, Bomerano, Agerola, Napoli, Campania, 80051, Italia"
+ },
+ "Spiaggia Grande, Positano, Campania, Italy": {
+  "lat": 40.6276335,
+  "lon": 14.4877417,
+  "name": "Spiaggia Grande, Montepertuso, Arienzo, Positano, Salerno, Campania, Italia"
+ },
+ "Li Galli, Campania, Italy": {
+  "lat": 40.5816542,
+  "lon": 14.4297384,
+  "name": "Li Galli, Positano, Salerno, Campania, Italia"
+ },
+ "Duomo di Amalfi, Campania, Italy": {
+  "lat": 40.634465,
+  "lon": 14.6034364,
+  "name": "Duomo di Amalfi, 1, Piazza Duomo, Pogerola, Amalfi, Salerno, Campania, 84011, Italia"
+ },
+ "Atrani, Campania, Italy": {
+  "lat": 40.636908,
+  "lon": 14.607541,
+  "name": "Atrani, Salerno, Campania, Italia"
+ },
+ "Villa Rufolo, Ravello, Campania, Italy": {
+  "lat": 40.6486747,
+  "lon": 14.6126631,
+  "name": "Villa Rufolo, Minuta, Ravello, Salerno, Campania, 84010, Italia"
+ },
+ "Villa Cimbrone, Ravello, Campania, Italy": {
+  "lat": 40.6433311,
+  "lon": 14.610439,
+  "name": "Villa Cimbrone, Avenue of Immensity, Ravello, Civita, Ravello, Salerno, Campania, 84011, Italia"
+ },
+ "Monte Solaro, Anacapri, Campania, Italy": {
+  "lat": 40.5451298,
+  "lon": 14.223736,
+  "name": "Monte Solaro, Anacapri, Napoli, Campania, 80071, Italia"
+ },
+ "Villa San Michele, Anacapri, Campania, Italy": {
+  "lat": 40.5572717,
+  "lon": 14.2250447,
+  "name": "Villa San Michele, Viale Axel Munthe, Anacapri, Napoli, Campania, 80071, Italia"
+ },
+ "Giardini di Augusto, Capri, Campania, Italy": {
+  "lat": 40.5470184,
+  "lon": 14.2432052,
+  "name": "Giardini di Augusto, Capri, Napoli, Campania, Italia"
+ },
+ "Faraglioni, Capri, Campania, Italy": {
+  "lat": 40.5497361,
+  "lon": 14.2467361,
+  "name": "Faraglioni, Via Camerelle, Capri, Napoli, Campania, 80073, Italia"
+ },
+ "Bomerano Agerola, Campania, Italy": {
+  "lat": 40.6297026,
+  "lon": 14.5383587,
+  "name": "Bomerano, Agerola, Napoli, Campania, 80051, Italia"
+ },
+ "Spiaggia Grande Positano, Campania, Italy": {
+  "lat": 40.6276335,
+  "lon": 14.4877417,
+  "name": "Spiaggia Grande, Montepertuso, Arienzo, Positano, Salerno, Campania, Italia"
+ },
+ "Fornillo Positano, Campania, Italy": {
+  "lat": 40.6260394,
+  "lon": 14.4807748,
+  "name": "Spiaggia Fornillo, Montepertuso, Arienzo, Positano, Salerno, Campania, Italia"
+ },
+ "Li Galli Positano, Campania, Italy": {
+  "lat": 40.5816542,
+  "lon": 14.4297384,
+  "name": "Li Galli, Positano, Salerno, Campania, Italia"
+ },
+ "Grotta Azzurra Anacapri, Campania, Italy": {
+  "lat": 40.5609387,
+  "lon": 14.2057363,
+  "name": "Grotta Azzurra, Via Grotta Azzurra, Anacapri, Napoli, Campania, 80071, Italia"
+ },
+ "Quota 1000 Vesuvio": {
+  "lat": 40.8283042,
+  "lon": 14.4268181,
+  "name": "Vesuvio quota 1000, Piazzale di quota 1000, Ercolano, Napoli, Campania, 80040, Italia"
+ },
+ "Nocelle, Positano, Campania, Italy": {
+  "lat": 40.628702,
+  "lon": 14.5036978,
+  "name": "Nocelle, Positano, Salerno, Campania, 84017, Italia"
+ },
+ "Ravello, Salerno, Campania, Italy": {
+  "lat": 40.663289,
+  "lon": 14.6125597,
+  "name": "Ravello, Salerno, Campania, Italia"
+ }
+}

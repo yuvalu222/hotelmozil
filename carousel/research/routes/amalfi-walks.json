@@ -1,0 +1,142 @@
+{
+  "_": "Routed by the public Valhalla instance at valhalla1.openstreetmap.de over OpenStreetMap: pedestrian costing for walking legs, auto for driving. Coordinates from Nominatim. Rounded to 5 minutes.",
+  "city": "Campania, Italy",
+  "legs": {
+    "1": [
+      {
+        "from": "פומפיי",
+        "to": "הרקולנאום",
+        "km": 16.51,
+        "minutes": 20,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "הרקולנאום",
+        "to": "הר הווזוב",
+        "km": 11.91,
+        "minutes": 30,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "הר הווזוב",
+        "to": "מרינה גרנדה סורנטו",
+        "km": 49.29,
+        "minutes": 70,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "מרינה גרנדה סורנטו",
+        "to": "וילה קומונלה סורנטו",
+        "km": 2.53,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      }
+    ],
+    "2": [
+      {
+        "from": "שביל האלים",
+        "to": "נוצ'לה",
+        "km": 25.65,
+        "minutes": 205,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "נוצ'לה",
+        "to": "סנטה מריה אסונטה",
+        "km": 4.15,
+        "minutes": 60,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "סנטה מריה אסונטה",
+        "to": "חוף מרינה גרנדה פוזיטאנו",
+        "km": 0,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "חוף מרינה גרנדה פוזיטאנו",
+        "to": "חוף פורנילו",
+        "km": 0.81,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "3": [
+      {
+        "from": "קתדרלת אמלפי",
+        "to": "אטרני",
+        "km": 0.96,
+        "minutes": 5,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "אטרני",
+        "to": "ראוולו, פיאצה וסקובדו",
+        "km": 7.61,
+        "minutes": 15,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "ראוולו, פיאצה וסקובדו",
+        "to": "וילה רופולו",
+        "km": 1.88,
+        "minutes": 5,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "וילה רופולו",
+        "to": "וילה צימברונה",
+        "km": 2.72,
+        "minutes": 5,
+        "mode": "car",
+        "how": "valhalla auto"
+      }
+    ],
+    "4": [
+      {
+        "from": "המערה הכחולה",
+        "to": "מונטה סולארו",
+        "km": 5.15,
+        "minutes": 20,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "מונטה סולארו",
+        "to": "וילה סן מיקלה",
+        "km": 1.59,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "וילה סן מיקלה",
+        "to": "גני אוגוסטוס",
+        "km": 3.4,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "גני אוגוסטוס",
+        "to": "הפאראליוני",
+        "km": 1.24,
+        "minutes": 5,
+        "mode": "car",
+        "how": "valhalla auto"
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "id": "tt-10-crete-part1",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7522425215075241238",
+  "clonedUrl": "https://www.tiktok.com/@epictodo/photo/7522425215075241238",
+  "clonedAccount": "epictodo",
+  "sourceLikes": 68000,
+  "sourceSaves": 49800,
+  "sourceShares": 25200,
+  "sourceComments": 370,
+  "sourceSlides": 11,
+  "sourceCaption": "Save this if you're going to Greece",
+  "demonstrates": "פורמט חמישי ומקור חדש: 68,000 לייקים ו-49,800 שמירות, יחס של 0.73 לכל לייק. הועתק: כל מקום מקבל שקופית עם שתי תמונות שלו מוערמות במלוא הפריים ותווית על התפר. שני זוויות עונות על 'איך זה באמת נראה שם' בזמן שתמונה אחת לוקחת, וזה מה שמחזיק אנשים. והועתק גם הדבר שהוא לא ויזואלי: הכריכה מכריזה על מספר חלק. זה פרק ראשון בסדרה על אי אחד, מה שהופך פוסט בודד לסיבה לעקוב — הדבר היחיד באוסף הזה שעושה את זה.",
+  "caption": "עשרה דברים לעשות בכרתים, חלק 1: חאניה. שמרו לטיול הבא. מה לשים בחלק 2?",
+  "hashtags": [
+    "כרתים",
+    "יוון",
+    "טיפיםלטיול",
+    "חאניה",
+    "טיולים"
+  ],
+  "sound": "המקור רוכב על טראק מספרייה. בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "עשרה דברים",
+        "לעשות בכרתים"
+      ],
+      "sub": "חלק 1: חאניה",
+      "foot": [
+        "היעד הכי מוערך ביוון",
+        "שאף אחד לא מדבר עליו"
+      ],
+      "alt": "נוף בכרתים",
+      "image": {
+        "query": "crete greece coastal village turquoise sea sunny",
+        "id": "pexels-39282353",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39282353/pexels-photo-39282353/free-photo-of-picturesque-agios-nikolaos-harbor-in-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/picturesque-agios-nikolaos-harbor-in-crete-39282353/"
+        },
+        "alt": "Free Scenic view of Agios Nikolaos harbor with vibrant buildings under a clear blue sky in Crete, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39282353.jpg",
+        "altRaw": "Free Scenic view of Agios Nikolaos harbor with vibrant buildings under a clear blue sky in Crete, Greece. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-split2",
+      "place": "חוף אלאפוניסי",
+      "note": "חול ורוד, מים בגובה הברכיים",
+      "alt": "חוף אלאפוניסי 🩷",
+      "images": [
+        {
+          "query": "elafonissi pink sand beach crete people",
+          "id": "pexels-38168995",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38168995/pexels-photo-38168995/free-photo-of-aerial-view-of-elafonissi-beach-lagoon-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-elafonissi-beach-lagoon-in-greece-38168995/"
+          },
+          "alt": "Free Stunning aerial photograph of Elafonissi Beach, showcasing turquoise waters, sandy shores, and sun umbrellas. Stock Photo",
+          "altRaw": "Free Stunning aerial photograph of Elafonissi Beach, showcasing turquoise waters, sandy shores, and sun umbrellas. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38168995.jpg",
+          "keep": true
+        },
+        {
+          "query": "pink sand shallow turquoise lagoon beach",
+          "id": "pexels-5833667",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5833667/pexels-photo-5833667.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/transparent-water-of-rippling-sea-in-tropical-resort-5833667/"
+          },
+          "alt": "Free From above of clear transparent shallow water of azure ocean with sandy beach on sunny day Stock Photo",
+          "altRaw": "Free From above of clear transparent shallow water of azure ocean with sandy beach on sunny day Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5833667.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "חול ורוד ומים עד הברכיים"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "לגונת באלוס",
+      "note": "מגיעים בסירה או ברכב שטח",
+      "alt": "לגונת באלוס 🚤",
+      "images": [
+        {
+          "query": "balos lagoon crete aerial turquoise",
+          "id": "pexels-31908261",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31908261/pexels-photo-31908261/free-photo-of-stunning-aerial-view-of-balos-lagoon-crete.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-aerial-view-of-balos-lagoon-crete-31908261/"
+          },
+          "alt": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+          "altRaw": "Free A breathtaking aerial view of Balos Lagoon in Crete, Greece, showcasing turquoise waters and sandy beaches under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31908261.jpg",
+          "keep": true
+        },
+        {
+          "query": "balos beach boat white sand crete",
+          "id": "pexels-38169191",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38169191/pexels-photo-38169191/free-photo-of-sunny-beach-landscape-with-clear-turquoise-waters.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/sunny-beach-landscape-with-clear-turquoise-waters-38169191/"
+          },
+          "alt": "Free A serene beach scene with turquoise waters, rocky outcrops, and people enjoying the sun. Stock Photo",
+          "altRaw": "Free A serene beach scene with turquoise waters, rocky outcrops, and people enjoying the sun. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38169191.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "מגיעים בסירה או ברכב שטח"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "הנמל הוונציאני בחאניה",
+      "note": "הכי יפה אחרי החשכה",
+      "alt": "הנמל הוונציאני בחאניה 🌙",
+      "images": [
+        {
+          "query": "chania venetian harbour crete colourful",
+          "id": "pexels-33717044",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33717044/pexels-photo-33717044/free-photo-of-vibrant-waterfront-architecture-in-chania-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vibrant-waterfront-architecture-in-chania-greece-33717044/"
+          },
+          "alt": "Free Colorful Venetian-style buildings line the waterfront in Chania, Crete, Greece. Stock Photo",
+          "altRaw": "Free Colorful Venetian-style buildings line the waterfront in Chania, Crete, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33717044.jpg",
+          "keep": true
+        },
+        {
+          "query": "chania harbour night lights reflection",
+          "id": "pexels-36781568",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36781568/pexels-photo-36781568/free-photo-of-aerial-night-view-of-urla-marina-in-turkiye.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-night-view-of-urla-marina-in-turkiye-36781568/"
+          },
+          "alt": "Free Captivating aerial night shot of Urla Marina, showcasing illuminated docks and boats. Stock Photo",
+          "altRaw": "Free Captivating aerial night shot of Urla Marina, showcasing illuminated docks and boats. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36781568.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "הכי יפה אחרי שמחשיך"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "חוף פאלאסרנה",
+      "note": "שקיעות, ורוח",
+      "alt": "חוף פאלאסרנה 🌅",
+      "images": [
+        {
+          "query": "falassarna beach crete turquoise people",
+          "id": "pexels-38214780",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38214780/pexels-photo-38214780/free-photo-of-aerial-view-of-balos-beach-in-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-balos-beach-in-greece-38214780/"
+          },
+          "alt": "Free Aerial shot of Balos Beach in Crete, Greece with people enjoying the pristine shoreline. Stock Photo",
+          "altRaw": "Free Aerial shot of Balos Beach in Crete, Greece with people enjoying the pristine shoreline. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38214780.jpg",
+          "keep": true
+        },
+        {
+          "query": "falassarna sunset beach waves crete",
+          "id": "pexels-2559649",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2559649/pexels-photo-2559649.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-empty-seascape-2559649/"
+          },
+          "alt": "Free Tranquil seascape at sunset with gentle waves and sea foam at Agia Marina, Greece. Stock Photo",
+          "altRaw": "Free Tranquil seascape at sunset with gentle waves and sea foam at Agia Marina, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2559649.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "שקיעות מטורפות, אבל מלא רוח"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "סייטן לימניה",
+      "note": "מפרץ זעיר בין צוקים",
+      "alt": "סייטן לימניה 🏞️",
+      "images": [
+        {
+          "query": "seitan limania crete cliffs turquoise cove",
+          "id": "pexels-10220699",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10220699/pexels-photo-10220699.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/seitan-limania-beach-in-greece-10220699/"
+          },
+          "alt": "Free A breathtaking view of Seitan Limania's turquoise waters and rocky cliffs under a blue sky. Stock Photo",
+          "altRaw": "Free A breathtaking view of Seitan Limania's turquoise waters and rocky cliffs under a blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10220699.jpg",
+          "keep": true
+        },
+        {
+          "query": "seitan limania narrow beach cliffs people",
+          "id": "pexels-14017972",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14017972/pexels-photo-14017972.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/seitan-limania-beach-in-greece-14017972/"
+          },
+          "alt": "Free Breathtaking view of the secluded Seitan Limania Beach in Chania, Crete, showcasing stunning cliffs and azure waters. Stock Photo",
+          "altRaw": "Free Breathtaking view of the secluded Seitan Limania Beach in Chania, Crete, showcasing stunning cliffs and azure waters. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14017972.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "מפרץ זעיר בין צוקים"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "העיר העתיקה",
+      "note": "סמטאות, טברנות, וחתולים",
+      "alt": "העיר העתיקה 🐈",
+      "images": [
+        {
+          "query": "chania old town alley tavern flowers crete",
+          "id": "pexels-17187698",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17187698/pexels-photo-17187698/free-photo-of-picturesque-narrow-street-with-restaurant-tables.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/picturesque-narrow-street-with-restaurant-tables-17187698/"
+          },
+          "alt": "Free Picturesque Mediterranean alley featuring cozy outdoor dining and vibrant flowers. Stock Photo",
+          "altRaw": "Free Picturesque Mediterranean alley featuring cozy outdoor dining and vibrant flowers. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17187698.jpg",
+          "keep": true
+        },
+        {
+          "query": "chania old town night restaurant lights",
+          "id": "pexels-14691466",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14691466/pexels-photo-14691466.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/view-of-residential-waterfront-buildings-in-chania-crete-greece-14691466/"
+          },
+          "alt": "Free Picturesque waterfront view of Chania, Crete, at dusk with classic architecture and mountains. Stock Photo",
+          "altRaw": "Free Picturesque waterfront view of Chania, Crete, at dusk with classic architecture and mountains. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14691466.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "סמטאות, טברנות והמון חתולים"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "ערוץ סמריה",
+      "note": "שש עשרה קילומטר, יום שלם",
+      "alt": "ערוץ סמריה 🥾",
+      "images": [
+        {
+          "query": "samaria gorge hiking crete canyon",
+          "id": "pexels-17603759",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/17603759/pexels-photo-17603759/free-photo-of-hikers-in-samaria-gorge.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/hikers-in-samaria-gorge-17603759/"
+          },
+          "alt": "Free Hikers exploring the stunning Samaria Gorge in Crete, Greece. Stock Photo",
+          "altRaw": "Free Hikers exploring the stunning Samaria Gorge in Crete, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-17603759.jpg",
+          "keep": true
+        },
+        {
+          "query": "samaria gorge narrow walls hikers",
+          "id": "pexels-30268983",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30268983/pexels-photo-30268983/free-photo-of-exploring-the-majestic-saklikent-gorge-in-turkiye.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/exploring-the-majestic-saklikent-gorge-in-turkiye-30268983/"
+          },
+          "alt": "Free A breathtaking view of Saklıkent Gorge in Muğla, Türkiye, during a sunny day. Stock Photo",
+          "altRaw": "Free A breathtaking view of Saklıkent Gorge in Muğla, Türkiye, during a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30268983.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "16 קילומטר, תפנו יום שלם"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "השוק המרכזי",
+      "note": "לקנות גבינה וזיתים מקומיים",
+      "alt": "השוק המרכזי 🧀",
+      "images": [
+        {
+          "query": "crete market stalls cheese olives people",
+          "id": "pexels-29325349",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29325349/pexels-photo-29325349/free-photo-of-vibrant-olive-market-stall-in-unna-germany.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vibrant-olive-market-stall-in-unna-germany-29325349/"
+          },
+          "alt": "Free Colorful display of green and black olives at a market in Unna, Germany. Stock Photo",
+          "altRaw": "Free Colorful display of green and black olives at a market in Unna, Germany. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29325349.jpg",
+          "keep": true
+        },
+        {
+          "query": "chania market hall building crete",
+          "id": "pexels-30558881",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30558881/pexels-photo-30558881/free-photo-of-vibrant-street-life-in-chania-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/vibrant-street-life-in-chania-greece-30558881/"
+          },
+          "alt": "Free Lively street in Chania with tourists and colorful buildings under a bright sky. Stock Photo",
+          "altRaw": "Free Lively street in Chania with tourists and colorful buildings under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30558881.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "תקנו גבינה וזיתים מקומיים"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "סאפ ברודופוס",
+      "note": "מים שקופים, בלי גלים",
+      "alt": "סאפ ברודופוס 🏄",
+      "images": [
+        {
+          "query": "stand up paddle turquoise sea crete",
+          "id": "pexels-4846625",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4846625/pexels-photo-4846625.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/sailboat-on-pure-green-sea-against-mountain-4846625/"
+          },
+          "alt": "Free High angle of sailboat sailing on turquoise ocean with transparent water against mount in daylight Stock Photo",
+          "altRaw": "Free High angle of sailboat sailing on turquoise ocean with transparent water against mount in daylight Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4846625.jpg",
+          "keep": true
+        },
+        {
+          "query": "kayak clear water cove crete",
+          "id": "pexels-5142210",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5142210/pexels-photo-5142210.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/couple-getting-into-kayak-5142210/"
+          },
+          "alt": "Free Two people kayaking in the clear blue sea with distant mountains in Gournes, Greece, under a bright sky. Stock Photo",
+          "altRaw": "Free Two people kayaking in the clear blue sea with distant mountains in Gournes, Greece, under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5142210.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "מים שקופים ובלי גלים"
+      ]
+    },
+    {
+      "layout": "tt-split2",
+      "place": "המגדלור בשקיעה",
+      "note": "הסיום המושלם ליום",
+      "alt": "המגדלור בשקיעה 🌇",
+      "images": [
+        {
+          "query": "lighthouse stone pier sunset sea mediterranean",
+          "id": "pexels-28906872",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28906872/pexels-photo-28906872/free-photo-of-lighthouse-view-at-sunset-on-rocky-mediterranean-coast.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/lighthouse-view-at-sunset-on-rocky-mediterranean-coast-28906872/"
+          },
+          "alt": "Free Two lighthouses on rocky shore during golden hour sunset by the Mediterranean Sea. Stock Photo",
+          "altRaw": "Free Two lighthouses on rocky shore during golden hour sunset by the Mediterranean Sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28906872.jpg",
+          "keep": true
+        },
+        {
+          "query": "people walking stone pier lighthouse evening",
+          "id": "pexels-13389879",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/13389879/pexels-photo-13389879.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/brown-wooden-dock-during-sunset-13389879/"
+          },
+          "alt": "Free Scenic view of Gold Coast pier and lighthouse at sunset with calm ocean waves and warm tones. Stock Photo",
+          "altRaw": "Free Scenic view of Gold Coast pier and lighthouse at sunset with calm ocean waves and warm tones. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13389879.jpg",
+          "keep": true
+        }
+      ],
+      "lines": [
+        "הסיום הכי טוב ליום"
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

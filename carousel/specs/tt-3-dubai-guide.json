@@ -1,0 +1,372 @@
+{
+  "id": "tt-3-dubai-guide",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7679870394685230358",
+  "clonedUrl": "https://www.tiktok.com/@izzy_travels_/photo/7679870394685230358",
+  "clonedAccount": "izzy_travels_",
+  "sourceLikes": 66200,
+  "sourceSaves": 68100,
+  "sourceShares": 18100,
+  "sourceComments": 556,
+  "sourceSlides": 12,
+  "sourceCaption": "THE ULTIMATE EVERYTHING YOU NEED TO KNOW BEFORE TRAVELING TO THAILAND",
+  "demonstrates": "אותו מקור כמו שיבוט 1, אותו סדר של שתים עשרה שקופיות, היעד הוחלף לדובאי — היעד השני הכי נטוס מנתב״ג (1,119,786 נוסעים). זו ההוראה שלך מיושמת כלשונה: הרעיון מועתק ללא שינוי ורק המקום זז. דובאי גם מתאימה לתבנית הזו יותר מרוב היעדים, כי הכוח של הקרוסלה הוא במכשולים מעשיים — ולדובאי יש מהם יותר כמעט מכל יעד שישראלים טסים אליו.",
+  "caption": "כל מה שצריך לדעת לפני טיסה לדובאי",
+  "hashtags": [
+    "דובאי",
+    "איחודהאמירויות",
+    "טיפיםלטיול",
+    "דובאי2026",
+    "טיולים"
+  ],
+  "sound": "טראק טרנדי מהספרייה, נבחר ביום ההעלאה. המקור עושה בדיוק את זה (\"DTMF X BRAZIL\"), בלי קשר לתוכן.",
+  "slides": [
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "אל תטוסו",
+        "לדובאי"
+      ],
+      "sub": "לפני שתקראו את זה",
+      "foot": [
+        "כל מה שצריך לדעת",
+        "לפני טיסה לדובאי"
+      ],
+      "alt": "קו הרקיע של דובאי בשעת ערב",
+      "image": {
+        "query": "dubai skyline burj khalifa night",
+        "id": "pexels-34721214",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34721214/pexels-photo-34721214/free-photo-of-night-view-of-dubai-skyline-featuring-burj-khalifa.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/night-view-of-dubai-skyline-featuring-burj-khalifa-34721214/"
+        },
+        "alt": "Free Captivating night cityscape of Dubai with Burj Khalifa amidst skyscrapers reflecting on water. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34721214.jpg",
+        "altRaw": "Free Captivating night cityscape of Dubai with Burj Khalifa amidst skyscrapers reflecting on water. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מתי לטוס:",
+      "items": [
+        "נובמבר-מרץ: הכי נוח, מזג אוויר נעים",
+        "אפריל-מאי ואוקטובר: כבר חם",
+        "יוני-ספטמבר: חם מאוד,\nהרבה מעל 40 מעלות"
+      ],
+      "alt": "חוף בדובאי עם מגדלים ברקע",
+      "image": {
+        "query": "dubai beach jumeirah skyline day",
+        "id": "pexels-34972119",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34972119/pexels-photo-34972119/free-photo-of-iconic-dubai-beachfront-with-burj-al-arab.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/iconic-dubai-beachfront-with-burj-al-arab-34972119/"
+        },
+        "alt": "Free Stunning view of Burj Al Arab and Jumeirah Beach in Dubai on a sunny day. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34972119.jpg",
+        "altRaw": "Free Stunning view of Burj Al Arab and Jumeirah Beach in Dubai on a sunny day. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "לפני הטיסה:",
+      "items": [
+        "בדקו את דרישות הוויזה לפני\nשאתם מזמינים. הן כבר השתנו\nיותר מפעם אחת",
+        "ביטוח נסיעות",
+        "‼יש תרופות נפוצות שאסורות\nלהכניס. בדקו מראש מה אתם\nלוקחים איתכם"
+      ],
+      "alt": "מטוס ושדה תעופה",
+      "image": {
+        "query": "dubai frame golden landmark architecture",
+        "id": "pexels-12404154",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12404154/pexels-photo-12404154.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/dubai-frame-12404154/"
+        },
+        "alt": "Free A vertical capture of the iconic Dubai Frame with clear blue sky background. Stock Photo",
+        "altRaw": "Free A vertical capture of the iconic Dubai Frame with clear blue sky background. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12404154.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "כסף",
+      "accent": "100 דירהם בערך 90 שקלים",
+      "items": [
+        "המטבע הוא דירהם",
+        "כרטיס אשראי מתקבל\nכמעט בכל מקום",
+        "כספומטים בכל מקום,\nשימו לב לעמלת המרה",
+        "‼לא להחליף כסף בשדה התעופה"
+      ],
+      "alt": "שוק הזהב בדובאי",
+      "image": {
+        "query": "dubai old souk lanterns market stalls",
+        "must": [
+          "souk",
+          "market",
+          "bazaar",
+          "stall",
+          "lantern",
+          "shop"
+        ],
+        "id": "pexels-36169813",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36169813/pexels-photo-36169813/free-photo-of-traditional-souk-bazaar-in-dubai-courtyard.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/traditional-souk-bazaar-in-dubai-courtyard-36169813/"
+        },
+        "alt": "Free Explore the rich cultural heritage at a traditional souk in Dubai's historic district. Stock Photo",
+        "altRaw": "Free Explore the rich cultural heritage at a traditional souk in Dubai's historic district. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36169813.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "סים ואינטרנט",
+      "items": [
+        "eSIM זה הכי פשוט",
+        "הרשתות המקומיות הן\ndu ו-Etisalat",
+        "וואי פיי יש כמעט בכל מקום",
+        "שיחות וידאו באפליקציות\nלא תמיד עובדות שם"
+      ],
+      "alt": "רחוב בדובאי בערב",
+      "image": {
+        "query": "dubai skyline night aerial lights",
+        "id": "pexels-31084537",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31084537/pexels-photo-31084537/free-photo-of-stunning-aerial-view-of-dubai-marina-at-night.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/stunning-aerial-view-of-dubai-marina-at-night-31084537/"
+        },
+        "alt": "Free Captivating nighttime aerial of Dubai Marina's iconic skyline, showcasing vibrant city lights and modern architecture. Stock Photo",
+        "altRaw": "Free Captivating nighttime aerial of Dubai Marina's iconic skyline, showcasing vibrant city lights and modern architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31084537.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "שקעים",
+      "accent": "צריך מתאם?",
+      "items": [
+        "בדובאי 220V, כמו בארץ",
+        "השקע הוא בריטי, שלושה\nפינים מלבניים",
+        "התקע הישראלי לא נכנס.\nקחו מתאם"
+      ],
+      "alt": "לובי מלון בדובאי",
+      "image": {
+        "query": "dubai hotel lobby luxury interior",
+        "id": "pexels-34496713",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34496713/pexels-photo-34496713/free-photo-of-luxurious-interior-of-dubai-s-marriott-hotel.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/luxurious-interior-of-dubai-s-marriott-hotel-34496713/"
+        },
+        "alt": "Free A lavish interior of a Dubai hotel featuring ornate ceiling designs, chandeliers, and grand architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34496713.jpg",
+        "altRaw": "Free A lavish interior of a Dubai hotel featuring ornate ceiling designs, chandeliers, and grand architecture. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "איפה לישון?",
+      "accent": "פעם ראשונה? דאונטאון או מארינה",
+      "items": [
+        "דאונטאון: בורג חליפה והקניון,\nהכי מרכזי",
+        "דובאי מארינה: טיילת,\nחוף, מסעדות",
+        "גומיירה: חופים ושקט",
+        "דיירה: העיר הישנה,\nהכי זול והכי אותנטי"
+      ],
+      "alt": "מארינה של דובאי מלמעלה",
+      "image": {
+        "query": "dubai marina aerial towers water",
+        "id": "pexels-19407884",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/19407884/pexels-photo-19407884/free-photo-of-aerial-photo-of-dubai-palm-jumeirah.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-photo-of-dubai-palm-jumeirah-19407884/"
+        },
+        "alt": "Free Aerial cityscape of Dubai with Palm Jumeirah, skyscrapers, and marina. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19407884.jpg",
+        "altRaw": "Free Aerial cityscape of Dubai with Palm Jumeirah, skyscrapers, and marina. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מה לראות בדובאי",
+      "items": [
+        "בורג חליפה והתצפית",
+        "מזרקות דובאי בערב",
+        "שוק הזהב ושוק התבלינים",
+        "אברה, סירה קטנה על הנהר",
+        "מדינת גומיירה",
+        "ספארי במדבר",
+        "מוזיאון העתיד",
+        "דקל גומיירה"
+      ],
+      "alt": "מזרקות דובאי מול המגדל",
+      "image": {
+        "query": "dubai fountain burj khalifa evening",
+        "id": "pexels-28102099",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28102099/pexels-photo-28102099/free-photo-of-burj-khalifa-with-water-fountain-show.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/burj-khalifa-with-water-fountain-show-28102099/"
+        },
+        "alt": "Free Stunning view of the Burj Khalifa and Dubai Fountain lit up at night in Dubai, UAE, highlighting architectural beauty. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28102099.jpg",
+        "altRaw": "Free Stunning view of the Burj Khalifa and Dubai Fountain lit up at night in Dubai, UAE, highlighting architectural beauty. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "אוכל",
+      "accent": "מה לטעום?",
+      "items": [
+        "שווארמה ערבית",
+        "מנאקיש",
+        "חומוס ופלאפל",
+        "מנדי או מגבוס",
+        "ביריאני",
+        "לוקמה",
+        "קרק צאי",
+        "חובה: לאכול בדיירה,\nלא רק בקניונים"
+      ],
+      "alt": "אוכל מזרח תיכוני על שולחן",
+      "image": {
+        "query": "middle eastern food mezze table",
+        "id": "pexels-35007315",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35007315/pexels-photo-35007315/free-photo-of-colorful-mediterranean-mezze-spread-on-lace-tablecloth.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/colorful-mediterranean-mezze-spread-on-lace-tablecloth-35007315/"
+        },
+        "alt": "Free An inviting Mediterranean platter with vegetables, dips, and pastries on a lace tablecloth. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35007315.jpg",
+        "altRaw": "Free An inviting Mediterranean platter with vegetables, dips, and pastries on a lace tablecloth. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "טעויות נפוצות",
+      "items": [
+        "לבוש חשוף בקניונים\nובמקומות ציבוריים",
+        "גילויי חיבה בפומבי",
+        "לצלם אנשים בלי לשאול",
+        "אלכוהול מחוץ למקומות\nשמורשים להגיש",
+        "להמעיט בחום בין יוני לספטמבר",
+        "מונית בשעות העומס\nבמקום המטרו",
+        "לשכוח כרטיס נול למטרו",
+        "להטיס רחפן בלי אישור"
+      ],
+      "alt": "כביש ומגדלים בדובאי",
+      "image": {
+        "query": "dubai creek old town wooden boats sunset",
+        "id": "pexels-37838001",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37838001/pexels-photo-37838001/free-photo-of-traditional-wooden-dhow-with-red-flag-in-harbor.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/traditional-wooden-dhow-with-red-flag-in-harbor-37838001/"
+        },
+        "alt": "Free A classic wooden dhow anchored at a modern harbor, marked by a vibrant red flag. Stock Photo",
+        "altRaw": "Free A classic wooden dhow anchored at a modern harbor, marked by a vibrant red flag. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37838001.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "שמרו את זה"
+      ],
+      "sub": "לטיול שלכם בדובאי",
+      "foot": [
+        "ותכתבו בתגובות מה פספסתי"
+      ],
+      "alt": "מדבר ליד דובאי בשקיעה",
+      "image": {
+        "query": "dubai desert dunes sunset",
+        "id": "pexels-9528548",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9528548/pexels-photo-9528548.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-in-tank-top-and-green-dress-standing-on-sand-dune-9528548/"
+        },
+        "alt": "Free A woman in a flowing dress walks through the Dubai desert at sunset, creating a serene and adventurous mood. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9528548.jpg",
+        "altRaw": "Free A woman in a flowing dress walks through the Dubai desert at sunset, creating a serene and adventurous mood. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

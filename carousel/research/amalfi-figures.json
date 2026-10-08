@@ -1,0 +1,141 @@
+{
+  "_": "Every price and duration used in tt-27-amalfi-route, with the source. Checked 8.10.2026 against each operator's own site.",
+  "_stops": "No route-format deck for the Amalfi Coast exists in the corpus (the best is 0.726 and it is a restaurant list). So the FORMAT is the precedent's and the STOP LIST is italia.it's, the Italian national tourism board, which names Marina Grande, Li Galli, Fornillo, the Sentiero degli Dei, Santa Maria Assunta, Amalfi Cathedral, Villa Rufolo and Villa Cimbrone's Terrace of Infinity. Pompeii, Herculaneum, Vesuvius and Capri are the standard day trips from the same coast and carry their own operators' figures.",
+  "_durations": "Operator-stated where one exists — Pompeii publishes four itineraries and Vesuvius publishes the trail time — otherwise the precedent median for that kind of stop (research/visit-durations.json).",
+  "_disputed": "Amalfi Cathedral: the Diocesan Museum's own site would not serve over TLS (certificate chain), and two secondary sources give 3 and 4 euros. The deck prints the range and this note records why.",
+  "stops": {
+    "פומפיי": {
+      "kind": "operator",
+      "time": "שעתיים",
+      "price": "20-25 יורו",
+      "note": "20 לעיר העתיקה, 25 עם הווילות. מסלול 1 של האתר = שעתיים",
+      "src": "https://pompeiisites.org/en/visiting-info/timetables-and-tickets/"
+    },
+    "הרקולנאום": {
+      "kind": "major-site",
+      "time": "105 דקות",
+      "price": "16 יורו",
+      "src": "https://ercolano.beniculturali.it/orari-schermo-biglietteria/"
+    },
+    "הר הווזוב": {
+      "kind": "operator",
+      "time": "2.5 שעות",
+      "price": "10 יורו",
+      "note": "שביל הגראן קונו. כרטיס באינטרנט בלבד",
+      "src": "https://www.parconazionaledelvesuvio.it/en/visit-the-park/the-paths/the-great-cono-2-2/"
+    },
+    "מרינה גרנדה סורנטו": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "חינם",
+      "src": "https://www.italia.it/en/campania/costiera-amalfitana"
+    },
+    "וילה קומונלה סורנטו": {
+      "kind": "viewpoint",
+      "time": "שעה",
+      "price": "חינם",
+      "src": "https://www.italia.it/en/campania/costiera-amalfitana"
+    },
+    "שביל האלים": {
+      "kind": "operator",
+      "time": "3 שעות",
+      "price": "חינם",
+      "note": "בומרנו עד נוצ'לה, 7.8 קילומטר",
+      "src": "https://www.italia.it/en/campania/things-to-do/the-amalfi-coast"
+    },
+    "סנטה מריה אסונטה": {
+      "kind": "church",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "הכיפה המיוליקה הצהובה-ירוקה-כחולה",
+      "src": "https://www.italia.it/en/campania/salerno/positano"
+    },
+    "חוף מרינה גרנדה פוזיטאנו": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "400 מטר חול. מיטה ושמשייה בתשלום",
+      "src": "https://www.italia.it/en/campania/salerno/positano"
+    },
+    "חוף פורנילו": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "מפרץ חלוקים, טוב לשנורקל",
+      "src": "https://www.italia.it/en/campania/salerno/positano"
+    },
+    "קתדרלת אמלפי": {
+      "kind": "church",
+      "time": "שעה",
+      "price": "3-4 יורו",
+      "note": "לקלויסטר ולמוזיאון. הקתדרלה עצמה חינם",
+      "src": "מקורות משניים חלוקים; אתר המוזיאון לא נגיש"
+    },
+    "אטרני": {
+      "kind": "district",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "העיירה הקטנה באיטליה, דקות מאמלפי",
+      "src": "https://www.italia.it/en/campania/costiera-amalfitana"
+    },
+    "וילה רופולו": {
+      "kind": "museum",
+      "time": "שעה",
+      "price": "8 יורו",
+      "note": "כרטיסים במקום בלבד",
+      "src": "https://villarufolo.com/orari/"
+    },
+    "וילה צימברונה": {
+      "kind": "museum",
+      "time": "שעה",
+      "price": "10 יורו",
+      "note": "מרפסת האינסוף. הגנים פתוחים לקהל, המלון לא",
+      "src": "https://www.hotelvillacimbrone.com/villa-cimbrone/"
+    },
+    "ראוולו, פיאצה וסקובדו": {
+      "kind": "square",
+      "time": "30 דקות",
+      "price": "חינם",
+      "src": "https://www.italia.it/en/campania/salerno/ravello"
+    },
+    "המערה הכחולה": {
+      "kind": "operator",
+      "time": "שעה",
+      "price": "19 יורו",
+      "note": "כולל 12 לסירת החתירה. נסגרת בים גבוה",
+      "src": "https://www.capri.com/en/e/la-grotta-azzurra"
+    },
+    "מונטה סולארו": {
+      "kind": "viewpoint",
+      "time": "שעה",
+      "price": "14 יורו",
+      "note": "רכבל הלוך-חזור. כיוון אחד 11",
+      "src": "https://www.capri.com/en/e/monte-solaro-high-drama"
+    },
+    "וילה סן מיקלה": {
+      "kind": "museum",
+      "time": "שעה",
+      "price": "12 יורו",
+      "src": "https://www.villasanmichele.eu/visit"
+    },
+    "גני אוגוסטוס": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "2.50 יורו",
+      "src": "https://www.capri.com/en/e/augustus-gardens-via-krupp"
+    },
+    "הפאראליוני": {
+      "kind": "viewpoint",
+      "time": "שעה",
+      "price": "חינם מהיבשה",
+      "src": "https://www.capri.com/en/e/augustus-gardens-via-krupp"
+    },
+    "נוצ'לה": {
+      "kind": "district",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "סוף שביל האלים. 1,700 מדרגות משם לפוזיטאנו",
+      "src": "https://www.italia.it/en/campania/things-to-do/the-amalfi-coast"
+    }
+  }
+}

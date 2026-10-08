@@ -1,0 +1,108 @@
+{
+  "_": "Routed by the public Valhalla instance at valhalla1.openstreetmap.de over OpenStreetMap: pedestrian costing for walking legs, auto for driving. Coordinates from Nominatim. Rounded to 5 minutes.",
+  "city": "Larnaca, Cyprus",
+  "legs": {
+    "1": [
+      {
+        "from": "טיילת פיניקודס",
+        "to": "מצודת לרנקה",
+        "km": 0.3,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "מצודת לרנקה",
+        "to": "כנסיית אגיוס לאזארוס",
+        "km": 0.37,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "כנסיית אגיוס לאזארוס",
+        "to": "אתר קיטיון",
+        "km": 1.31,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "אתר קיטיון",
+        "to": "מוזיאון פיירידס",
+        "km": 0.81,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "2": [
+      {
+        "from": "חוף מקנזי",
+        "to": "אמת המים קמארס",
+        "km": 6.04,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "אמת המים קמארס",
+        "to": "אגם המלח",
+        "km": 10.6,
+        "minutes": 15,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "אגם המלח",
+        "to": "חלה סולטן טקה",
+        "km": 2.42,
+        "minutes": 5,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "חלה סולטן טקה",
+        "to": "אנגלוקטיסטי בכיתי",
+        "km": 8.93,
+        "minutes": 20,
+        "mode": "car",
+        "how": "valhalla auto"
+      }
+    ],
+    "3": [
+      {
+        "from": "מנזר סטברובוני",
+        "to": "חירוקיטיה",
+        "km": 24.45,
+        "minutes": 35,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "חירוקיטיה",
+        "to": "מנזר אגיוס מינאס",
+        "km": 10.93,
+        "minutes": 25,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "מנזר אגיוס מינאס",
+        "to": "קאטו דריס",
+        "km": 3.87,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      },
+      {
+        "from": "קאטו דריס",
+        "to": "לפקרה",
+        "km": 3.87,
+        "minutes": 10,
+        "mode": "car",
+        "how": "valhalla auto"
+      }
+    ]
+  }
+}

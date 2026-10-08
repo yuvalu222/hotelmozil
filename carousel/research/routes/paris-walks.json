@@ -1,0 +1,176 @@
+{
+  "_": "Routed by the public Valhalla instance at valhalla1.openstreetmap.de over OpenStreetMap: pedestrian costing for walking legs, auto for driving. Coordinates from Nominatim. Rounded to 5 minutes.",
+  "city": "Paris, France",
+  "legs": {
+    "1": [
+      {
+        "from": "רחוב האוניברסיטה",
+        "to": "מגדל אייפל",
+        "km": 0.69,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "מגדל אייפל",
+        "to": "טרוקדרו",
+        "km": 0.93,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "טרוקדרו",
+        "to": "שער הניצחון",
+        "km": 1.71,
+        "minutes": 20,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "שער הניצחון",
+        "to": "השאנז אליזה",
+        "km": 0.63,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "2": [
+      {
+        "from": "האנוולידים",
+        "to": "גשר אלכסנדר השלישי",
+        "km": 1.05,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "גשר אלכסנדר השלישי",
+        "to": "גראן פאלה",
+        "km": 0.84,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "גראן פאלה",
+        "to": "כיכר קונקורד",
+        "km": 1.01,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "כיכר קונקורד",
+        "to": "גני הטווילרי",
+        "km": 0.56,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "3": [
+      {
+        "from": "הפאלה רויאל",
+        "to": "קרוסל דו לובר",
+        "km": 0.59,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "קרוסל דו לובר",
+        "to": "הלובר",
+        "km": 0.55,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "הלובר",
+        "to": "לה מארה",
+        "km": 2.22,
+        "minutes": 25,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "לה מארה",
+        "to": "הבסטיליה",
+        "km": 1.28,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "4": [
+      {
+        "from": "גני לוקסמבורג",
+        "to": "הפנתיאון",
+        "km": 1.05,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "הפנתיאון",
+        "to": "שייקספיר אנד קומפני",
+        "km": 1.09,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "שייקספיר אנד קומפני",
+        "to": "סנט שאפל",
+        "km": 0.5,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "סנט שאפל",
+        "to": "נוטרדאם",
+        "km": 0.59,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ],
+    "5": [
+      {
+        "from": "לה מדלן",
+        "to": "אופרה גרנייה",
+        "km": 0.78,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "אופרה גרנייה",
+        "to": "גלרי לאפייט",
+        "km": 0.18,
+        "minutes": 5,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "גלרי לאפייט",
+        "to": "מולן רוז'",
+        "km": 1.38,
+        "minutes": 20,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "מולן רוז'",
+        "to": "סקרה-קר",
+        "km": 1.22,
+        "minutes": 15,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      }
+    ]
+  }
+}

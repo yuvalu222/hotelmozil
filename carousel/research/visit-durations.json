@@ -1,0 +1,462 @@
+{
+  "_": "How long the precedent decks say to spend at each KIND of stop. Transcribed 8.10 off all 65 rows of the three highest-saving walking-route decks: Rome 7597919401312111894 (1.538 saves/like), Paris 7597489942712945942 (1.390), London 7600316183270722838 (1.307).",
+  "_why": "A price can be looked up; a visit duration cannot — no operator publishes one. Rather than invent a number per stop, the number comes from what these three decks say about the same kind of place, which is at least an outside source that performed. Any stop whose own operator publishes a suggested duration uses that instead, and says so.",
+  "rows": [
+    {
+      "deck": "rome",
+      "stop": "Colosseum",
+      "kind": "major-site",
+      "min": 120
+    },
+    {
+      "deck": "rome",
+      "stop": "Roman Forum",
+      "kind": "major-site",
+      "min": 105
+    },
+    {
+      "deck": "rome",
+      "stop": "Palatine Hill",
+      "kind": "site",
+      "min": 45
+    },
+    {
+      "deck": "rome",
+      "stop": "Altare della Patria",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "rome",
+      "stop": "Church Sant'Ignazio",
+      "kind": "church",
+      "min": 30
+    },
+    {
+      "deck": "rome",
+      "stop": "Piazza Navona",
+      "kind": "square",
+      "min": 30
+    },
+    {
+      "deck": "rome",
+      "stop": "The Pantheon",
+      "kind": "church",
+      "min": 45
+    },
+    {
+      "deck": "rome",
+      "stop": "Trevi Fountain",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "rome",
+      "stop": "Spanish Steps",
+      "kind": "monument",
+      "min": 30
+    },
+    {
+      "deck": "rome",
+      "stop": "Villa Borghese sunset",
+      "kind": "park",
+      "min": 60
+    },
+    {
+      "deck": "rome",
+      "stop": "Vatican Museums",
+      "kind": "major-museum",
+      "min": 180
+    },
+    {
+      "deck": "rome",
+      "stop": "St Peter's Basilica",
+      "kind": "church",
+      "min": 90
+    },
+    {
+      "deck": "rome",
+      "stop": "Castel Sant'Angelo",
+      "kind": "castle",
+      "min": 60
+    },
+    {
+      "deck": "rome",
+      "stop": "Janiculum Hill sunset",
+      "kind": "viewpoint",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Rue de l'Universite",
+      "kind": "street",
+      "min": 20
+    },
+    {
+      "deck": "paris",
+      "stop": "Tour Eiffel",
+      "kind": "major-site",
+      "min": 105
+    },
+    {
+      "deck": "paris",
+      "stop": "Trocadero",
+      "kind": "viewpoint",
+      "min": 30
+    },
+    {
+      "deck": "paris",
+      "stop": "Arc de Triomphe",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "paris",
+      "stop": "Champs-Elysees",
+      "kind": "street",
+      "min": 120
+    },
+    {
+      "deck": "paris",
+      "stop": "Hotel des Invalides",
+      "kind": "museum",
+      "min": 90
+    },
+    {
+      "deck": "paris",
+      "stop": "Pont Alexandre III",
+      "kind": "monument",
+      "min": 20
+    },
+    {
+      "deck": "paris",
+      "stop": "Grand Palais",
+      "kind": "museum",
+      "min": 45
+    },
+    {
+      "deck": "paris",
+      "stop": "Place de la Concorde",
+      "kind": "square",
+      "min": 20
+    },
+    {
+      "deck": "paris",
+      "stop": "Jardin des Tuileries",
+      "kind": "park",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Palais-Royal",
+      "kind": "square",
+      "min": 30
+    },
+    {
+      "deck": "paris",
+      "stop": "Carrousel du Louvre",
+      "kind": "street",
+      "min": 20
+    },
+    {
+      "deck": "paris",
+      "stop": "Louvre Museum",
+      "kind": "major-museum",
+      "min": 210
+    },
+    {
+      "deck": "paris",
+      "stop": "Centre Pompidou",
+      "kind": "museum",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Bastille",
+      "kind": "square",
+      "min": 20
+    },
+    {
+      "deck": "paris",
+      "stop": "Jardin du Luxembourg",
+      "kind": "park",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Pantheon",
+      "kind": "church",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Shakespeare and Company",
+      "kind": "shop",
+      "min": 30
+    },
+    {
+      "deck": "paris",
+      "stop": "Sainte-Chapelle",
+      "kind": "church",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Notre-Dame",
+      "kind": "church",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "La Madeleine",
+      "kind": "church",
+      "min": 30
+    },
+    {
+      "deck": "paris",
+      "stop": "Palais Garnier",
+      "kind": "museum",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Galeries Lafayette",
+      "kind": "shop",
+      "min": 60
+    },
+    {
+      "deck": "paris",
+      "stop": "Moulin Rouge",
+      "kind": "show",
+      "min": 150
+    },
+    {
+      "deck": "paris",
+      "stop": "Sacre-Coeur",
+      "kind": "church",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "London Eye",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "Big Ben & Westminster",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "Westminster Abbey",
+      "kind": "church",
+      "min": 90
+    },
+    {
+      "deck": "london",
+      "stop": "The Household Cavalry",
+      "kind": "monument",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "Buckingham Palace",
+      "kind": "monument",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "Trafalgar Square",
+      "kind": "square",
+      "min": 20
+    },
+    {
+      "deck": "london",
+      "stop": "National Gallery",
+      "kind": "museum",
+      "min": 90
+    },
+    {
+      "deck": "london",
+      "stop": "Leicester Square",
+      "kind": "square",
+      "min": 30
+    },
+    {
+      "deck": "london",
+      "stop": "Piccadilly Circus",
+      "kind": "square",
+      "min": 30
+    },
+    {
+      "deck": "london",
+      "stop": "Carnaby Street",
+      "kind": "street",
+      "min": 30
+    },
+    {
+      "deck": "london",
+      "stop": "Tate Modern",
+      "kind": "museum",
+      "min": 90
+    },
+    {
+      "deck": "london",
+      "stop": "Borough Market",
+      "kind": "market",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "The Shard",
+      "kind": "viewpoint",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "Tower Bridge",
+      "kind": "monument",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "Tower of London",
+      "kind": "castle",
+      "min": 120
+    },
+    {
+      "deck": "london",
+      "stop": "St Dunstan in the East",
+      "kind": "church",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "Sky Garden",
+      "kind": "viewpoint",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "Leadenhall Market",
+      "kind": "market",
+      "min": 30
+    },
+    {
+      "deck": "london",
+      "stop": "St Paul's Cathedral",
+      "kind": "church",
+      "min": 150
+    },
+    {
+      "deck": "london",
+      "stop": "Somerset House",
+      "kind": "museum",
+      "min": 45
+    },
+    {
+      "deck": "london",
+      "stop": "Oxford Street",
+      "kind": "street",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "British Museum",
+      "kind": "major-museum",
+      "min": 120
+    },
+    {
+      "deck": "london",
+      "stop": "Neal's Yard",
+      "kind": "street",
+      "min": 30
+    },
+    {
+      "deck": "london",
+      "stop": "China Town",
+      "kind": "street",
+      "min": 60
+    },
+    {
+      "deck": "london",
+      "stop": "Covent Garden",
+      "kind": "market",
+      "min": 60
+    }
+  ],
+  "medianByKind": {
+    "square": {
+      "minutes": 30,
+      "he": "30 דקות",
+      "n": 7
+    },
+    "street": {
+      "minutes": 30,
+      "he": "30 דקות",
+      "n": 7
+    },
+    "site": {
+      "minutes": 45,
+      "he": "45 דקות",
+      "n": 1
+    },
+    "monument": {
+      "minutes": 45,
+      "he": "45 דקות",
+      "n": 10
+    },
+    "shop": {
+      "minutes": 45,
+      "he": "45 דקות",
+      "n": 2
+    },
+    "market": {
+      "minutes": 45,
+      "he": "45 דקות",
+      "n": 3
+    },
+    "church": {
+      "minutes": 60,
+      "he": "שעה",
+      "n": 11
+    },
+    "park": {
+      "minutes": 60,
+      "he": "שעה",
+      "n": 3
+    },
+    "viewpoint": {
+      "minutes": 60,
+      "he": "שעה",
+      "n": 4
+    },
+    "museum": {
+      "minutes": 60,
+      "he": "שעה",
+      "n": 7
+    },
+    "castle": {
+      "minutes": 90,
+      "he": "שעה וחצי",
+      "n": 2
+    },
+    "major-site": {
+      "minutes": 105,
+      "he": "105 דקות",
+      "n": 3
+    },
+    "show": {
+      "minutes": 150,
+      "he": "2.5 שעות",
+      "n": 1
+    },
+    "major-museum": {
+      "minutes": 180,
+      "he": "3 שעות",
+      "n": 3
+    }
+  }
+}

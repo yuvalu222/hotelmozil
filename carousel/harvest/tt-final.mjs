@@ -72,6 +72,7 @@ const num = (s) => {
 
 const seenPath = path.join(ROOT, 'ttf-seen.json');
 const seen = new Set(fs.existsSync(seenPath) ? JSON.parse(fs.readFileSync(seenPath, 'utf8')) : []);
+const COLLECT_ONLY = process.env.TT_COLLECT_ONLY === '1';
 const qDonePath = path.join(ROOT, 'ttf-q.json');
 const qDone = new Set(fs.existsSync(qDonePath) ? JSON.parse(fs.readFileSync(qDonePath, 'utf8')) : []);
 const out = fs.createWriteStream(path.join(ROOT, 'tt-final.jsonl'), { flags: 'a' });
@@ -222,6 +223,22 @@ for (const q of queries()) {
   for (const i of fresh) { const v = num(i.likesText) || 0; if (v > best) best = v; }
   if (fresh.length) {
     log(`"${q}": ${fresh.length} carousels, ${big.length} at/over floor (best seen overall ${best.toLocaleString()})`);
+  }
+
+  // A warmed session is the only way to get search to answer, and a warmed
+  // session is exactly what makes POST pages answer with a 218-char shell.
+  // So this process does search only: every qualifying URL goes into
+  // ttf-seen.json, which is the drain's queue, and the drain reads it cold on
+  // its own profile. Two jobs that need opposite sessions, kept apart.
+  if (COLLECT_ONLY) {
+    for (const it of big) {
+      seen.add(it.href.split('?')[0]);
+      over++;
+      log(`  queued ${(num(it.likesText) || 0).toLocaleString()} likes — ${it.href.slice(-30)}`);
+    }
+    fs.writeFileSync(seenPath, JSON.stringify([...seen]));
+    await sleep(jitter(9000, 16000));
+    continue;
   }
 
   for (const it of big) {

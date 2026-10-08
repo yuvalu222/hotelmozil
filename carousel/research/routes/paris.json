@@ -1,0 +1,120 @@
+{
+  "_": "The five walking chains of tt-29-paris-route. The STOPS are the precedent deck's own (7597489942712945942, 1.390 saves/like, the highest-saving Paris deck in the corpus) so that no landmark here was chosen by me. One substitution: Centre Pompidou is closed until 2030, and Le Marais replaces it — taken from the other Paris precedent (7594133912230792456), which lists it in the same stretch between the Louvre and Bastille.",
+  "city": "Paris, France",
+  "en": {
+    "רחוב האוניברסיטה": "Rue de l'Universite",
+    "מגדל אייפל": "Tour Eiffel",
+    "טרוקדרו": "Place du Trocadero",
+    "שער הניצחון": "Arc de Triomphe",
+    "השאנז אליזה": "Avenue des Champs-Elysees",
+    "האנוולידים": "Hotel des Invalides",
+    "גשר אלכסנדר השלישי": "Pont Alexandre III",
+    "גראן פאלה": "Grand Palais",
+    "כיכר קונקורד": "Place de la Concorde",
+    "גני הטווילרי": "Jardin des Tuileries",
+    "הפאלה רויאל": "Palais-Royal",
+    "קרוסל דו לובר": "Carrousel du Louvre",
+    "הלובר": "Musee du Louvre",
+    "לה מארה": "Le Marais",
+    "הבסטיליה": "Place de la Bastille",
+    "גני לוקסמבורג": "Jardin du Luxembourg",
+    "הפנתיאון": "Pantheon",
+    "שייקספיר אנד קומפני": "Shakespeare and Company",
+    "סנט שאפל": "Sainte-Chapelle",
+    "נוטרדאם": "Cathedrale Notre-Dame de Paris",
+    "לה מדלן": "Eglise de la Madeleine",
+    "אופרה גרנייה": "Palais Garnier",
+    "גלרי לאפייט": "Galeries Lafayette Haussmann",
+    "מולן רוז'": "Moulin Rouge",
+    "סקרה-קר": "Basilique du Sacre-Coeur"
+  },
+  "chains": {
+    "1": [
+      "רחוב האוניברסיטה",
+      "מגדל אייפל",
+      "טרוקדרו",
+      "שער הניצחון",
+      "השאנז אליזה"
+    ],
+    "2": [
+      "האנוולידים",
+      "גשר אלכסנדר השלישי",
+      "גראן פאלה",
+      "כיכר קונקורד",
+      "גני הטווילרי"
+    ],
+    "3": [
+      "הפאלה רויאל",
+      "קרוסל דו לובר",
+      "הלובר",
+      "לה מארה",
+      "הבסטיליה"
+    ],
+    "4": [
+      "גני לוקסמבורג",
+      "הפנתיאון",
+      "שייקספיר אנד קומפני",
+      "סנט שאפל",
+      "נוטרדאם"
+    ],
+    "5": [
+      "לה מדלן",
+      "אופרה גרנייה",
+      "גלרי לאפייט",
+      "מולן רוז'",
+      "סקרה-קר"
+    ]
+  },
+  "slideWord": "מסלול",
+  "areas": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": ""
+  },
+  "backdrop": {
+    "1": "eiffel tower paris wide view river seine",
+    "2": "hotel des invalides paris golden dome wide",
+    "3": "louvre pyramid paris courtyard wide",
+    "4": "latin quarter paris pantheon dome street",
+    "5": "montmartre paris sacre coeur rooftops view"
+  },
+  "shots": {
+    "רחוב האוניברסיטה": "rue de luniversite paris eiffel tower street view",
+    "מגדל אייפל": "eiffel tower paris full tower daylight",
+    "טרוקדרו": "trocadero paris eiffel tower view esplanade",
+    "שער הניצחון": "arc de triomphe paris monument front",
+    "השאנז אליזה": "champs elysees paris avenue trees",
+    "האנוולידים": "hotel des invalides paris golden dome",
+    "גשר אלכסנדר השלישי": "pont alexandre iii paris bridge gold statues",
+    "גראן פאלה": "grand palais paris glass roof facade",
+    "כיכר קונקורד": "place de la concorde paris obelisk",
+    "גני הטווילרי": "jardin des tuileries paris garden pond",
+    "הפאלה רויאל": "palais royal paris columns courtyard",
+    "קרוסל דו לובר": "carrousel du louvre paris inverted pyramid",
+    "הלובר": "louvre museum paris glass pyramid",
+    "לה מארה": "le marais paris street facades cafe",
+    "הבסטיליה": "place de la bastille paris july column",
+    "גני לוקסמבורג": "jardin du luxembourg paris palace pond chairs",
+    "הפנתיאון": "pantheon paris dome facade columns",
+    "שייקספיר אנד קומפני": "shakespeare and company paris bookshop storefront",
+    "סנט שאפל": "sainte chapelle paris stained glass interior",
+    "נוטרדאם": "notre dame cathedral paris facade towers",
+    "לה מדלן": "eglise de la madeleine paris columns",
+    "אופרה גרנייה": "palais garnier paris opera grand staircase",
+    "גלרי לאפייט": "galeries lafayette paris dome interior",
+    "מולן רוז'": "moulin rouge paris red windmill night",
+    "סקרה-קר": "sacre coeur basilica paris white dome"
+  },
+  "closing": {
+    "line1": "סיימנו את פריז 🇫🇷",
+    "line2": "לאיזו עיר בא לכם הבא?",
+    "emoji": "כתבו בתגובות 👇",
+    "alt": "פריז",
+    "query": "paris rooftops view sunset city skyline",
+    "must": [
+      "paris"
+    ]
+  }
+}

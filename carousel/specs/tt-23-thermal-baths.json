@@ -1,0 +1,247 @@
+{
+  "clonedFrom": "tt-7594993883558186262",
+  "clonedUrl": "https://www.tiktok.com/@thaleadesign/photo/7594993883558186262",
+  "clonedAccount": "thaleadesign",
+  "sourceLikes": 678100,
+  "sourceSaves": 244000,
+  "sourceSlides": 8,
+  "sourceCaption": "For my girls, save this for the best restaurant bathrooms",
+  "id": "tt-23-thermal-baths",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "קטגוריה צרה שנייה, באותו מנגנון של @thaleadesign (244,000 שמירות): לא 'יעדי חורף' אלא **מים חמים שיושבים בהם**. הצמצום הוא מה שעוצר, והתמונות — אדים, אור, מים טורקיז — נושאות את כל הדק. בחירה מכוונת לעונה: זה הדק שרץ בדיוק כשהקהל מחפש לאן לטוס בחורף.",
+  "caption": "המים החמים הכי יפים באירופה, וכולם בטיסה קצרה. איפה הייתם נכנסים?",
+  "hashtags": [
+    "טיפיםלטיול",
+    "יעדים",
+    "אירופה",
+    "טיולים",
+    "חורף"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "המים החמים",
+        "הכי יפים",
+        "באירופה"
+      ],
+      "sub": "וכולם בטיסה קצרה מכאן",
+      "alt": "המים החמים הכי יפים באירופה",
+      "image": {
+        "query": "thermal bath steam winter snow people",
+        "id": "pexels-21694212",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/21694212/pexels-photo-21694212/free-photo-of-blonde-woman-in-water-in-winter-at-dusk.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/blonde-woman-in-water-in-winter-at-dusk-21694212/"
+        },
+        "alt": "Free Woman enjoying a serene hot spring at sunset surrounded by snowy landscapes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21694212.jpg",
+        "altRaw": "Free Woman enjoying a serene hot spring at sunset surrounded by snowy landscapes. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "סצ׳ני, בודפשט",
+      "lines": [
+        "משחקים שחמט בתוך המים",
+        "בארבעים מעלות, בחורף"
+      ],
+      "alt": "סצ׳ני, בודפשט ♨️",
+      "image": {
+        "query": "szechenyi thermal bath budapest people water",
+        "must": [
+          "thermal",
+          "bath",
+          "spring",
+          "spa",
+          "pool"
+        ],
+        "id": "pexels-20519158",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/20519158/pexels-photo-20519158/free-photo-of-elderly-men-playing-chess-in-pool.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/elderly-men-playing-chess-in-pool-20519158/"
+        },
+        "alt": "Free Senior men playing chess in a thermal bath in Budapest, Hungary, enjoying a day of relaxation. Stock Photo",
+        "altRaw": "Free Senior men playing chess in a thermal bath in Budapest, Hungary, enjoying a day of relaxation. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20519158.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מעיינות חמים בהרים",
+      "lines": [
+        "מים גיאותרמיים בחוץ",
+        "הכי כיף כששלג יורד עליכם"
+      ],
+      "alt": "מעיינות חמים בהרים 🏔️",
+      "image": {
+        "query": "natural hot spring pool people relaxing mountains",
+        "must": [
+          "thermal",
+          "bath",
+          "spring",
+          "spa",
+          "pool"
+        ],
+        "id": "pexels-36555068",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36555068/pexels-photo-36555068/free-photo-of-scenic-andes-hot-springs-in-cajon-del-maipo-chile.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-andes-hot-springs-in-cajon-del-maipo-chile-36555068/"
+        },
+        "alt": "Free Thermal pools nestled in the Andes mountains, offering breathtaking views and relaxation in Chile's Cajón del Maipo. Stock Photo",
+        "altRaw": "Free Thermal pools nestled in the Andes mountains, offering breathtaking views and relaxation in Chile's Cajón del Maipo. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36555068.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "האלפים, בריכה תרמית",
+      "lines": [
+        "מים חמים מול פסגות מושלגות",
+        "והאדים עולים מסביב"
+      ],
+      "alt": "האלפים, בריכה תרמית ❄️",
+      "image": {
+        "query": "outdoor thermal pool steam snow mountains winter",
+        "must": [
+          "thermal",
+          "bath",
+          "spring",
+          "spa",
+          "pool"
+        ],
+        "id": "pexels-7041587",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/7041587/pexels-photo-7041587.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/woman-in-the-swimming-pool-while-snowing-7041587/"
+        },
+        "alt": "Free A woman relaxes in a steaming outdoor pool during a snowy winter day, creating a serene contrast. Stock Photo",
+        "altRaw": "Free A woman relaxes in a steaming outdoor pool during a snowy winter day, creating a serene contrast. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7041587.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "פמוקקלה, טורקיה",
+      "lines": [
+        "מדרגות סיד לבנות מלאות מים",
+        "נראה לא אמיתי בעיניים"
+      ],
+      "alt": "פמוקקלה, טורקיה 🤍",
+      "image": {
+        "query": "pamukkale white terraces turquoise pools",
+        "id": "pexels-27791828",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27791828/pexels-photo-27791828/free-photo-of-pamukkale-travertine-pool-in-turkey.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/pamukkale-travertine-pool-in-turkey-27791828/"
+        },
+        "alt": "Free Person exploring the turquoise travertine pools of Pamukkale, Denizli, Türkiye under a clear blue sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27791828.jpg",
+        "altRaw": "Free Person exploring the turquoise travertine pools of Pamukkale, Denizli, Türkiye under a clear blue sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "המרחצאות הרומיים, באת׳",
+      "lines": [
+        "מים ירוקים בין עמודים",
+        "פועלים שם אלפיים שנה"
+      ],
+      "alt": "המרחצאות הרומיים, באת׳ 🏛️",
+      "image": {
+        "query": "roman baths bath england thermal green water",
+        "must": [
+          "thermal",
+          "bath",
+          "spring",
+          "spa",
+          "pool",
+          "roman"
+        ],
+        "id": "pexels-29184554",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/29184554/pexels-photo-29184554/free-photo-of-ancient-roman-baths-statue-in-bath-england.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/ancient-roman-baths-statue-in-bath-england-29184554/"
+        },
+        "alt": "Free Captured view of a statue overlooking the historic Roman Baths in Bath, England on a sunny day. Stock Photo",
+        "altRaw": "Free Captured view of a statue overlooking the historic Roman Baths in Bath, England on a sunny day. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29184554.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "ווליאגמני, יוון",
+      "lines": [
+        "המים 24 מעלות כל השנה",
+        "גם בינואר"
+      ],
+      "alt": "ווליאגמני, יוון 💙",
+      "image": {
+        "query": "vouliagmeni lake greece turquoise cliffs swimmers",
+        "id": "pexels-33194878",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33194878/pexels-photo-33194878/free-photo-of-serene-coastal-cove-in-sunny-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/serene-coastal-cove-in-sunny-greece-33194878/"
+        },
+        "alt": "Free Crystal clear waters and rocky cliffs create a tranquil Greek cove scene. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33194878.jpg",
+        "altRaw": "Free Crystal clear waters and rocky cliffs create a tranquil Greek cove scene. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

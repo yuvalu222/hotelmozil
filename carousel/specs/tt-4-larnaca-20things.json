@@ -1,0 +1,955 @@
+{
+  "id": "tt-4-larnaca-20things",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7622782757621615875",
+  "clonedUrl": "https://www.tiktok.com/@emsriley/photo/7622782757621615875",
+  "clonedAccount": "emsriley",
+  "sourceLikes": 52200,
+  "sourceSaves": 54200,
+  "sourceShares": 15300,
+  "sourceComments": 145,
+  "sourceSlides": 21,
+  "sourceCaption": "Most being completely free",
+  "demonstrates": "הראשון שנבנה לפי research/00-THE-SPEC.md במלואו: שבע שקופיות (הטווח 6-11), ארבעה פריטים בכל אחת כך שאף שקופית אינה דלילה, נתון קשיח בכל שורה, שקופית שלילית אחת, וקפשן כתוב שמבקש לשמור ונגמר בשאלה.",
+  "caption": "🇨🇾 המסלול המושלם ל-3 ימים בלרנקה, שעה טיסה מתל אביב. יום אחרי יום, עם שעות פתיחה ומחירים, והרבה מזה בחינם. כולל מה לא לעשות.\nשמרו את זה לפני שאתם מזמינים 📌 מה הייתם מוסיפים?",
+  "hashtags": [
+    "קפריסין",
+    "לרנקה",
+    "המלצות",
+    "טיול",
+    "חופשה"
+  ],
+  "sound": "טראק טרנדי מהספרייה, נבחר ביום ההעלאה. המקור עושה בדיוק את זה (\"ridin x back on 74\"), בלי קשר לתוכן.",
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "pos": "upper",
+      "titleCaps": "שעה טיסה מתל אביב",
+      "line": "ורובם עושים את זה לא נכון",
+      "note": "שמרו את זה לפני שאתם מזמינים",
+      "alt": "סופ״ש בקפריסין",
+      "image": {
+        "query": "ayia napa cyprus turquoise sea cave rocks",
+        "id": "pexels-15638543",
+        "file": "cache\\pexels-15638543.jpg",
+        "url": "https://images.pexels.com/photos/15638543/pexels-photo-15638543/free-photo-of-rock-formation-by-sea-at-dawn.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "alt": "Free Stunning sunrise view of a natural rock arch over the sea in Larnaca, Cyprus. Stock Photo",
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/rock-formation-by-sea-at-dawn-15638543/"
+        },
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-stack",
+      "title": "יום ראשון",
+      "sub": "הכול בהליכה אחת ברגל",
+      "alt": "יום ראשון",
+      "items": [
+        {
+          "name": "טיילת פיניקודס",
+          "fact": "דקלים וים. **מתחילים כאן**"
+        },
+        {
+          "name": "מצודת לרנקה",
+          "fact": "בקצה הטיילת, **2.5 יורו** כניסה"
+        },
+        {
+          "name": "אגיוס לאזארוס",
+          "fact": "**מהמאה התשיעית**. חינם"
+        },
+        {
+          "name": "חוף מקנזי",
+          "fact": "**1,000 מטר** ממסלול ההמראה"
+        }
+      ],
+      "images": [
+        {
+          "query": "larnaca cyprus old town street palm trees",
+          "id": "pexels-4967359",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/4967359/pexels-photo-4967359.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/church-under-blue-sky-4967359/"
+          },
+          "alt": "Free Captivating vertical shot of a historical church in Larnaca, Cyprus against a vibrant blue sky. Stock Photo",
+          "altRaw": "Free Captivating vertical shot of a historical church in Larnaca, Cyprus against a vibrant blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967359.jpg",
+          "m": {
+            "sat": 0.4394,
+            "satHigh": 0.4155,
+            "chroma": 107,
+            "contrast": 39.69,
+            "warm": 0.0737,
+            "vivid": 0.5785,
+            "dark": 0.0168,
+            "blown": 0,
+            "busy": 0.0746,
+            "lum": 172.4
+          },
+          "dud": null,
+          "score": 0.76
+        },
+        {
+          "query": "larnaca finikoudes promenade palms people sunny",
+          "for": "טיילת פיניקודס",
+          "id": "pexels-38161266",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38161266/pexels-photo-38161266/free-photo-of-summer-day-jogging-on-foca-promenade.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/summer-day-jogging-on-foca-promenade-38161266/"
+          },
+          "alt": "Free A woman jogs on the Foça promenade in İzmir, Türkiye, on a sunny summer day. Stock Photo",
+          "altRaw": "Free A woman jogs on the Foça promenade in İzmir, Türkiye, on a sunny summer day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38161266.jpg",
+          "m": {
+            "sat": 0.2602,
+            "satHigh": 0.1719,
+            "chroma": 33.61,
+            "contrast": 55.78,
+            "warm": 0.1919,
+            "vivid": 0.2151,
+            "dark": 0.2633,
+            "blown": 0,
+            "busy": 0.1189,
+            "lum": 99.2
+          },
+          "dud": null,
+          "score": 0.751
+        },
+        {
+          "query": "larnaca castle stone fort sea turquoise",
+          "for": "מצודת לרנקה",
+          "id": "pexels-25587814",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/25587814/pexels-photo-25587814/free-photo-of-photo-of-a-seacoast-with-a-castle.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-a-seacoast-with-a-castle-25587814/"
+          },
+          "alt": "Free An ancient coastal castle fort against a vibrant blue sea under a clear sky. Stock Photo",
+          "altRaw": "Free An ancient coastal castle fort against a vibrant blue sea under a clear sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-25587814.jpg",
+          "m": {
+            "sat": 0.3993,
+            "satHigh": 0.3807,
+            "chroma": 80.36,
+            "contrast": 33.54,
+            "warm": 0.1841,
+            "vivid": 0.617,
+            "dark": 0.0291,
+            "blown": 0,
+            "busy": 0.1441,
+            "lum": 125.8
+          },
+          "dud": null,
+          "score": 0.9
+        },
+        {
+          "query": "agios lazaros church larnaca stone",
+          "for": "אגיוס לאזארוס",
+          "id": "pexels-14196528",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14196528/pexels-photo-14196528.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/woman-posing-in-dress-near-building-14196528/"
+          },
+          "alt": "Free A woman poses in a stylish dress before a historic stone building in Larnaca, Cyprus, under a vibrant blue sky. Stock Photo",
+          "altRaw": "Free A woman poses in a stylish dress before a historic stone building in Larnaca, Cyprus, under a vibrant blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14196528.jpg",
+          "m": {
+            "sat": 0.5676,
+            "satHigh": 0.692,
+            "chroma": 78.76,
+            "contrast": 35.46,
+            "warm": 0.5903,
+            "vivid": 0.8215,
+            "dark": 0.1019,
+            "blown": 0,
+            "busy": 0.076,
+            "lum": 90.9
+          },
+          "dud": null,
+          "score": 0.842
+        },
+        {
+          "query": "mackenzie beach larnaca airplane landing low",
+          "for": "חוף מקנזי",
+          "id": "pexels-31937558",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31937558/pexels-photo-31937558/free-photo-of-airplane-flying-low-over-residential-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/airplane-flying-low-over-residential-building-31937558/"
+          },
+          "alt": "Free Airplane approaches over a house with a clear blue sky above, depicting urban aviation. Stock Photo",
+          "altRaw": "Free Airplane approaches over a house with a clear blue sky above, depicting urban aviation. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31937558.jpg",
+          "m": {
+            "sat": 0.4402,
+            "satHigh": 0.4896,
+            "chroma": 64.43,
+            "contrast": 28.84,
+            "warm": 0.0255,
+            "vivid": 0.7167,
+            "dark": 0.0176,
+            "blown": 0,
+            "busy": 0.0404,
+            "lum": 134.3
+          },
+          "dud": null,
+          "score": 0.768
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "יום שני",
+      "sub": "יוצאים מהעיר",
+      "alt": "יום שני",
+      "items": [
+        {
+          "name": "אגם המלח",
+          "fact": "פלמינגו, **נובמבר עד מרץ**"
+        },
+        {
+          "name": "חלה סולטן טקה",
+          "fact": "על שפת האגם, **מ-648**"
+        },
+        {
+          "name": "אמת המים קמארס",
+          "fact": "**33 קשתות**, הכי יפה בשקיעה"
+        },
+        {
+          "name": "לפקרה",
+          "fact": "תחרה ב**אונסקו מ-2009**"
+        }
+      ],
+      "images": [
+        {
+          "query": "cyprus village stone houses hills",
+          "id": "pexels-20049934",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20049934/pexels-photo-20049934/free-photo-of-village-under-hill.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/village-under-hill-20049934/"
+          },
+          "alt": "Free Charming aerial view of Bağlıköy village with hills and lush greenery, showcasing rural Cyprus beauty. Stock Photo",
+          "altRaw": "Free Charming aerial view of Bağlıköy village with hills and lush greenery, showcasing rural Cyprus beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20049934.jpg",
+          "m": {
+            "sat": 0.4026,
+            "satHigh": 0.3816,
+            "chroma": 44.34,
+            "contrast": 67.46,
+            "warm": 0.2355,
+            "vivid": 0.2476,
+            "dark": 0.1375,
+            "blown": 0.027,
+            "busy": 0.1437,
+            "lum": 115.3
+          },
+          "dud": null,
+          "score": 0.78
+        },
+        {
+          "query": "flamingos close up standing pink water cyprus",
+          "for": "אגם המלח",
+          "m": {
+            "sat": 0.3748,
+            "satHigh": 0.4829,
+            "chroma": 54.22,
+            "contrast": 36.5,
+            "warm": 0.0116,
+            "vivid": 0.726,
+            "dark": 0.0052,
+            "blown": 0.0001,
+            "busy": 0.047,
+            "lum": 127.9
+          },
+          "dud": null,
+          "score": 0.5,
+          "must": [
+            "flamingo"
+          ]
+        },
+        {
+          "query": "hala sultan tekke mosque larnaca lake",
+          "for": "חלה סולטן טקה",
+          "id": "pexels-5655087",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5655087/pexels-photo-5655087.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/green-trees-beside-the-mosque-5655087/"
+          },
+          "alt": "Free Scenic view of the historical Hala Sultan Tekke Mosque in Larnaca surrounded by lush palm trees. Stock Photo",
+          "altRaw": "Free Scenic view of the historical Hala Sultan Tekke Mosque in Larnaca surrounded by lush palm trees. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5655087.jpg",
+          "m": {
+            "sat": 0.2214,
+            "satHigh": 0.0908,
+            "chroma": 36.79,
+            "contrast": 56.74,
+            "warm": 0.2316,
+            "vivid": 0.2321,
+            "dark": 0.0366,
+            "blown": 0,
+            "busy": 0.1517,
+            "lum": 171.3
+          },
+          "dud": null,
+          "score": 0.5
+        },
+        {
+          "query": "kamares aqueduct larnaca arches sunset",
+          "for": "אמת המים קמארס",
+          "id": "pexels-10163045",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10163045/pexels-photo-10163045.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/an-exterior-of-the-houses-in-the-city-10163045/"
+          },
+          "alt": "Free Historic stone aqueduct and town buildings under warm sunset light, showcasing medieval architecture. Stock Photo",
+          "altRaw": "Free Historic stone aqueduct and town buildings under warm sunset light, showcasing medieval architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10163045.jpg",
+          "m": {
+            "sat": 0.4086,
+            "satHigh": 0.4555,
+            "chroma": 58.76,
+            "contrast": 68.08,
+            "warm": 0.3816,
+            "vivid": 0.3816,
+            "dark": 0.3686,
+            "blown": 0,
+            "busy": 0.1901,
+            "lum": 94
+          },
+          "dud": null,
+          "score": 0.9
+        },
+        {
+          "query": "lefkara village cyprus stone alley lace",
+          "for": "לפקרה",
+          "id": "pexels-5794094",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5794094/pexels-photo-5794094.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/potted-plants-on-the-cobblestone-floor-5794094/"
+          },
+          "alt": "Free Picturesque cobblestone alley lined with vibrant potted plants and charming stone storefronts under a blue sky. Stock Photo",
+          "altRaw": "Free Picturesque cobblestone alley lined with vibrant potted plants and charming stone storefronts under a blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5794094.jpg",
+          "m": {
+            "sat": 0.3195,
+            "satHigh": 0.3141,
+            "chroma": 62.86,
+            "contrast": 57.19,
+            "warm": 0.0587,
+            "vivid": 0.2778,
+            "dark": 0.1238,
+            "blown": 0.0001,
+            "busy": 0.3754,
+            "lum": 129.6
+          },
+          "dud": null,
+          "score": 0.896
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "יום שלישי",
+      "sub": "הדברים שאף אחד לא עושה",
+      "alt": "יום שלישי",
+      "items": [
+        {
+          "name": "הזנוביה",
+          "fact": "טבעה **ב-1980**. 42 מטר עומק"
+        },
+        {
+          "name": "חירוקיטיה",
+          "fact": "יישוב **בן 9,000 שנה**"
+        },
+        {
+          "name": "סטברובוני",
+          "fact": "**750 מטר**. נשים לא נכנסות"
+        },
+        {
+          "name": "אייה נאפה",
+          "fact": "**חצי שעה נסיעה**, מים טורקיז"
+        }
+      ],
+      "images": [
+        {
+          "query": "cyprus harbour town boats waterfront",
+          "id": "pexels-20387369",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/20387369/pexels-photo-20387369/free-photo-of-motorboats-and-ships-in-town-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/motorboats-and-ships-in-town-in-cyprus-20387369/"
+          },
+          "alt": "Free Explore Girne Marina with picturesque boats and stunning waterside views in summer. Stock Photo",
+          "altRaw": "Free Explore Girne Marina with picturesque boats and stunning waterside views in summer. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20387369.jpg",
+          "m": {
+            "sat": 0.2691,
+            "satHigh": 0.1255,
+            "chroma": 50.28,
+            "contrast": 49.85,
+            "warm": 0.1105,
+            "vivid": 0.2707,
+            "dark": 0.0557,
+            "blown": 0,
+            "busy": 0.1216,
+            "lum": 166.2
+          },
+          "dud": null,
+          "score": 0.826
+        },
+        {
+          "query": "zenobia wreck diving cyprus underwater",
+          "for": "הזנוביה",
+          "id": "pexels-16174269",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16174269/pexels-photo-16174269/free-photo-of-wreck-in-deep-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/wreck-in-deep-sea-16174269/"
+          },
+          "alt": "Free Diver exploring a sunken shipwreck in North Sulawesi's ocean depths. Stock Photo",
+          "altRaw": "Free Diver exploring a sunken shipwreck in North Sulawesi's ocean depths. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16174269.jpg",
+          "m": {
+            "sat": 0.3932,
+            "satHigh": 0.2479,
+            "chroma": 27.95,
+            "contrast": 60.27,
+            "warm": 0,
+            "vivid": 0.2939,
+            "dark": 0.3582,
+            "blown": 0.0009,
+            "busy": 0.0519,
+            "lum": 91.1
+          },
+          "dud": null,
+          "score": 0.5
+        },
+        {
+          "query": "neolithic stone round house ruins archaeological site",
+          "for": "חירוקיטיה",
+          "id": "pexels-31028050",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31028050/pexels-photo-31028050/free-photo-of-ancient-gobekli-tepe-archaeological-ruins.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ancient-gobekli-tepe-archaeological-ruins-31028050/"
+          },
+          "alt": "Free Explore the historic Göbekli Tepe site in Şanlıurfa, Türkiye, showcasing ancient stone structures. Stock Photo",
+          "altRaw": "Free Explore the historic Göbekli Tepe site in Şanlıurfa, Türkiye, showcasing ancient stone structures. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31028050.jpg",
+          "m": {
+            "sat": 0.7431,
+            "satHigh": 0.9945,
+            "chroma": 65.09,
+            "contrast": 48.54,
+            "warm": 0.8818,
+            "vivid": 0.8818,
+            "dark": 0.2049,
+            "blown": 0,
+            "busy": 0.1503,
+            "lum": 97.8
+          },
+          "dud": null,
+          "score": 0.84
+        },
+        {
+          "query": "orthodox monastery on mountain peak greece cyprus",
+          "for": "סטברובוני",
+          "id": "pexels-38809398",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38809398/pexels-photo-38809398/free-photo-of-stunning-cliffside-monastery-in-meteora-greece.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-cliffside-monastery-in-meteora-greece-38809398/"
+          },
+          "alt": "Free A breathtaking view of a cliffside monastery in Meteora, Greece, with mountains in the background and a clear blue sky. Stock Photo",
+          "altRaw": "Free A breathtaking view of a cliffside monastery in Meteora, Greece, with mountains in the background and a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38809398.jpg",
+          "m": {
+            "sat": 0.4643,
+            "satHigh": 0.6215,
+            "chroma": 79.15,
+            "contrast": 61.33,
+            "warm": 0.0787,
+            "vivid": 0.4624,
+            "dark": 0.1666,
+            "blown": 0,
+            "busy": 0.1558,
+            "lum": 125.9
+          },
+          "dud": null,
+          "score": 0.92,
+          "anyCountry": true
+        },
+        {
+          "query": "ayia napa beach cyprus turquoise cave",
+          "for": "אייה נאפה",
+          "id": "pexels-7444302",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/7444302/pexels-photo-7444302.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-woman-swimming-on-the-sea-7444302/"
+          },
+          "alt": "Free Explore the vibrant turquoise sea along the stunning cliffs of Ayia Napa, Cyprus. Stock Photo",
+          "altRaw": "Free Explore the vibrant turquoise sea along the stunning cliffs of Ayia Napa, Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7444302.jpg",
+          "m": {
+            "sat": 0.6426,
+            "satHigh": 0.6041,
+            "chroma": 117.37,
+            "contrast": 49.16,
+            "warm": 0.1006,
+            "vivid": 0.5958,
+            "dark": 0.0671,
+            "blown": 0,
+            "busy": 0.1195,
+            "lum": 134.7
+          },
+          "dud": null,
+          "score": 0.894
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "איפה אוכלים",
+      "sub": "ולא בטיילת",
+      "alt": "איפה אוכלים",
+      "items": [
+        {
+          "name": "מזה קפריסאי",
+          "fact": "**עשרים מנות** בארוחה אחת"
+        },
+        {
+          "name": "שוק הדייגים",
+          "fact": "דגים **שנתפסו באותו בוקר**"
+        },
+        {
+          "name": "חלומי",
+          "fact": "מוגן באירופה **מ-2021**"
+        },
+        {
+          "name": "פרפה בכיכר",
+          "fact": "קפה קר. יושבים עליו **שעתיים**"
+        }
+      ],
+      "images": [
+        {
+          "query": "cyprus old stone church village mountains",
+          "id": "pexels-33187031",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33187031/pexels-photo-33187031/free-photo-of-historic-stone-church-with-blue-door-detail.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-stone-church-with-blue-door-detail-33187031/"
+          },
+          "alt": "Free Close-up of a historic stone church facade with blue door and bell tower under clear sky. Stock Photo",
+          "altRaw": "Free Close-up of a historic stone church facade with blue door and bell tower under clear sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33187031.jpg",
+          "m": {
+            "sat": 0.2193,
+            "satHigh": 0.0936,
+            "chroma": 41.08,
+            "contrast": 53.15,
+            "warm": 0.0468,
+            "vivid": 0.1808,
+            "dark": 0.107,
+            "blown": 0.0047,
+            "busy": 0.2076,
+            "lum": 138
+          },
+          "dud": null,
+          "score": 0.82
+        },
+        {
+          "query": "cypriot meze table food sharing",
+          "for": "מזה קפריסאי",
+          "id": "pexels-10296301",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10296301/pexels-photo-10296301.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/person-dipping-pita-bread-into-hummus-10296301/"
+          },
+          "alt": "Free Top view of Israeli meze including hummus and pita on a red checked tablecloth. Stock Photo",
+          "altRaw": "Free Top view of Israeli meze including hummus and pita on a red checked tablecloth. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10296301.jpg",
+          "m": {
+            "sat": 0.4028,
+            "satHigh": 0.4428,
+            "chroma": 70.54,
+            "contrast": 60.54,
+            "warm": 0.1467,
+            "vivid": 0.2215,
+            "dark": 0.166,
+            "blown": 0.0019,
+            "busy": 0.2082,
+            "lum": 121.4
+          },
+          "dud": null,
+          "score": 0.66
+        },
+        {
+          "query": "fish market cyprus fresh catch stall",
+          "for": "שוק הדייגים",
+          "id": "pexels-31668252",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/31668252/pexels-photo-31668252/free-photo-of-variety-of-fresh-fish-at-market-stall-display.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/variety-of-fresh-fish-at-market-stall-display-31668252/"
+          },
+          "alt": "Free Assorted fresh fish and seafood displayed at a market stall, perfect for culinary themes. Stock Photo",
+          "altRaw": "Free Assorted fresh fish and seafood displayed at a market stall, perfect for culinary themes. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31668252.jpg",
+          "m": {
+            "sat": 0.5039,
+            "satHigh": 0.5296,
+            "chroma": 57.61,
+            "contrast": 59.8,
+            "warm": 0.5598,
+            "vivid": 0.5667,
+            "dark": 0.2005,
+            "blown": 0,
+            "busy": 0.2401,
+            "lum": 116.4
+          },
+          "dud": null,
+          "score": 0.984
+        },
+        {
+          "query": "grilled halloumi cheese cyprus plate",
+          "must": [
+            "halloumi",
+            "cheese"
+          ],
+          "for": "חלומי",
+          "id": "pexels-8751408",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/8751408/pexels-photo-8751408.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/brown-bread-on-black-pan-8751408/"
+          },
+          "alt": "Free Delicious grilled halloumi cheese slices with golden crust on an iron skillet, perfect for summer dishes. Stock Photo",
+          "altRaw": "Free Delicious grilled halloumi cheese slices with golden crust on an iron skillet, perfect for summer dishes. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8751408.jpg",
+          "m": {
+            "sat": 0.5513,
+            "satHigh": 0.7089,
+            "chroma": 98.83,
+            "contrast": 60.36,
+            "warm": 0.4925,
+            "vivid": 0.4926,
+            "dark": 0.2781,
+            "blown": 0,
+            "busy": 0.2548,
+            "lum": 105
+          },
+          "dud": null,
+          "score": 0.967
+        },
+        {
+          "query": "iced coffee frappe tall glass cafe",
+          "must": [
+            "coffee",
+            "frappe",
+            "iced"
+          ],
+          "for": "פרפה בכיכר",
+          "id": "pexels-39630354",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39630354/pexels-photo-39630354/free-photo-of-refreshing-iced-coffee-in-a-tall-glass-outdoors.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/refreshing-iced-coffee-in-a-tall-glass-outdoors-39630354/"
+          },
+          "alt": "Free Close-up of a refreshing iced coffee in a tall glass with a straw, captured outdoors on a sunny day. Stock Photo",
+          "altRaw": "Free Close-up of a refreshing iced coffee in a tall glass with a straw, captured outdoors on a sunny day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39630354.jpg",
+          "m": {
+            "sat": 0.1988,
+            "satHigh": 0.0694,
+            "chroma": 35.07,
+            "contrast": 56.73,
+            "warm": 0.0683,
+            "vivid": 0.1603,
+            "dark": 0.0298,
+            "blown": 0.0882,
+            "busy": 0.0641,
+            "lum": 166.3
+          },
+          "dud": null,
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "layout": "tt-stack",
+      "title": "מה לא לעשות",
+      "sub": "הראשונה עולה הכי הרבה",
+      "alt": "מה לא לעשות",
+      "items": [
+        {
+          "name": "בלי רישיון בינלאומי",
+          "fact": "בודקים, והביטוח **לא תקף**"
+        },
+        {
+          "name": "נוסעים בצד שמאל",
+          "fact": "**אחת מארבע** מדינות באירופה"
+        },
+        {
+          "name": "להגיע לאגם בקיץ",
+          "fact": "**יבש מאפריל**. בלי פלמינגו"
+        },
+        {
+          "name": "לאכול רק על הטיילת",
+          "fact": "**תעלו שני רחובות פנימה**"
+        }
+      ],
+      "images": [
+        {
+          "query": "larnaca cyprus promenade buildings evening",
+          "id": "pexels-39339720",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39339720/pexels-photo-39339720/free-photo-of-historic-street-in-old-city-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historic-street-in-old-city-at-sunset-39339720/"
+          },
+          "alt": "Free A quiet, narrow street lined with historic buildings in the old city, captured during sunset. Stock Photo",
+          "altRaw": "Free A quiet, narrow street lined with historic buildings in the old city, captured during sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39339720.jpg",
+          "m": {
+            "sat": 0.3639,
+            "satHigh": 0.2662,
+            "chroma": 60.5,
+            "contrast": 54.8,
+            "warm": 0.3674,
+            "vivid": 0.5667,
+            "dark": 0.114,
+            "blown": 0,
+            "busy": 0.1411,
+            "lum": 117.2
+          },
+          "dud": null,
+          "score": 1
+        },
+        {
+          "query": "car rental cyprus road coastal",
+          "for": "בלי רישיון בינלאומי",
+          "id": "pexels-16767714",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/16767714/pexels-photo-16767714/free-photo-of-aerial-view-of-a-roundabout.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-a-roundabout-16767714/"
+          },
+          "alt": "Free A stunning aerial shot of Nicosia's urban landscape and roundabout, showcasing the city's layout. Stock Photo",
+          "altRaw": "Free A stunning aerial shot of Nicosia's urban landscape and roundabout, showcasing the city's layout. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16767714.jpg",
+          "m": {
+            "sat": 0.347,
+            "satHigh": 0.3387,
+            "chroma": 45.67,
+            "contrast": 58.89,
+            "warm": 0.1828,
+            "vivid": 0.2125,
+            "dark": 0.0681,
+            "blown": 0.0089,
+            "busy": 0.4134,
+            "lum": 132.5
+          },
+          "dud": null,
+          "score": 0.52
+        },
+        {
+          "query": "cyprus coastal road winding sea view",
+          "for": "נוסעים בצד שמאל",
+          "id": "pexels-30563625",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30563625/pexels-photo-30563625/free-photo-of-aerial-view-of-rugged-cyprus-mountain-terrain.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-rugged-cyprus-mountain-terrain-30563625/"
+          },
+          "alt": "Free Stunning aerial view of Cyprus's rugged mountain landscape under clear skies. Stock Photo",
+          "altRaw": "Free Stunning aerial view of Cyprus's rugged mountain landscape under clear skies. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30563625.jpg",
+          "m": {
+            "sat": 0.3536,
+            "satHigh": 0.2991,
+            "chroma": 37.35,
+            "contrast": 59.36,
+            "warm": 0.375,
+            "vivid": 0.3981,
+            "dark": 0.2485,
+            "blown": 0.0037,
+            "busy": 0.2212,
+            "lum": 94.3
+          },
+          "dud": null,
+          "score": 0.78
+        },
+        {
+          "query": "salt lake white dry expanse horizon sky",
+          "for": "להגיע לאגם בקיץ",
+          "id": "pexels-38836864",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38836864/pexels-photo-38836864/free-photo-of-expansive-turkish-salt-lake-landscape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/expansive-turkish-salt-lake-landscape-38836864/"
+          },
+          "alt": "Free A wide view of a salt lake with rolling hills under a clear sky in Ankara, Türkiye. Stock Photo",
+          "altRaw": "Free A wide view of a salt lake with rolling hills under a clear sky in Ankara, Türkiye. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38836864.jpg",
+          "m": {
+            "sat": 0.1671,
+            "satHigh": 0.2058,
+            "chroma": 40.48,
+            "contrast": 33.35,
+            "warm": 0.0398,
+            "vivid": 0.2525,
+            "dark": 0.013,
+            "blown": 0,
+            "busy": 0.0798,
+            "lum": 149.4
+          },
+          "dud": null,
+          "score": 0.5
+        },
+        {
+          "query": "cyprus taverna terrace tables flowers evening",
+          "for": "לאכול רק על הטיילת",
+          "id": "pexels-29432427",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29432427/pexels-photo-29432427/free-photo-of-charming-mediterranean-cafe-with-flowered-entrance.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/charming-mediterranean-cafe-with-flowered-entrance-29432427/"
+          },
+          "alt": "Free Mediterranean café entrance adorned with vibrant pink blooms and cozy seating. Stock Photo",
+          "altRaw": "Free Mediterranean café entrance adorned with vibrant pink blooms and cozy seating. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29432427.jpg",
+          "m": {
+            "sat": 0.3981,
+            "satHigh": 0.4513,
+            "chroma": 80.35,
+            "contrast": 54.31,
+            "warm": 0.1165,
+            "vivid": 0.1795,
+            "dark": 0.1666,
+            "blown": 0.0053,
+            "busy": 0.2893,
+            "lum": 110.7
+          },
+          "dud": null,
+          "score": 0.66
+        }
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ],
+  "country": "Cyprus"
+}

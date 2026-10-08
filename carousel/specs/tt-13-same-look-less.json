@@ -1,0 +1,365 @@
+{
+  "id": "tt-13-same-look-less",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7665443283337825558",
+  "clonedUrl": "https://www.tiktok.com/@cuddlynest/photo/7665443283337825558",
+  "clonedAccount": "cuddlynest",
+  "sourceLikes": 94700,
+  "sourceSaves": 111700,
+  "sourceShares": 17200,
+  "sourceComments": 178,
+  "sourceSlides": 7,
+  "sourceCaption": "Same dream vibe, smarter stay. You don't have to overspend to wake up somewhere beautiful.",
+  "demonstrates": "היחס הטוב ביותר באוסף כולו: 111,700 שמירות על 94,700 לייקים, כלומר 1.18 שמירות לכל לייק — יותר שמירות מלייקים. והמקור הוא **מותג של הזמנת מלונות**, חשבון מסחרי שעושה בדיוק את העבודה שהחשבון הזה צריך לעשות. המנגנון: שקופית אחת, שתי תמונות — היעד היקר והמפורסם למעלה, זה שנראה כמוהו בשבריר מהמחיר למטה. זו רשימה של החלטות ולא של אתרים, ולכן שומרים אותה. הזוגות נבחרו לפי שני תנאים: שהזול באמת נראה כמו היקר, ושאפשר להגיע לשניהם מתל אביב. המקור מגיש את התוויות בצ׳יפים שחור-ורוד; אצלנו הן עם מתאר לפי הכלל, והוורוד נשמר כצבע שם המקום.",
+  "caption": "אותו מראה, חצי מחיר. שבעה יעדים שאף אחד לא יבחין בתמונות. איזה הכי הפתיע?",
+  "hashtags": [
+    "טיפיםלטיול",
+    "חופשה_חכמה",
+    "יעדים",
+    "טיולים",
+    "אירופה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה. בפורמט הזה הסאונד הוא מנוף חשיפה בלבד.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "אותו מראה",
+        "חצי מחיר"
+      ],
+      "sub": "שבעה יעדים שאף אחד לא יבחין בתמונות",
+      "alt": "נוף ים תיכוני",
+      "image": {
+        "query": "amalfi coast positano dramatic sunset cliffs colourful",
+        "id": "pexels-33839189",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33839189/pexels-photo-33839189/free-photo-of-scenic-view-of-colorful-positano-cliffside-homes.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-view-of-colorful-positano-cliffside-homes-33839189/"
+        },
+        "alt": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33839189.jpg",
+        "altRaw": "Free Vibrant cliffside houses in Positano, Italy, overlooking the deep blue sea. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "סנטוריני",
+      "go": "פארוס",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "סנטוריני מול פארוס",
+      "images": [
+        {
+          "query": "santorini oia white blue domes sunset caldera",
+          "id": "pexels-37908299",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/37908299/pexels-photo-37908299/free-photo-of-iconic-blue-domes-of-santorini-overlooking-the-aegean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/iconic-blue-domes-of-santorini-overlooking-the-aegean-sea-37908299/"
+          },
+          "alt": "Free Classic view of Santorini's blue domes against the deep blue Aegean Sea under a cloudy sky. Stock Photo",
+          "altRaw": "Free Classic view of Santorini's blue domes against the deep blue Aegean Sea under a cloudy sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37908299.jpg",
+          "keep": true
+        },
+        {
+          "query": "paros naoussa white village harbour colourful",
+          "id": "pexels-27203463",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27203463/pexels-photo-27203463/free-photo-of-a-beach-with-white-buildings-and-a-church.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-beach-with-white-buildings-and-a-church-27203463/"
+          },
+          "alt": "Free Explore the traditional architecture and seaside charm of Paros, Greece with vibrant blue skies and scenic town views. Stock Photo",
+          "altRaw": "Free Explore the traditional architecture and seaside charm of Paros, Greece with vibrant blue skies and scenic town views. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27203463.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "מיקונוס",
+      "go": "נאקסוס",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "מיקונוס מול נאקסוס",
+      "images": [
+        {
+          "query": "mykonos windmills sunset golden sky people",
+          "id": "pexels-15238357",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15238357/pexels-photo-15238357/free-photo-of-old-windmill-in-la-mancha.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/old-windmill-in-la-mancha-15238357/"
+          },
+          "alt": "Free Twilight view of iconic windmills with a warm sunset backdrop in Greece, capturing travel and history. Stock Photo",
+          "altRaw": "Free Twilight view of iconic windmills with a warm sunset backdrop in Greece, capturing travel and history. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15238357.jpg",
+          "keep": true
+        },
+        {
+          "query": "naxos portara sunset silhouette sea golden",
+          "id": "pexels-30878905",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30878905/pexels-photo-30878905/free-photo-of-naxos-portara-at-sunset-ancient-greek-ruins.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/naxos-portara-at-sunset-ancient-greek-ruins-30878905/"
+          },
+          "alt": "Free Beautiful sunset view through the Portara on Naxos, Greece. Stock Photo",
+          "altRaw": "Free Beautiful sunset view through the Portara on Naxos, Greece. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30878905.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "חוף אמלפי",
+      "go": "פוליה",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "חוף אמלפי מול פוליה",
+      "images": [
+        {
+          "query": "amalfi coast positano cliffs colourful houses",
+          "id": "pexels-36751670",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36751670/pexels-photo-36751670/free-photo-of-colorful-amalfi-coast-architecture-against-mountainous-backdrop.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/colorful-amalfi-coast-architecture-against-mountainous-backdrop-36751670/"
+          },
+          "alt": "Free Vibrant buildings nestled against the Amalfi Coast cliffs with lush greenery in the background. Perfect for travel inspiration. Stock Photo",
+          "altRaw": "Free Vibrant buildings nestled against the Amalfi Coast cliffs with lush greenery in the background. Perfect for travel inspiration. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36751670.jpg",
+          "keep": true
+        },
+        {
+          "query": "puglia polignano a mare cliffs turquoise",
+          "id": "pexels-30433355",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/30433355/pexels-photo-30433355/free-photo-of-polignano-a-mare-coastal-cliffs-and-swimmers.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/polignano-a-mare-coastal-cliffs-and-swimmers-30433355/"
+          },
+          "alt": "Free Swimmers enjoy the turquoise waters below the cliffs of Polignano a Mare in Italy. Stock Photo",
+          "altRaw": "Free Swimmers enjoy the turquoise waters below the cliffs of Polignano a Mare in Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30433355.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "אגם קומו",
+      "go": "אגם איזאו",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "אגם קומו מול אגם איזאו",
+      "images": [
+        {
+          "query": "lake como villa gardens boats mountains dramatic light",
+          "id": "pexels-38835099",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38835099/pexels-photo-38835099/free-photo-of-scenic-view-of-lake-como-with-mountains.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-view-of-lake-como-with-mountains-38835099/"
+          },
+          "alt": "Free Stunning view of Lake Como surrounded by mountains and lush greenery under a bright sky. Stock Photo",
+          "altRaw": "Free Stunning view of Lake Como surrounded by mountains and lush greenery under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38835099.jpg",
+          "keep": true
+        },
+        {
+          "query": "lake iseo monte isola village water mountains sunny",
+          "id": "pexels-28207538",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28207538/pexels-photo-28207538/free-photo-of-monte-isola.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/monte-isola-28207538/"
+          },
+          "alt": "Free Breathtaking aerial view of Monte Isola and Lake Iseo in Lombardy, Italy. Stock Photo",
+          "altRaw": "Free Breathtaking aerial view of Monte Isola and Lake Iseo in Lombardy, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28207538.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "דוברובניק",
+      "go": "קוטור",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "דוברובניק מול קוטור",
+      "images": [
+        {
+          "query": "dubrovnik old town walls sea crowd",
+          "id": "pexels-9972218",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9972218/pexels-photo-9972218.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/drone-shot-of-people-between-buildings-9972218/"
+          },
+          "alt": "Free Discover Dubrovnik's historic charm from above, featuring bustling streets and iconic architecture. Stock Photo",
+          "altRaw": "Free Discover Dubrovnik's historic charm from above, featuring bustling streets and iconic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9972218.jpg",
+          "keep": true
+        },
+        {
+          "query": "kotor montenegro bay old town mountains",
+          "id": "pexels-21967149",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/21967149/pexels-photo-21967149/free-photo-of-old-town-houses-with-a-lake-in-the-background.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/old-town-houses-with-a-lake-in-the-background-21967149/"
+          },
+          "alt": "Free Charming aerial view of Kotor's old town rooftops with bay background, vibrant Mediterranean scene. Stock Photo",
+          "altRaw": "Free Charming aerial view of Kotor's old town rooftops with bay background, vibrant Mediterranean scene. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21967149.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "המלדיביים",
+      "go": "זנזיבר",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "המלדיביים מול זנזיבר",
+      "images": [
+        {
+          "query": "maldives overwater villa turquoise lagoon",
+          "id": "pexels-35746937",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/35746937/pexels-photo-35746937/free-photo-of-stunning-overwater-villas-in-maldives-paradise.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-overwater-villas-in-maldives-paradise-35746937/"
+          },
+          "alt": "Free Discover serene overwater villas on clear waters in Maldives, perfect for a tranquil getaway. Stock Photo",
+          "altRaw": "Free Discover serene overwater villas on clear waters in Maldives, perfect for a tranquil getaway. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35746937.jpg",
+          "keep": true
+        },
+        {
+          "query": "zanzibar beach dhow boat turquoise palm",
+          "id": "pexels-5859099",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/5859099/pexels-photo-5859099.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/brown-boat-on-the-shore-5859099/"
+          },
+          "alt": "Free Fishermen navigating a traditional dhow on the serene waters of Zanzibar under a bright sky. Stock Photo",
+          "altRaw": "Free Fishermen navigating a traditional dhow on the serene waters of Zanzibar under a bright sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-5859099.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "האלפים השוויצריים",
+      "go": "האלפים הסלובניים",
+      "avoidLabel": "במקום:",
+      "goLabel": "תטוסו ל:",
+      "alt": "האלפים השוויצריים מול האלפים הסלובניים",
+      "images": [
+        {
+          "query": "swiss alps village lake mountains",
+          "id": "pexels-33666809",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/33666809/pexels-photo-33666809/free-photo-of-stunning-view-of-oberhofen-castle-by-lake-thun.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/stunning-view-of-oberhofen-castle-by-lake-thun-33666809/"
+          },
+          "alt": "Free Picturesque view of Oberhofen Castle and Lake Thun against a majestic mountain backdrop. Stock Photo",
+          "altRaw": "Free Picturesque view of Oberhofen Castle and Lake Thun against a majestic mountain backdrop. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33666809.jpg",
+          "keep": true
+        },
+        {
+          "query": "slovenia julian alps lake bled mountains",
+          "id": "pexels-19634978",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19634978/pexels-photo-19634978/free-photo-of-church-of-the-mother-of-god-on-the-lake-bled.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/church-of-the-mother-of-god-on-the-lake-bled-19634978/"
+          },
+          "alt": "Free Bled Island with the Church of the Assumption, surrounded by Lake Bled and scenic mountains at sunset. Stock Photo",
+          "altRaw": "Free Bled Island with the Church of the Assumption, surrounded by Lake Bled and scenic mountains at sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19634978.jpg",
+          "keep": true
+        }
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

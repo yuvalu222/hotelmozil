@@ -48,7 +48,7 @@ const lg = fs.createWriteStream(path.join(ROOT, 'tt-read.log'), { flags: 'a' });
 const log = (s) => { console.log(s); lg.write(s + '\n'); };
 log(`\n=== reader ${new Date().toISOString()} — ${todo.length} carousel URLs queued, floor ${FLOOR.toLocaleString()} ===`);
 
-const ctx = await chromium.launchPersistentContext('recon/p-read', {
+const ctx = await chromium.launchPersistentContext('recon/p-card', {
   channel: 'chrome', headless: true, userAgent: UA,
   viewport: { width: 1300, height: 1200 }, locale: 'en-US',
   args: ['--disable-blink-features=AutomationControlled', '--disable-dev-shm-usage', '--disable-gpu'],
@@ -81,7 +81,7 @@ async function warm() {
 await warm();
 
 // give the limit time to decay before the first request
-const COLD_START_MS = Number(process.env.TT_COLD_MS ?? 900000);
+const COLD_START_MS = Number(process.env.TT_COLD_MS ?? 0);
 if (COLD_START_MS > 0) {
   log(`  cooling ${Math.round(COLD_START_MS / 60000)}m before first read`);
   await sleep(COLD_START_MS);
@@ -155,7 +155,7 @@ for (const url of todo) {
     if (!d) log(`  NO DATA ${url.slice(-19)}`);
     else log(`  NO SLIDES ${url.slice(-19)} — body ${d.fullText.length}c, `
       + `likes="${d.likes}", head="${d.fullText.slice(0, 60)}"`);
-    await sleep(jitter(55000, 85000));
+    await sleep(jitter(5000, 9000));
     continue;
   }
   const run = d.countsRun || [];
@@ -164,7 +164,7 @@ for (const url of todo) {
   if (likes < FLOOR) {
     below++;
     if (below % 10 === 0) log(`  ... ${done}/${todo.length} read, best so far ${best.toLocaleString()} likes`);
-    await sleep(jitter(55000, 85000));
+    await sleep(jitter(5000, 9000));
     continue;
   }
 
@@ -190,7 +190,7 @@ for (const url of todo) {
   }) + '\n');
   kept++;
   log(`  KEEP ${likes.toLocaleString()} likes · ${files.length} slides · @${url.split('/@')[1]?.split('/')[0]}`);
-  await sleep(jitter(55000, 85000));
+  await sleep(jitter(5000, 9000));
 }
 
 fs.writeFileSync(readPath, JSON.stringify([...read]));

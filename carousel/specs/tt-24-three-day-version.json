@@ -1,0 +1,232 @@
+{
+  "clonedFrom": "tt-7533736563604311318",
+  "clonedUrl": "https://www.tiktok.com/@berigold/photo/7533736563604311318",
+  "clonedAccount": "berigold",
+  "sourceLikes": 382700,
+  "sourceSaves": 185100,
+  "sourceSlides": 8,
+  "sourceCaption": "Over 200+ Greek islands - here's how to pick the right one for you",
+  "id": "tt-24-three-day-version",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "מנגנון החלטה אחרון וחדש: לא לאן ולא מתי, אלא **בכמה זמן**. רוב התוכן מניח שבוע; רוב החופשות הן שלושה ימים. הדק לוקח מסלול קלאסי ואומר מה נשאר ומה יורד — וזה בדיוק סוג ההחלטה שאנשים שומרים כדי לחזור אליה כשהם מזמינים.",
+  "caption": "אין לכם שבוע? ככה עושים את אותו טיול בשלושה ימים. מה הייתם מוותרים?",
+  "hashtags": [
+    "טיפיםלטיול",
+    "סופש_ארוך",
+    "יעדים",
+    "טיולים",
+    "אירופה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "אין לכם שבוע?",
+        "ככה עושים",
+        "את זה בשלושה"
+      ],
+      "sub": "מה נשאר ומה יורד, בארבעה יעדים",
+      "alt": "מזוודה ומפה",
+      "image": {
+        "query": "mediterranean coastal town aerial turquoise summer",
+        "id": "pexels-32585020",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32585020/pexels-photo-32585020/free-photo-of-aerial-view-of-idyllic-coastal-village-and-turquoise-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-idyllic-coastal-village-and-turquoise-sea-32585020/"
+        },
+        "alt": "Free Scenic aerial shot of a charming coastal village with stunning turquoise waters and anchored sailboats on a sunny day. Stock Photo",
+        "altRaw": "Free Scenic aerial shot of a charming coastal village with stunning turquoise waters and anchored sailboats on a sunny day. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32585020.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "יוון בשבוע",
+      "go": "יוון בשלושה",
+      "avoidLabel": "הגרסה המלאה:",
+      "goLabel": "הגרסה הקצרה:",
+      "alt": "יוון",
+      "images": [
+        {
+          "query": "greek island harbour boats blue sea sunny",
+          "id": "pexels-27490678",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27490678/pexels-photo-27490678/free-photo-of-greek-islands-harbour-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/greek-islands-harbour-town-27490678/"
+          },
+          "alt": "Free A serene coastal scene on Sifnos Island, Greece, featuring clear turquoise waters and rugged mountains. Stock Photo",
+          "altRaw": "Free A serene coastal scene on Sifnos Island, Greece, featuring clear turquoise waters and rugged mountains. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27490678.jpg",
+          "keep": true
+        },
+        {
+          "query": "naxos greece white village sunset sea",
+          "id": "pexels-9765414",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/9765414/pexels-photo-9765414.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/an-old-town-across-the-river-9765414/"
+          },
+          "alt": "Free Stunning aerial view of Naxos Old Town with its historic architecture and serene sea at sunset. Stock Photo",
+          "altRaw": "Free Stunning aerial view of Naxos Old Town with its historic architecture and serene sea at sunset. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9765414.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "איטליה בשבוע",
+      "go": "איטליה בשלושה",
+      "avoidLabel": "הגרסה המלאה:",
+      "goLabel": "הגרסה הקצרה:",
+      "alt": "איטליה",
+      "images": [
+        {
+          "query": "italy train countryside vineyards travel",
+          "id": "pexels-39246922",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/39246922/pexels-photo-39246922/free-photo-of-scenic-vineyards-of-alba-piedmont-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/scenic-vineyards-of-alba-piedmont-italy-39246922/"
+          },
+          "alt": "Free Aerial view of lush vineyards and rolling hills in Alba, Piedmont, Italy, showcasing rustic charm. Stock Photo",
+          "altRaw": "Free Aerial view of lush vineyards and rolling hills in Alba, Piedmont, Italy, showcasing rustic charm. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39246922.jpg",
+          "keep": true
+        },
+        {
+          "query": "rome piazza crowd evening restaurant lights",
+          "id": "pexels-36789188",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/36789188/pexels-photo-36789188/free-photo-of-outdoor-dining-at-italian-pizzeria-in-rome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/outdoor-dining-at-italian-pizzeria-in-rome-36789188/"
+          },
+          "alt": "Free Evening diners enjoying a meal at a traditional Italian pizzeria in Rome, Italy. Stock Photo",
+          "altRaw": "Free Evening diners enjoying a meal at a traditional Italian pizzeria in Rome, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36789188.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "תאילנד בשבועיים",
+      "go": "תאילנד בשבוע",
+      "avoidLabel": "הגרסה המלאה:",
+      "goLabel": "הגרסה הקצרה:",
+      "alt": "תאילנד",
+      "images": [
+        {
+          "query": "thailand islands aerial longtail boats",
+          "id": "pexels-25252464",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/25252464/pexels-photo-25252464/free-photo-of-top-view-of-boats-in-bay-on-seashore.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/top-view-of-boats-in-bay-on-seashore-25252464/"
+          },
+          "alt": "Free Explore a breathtaking aerial view of boats navigating through clear tropical waters surrounded by lush greenery. Stock Photo",
+          "altRaw": "Free Explore a breathtaking aerial view of boats navigating through clear tropical waters surrounded by lush greenery. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-25252464.jpg",
+          "keep": true
+        },
+        {
+          "query": "bangkok street food night market crowd",
+          "id": "pexels-2607918",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2607918/pexels-photo-2607918.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/photo-of-people-walking-on-street-during-nighttime-2607918/"
+          },
+          "alt": "Free Bustling night market in Bangkok with vibrant lights and people shopping and dining. Stock Photo",
+          "altRaw": "Free Bustling night market in Bangkok with vibrant lights and people shopping and dining. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2607918.jpg",
+          "keep": true
+        }
+      ]
+    },
+    {
+      "layout": "tt-swap",
+      "avoid": "קפריסין בשבוע",
+      "go": "קפריסין בסופ״ש",
+      "avoidLabel": "הגרסה המלאה:",
+      "goLabel": "הגרסה הקצרה:",
+      "alt": "קפריסין",
+      "images": [
+        {
+          "query": "cyprus coastal road mountains sea",
+          "id": "pexels-6190823",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/6190823/pexels-photo-6190823.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-a-road-beside-the-ocean-6190823/"
+          },
+          "alt": "Free Aerial shot capturing a rocky coastline with a winding road in Paphos, Cyprus. Stock Photo",
+          "altRaw": "Free Aerial shot capturing a rocky coastline with a winding road in Paphos, Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6190823.jpg",
+          "keep": true
+        },
+        {
+          "query": "larnaca promenade palm sunset people",
+          "id": "pexels-15699316",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/15699316/pexels-photo-15699316/free-photo-of-silhouette-of-streetlight-in-seaside.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/silhouette-of-streetlight-in-seaside-15699316/"
+          },
+          "alt": "Free Silhouette of palm trees and people by a seaside streetlight during sunset, creating a serene beach atmosphere. Stock Photo",
+          "altRaw": "Free Silhouette of palm trees and people by a seaside streetlight during sunset, creating a serene beach atmosphere. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15699316.jpg",
+          "keep": true
+        }
+      ]
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

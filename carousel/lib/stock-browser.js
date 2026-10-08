@@ -83,6 +83,10 @@ export async function searchPexelsBrowser(query, { perPage = 8 } = {}) {
         // not invented.
         credit: { name: null, url: null, page: f.page },
         alt: f.alt || query,
+        // The RAW alt, never backfilled from the query. A subject gate can
+        // only work on what Pexels actually said about the photo; filling
+        // the blank with the query makes every candidate look like a match.
+        altRaw: f.alt || '',
       });
       if (candidates.length >= perPage) break;
     }

@@ -1,0 +1,142 @@
+{
+  "clonedFrom": "tt-7539552679786351874",
+  "clonedUrl": "https://www.tiktok.com/@patspassport/photo/7539552679786351874",
+  "clonedAccount": "patspassport",
+  "sourceLikes": 135500,
+  "sourceSaves": 100800,
+  "sourceShares": 23700,
+  "sourceComments": 179,
+  "sourceSlides": 4,
+  "sourceCaption": "Save this video for your next trip to Rome!",
+  "sound": "המקור רוכב על טראק מספרייה בשם Daylight. בחר סאונד טרנדי ביום ההעלאה.",
+  "id": "tt-7-athens-gems",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "מקור חדש, והיחס הכי טוב שנמצא בין מאמץ לתוצאה: 135,500 לייקים ו-100,800 שמירות מארבע שקופיות בלבד. הועתק: שקופית פתיחה עם כותרת סריף לבנה באותיות גדולות על תמונת לילה, ואז מקום אחד לשקופית — סיכת מיקום, השם בסריף גדול, ושתיים-שלוש שורות קצרות מתחתיו, הכל ממורכז גבוה בפריים. שינוי מודע אחד: במקור הטקסט לבן בלי מתאר ונעלם מעל שמיים בהירים; אצלנו הוא עם מתאר, לפי הכלל הקבוע. היעד הוחלף. היעד: אתונה.",
+  "caption": "שלושה מקומות באתונה שלא מופיעים בשום מדריך. שמרו לטיול הבא.",
+  "hashtags": [
+    "אתונה",
+    "טיפיםלטיול",
+    "אתונה2026",
+    "טיולים",
+    "מקומותנסתרים"
+  ],
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "שלושה מקומות",
+        "באתונה",
+        "שאף אחד",
+        "לא מספר לכם"
+      ],
+      "alt": "נוף לילה באתונה",
+      "image": {
+        "query": "anafiotika plaka athens stairs bougainvillea white houses",
+        "id": "pexels-18252676",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/18252676/pexels-photo-18252676/free-photo-of-small-yard-with-flowers-by-house-in-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/small-yard-with-flowers-by-house-in-town-18252676/"
+        },
+        "alt": "Free Picturesque Greek house in Athens with bougainvillea and classic architecture. Stock Photo",
+        "altRaw": "Free Picturesque Greek house in Athens with bougainvillea and classic architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18252676.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "גבעת סטרפי",
+      "lines": [
+        "נוף לאקרופוליס בלי אף תייר",
+        "עשר דקות הליכה מאקסרכיה",
+        "תגיעו לפני השקיעה"
+      ],
+      "alt": "גבעת סטרפי 🌅",
+      "image": {
+        "query": "athens rooftop view acropolis golden hour people",
+        "id": "pexels-11945704",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/11945704/pexels-photo-11945704.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-photography-of-city-during-sunset-11945704/"
+        },
+        "alt": "Free Stunning view of the Acropolis and Athens at sunset with vibrant sky. Stock Photo",
+        "altRaw": "Free Stunning view of the Acropolis and Athens at sunset with vibrant sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11945704.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "גבעת הפניקס",
+      "lines": [
+        "פה נולדה הדמוקרטיה",
+        "נכנסים חינם ואין תורים",
+        "ויש אבן חלקה לשבת עליה"
+      ],
+      "alt": "גבעת הפניקס 🏛️",
+      "image": {
+        "query": "athens city view from rocky hill people sunset",
+        "id": "pexels-10368063",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/10368063/pexels-photo-10368063.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/man-carrying-a-girl-while-holding-a-camera-10368063/"
+        },
+        "alt": "Free A father carries his daughter on his shoulder with a view of Athens, Greece, at sunset. Stock Photo",
+        "altRaw": "Free A father carries his daughter on his shoulder with a view of Athens, Greece, at sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10368063.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "כיכר אבישיניאס",
+      "lines": [
+        "שוק עתיקות אמיתי",
+        "הכי שווה בראשון בבוקר",
+        "יש שם מציאות בין הגרוטאות"
+      ],
+      "alt": "כיכר אבישיניאס 🪑",
+      "image": {
+        "query": "athens flea market antiques square colourful stalls",
+        "id": "pexels-14379150",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14379150/pexels-photo-14379150.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/stall-on-city-square-market-14379150/"
+        },
+        "alt": "Free Captivating view of Athens Flea Market with vendors selling goods and shoppers exploring the area. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14379150.jpg",
+        "altRaw": "Free Captivating view of Athens Flea Market with vendors selling goods and shoppers exploring the area. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

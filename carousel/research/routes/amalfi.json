@@ -1,0 +1,122 @@
+{
+  "_": "Four chains for tt-27-amalfi-route. Stop list from italia.it, the Italian national tourism board, plus the standard day trips from the same coast with their own operators' figures. The four-slides-of-five shape is the precedent's.",
+  "city": "Campania, Italy",
+  "slideWord": "יום",
+  "en": {
+    "פומפיי": "Pompeii Archaeological Park",
+    "הרקולנאום": "Ercolano Scavi",
+    "הר הווזוב": "Quota 1000 Vesuvio",
+    "מרינה גרנדה סורנטו": "Marina Grande, Sorrento",
+    "וילה קומונלה סורנטו": "Villa Comunale, Sorrento",
+    "שביל האלים": "Bomerano Agerola",
+    "סנטה מריה אסונטה": "Chiesa di Santa Maria Assunta Positano",
+    "חוף מרינה גרנדה פוזיטאנו": "Spiaggia Grande Positano",
+    "חוף פורנילו": "Fornillo Positano",
+    "איי לי גאלי": "Li Galli Positano",
+    "קתדרלת אמלפי": "Duomo di Amalfi",
+    "אטרני": "Atrani",
+    "ראוולו, פיאצה וסקובדו": "Ravello, Salerno",
+    "וילה רופולו": "Villa Rufolo, Ravello",
+    "וילה צימברונה": "Villa Cimbrone, Ravello",
+    "המערה הכחולה": "Grotta Azzurra Anacapri",
+    "מונטה סולארו": "Monte Solaro, Anacapri",
+    "וילה סן מיקלה": "Villa San Michele, Anacapri",
+    "גני אוגוסטוס": "Giardini di Augusto, Capri",
+    "הפאראליוני": "Faraglioni, Capri",
+    "נוצ'לה": "Nocelle, Positano"
+  },
+  "chains": {
+    "1": [
+      "פומפיי",
+      "הרקולנאום",
+      "הר הווזוב",
+      "מרינה גרנדה סורנטו",
+      "וילה קומונלה סורנטו"
+    ],
+    "2": [
+      "שביל האלים",
+      "נוצ'לה",
+      "סנטה מריה אסונטה",
+      "חוף מרינה גרנדה פוזיטאנו",
+      "חוף פורנילו"
+    ],
+    "3": [
+      "קתדרלת אמלפי",
+      "אטרני",
+      "ראוולו, פיאצה וסקובדו",
+      "וילה רופולו",
+      "וילה צימברונה"
+    ],
+    "4": [
+      "המערה הכחולה",
+      "מונטה סולארו",
+      "וילה סן מיקלה",
+      "גני אוגוסטוס",
+      "הפאראליוני"
+    ]
+  },
+  "modes": {
+    "1": "car",
+    "2": "foot",
+    "3": "car",
+    "4": "car"
+  },
+  "modeWords": {
+    "1": "ברכבת",
+    "3": "באוטובוס",
+    "4": "באוטובוס"
+  },
+  "areas": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": ""
+  },
+  "backdrop": {
+    "1": "mount vesuvius naples bay wide landscape",
+    "2": "positano amalfi coast cliff village wide view",
+    "3": "amalfi town coast italy wide view",
+    "4": "capri island italy faraglioni rocks wide sea"
+  },
+  "shots": {
+    "פומפיי": "pompeii ruins forum columns vesuvius background",
+    "הרקולנאום": "herculaneum ercolano ruins italy excavation",
+    "הר הווזוב": "mount vesuvius crater rim path hikers",
+    "מרינה גרנדה סורנטו": "marina grande sorrento italy fishing harbour boats",
+    "וילה קומונלה סורנטו": "villa comunale sorrento terrace view bay naples",
+    "שביל האלים": "sentiero degli dei path of the gods amalfi coast hiking",
+    "סנטה מריה אסונטה": "santa maria assunta positano majolica dome church",
+    "חוף מרינה גרנדה פוזיטאנו": "spiaggia grande positano beach umbrellas village",
+    "חוף פורנילו": "fornillo beach positano cove pebbles",
+    "קתדרלת אמלפי": "duomo di amalfi cathedral stairs facade italy",
+    "אטרני": "atrani italy village piazza amalfi coast",
+    "ראוולו, פיאצה וסקובדו": "piazza vescovado ravello italy square",
+    "וילה רופולו": "villa rufolo ravello garden tower coast view",
+    "וילה צימברונה": "villa cimbrone terrace of infinity ravello statues",
+    "המערה הכחולה": "blue grotto capri rowing boat blue water cave",
+    "מונטה סולארו": "monte solaro capri chairlift view island",
+    "וילה סן מיקלה": "villa san michele anacapri sphinx terrace view",
+    "גני אוגוסטוס": "giardini di augusto capri gardens via krupp view",
+    "הפאראליוני": "faraglioni capri rocks turquoise sea",
+    "נוצ'לה": "nocelle positano amalfi coast hamlet stairs view"
+  },
+  "closing": {
+    "line1": "סיימנו את חוף אמלפי 🇮🇹",
+    "line2": "לאיזו עיר בא לכם הבא?",
+    "emoji": "כתבו בתגובות 👇",
+    "alt": "חוף אמלפי",
+    "query": "amalfi coast italy sunset sea cliffs view",
+    "must": [
+      "amalfi"
+    ]
+  },
+  "at": {
+    "סנטה מריה אסונטה": "Spiaggia Grande Positano"
+  },
+  "legText": {
+    "2": {
+      "0": "השביל עצמו, 7.8 קילומטר",
+      "2": "צמוד לחוף"
+    }
+  }
+}

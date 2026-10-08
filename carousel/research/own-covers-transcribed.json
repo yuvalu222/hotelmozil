@@ -1,0 +1,19 @@
+{
+  "_": "His own covers, read off the frame by eye, with the view count from his profile grid. Views are the only scroll-stopping metric in this project and the only Hebrew one. Transcribed 8.10 so the counts below can be audited instead of taken on trust.",
+  "_caveat": "The bottom of his grid is mostly AI-image posts from the account's earlier life, a different content category entirely. Comparing those to travel posts measures the category, not the cover. Only the 13 TRAVEL covers are compared with each other.",
+  "travel": [
+    { "views": 35900, "text": "איך עוברים ממקום למקום בתאילנד?", "person": "question", "number": null, "emojiRow": true, "accentWord": false },
+    { "views": 35300, "text": "חד משמעית ההמלצות הכי שוות שיש בסבן אילבן בתאילנד - חלק א", "person": "first", "number": null, "emojiRow": true, "accentWord": false },
+    { "views": 27900, "text": "כי אבל ההמלצות שלי מהסבן בתאילנד", "person": "first", "number": null, "emojiRow": true, "accentWord": false },
+    { "views": 23400, "text": "כמה עלה לנו חצי שנה במזרח? 10 מדינות!!!", "person": "first", "number": "time", "emojiRow": true, "accentWord": false },
+    { "views": 23100, "text": "דירגתי את היעדים בתאילנד כדי שלא תבזבזו את הטיול שלכם", "person": "first", "number": null, "emojiRow": true, "accentWord": false },
+    { "views": 21000, "text": "5 דברים שאסור לעשות בתאילנד", "person": "none", "number": "count", "emojiRow": false, "accentWord": true },
+    { "views": 19600, "text": "אחרי 5 פעמים הנה המסלול המושלם לתאילנד", "person": "first", "number": "time", "emojiRow": true, "accentWord": true },
+    { "views": 17000, "text": "כמה עלו לי 6 חודשים בדרום אמריקה? שמונה מדינות!", "person": "first", "number": "time", "emojiRow": true, "accentWord": false },
+    { "views": 12300, "text": "איך עוברים ממקום למקום בתאילנד?", "person": "question", "number": null, "emojiRow": true, "accentWord": false },
+    { "views": 2391, "text": "טופ 3 היעדים שהישראלים עוד לא יודעים עליהם בעולם (אל תהרסו את 1)", "person": "none", "number": "rank", "emojiRow": false, "accentWord": true },
+    { "views": 1989, "text": "3 היעדים שאסור לכם לפספס בתאילנד - שמרו לאחר כך!", "person": "none", "number": "rank", "emojiRow": false, "accentWord": true },
+    { "views": 1437, "text": "אל תסגרו את הכרטיס לתאילנד.", "person": "none", "number": null, "emojiRow": false, "accentWord": false },
+    { "views": 632, "text": "טופ 3 היעדים הכי מפוצצים בישראלים בתאילנד (ככה חסכתי כסף)", "person": "none", "number": "rank", "emojiRow": false, "accentWord": true }
+  ]
+}

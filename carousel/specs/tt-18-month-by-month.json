@@ -1,0 +1,271 @@
+{
+  "clonedFrom": "tt-7533736563604311318",
+  "clonedUrl": "https://www.tiktok.com/@berigold/photo/7533736563604311318",
+  "clonedAccount": "berigold",
+  "sourceLikes": 382700,
+  "sourceSaves": 185100,
+  "sourceSlides": 8,
+  "sourceCaption": "Over 200+ Greek islands - here's how to pick the right one for you",
+  "id": "tt-18-month-by-month",
+  "skin": "clone",
+  "platform": "tiktok",
+  "demonstrates": "אותו מנגנון החלטה שהביא ל-@berigold 185,100 שמירות, על ציר אחר: במקום למיין לפי מי שקורא, ממיין לפי **מתי** הוא טס. רוב התוכן בנישה עונה על 'לאן'; 'מתי' היא השאלה שבאמת חוסמת הזמנה, כי לכל חודש יש תשובה אחרת וכמעט אף אחד לא יודע אותה. הדק נשמר כי חוזרים אליו כשמתפנה חופשה.",
+  "caption": "לא לאן לטוס, אלא מתי. היעד הנכון לכל חודש בשנה. מתי אתם טסים?",
+  "hashtags": [
+    "טיפיםלטיול",
+    "יעדים",
+    "טיולים",
+    "חופשה",
+    "אירופה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "לא לאן לטוס",
+        "אלא מתי"
+      ],
+      "sub": "התשובה משתנה בכל חודש",
+      "alt": "מתי לטוס לאן",
+      "image": {
+        "query": "airplane wing above clouds sunrise golden",
+        "id": "pexels-19082533",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/19082533/pexels-photo-19082533/free-photo-of-view-of-a-sunrise-from-a-flying-airplane.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-a-sunrise-from-a-flying-airplane-19082533/"
+        },
+        "alt": "Free A breathtaking view of an airplane wing against a colorful sunrise sky, perfect for travel inspiration. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19082533.jpg",
+        "altRaw": "Free A breathtaking view of an airplane wing against a colorful sunrise sky, perfect for travel inspiration. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "ינואר",
+      "lines": [
+        "לפלנד או דובאי",
+        "אור צפוני או שלושים מעלות. אין אמצע"
+      ],
+      "alt": "ינואר ❄️",
+      "image": {
+        "query": "northern lights snow cabin aurora night",
+        "id": "pexels-27206144",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/27206144/pexels-photo-27206144/free-photo-of-the-aurora-bore-lights-up-the-sky-over-a-cabin.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/the-aurora-bore-lights-up-the-sky-over-a-cabin-27206144/"
+        },
+        "alt": "Free Captivating view of the Northern Lights illuminating a snowy landscape and modern cabin at night. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27206144.jpg",
+        "altRaw": "Free Captivating view of the Northern Lights illuminating a snowy landscape and modern cabin at night. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מרץ",
+      "lines": [
+        "רומא או ליסבון",
+        "לפני ההמון ואחרי הגשם"
+      ],
+      "alt": "מרץ 🌸",
+      "image": {
+        "query": "lisbon yellow tram colorful street sunny",
+        "id": "pexels-16338751",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16338751/pexels-photo-16338751/free-photo-of-a-tram-on-the-streets-of-lisbon-portugal.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-tram-on-the-streets-of-lisbon-portugal-16338751/"
+        },
+        "alt": "Free Vintage tram navigating the colorful streets of Lisbon on a bright summer day, capturing urban life. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16338751.jpg",
+        "altRaw": "Free Vintage tram navigating the colorful streets of Lisbon on a bright summer day, capturing urban life. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "מאי",
+      "lines": [
+        "כרתים ורודוס",
+        "הים כבר נעים והאיים עוד ריקים"
+      ],
+      "alt": "מאי 🩵",
+      "image": {
+        "query": "crete beach turquoise empty sunny cliffs",
+        "id": "pexels-12507015",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12507015/pexels-photo-12507015.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/white-sailboats-near-seashore-under-blue-sky-12507015/"
+        },
+        "alt": "Free Serene view of turquoise waters and sailboats at Gramvousa beach, Greece. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12507015.jpg",
+        "altRaw": "Free Serene view of turquoise waters and sailboats at Gramvousa beach, Greece. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "יוני",
+      "lines": [
+        "האלפים והדולומיטים",
+        "שיא הפריחה בהרים"
+      ],
+      "alt": "יוני 🏔️",
+      "image": {
+        "query": "dolomites wildflowers meadow peaks summer",
+        "id": "pexels-25858265",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/25858265/pexels-photo-25858265/free-photo-of-mountain-in-clouds.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/mountain-in-clouds-25858265/"
+        },
+        "alt": "Free Stunning view of a mountain peak surrounded by vibrant wildflowers and lush forest. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-25858265.jpg",
+        "altRaw": "Free Stunning view of a mountain peak surrounded by vibrant wildflowers and lush forest. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "אוגוסט",
+      "lines": [
+        "תטוסו צפונה, לא דרומה",
+        "סקנדינביה והבלטיות, בלי החום"
+      ],
+      "alt": "אוגוסט 🧊",
+      "image": {
+        "query": "norway fjord colorful houses summer sunny",
+        "id": "pexels-1559825",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/1559825/pexels-photo-1559825.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/landmark-city-1559825/"
+        },
+        "alt": "Free Scenic view of a colorful village by the fjord against a dramatic sunset in Vågan, Nordland, Norway. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1559825.jpg",
+        "altRaw": "Free Scenic view of a colorful village by the fjord against a dramatic sunset in Vågan, Nordland, Norway. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "ספטמבר",
+      "lines": [
+        "האיים היווניים",
+        "החודש הכי טוב שם, בלי ויכוח"
+      ],
+      "alt": "ספטמבר 🏝️",
+      "image": {
+        "query": "greek island village colorful houses sunset sea",
+        "id": "pexels-20184987",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/20184987/pexels-photo-20184987/free-photo-of-boats-moored-along-shore-of-symi-island.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/boats-moored-along-shore-of-symi-island-20184987/"
+        },
+        "alt": "Free Charming coastal village of Symi, Greece with colorful houses and docked boats. Stock Photo",
+        "altRaw": "Free Charming coastal village of Symi, Greece with colorful houses and docked boats. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20184987.jpg",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "נובמבר",
+      "lines": [
+        "תאילנד או וייטנאם",
+        "אחרי הגשמים, לפני העומס"
+      ],
+      "alt": "נובמבר 🌴",
+      "image": {
+        "query": "thailand beach longtail boat clear sky",
+        "id": "pexels-39645369",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39645369/pexels-photo-39645369/free-photo-of-traditional-longtail-boat-on-krabi-beach.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/traditional-longtail-boat-on-krabi-beach-39645369/"
+        },
+        "alt": "Free A traditional longtail boat anchored on a pristine beach in Krabi, Thailand, under a clear blue sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39645369.jpg",
+        "altRaw": "Free A traditional longtail boat anchored on a pristine beach in Krabi, Thailand, under a clear blue sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "דצמבר",
+      "lines": [
+        "בודפשט או פראג",
+        "שווקי חג ומרחצאות חמים"
+      ],
+      "alt": "דצמבר 🎄",
+      "image": {
+        "query": "christmas market lights snow europe crowd",
+        "id": "pexels-19416902",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/19416902/pexels-photo-19416902/free-photo-of-people-on-christmas-fair-in-front-of-shopping-mall.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/people-on-christmas-fair-in-front-of-shopping-mall-19416902/"
+        },
+        "alt": "Free Shoppers stroll through a bustling Christmas market amidst snowfall in the city. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19416902.jpg",
+        "altRaw": "Free Shoppers stroll through a bustling Christmas market amidst snowfall in the city. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

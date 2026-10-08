@@ -1,0 +1,364 @@
+{
+  "id": "tt-5-rome-guide",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7679870394685230358",
+  "clonedUrl": "https://www.tiktok.com/@izzy_travels_/photo/7679870394685230358",
+  "clonedAccount": "izzy_travels_",
+  "sourceLikes": 66200,
+  "sourceSaves": 68100,
+  "sourceShares": 18100,
+  "sourceComments": 556,
+  "sourceSlides": 12,
+  "sourceCaption": "THE ULTIMATE EVERYTHING YOU NEED TO KNOW BEFORE TRAVELING TO THAILAND",
+  "demonstrates": "יישום שלישי של המקור החזק ביותר באוסף, היעד הוחלף לרומא. רומא מתאימה לתבנית מאותה סיבה שתאילנד התאימה: הערך של הקרוסלה הוא במכשולים מעשיים, ולרומא יש מספר חריג של כאלה שעולים לתיירים כסף או זמן כבר ביום הראשון. איטליה היא מחמשת היעדים המובילים מנתב״ג.",
+  "caption": "כל מה שצריך לדעת לפני טיסה לרומא",
+  "hashtags": [
+    "רומא",
+    "איטליה",
+    "טיפיםלטיול",
+    "רומא2026",
+    "טיולים"
+  ],
+  "sound": "טראק טרנדי מהספרייה, נבחר ביום ההעלאה. המקור עושה בדיוק את זה (\"DTMF X BRAZIL\"), בלי קשר לתוכן.",
+  "slides": [
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "אל תטוסו",
+        "לרומא"
+      ],
+      "sub": "לפני שתקראו את זה",
+      "foot": [
+        "כל מה שצריך לדעת",
+        "לפני טיסה לרומא"
+      ],
+      "alt": "הקולוסיאום ברומא בשעת ערב",
+      "image": {
+        "query": "colosseum rome evening light",
+        "id": "pexels-14680182",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/14680182/pexels-photo-14680182.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/view-of-the-colosseum-at-dusk-14680182/"
+        },
+        "alt": "Free Stunning view of the Colosseum against a dramatic sunset sky in Rome, Italy. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14680182.jpg",
+        "altRaw": "Free Stunning view of the Colosseum against a dramatic sunset sky in Rome, Italy. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מתי לטוס:",
+      "items": [
+        "אפריל-יוני וספטמבר-אוקטובר:\nהכי נוח",
+        "יולי-אוגוסט: חם מאוד ומלא",
+        "נובמבר-מרץ: קריר וגשום,\nאבל הרבה פחות תורים"
+      ],
+      "alt": "כיכר ברומא עם מזרקה",
+      "image": {
+        "query": "rome piazza navona fountain square",
+        "id": "pexels-36610294",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36610294/pexels-photo-36610294/free-photo-of-neptune-fountain-in-rome-s-vibrant-piazza.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/neptune-fountain-in-rome-s-vibrant-piazza-36610294/"
+        },
+        "alt": "Free Admire the detailed craftsmanship of Neptune's Fountain in Rome's lively Piazza Navona. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36610294.jpg",
+        "altRaw": "Free Admire the detailed craftsmanship of Neptune's Fountain in Rome's lively Piazza Navona. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "לפני הטיסה:",
+      "items": [
+        "להזמין מראש כרטיסים לקולוסיאום\nולוותיקן. בלי זה פשוט\nלא נכנסים בעונה",
+        "נעליים נוחות. רומא\nכולה אבן",
+        "במקומות קדושים צריך\nלכסות כתפיים וברכיים"
+      ],
+      "alt": "מדרגות אבן ברומא",
+      "image": {
+        "query": "rome cobblestone street steps",
+        "id": "pexels-19887076",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/19887076/pexels-photo-19887076/free-photo-of-people-in-cobblestone-alley-in-city.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/people-in-cobblestone-alley-in-city-19887076/"
+        },
+        "alt": "Free Picturesque cobblestone alley with stairs in Rome. A perfect blend of architecture and street life. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19887076.jpg",
+        "altRaw": "Free Picturesque cobblestone alley with stairs in Rome. A perfect blend of architecture and street life. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "כסף",
+      "accent": "המטבע הוא אירו",
+      "items": [
+        "כרטיס אשראי מתקבל\nכמעט בכל מקום",
+        "להחזיק קצת מזומן\nלבתי קפה קטנים",
+        "במסעדות גובים דמי כיסוי\nלסועד. זה חוקי וזה מופיע\nבתפריט",
+        "‼לא להחליף כסף בשדה התעופה"
+      ],
+      "alt": "בית קפה ברחוב ברומא",
+      "image": {
+        "query": "rome cafe street tables espresso",
+        "id": "pexels-35607126",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35607126/pexels-photo-35607126/free-photo-of-charming-street-scene-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/charming-street-scene-in-rome-italy-35607126/"
+        },
+        "alt": "Free Idyllic street corner cafe in Rome with historic architecture under a bright sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35607126.jpg",
+        "altRaw": "Free Idyllic street corner cafe in Rome with historic architecture under a bright sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "סים ואינטרנט",
+      "items": [
+        "eSIM זה הכי פשוט",
+        "אירופה כולה חבילה אחת\nברוב המסלולים",
+        "וואי פיי ציבורי יש,\nאבל לא בכל מקום"
+      ],
+      "alt": "רחוב צר ברומא",
+      "image": {
+        "query": "rome narrow alley trastevere",
+        "id": "pexels-33009161",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/33009161/pexels-photo-33009161/free-photo-of-charming-historic-street-in-rome-s-trastevere.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/charming-historic-street-in-rome-s-trastevere-33009161/"
+        },
+        "alt": "Free Beautiful narrow street with traditional Roman architecture in Trastevere, Rome, Italy. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33009161.jpg",
+        "altRaw": "Free Beautiful narrow street with traditional Roman architecture in Trastevere, Rome, Italy. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "שקעים",
+      "accent": "צריך מתאם?",
+      "items": [
+        "באיטליה 230V, כמו בארץ",
+        "השקע אירופי, שני פינים עגולים",
+        "התקע הישראלי התלת-פיני\nלא נכנס. ראש אירופי דק,\nכמו שיש להרבה מטענים, כן",
+        "מתאם קטן פותר את זה"
+      ],
+      "alt": "חדר במלון באיטליה",
+      "image": {
+        "query": "italy hotel room window shutters",
+        "id": "pexels-16040169",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16040169/pexels-photo-16040169/free-photo-of-open-italian-window-with-shutters.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/open-italian-window-with-shutters-16040169/"
+        },
+        "alt": "Free Image of wooden shutters opening to view a classic Italian courtyard facade. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16040169.jpg",
+        "altRaw": "Free Image of wooden shutters opening to view a classic Italian courtyard facade. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "איפה לישון?",
+      "accent": "פעם ראשונה? מרכז או מונטי",
+      "items": [
+        "המרכז ההיסטורי: הכל ברגל,\nוגם הכי הומה",
+        "מונטי: קרוב לקולוסיאום,\nשכונתי",
+        "טרסטוורה: ערב, מסעדות,\nאווירה",
+        "פראטי: ליד הוותיקן, שקט"
+      ],
+      "alt": "גגות רומא מלמעלה",
+      "image": {
+        "query": "rome rooftops view terracotta city",
+        "id": "pexels-36789198",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36789198/pexels-photo-36789198/free-photo-of-colorful-residential-buildings-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/colorful-residential-buildings-in-rome-italy-36789198/"
+        },
+        "alt": "Free View of vibrant residential buildings in Rome, Italy, showcasing architectural diversity and urban scenery. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36789198.jpg",
+        "altRaw": "Free View of vibrant residential buildings in Rome, Italy, showcasing architectural diversity and urban scenery. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מה לראות ברומא",
+      "items": [
+        "הקולוסיאום והפורום",
+        "הפנתיאון",
+        "מזרקת טרווי מוקדם בבוקר",
+        "מדרגות ספרד",
+        "הוותיקן והקפלה הסיסטינית",
+        "כיכר נאבונה",
+        "טרסטוורה בערב",
+        "גבעת האבנטינו וחור המנעול"
+      ],
+      "alt": "הפנתיאון ברומא",
+      "image": {
+        "query": "pantheon rome facade columns",
+        "id": "pexels-32489793",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/32489793/pexels-photo-32489793/free-photo-of-majestic-view-of-the-pantheon-in-rome-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/majestic-view-of-the-pantheon-in-rome-italy-32489793/"
+        },
+        "alt": "Free Detailed architectural view of the Pantheon in Rome, showcasing its classic Roman design. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-32489793.jpg",
+        "altRaw": "Free Detailed architectural view of the Pantheon in Rome, showcasing its classic Roman design. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "אוכל",
+      "accent": "מה לטעום?",
+      "items": [
+        "קאצו אה פפה",
+        "קרבונרה",
+        "אמטריצאנה",
+        "סופלי",
+        "פיצה אל טאליו",
+        "ארטישוק בסגנון יהודי-רומאי",
+        "ג'לאטו, רק במקום\nשהצבעים בו לא זוהרים",
+        "אספרסו בעמידה ליד הבר"
+      ],
+      "alt": "פסטה על שולחן באיטליה",
+      "image": {
+        "query": "italian pasta dish restaurant table",
+        "id": "pexels-39022061",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39022061/pexels-photo-39022061/free-photo-of-spaghetti-with-tomato-sauce-and-parmesan-cheese.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/spaghetti-with-tomato-sauce-and-parmesan-cheese-39022061/"
+        },
+        "alt": "Free Delicious spaghetti with rich tomato sauce topped with grated Parmesan cheese on a wooden table. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39022061.jpg",
+        "altRaw": "Free Delicious spaghetti with rich tomato sauce topped with grated Parmesan cheese on a wooden table. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "טעויות נפוצות",
+      "items": [
+        "לאכול בכיכרות התיירותיות",
+        "להזמין קפוצינו אחרי ארוחה",
+        "לשכוח לתקף כרטיס\nבאוטובוס ובמטרו",
+        "להיכנס לרכב לאזור ZTL.\nהדוח מגיע הביתה",
+        "כיסים פתוחים בקו 64\nוליד תחנת טרמיני",
+        "לקנות בקבוקי מים.\nיש ברזיות בכל רחוב",
+        "לנסות לראות הכל ביומיים",
+        "להגיע לוותיקן בלי להזמין"
+      ],
+      "alt": "תחנת אוטובוס ברומא",
+      "image": {
+        "query": "rome bus stop street traffic",
+        "id": "pexels-30166529",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/30166529/pexels-photo-30166529/free-photo-of-busy-urban-scene-in-rome-lazio-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/busy-urban-scene-in-rome-lazio-italy-30166529/"
+        },
+        "alt": "Free Pedestrians and traffic in a lively Rome street, capturing urban life and historic architecture. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30166529.jpg",
+        "altRaw": "Free Pedestrians and traffic in a lively Rome street, capturing urban life and historic architecture. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "שמרו את זה"
+      ],
+      "sub": "לטיול שלכם ברומא",
+      "foot": [
+        "ותכתבו בתגובות מה פספסתי"
+      ],
+      "alt": "נוף על רומא בשקיעה",
+      "image": {
+        "query": "rome skyline sunset dome city",
+        "id": "pexels-29267722",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/29267722/pexels-photo-29267722/free-photo-of-beautiful-rome-sunset-with-silhouette-of-dome.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/beautiful-rome-sunset-with-silhouette-of-dome-29267722/"
+        },
+        "alt": "Free Captivating sunset over Rome featuring iconic dome silhouette with vibrant sky. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29267722.jpg",
+        "altRaw": "Free Captivating sunset over Rome featuring iconic dome silhouette with vibrant sky. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

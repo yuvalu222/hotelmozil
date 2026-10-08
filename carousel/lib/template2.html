@@ -34,7 +34,7 @@
     background:linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,.55) 74%, rgba(0,0,0,.80) 100%); }
 
   /* ======== skin: caps-scrim (mustvisitjapan cover, vnexpress cover) ======== */
-  .caps { position:absolute; right:64px; left:64px; bottom:420px; display:flex; flex-direction:column; align-items:flex-start; gap:18px; }
+  .caps { position:absolute; right:64px; left:64px; bottom:420px; display:flex; flex-direction:column; align-items:center; text-align:center; gap:18px; }
   .caps .pill { display:inline-block; background:#d81e1e; color:#fff; font:700 34px/1 'Heebo'; padding:12px 20px 10px; border-radius:6px; letter-spacing:.02em; }
   .caps .head { font:700 152px/0.98 'Karantina'; color:#fff; text-shadow:0 4px 18px rgba(0,0,0,.45); white-space:pre-line; }
   .caps .head.rubik { font:900 96px/1.06 'Rubik'; letter-spacing:-.01em; }
@@ -96,7 +96,7 @@
   .cityh .lbl { font:500 46px/1 'Heebo'; color:#fff; opacity:.95; margin-bottom:6px; }
   .cityh .city { font:900 210px/0.86 'Heebo'; color:#fff; letter-spacing:-.03em;
                  text-shadow:0 6px 34px rgba(0,0,0,.6); }
-  .cityh .sec { font:500 44px/1 'Heebo'; color:#fff; opacity:.9; align-self:flex-end; margin-top:10px; }
+  .cityh .sec { font:500 44px/1 'Heebo'; color:#fff; opacity:.9; align-self:center; margin-top:10px; }
   .cityline { position:absolute; left:80px; right:80px; bottom:430px; text-align:center;
               font:700 52px/1.25 'Heebo'; color:#fff; text-shadow:0 2px 16px rgba(0,0,0,.75); }
 
@@ -163,9 +163,391 @@
   .shot { position:absolute; top:340px; left:190px; width:700px; height:1240px; border-radius:36px; overflow:hidden; box-shadow:0 30px 90px rgba(0,0,0,.6); background:#111; }
   .shot img { width:100%; height:100%; object-fit:cover; display:block; }
 
+  /* ======== TikTok clone skins =========================================
+     Every number here was measured off the source slides (2160px and 1440px
+     wide) and divided down to this 1080px canvas. Where a value looks odd it
+     is because the source is odd — the source wins. */
+
+  /* @izzy_travels_ hook: white caps, black OUTLINE behind the fill. */
+  .tth { position:absolute; top:21%; left:0; right:0; padding:0 46px; text-align:center; }
+  .tth-big { font:900 150px/1.04 'Heebo'; color:#fff; letter-spacing:-2px;
+             -webkit-text-stroke:10px #000; paint-order:stroke fill; }
+  .tth-sub { font:800 82px/1.2 'Heebo'; color:#fff; margin-top:14px;
+             -webkit-text-stroke:6px #000; paint-order:stroke fill; }
+  .tth-foot { position:absolute; top:70%; left:0; right:0; padding:0 70px; text-align:center;
+              font:700 42px/1.32 'Heebo'; color:#fff;
+              -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+
+  /* ===== The house text treatment, and it is not optional =====================
+     White fill, black OUTLINE, iPhone emoji. Owner's standing instruction 2.10:
+     "כיתוב לבן עם מסגרת שחורה, אימוג'ים של אייפון - זה נראה ככה הכי קלין והכי
+     טוב - לא עכשיו אלא תמיד." It is also what the source deck uses on the
+     slides that carry the most copy.
+
+     `paint-order:stroke fill` is mandatory, not decoration: without it the
+     stroke paints over the glyph and eats it from the inside (measured — see
+     the three-way test in recon/). A drop shadow is NOT a substitute; it gives
+     a soft halo that disappears over a busy photo, which is exactly the
+     "הטקסט לא נראה לעין" failure.
+
+     Sizes are deliberately larger than the source's pixel values. Hebrew words
+     are shorter than English, so holding the source's size shrinks the line
+     against the frame; what the source keeps constant is the text OWNING the
+     frame, and that is what gets copied. */
+  .ink        { color:#fff; paint-order:stroke fill; }
+
+  /* @izzy_travels_ content slide: title, optional accent line, body lines. */
+  .ttc { position:absolute; inset:0; padding:250px 0 0; direction:rtl; }
+  .ttc-title { margin:0 auto; width:fit-content; max-width:92%; text-align:center;
+               font:900 92px/1.18 'Heebo'; color:#fff;
+               -webkit-text-stroke:6px #000; paint-order:stroke fill; }
+  .ttc-accent { margin:22px auto 0; width:fit-content; max-width:88%; text-align:center;
+                font:800 52px/1.22 'Heebo'; color:#ffe27a;
+                -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .ttc-body { margin:34px 64px 0 64px; text-align:center; }
+  .tt-item { margin:0 0 24px; font:800 46px/1.38 'Heebo'; color:#fff;
+             -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+
+  /* @emsriley list slide. The source runs a whisper-small line because its own
+     photography carries the slide; ours is stock, and the owner called the
+     small line unreadable, so the line is sized to be read in a feed. */
+  /* 150px of side padding, not 56: TikTok's like/comment/share rail sits over
+     the right 150px in every language (analyze/overflow-check.mjs), and the
+     cover lines ran to x=1024. Kept symmetric so the block stays optically
+     centred — the precedent covers centre theirs too. */
+  .ttt { position:absolute; left:0; right:0; padding:0 150px; text-align:center;
+         direction:rtl; color:#fff; }
+  /* ⚠️ `top` at 6% is 115px and sits UNDER the TikTok header — it is kept only
+     because older specs reference it, and nothing new should use it.
+     `upper` was 13% = 250px, which looks safe and is not: the first line's box
+     starts above the container by its leading, so the glyphs landed at 237px,
+     inside the 240px header band. 15% clears it with the measurement, not with
+     an estimate. */
+  .ttt.top   { top:6%; }
+  .ttt.upper { top:15%; }
+  .ttt.mid   { top:42%; }
+  .ttt.low   { top:72%; }
+  .ttt-title { font:900 82px/1.16 'Heebo'; color:#fff;
+               -webkit-text-stroke:6px #000; paint-order:stroke fill; }
+  .ttt-line  { font:800 54px/1.32 'Heebo'; display:flex; justify-content:center;
+               gap:.28em; direction:rtl; flex-wrap:wrap; color:#fff;
+               -webkit-text-stroke:5px #000; paint-order:stroke fill; }
+  .ttt-n     { unicode-bidi:isolate; color:#ffe27a; }
+  .ttt-note  { font:700 41px/1.36 'Heebo'; margin-top:14px; color:#fff;
+               -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+  .ttt-sub   { font:700 44px/1.3 'Heebo'; margin-top:16px; color:#fff;
+               -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+
+  /* ===== @cinexplorerr: paper memo cover, then structured destination cards.
+     216,500 likes / 126,300 SAVES — the best save count in the corpus.
+     The cover carries no photo: against a feed of saturated images a plain
+     cream page is what stops the thumb. Dark ink on paper needs no outline;
+     the outline rule is for text fighting a photograph. */
+  .memo { position:absolute; inset:0; background:#f3ead8; direction:rtl;
+          padding:260px 86px 380px; display:flex; flex-direction:column; text-align:center; }
+  /* bottom padding clears the strip TikTok draws its caption, handle and
+     music line over — measured at ~330px, so the closing line is not
+     covered by the app on the one slide that carries the hotel tip */
+  .memo-no { font:500 44px/1.2 'Heebo'; color:#9a8e76; letter-spacing:2px; }
+  .memo-title { margin-top:auto; margin-bottom:auto;
+                font:700 130px/1.16 'Frank Ruhl Libre'; color:#2b2419; }
+  .memo-sub { font:500 46px/1.4 'Heebo'; color:#7d7260; }
+
+  .card { position:absolute; top:270px; right:70px; left:70px; direction:rtl;
+          text-align:center; color:#fff; }
+  .card-head { font:900 68px/1.2 'Heebo'; color:#fff;
+               -webkit-text-stroke:5px #000; paint-order:stroke fill; }
+  .card-meta { margin-top:12px; font:700 44px/1.45 'Heebo'; color:#ffe27a;
+               -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .card-meta span { display:block; }
+  .card-label { margin-top:22px; font:800 46px/1.3 'Heebo'; color:#9fe3ff;
+                -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .card-list { margin:6px 0 0; padding:0; list-style:none;
+               font:700 42px/1.4 'Heebo'; color:#fff;
+               -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .card-list li { margin-bottom:2px; }
+
+  /* ===== @patspassport: "THREE HIDDEN GEMS IN ROME".
+     135,500 likes / 100,800 saves off FOUR slides. Serif, centred, high in the
+     frame. The source sets it with no outline and it vanishes over bright sky;
+     ours keeps the outline. */
+  .gem-cover { position:absolute; top:26%; left:0; right:0; padding:0 70px;
+               text-align:center; direction:rtl;
+               font:700 96px/1.2 'Frank Ruhl Libre'; color:#fff;
+               -webkit-text-stroke:7px #000; paint-order:stroke fill; }
+  .gem-cover-sub { position:absolute; top:70%; left:0; right:0; padding:0 80px;
+                   text-align:center; direction:rtl;
+                   font:500 44px/1.35 'Heebo'; color:#fff;
+                   -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .gem { position:absolute; top:26%; left:0; right:0; padding:0 56px;
+         text-align:center; direction:rtl; }
+  .gem-name { font:700 74px/1.2 'Frank Ruhl Libre'; color:#fff;
+              -webkit-text-stroke:5px #000; paint-order:stroke fill; }
+  .gem-lines { margin-top:16px; font:600 40px/1.44 'Heebo'; color:#fff;
+               -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+
+  /* @aimsi.unfiltered 3x3 city collage. Nine photos, one label, no gutters —
+     the grid reads as one image, which is why it stops a thumb. */
+  .g9 { position:absolute; inset:0; display:grid;
+        grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr); }
+  .g9-cell { overflow:hidden; background:#0b0b0f; }
+  .g9-cell img { width:100%; height:100%; object-fit:cover; display:block; }
+  .g9-label { position:absolute; top:50%; left:0; right:0; transform:translateY(-50%);
+              text-align:center; direction:rtl; padding:0 40px; }
+  .g9-label span { display:block; font:900 62px/1.18 'Heebo'; color:#fff;
+                   -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .g9-label .g9-note { font:700 40px/1.32 'Heebo'; margin-top:8px;
+                       -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+
+  /* @epictodo: two photos of one place, stacked full-bleed, label on the seam. */
+  .sp2 { position:absolute; inset:0; display:grid; grid-template-rows:1fr 1fr; }
+  .sp2-half { overflow:hidden; background:#0b0b0f; }
+  .sp2-half img { width:100%; height:100%; object-fit:cover; display:block; }
+  .sp2-label { position:absolute; top:calc(50% + 14px); left:0; right:0;
+               text-align:center; direction:rtl; padding:0 50px; }
+  .sp2-label span { display:block; font:900 46px/1.2 'Heebo'; color:#fff;
+                    -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .sp2-label .sp2-note { font:700 38px/1.32 'Heebo'; margin-top:6px;
+                         -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+
+  /* @nearxfar: a white page, not a photo. 468,000 saves — the most in the
+     corpus — on dense, specific, genuinely useful prose. */
+  .pg { position:absolute; inset:0; background:#fff; direction:rtl;
+        padding:260px 70px 352px; display:flex; flex-direction:column; }
+  /* 352px at the foot keeps the image caption clear of the strip TikTok
+     draws its own caption and action rail over — measured at ~330px. */
+  .pg-q { font:800 62px/1.26 'Heebo'; color:#111; }
+  .pg-body { margin-top:26px; font:400 44px/1.46 'Heebo'; color:#1b1b1b; }
+  .pg-body p { margin:0 0 20px; }
+  .pg-body b { font-weight:800; }
+  /* The image follows the text, it does not sink to the floor: margin-top:auto
+     left a page-high white gap on the shorter pages, which the source never has. */
+  .pg-art { margin-top:34px; border-radius:10px; overflow:hidden; background:#eee;
+            flex:1 1 auto; min-height:470px; }
+  .pg-art img { width:100%; height:100%; object-fit:cover; display:block; }
+  .pg-cap { font:600 32px/1.3 'Heebo'; color:#fff; background:rgba(0,0,0,.55);
+            padding:10px 16px; margin-top:-62px; position:relative; }
+
+  /* @cuddlynest: the expensive place on top, the one that looks the same for
+     less underneath. 1.18 saves per like — the best ratio in the corpus. */
+  .swap { position:absolute; inset:0; display:grid; grid-template-rows:1fr 1fr; }
+  .swap-half { position:relative; overflow:hidden; background:#0b0b0f; }
+  .swap-half img { width:100%; height:100%; object-fit:cover; display:block; }
+  .swap-tag { position:absolute; left:0; right:0; text-align:center; direction:rtl; padding:0 40px; }
+  .swap-tag.hi { bottom:58px; }
+  /* The source puts the lower label at the foot of its half, which on a 1920
+     frame lands at ~1862px — straight under the strip TikTok draws its caption
+     and action rail over. Raised so the pair is still read as a pair, and both
+     halves of the swap are actually visible in the feed. */
+  .swap-tag.lo { bottom:400px; }
+  .swap-l { display:block; font:800 40px/1.2 'Heebo'; color:#fff;
+            -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+  .swap-p { display:block; margin-top:4px; font:900 52px/1.18 'Heebo'; color:#fff;
+            -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+
+  /* ---- tt-stack: the dense shape the top of the corpus uses (TIKTOK.md 9c).
+     Measured, not guessed: saved decks carry ~3x the text of scrolled ones,
+     starting higher and in a much taller block. The structure borrowed is
+     blurred backdrop + a thumbnail and a hard number per row; the look is
+     ours — his outlined white type and the green sampled off his own closing
+     card (#70d050). */
+  /* blur(30px) on a 1080px-wide frame removed every edge in the photograph,
+     so the backdrop rendered as one flat field of colour — a teal rectangle
+     on the Amalfi deck, with no place visible in it. That breaks the standing
+     rule that every image has to be a WOW. Legibility here comes from the
+     black stroke on the glyphs and the scrim, not from destroying the photo,
+     so the blur drops to where the coastline still reads. */
+  .stk-bg { position:absolute; inset:-8%; width:116%; height:116%; object-fit:cover;
+            filter:blur(14px) saturate(1.15) brightness(0.98); transform:scale(1.06); }
+  /* Heavier and flatter than before. A saturated backdrop blurred into one
+     orange field and competed with the copy; the scrim now guarantees the
+     type wins whatever the photograph does. */
+  .stk-scrim { position:absolute; inset:0;
+               background:linear-gradient(180deg,rgba(8,10,14,.50),rgba(8,10,14,.38) 45%,rgba(8,10,14,.60)); }
+  /* Centred in the padding box: the four rows ended around y=1290 and left
+     the bottom third of the frame empty, which read as an unfinished slide.
+     The padding still holds the content clear of the TikTok header and the
+     caption strip, so centring inside it cannot push anything under them. */
+  .stk { position:absolute; inset:0; direction:rtl; padding:262px 56px 360px;
+         display:flex; flex-direction:column; justify-content:center; }
+  .stk-head { font:900 76px/1.12 'Heebo'; color:#fff; text-align:center;
+              -webkit-text-stroke:5px #000; paint-order:stroke fill; }
+  .stk-sub { margin-top:10px; font:700 40px/1.25 'Heebo'; color:#fff; text-align:center;
+             -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+  /* Pinned width, centred. Left to size itself the block drifted with the
+     length of the copy: thumbnails landed at x=919 on one slide and 946 on
+     the next, and 946 is under TikTok's like/comment rail. 760px centres the
+     block at 160..920 and puts the column exactly where the slide that came
+     out right already had it. */
+  .stk-rows { margin:24px auto 0; width:760px;
+              display:flex; flex-direction:column; gap:18px; }
+  .stk-row { display:grid; grid-template-columns:196px 1fr; gap:24px; align-items:center; }
+  /* 258px left the text column at 478px, and a line measured at 461px in the
+     DOM still wrapped in the rendered JPEG — the painted stroke is wider than
+     the layout box the measurement sees. Calibrating against a 17px margin was
+     always going to break. 224px gives the copy 512px and real headroom. */
+  .stk-thumb { width:196px; height:196px; border-radius:22px; overflow:hidden;
+               box-shadow:0 10px 30px rgba(0,0,0,.45); background:#111; }
+  .stk-thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+  .stk-txt { min-width:0; }
+  .stk-name { font:900 52px/1.16 'Heebo'; color:#fff;
+              -webkit-text-stroke:4px #000; paint-order:stroke fill; }
+  .stk-fact { margin-top:8px; font:700 40px/1.3 'Heebo'; color:#fff;
+              -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+  .stk-fact b { color:#70d050; font-weight:900; }
+
+
+  /* ------------------------------------------------------------------
+     tt-route — EVERY NUMBER BELOW IS MEASURED off @vitortrip 02.jpg
+     (analyze/measure-source-layout.mjs), not chosen.
+
+     Owner, 8.10: "you guess nothing. Not the size of each tile — check the
+     precedent you took the inspiration from." Every previous value here was
+     mine: tile 330 then 310, rail 56 then 100 then 110, text column 410.
+     The measurements say most of them were wrong, two of them backwards.
+
+       photo tile      x 125..483    358 wide          (I had 310)
+       gap                            14               (I had 15)
+       text column     x 497..782    285 wide          (I had 410 — 44% too wide)
+       left margin                   125               (I had 60)
+       right margin                  298               (I had 150)
+       first row top   y 369
+       row pitch                     270   (names at 408/686/959/1221/1489)
+       row height                    ~200
+       name ink height               23px  -> ~33px type
+       fact ink height               17px  -> ~24px type
+       fact lines per stop           exactly 2         (I allowed 3)
+       stops per slide               5
+     ------------------------------------------------------------------ */
+  /* ------------------------------------------------------------------
+     tt-route — measured off the precedent, every number, 8.10.
+
+     Sources: the three highest-saving walking-route decks in the corpus,
+     which agree on all of it.
+       7597919401312111894  Rome   3 days   1.538 saves/like
+       7597489942712945942  Paris  5 walks  1.390
+       7600316183270722838  London 3 days   1.307
+
+     Read off harvest/tt-decks/7597919401312111894/01.jpg at x2 and x3
+     (analyze/crop.mjs) and confirmed against the sharpness bands
+     (analyze/measure-source-layout.mjs):
+
+       heading box          top 264, height 60, inset 144 from the start side
+       photo tile           355 x 215, radius 14, 4px black border, inset 127
+       tile -> text gap     13
+       text column          293 wide  (so it ends 788 from the start side)
+       first tile top       355
+       row pitch            267       = tile 215 + connector 52
+       five stops a slide   15 of 15 content slides across the three decks
+       name                 serif, yellow highlight, ~27px
+       facts                exactly two labelled lines, ~17px, white highlight
+       walk chip            white pill, ~21px caps, centred in the 52px gap
+       arrow                solid, x 60..75, i.e. 60 in from the start side
+       last content ends    1638   (355 + 5*215 + 4*52 — the measurement said 1639)
+
+     MIRRORED, because the sources are English and this is Hebrew. The photo
+     sits on the side reading STARTS from: left there, right here. The first
+     version of this file put it on the left in an RTL frame, which is the
+     back of the row.
+
+     ⚠️ The source runs to y=1638 and TikTok's bottom furniture is assumed to
+     start at 1590. The precedent wins on geometry — it is a real post that
+     performed — but the bottom 48px of the fifth stop sits inside that band.
+     ------------------------------------------------------------------ */
+  /* The route layout needs almost no scrim: every word sits inside a white or
+     yellow box, so legibility does not depend on darkening the photograph.
+     Measured (analyze/bg-brightness.mjs) in the left margin, where only the
+     backdrop shows: the three precedents read 134, 155 and 161; ours read 72
+     and 93 under the shared scrim. This brings it back to their range. */
+  .rt-scrim { background:linear-gradient(180deg,rgba(8,10,14,.14),rgba(8,10,14,.10) 45%,rgba(8,10,14,.20)); }
+  .rt-bg { filter:blur(14px) saturate(1.1) brightness(1.08); }
+
+  /* ⚠️ TIKTOK'S OWN FURNITURE DOES NOT MIRROR.
+     The sources are English and keep everything in the left 788px, which is
+     exactly why nothing of theirs is covered: the like/comment/share rail is
+     on the right in every language. Mirroring the layout for Hebrew put the
+     photo column and the arrow at x=1021, 92px inside that rail
+     (analyze/overflow-check.mjs, SAFE_RIGHT 150 -> content must stop at 930).
+     So the block keeps the Hebrew reading order — photo on the right, text to
+     its left — and is inset to clear the rail. The widths, the tile, the pitch
+     and the type are the precedent's untouched; only the insets moved. */
+  .rt { position:absolute; inset:0; direction:rtl; }
+
+  .rt-head { position:absolute; top:264px; right:222px; height:60px;
+             display:flex; align-items:center;
+             background:#fff; color:#111; border-radius:15px; padding:0 26px;
+             font:900 40px/1 'Heebo'; letter-spacing:.10em;
+             box-shadow:0 4px 14px rgba(0,0,0,.30); }
+  .rt-badge { position:absolute; top:264px; left:222px; height:60px;
+              display:flex; align-items:center;
+              background:#fff; color:#111; border-radius:15px; padding:0 22px;
+              font:900 34px/1 'Heebo'; letter-spacing:.06em;
+              box-shadow:0 4px 14px rgba(0,0,0,.30); }
+  .rt-sub { display:none; }
+
+  .rt-rows { position:absolute; top:355px; right:0; left:0; }
+  .rt-row  { position:relative; height:215px; }
+  /* ⚠️ THE ONE NUMBER THAT IS NOT THE PRECEDENT'S, and why.
+     Two measurements conflict. The precedent's connector gap is 52, which puts
+     its last row's bottom at y=1638; TikTok's caption strip was measured off a
+     screenshot as starting at y=1590 (analyze/overflow-check.mjs). Both are
+     real. Holding 52 means the fifth stop's price is drawn under the caption.
+     355 + 5*215 + 4*g <= 1590 gives g <= 40, so the gap is 40 and every other
+     number — tile, pitch of the tile itself, margins, type — stays measured.
+     The walk chip is 32 tall and still centres in 40. */
+  .rt-link { position:relative; height:40px; }
+
+  .rt-thumb { position:absolute; top:0; right:205px; width:355px; height:215px;
+              border-radius:14px; overflow:hidden; border:4px solid #111;
+              box-shadow:0 8px 22px rgba(0,0,0,.45); background:#111; }
+  .rt-thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+
+  /* The text block is centred against its tile, as it is in the source. */
+  .rt-txt { position:absolute; top:50%; transform:translateY(-50%);
+            right:573px; width:293px; }
+  .rt .rt-name span { display:inline; font:900 27px/1.42 'Frank Ruhl Libre';
+                      color:#111; background:#ffd84d; box-decoration-break:clone;
+                      -webkit-box-decoration-break:clone; padding:2px 9px; border-radius:4px; }
+  .rt .rt-fact { margin-top:4px; }
+  .rt .rt-fact span { display:inline; font:600 17px/1.5 'Heebo'; color:#111;
+                      background:#fff; box-decoration-break:clone;
+                      -webkit-box-decoration-break:clone; padding:2px 7px; border-radius:3px; }
+  .rt-k { font-weight:900; letter-spacing:.05em; }
+  .rt-k::after { content:':'; }
+
+  /* The connector: one arrow down the outer edge, the walk time sitting on it. */
+  .rt-rail { position:absolute; top:0; bottom:0; right:155px; width:0;
+             border-right:4px solid rgba(17,17,17,.9); }
+  .rt-row:not(:last-child) .rt-rail::after {
+             content:''; position:absolute; bottom:-6px; right:-11px;
+             border:11px solid transparent; border-top:15px solid rgba(17,17,17,.9); }
+  .rt-arrow { position:absolute; top:0; bottom:0; right:155px; width:0;
+              border-right:4px solid rgba(17,17,17,.9); }
+  /* no head here: the connector is where the walk chip sits, and the chip
+     covered it. The head belongs at the foot of each row (see .rt-rail). */
+  .rt-to { position:absolute; top:50%; right:140px; transform:translateY(-50%);
+           background:#fff; color:#111; border-radius:6px; padding:3px 13px 5px;
+           font:900 21px/1.15 'Heebo'; letter-spacing:.09em; white-space:nowrap;
+           box-shadow:0 3px 10px rgba(0,0,0,.35); }
+
+  .rt-aside { position:absolute; left:214px; right:205px; bottom:120px;
+              text-align:center; font:600 22px/1.35 'Heebo'; color:#fff;
+              -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+
+  .rt:not(.boxed) .rt-name span { background:none; color:#ffc44d;
+      -webkit-text-stroke:4px #000; paint-order:stroke fill; padding:0; }
+  .rt:not(.boxed) .rt-fact span { background:none; color:#fff;
+      -webkit-text-stroke:3px #000; paint-order:stroke fill; padding:0; }
+
   .guide { display:none; position:absolute; inset:0; pointer-events:none; }
   .guide.on { display:block; }
   .guide .ig { position:absolute; top:285px; height:1350px; left:0; right:0; outline:3px dashed rgba(255,80,220,.8); }
+  /* Apple emoji, rendered as inline PNGs because Windows has no Apple emoji
+     font and Segoe reads as "made on a PC". Sized in em so it tracks whatever
+     type it sits in, and lifted slightly: Apple glyphs sit high next to
+     Hebrew, which has no ascender to balance them. */
+  .emo { height:1em; width:auto; vertical-align:-0.14em; margin:0 .04em;
+         display:inline-block; }
 </style>
 </head>
 <body><div class="slide" id="slide"></div></body>

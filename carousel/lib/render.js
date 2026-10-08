@@ -17,6 +17,10 @@ const TEMPLATE = path.join(HERE, 'template.html');
 // skins.js, each a direct copy of one deck from the corpus (see PLAYBOOK 4b).
 const TEMPLATE2 = path.join(HERE, 'template2.html');
 
+// Full screen, 9:16. The corpus shows 3:4 edging it (0.46 vs 0.39 saves per
+// like) but the owner prefers full-bleed, and the real defect was never the
+// aspect: there was no top safe area at all, so TikTok's own header sat on the
+// copy. SAFE_TOP below is the fix.
 export const CANVAS = { width: 1080, height: 1920 };
 // Instagram's publishing API accepts 0.8 (4:5) to 1.91:1 only. 1080x1350 is the
 // one master that also survives Facebook and YouTube untouched.
@@ -106,6 +110,17 @@ async function toDataUri(file) {
 export async function renderSpec(spec, { outDir, debug = false, quality = 88 } = {}) {
   await fs.mkdir(outDir, { recursive: true });
 
+  // Clear the previous render first. Rendering only overwrites the slides a
+  // spec still HAS, so shortening a deck left the extra frames on disk — and
+  // the packager copies whatever JPEGs it finds in the folder. Twenty-five
+  // deleted advert slides were sitting here, already packaged for his phone,
+  // until the ready-check reported "9 files for 7 slides".
+  for (const f of await fs.readdir(outDir).catch(() => [])) {
+    if (/^\d+-(tiktok|ig)\.jpg$/.test(f)) {
+      await fs.rm(path.join(outDir, f), { force: true });
+    }
+  }
+
   // Playwright's bundled headless shell is not installed here; the rest of this
   // project drives the system Chrome instead (see RECON.md). CHROMIUM_PATH still
   // wins if set, and `channel` is omitted in that case, since Playwright
@@ -149,6 +164,28 @@ export async function renderSpec(spec, { outDir, debug = false, quality = 88 } =
         { html }
       );
       await page.evaluate(() => document.fonts.ready);
+
+      // HM_MEASURE=1 reports text geometry from inside the real render, which
+      // is the only measurement that cannot disagree with the JPEG. A separate
+      // checking script, however carefully it copied this setup, kept clearing
+      // lines that came out wrapped in the file.
+      if (process.env.HM_MEASURE) {
+        const rows = await page.evaluate(() => [...document.querySelectorAll('.stk-fact')]
+          .map((el) => {
+            const cs = getComputedStyle(el);
+            const lh = parseFloat(cs.lineHeight) || parseFloat(cs.fontSize) * 1.2;
+            const b = el.getBoundingClientRect();
+            return {
+              t: (el.textContent || '').trim().slice(0, 32),
+              w: Math.round(b.width),
+              lines: Math.max(1, Math.round(b.height / lh)),
+              font: cs.font,
+            };
+          }));
+        for (const r of rows) {
+          console.log(`  [measure] slide ${i + 1} w=${r.w} lines=${r.lines} "${r.t}"`);
+        }
+      }
 
       const tiktok = path.join(outDir, `${n}-tiktok.jpg`);
       await page.screenshot({ path: tiktok, type: 'jpeg', quality, clip: { x: 0, y: 0, ...CANVAS } });

@@ -1,0 +1,274 @@
+{
+  "id": "tt-11-greece-mistakes",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7457297838117080352",
+  "clonedUrl": "https://www.tiktok.com/@maryamontour/photo/7457297838117080352",
+  "clonedAccount": "maryamontour",
+  "sourceLikes": 213600,
+  "sourceSaves": 76000,
+  "sourceShares": 15400,
+  "sourceComments": 3392,
+  "sourceSlides": 8,
+  "sourceCaption": "These are the mistakes you should avoid when travelling to Dubai",
+  "demonstrates": "מקור חדש, והשני בגובהו מבין הרלוונטיים: 213,600 לייקים ו-76,000 שמירות. המנגנון שהועתק הוא מבני ולא ויזואלי — במקום רשימה של שמונה טעויות על שקופית אחת, כל טעות מקבלת שקופית משלה עם תמונה משלה. זה הופך החלקה אחת לשמונה, וכל נקודה נזכרת בנפרד. זה בדיוק אותו תוכן שיושב אצלי כשקופית בודדת בתוך מדריכי הצ׳יפים, ולכן מעניין לראות מה עובד יותר. המקור מגיש את ההסבר בצ׳יפ לבן; אצלנו הוא עם מתאר, לפי הכלל הקבוע. היעד הוחלף מדובאי ליוון.",
+  "caption": "שמונה טעויות שעושים ביוון. השמינית הכי יקרה. איזו עשיתם?",
+  "hashtags": [
+    "יוון",
+    "טעויותבטיול",
+    "טיפיםלטיול",
+    "יוון2026",
+    "טיולים"
+  ],
+  "sound": "המקור מריץ הקלטה מקורית שלו. בחר סאונד טרנדי ביום ההעלאה.",
+  "slides": [
+    {
+      "layout": "tt-gem-cover",
+      "titleLines": [
+        "הטעויות",
+        "שעושים",
+        "ביוון"
+      ],
+      "sub": "השמינית הכי יקרה",
+      "alt": "נוף לאי יווני",
+      "image": {
+        "query": "greek island white village sea sunset colourful",
+        "id": "pexels-37844819",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37844819/pexels-photo-37844819/free-photo-of-iconic-windmills-of-mykonos-at-sunset.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/iconic-windmills-of-mykonos-at-sunset-37844819/"
+        },
+        "alt": "Free Capture of the famous windmills in Mykonos, Greece at sunset, showcasing vibrant architecture and stunning views. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37844819.jpg",
+        "altRaw": "Free Capture of the famous windmills in Mykonos, Greece at sunset, showcasing vibrant architecture and stunning views. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לנחות באתונה ולדלג עליה",
+      "lines": [
+        "יומיים באתונה זה לא בזבוז",
+        "זו אחת הערים הזולות באירופה"
+      ],
+      "alt": "לנחות באתונה ולדלג עליה ❌",
+      "image": {
+        "query": "athens acropolis street crowd people summer",
+        "id": "pexels-28243336",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28243336/pexels-photo-28243336/free-photo-of-a-market-with-people-walking-around-it.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-market-with-people-walking-around-it-28243336/"
+        },
+        "alt": "Free Explore a bustling market in Athens, Greece, with traditional architecture and lively crowds. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28243336.jpg",
+        "altRaw": "Free Explore a bustling market in Athens, Greece, with traditional architecture and lively crowds. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לא להזמין מעבורת מראש",
+      "lines": [
+        "ביולי ואוגוסט הקווים נגמרים",
+        "במיוחד אם יש לכם רכב"
+      ],
+      "alt": "לא להזמין מעבורת מראש ❌",
+      "image": {
+        "query": "greek ferry port passengers boarding summer",
+        "id": "pexels-38923233",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38923233/pexels-photo-38923233/free-photo-of-ferry-boarding-at-greek-port-with-vintage-car.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/ferry-boarding-at-greek-port-with-vintage-car-38923233/"
+        },
+        "alt": "Free People boarding a ferry in Greece, with a vintage car in the foreground. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38923233.jpg",
+        "altRaw": "Free People boarding a ferry in Greece, with a vintage car in the foreground. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "להניח שכל האיים דומים",
+      "lines": [
+        "מיקונוס זה לא נאקסוס",
+        "תבחרו לפי מה שאתם רוצים, לא לפי אינסטגרם"
+      ],
+      "alt": "להניח שכל האיים דומים ❌",
+      "image": {
+        "query": "greek island village white houses people street",
+        "id": "pexels-28165364",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/28165364/pexels-photo-28165364/free-photo-of-a-narrow-street-with-blue-and-white-stairs.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/a-narrow-street-with-blue-and-white-stairs-28165364/"
+        },
+        "alt": "Free Explore the picturesque streets of Lefkes, Greece, with classic Aegean architecture and vibrant colors. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28165364.jpg",
+        "altRaw": "Free Explore the picturesque streets of Lefkes, Greece, with classic Aegean architecture and vibrant colors. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לשכור רכב בלי רישיון בינלאומי",
+      "lines": [
+        "באיים בודקים את זה",
+        "ובלעדיו הביטוח לא תקף"
+      ],
+      "alt": "לשכור רכב בלי רישיון בינלאומי ❌",
+      "image": {
+        "query": "car winding coastal road greece island sea",
+        "id": "pexels-9613234",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/9613234/pexels-photo-9613234.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/white-car-on-road-near-body-of-water-9613234/"
+        },
+        "alt": "Free Aerial view of a car driving along a winding coastal road in Naxos, Greece, with stunning ocean views. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9613234.jpg",
+        "altRaw": "Free Aerial view of a car driving along a winding coastal road in Naxos, Greece, with stunning ocean views. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "להגיע לאי קטן בלי מזומן",
+      "lines": [
+        "יש מקומות בלי כספומט בכלל",
+        "ובהמון טברנות לא מקבלים כרטיס"
+      ],
+      "alt": "להגיע לאי קטן בלי מזומן ❌",
+      "image": {
+        "query": "greek taverna table food people seaside",
+        "id": "pexels-38299607",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38299607/pexels-photo-38299607/free-photo-of-greek-souvlaki-with-tzatziki-and-roasted-vegetables.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/greek-souvlaki-with-tzatziki-and-roasted-vegetables-38299607/"
+        },
+        "alt": "Free Delicious Greek souvlaki with tzatziki, served with roasted vegetables and wedges. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38299607.jpg",
+        "altRaw": "Free Delicious Greek souvlaki with tzatziki, served with roasted vegetables and wedges. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לנסות ארבעה איים בשבוע",
+      "lines": [
+        "רוב הזמן תבלו במעבורות",
+        "שניים זה המקסימום"
+      ],
+      "alt": "לנסות ארבעה איים בשבוע ❌",
+      "image": {
+        "query": "greek islands sea ferry view turquoise",
+        "id": "pexels-38995559",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38995559/pexels-photo-38995559/free-photo-of-scenic-view-of-skiathos-town-from-ferry.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-view-of-skiathos-town-from-ferry-38995559/"
+        },
+        "alt": "Free Vibrant view of Skiathos town from a ferry, framed by yellow walls and turquoise sea. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38995559.jpg",
+        "altRaw": "Free Vibrant view of Skiathos town from a ferry, framed by yellow walls and turquoise sea. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "לאכול בטברנה הראשונה על הטיילת",
+      "lines": [
+        "תעלו שני רחובות פנימה",
+        "אותו אוכל, חצי מחיר"
+      ],
+      "alt": "לאכול בטברנה הראשונה על הטיילת ❌",
+      "image": {
+        "query": "greek taverna narrow street tables locals evening",
+        "id": "pexels-39009254",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/39009254/pexels-photo-39009254/free-photo-of-charming-greek-taverna-with-bougainvillea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/charming-greek-taverna-with-bougainvillea-39009254/"
+        },
+        "alt": "Free Outdoor Greek restaurant with checkered tables and vibrant flowers during sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39009254.jpg",
+        "altRaw": "Free Outdoor Greek restaurant with checkered tables and vibrant flowers during sunset. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-gem",
+      "place": "להגיע באוגוסט ולצפות לשקט",
+      "lines": [
+        "זה החודש של כל אירופה",
+        "מאי, יוני וספטמבר נעימים בהרבה"
+      ],
+      "alt": "להגיע באוגוסט ולצפות לשקט ❌",
+      "image": {
+        "query": "crowded greek island beach umbrellas people summer",
+        "id": "pexels-38962078",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/38962078/pexels-photo-38962078/free-photo-of-sandy-beach-scene-in-greece-with-straw-umbrellas.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/sandy-beach-scene-in-greece-with-straw-umbrellas-38962078/"
+        },
+        "alt": "Free Sunbathers relax under straw umbrellas on a Greek beach. Vibrant summer scene. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38962078.jpg",
+        "altRaw": "Free Sunbathers relax under straw umbrellas on a Greek beach. Vibrant summer scene. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

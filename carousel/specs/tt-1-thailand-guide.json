@@ -1,0 +1,376 @@
+{
+  "id": "tt-1-thailand-guide",
+  "skin": "clone",
+  "platform": "tiktok",
+  "clonedFrom": "tt-7679870394685230358",
+  "clonedUrl": "https://www.tiktok.com/@izzy_travels_/photo/7679870394685230358",
+  "clonedAccount": "izzy_travels_",
+  "sourceLikes": 66200,
+  "sourceSaves": 68100,
+  "sourceShares": 18100,
+  "sourceComments": 556,
+  "sourceSlides": 12,
+  "sourceCaption": "THE ULTIMATE EVERYTHING YOU NEED TO KNOW BEFORE TRAVELING TO THAILAND",
+  "sourceHashtags": [
+    "thailand",
+    "thailandtips",
+    "bangkoktips",
+    "thailandtravelguide",
+    "travel",
+    "hotel",
+    "viral",
+    "fyp",
+    "thailandnews",
+    "bangkok"
+  ],
+  "demonstrates": "שובט שקופית-מול-שקופית מ-@izzy_travels_: 66,200 לייקים ו-68,100 שמירות — כלומר יותר שמירות מלייקים, החתימה של קרוסלה שאנשים שומרים לנסיעה ולא רק אוהבים וגוללים הלאה. הועתק במדויק: ההוק ההפוך בלבן כבד מאוד עם קו מתאר שחור (לא צל, לא קופסה); שתים עשרה שקופיות בסדר של המקור (הוק, מתי לטוס, לפני הטיסה, כסף, סים, שקעים, לאן ללכת, מה לראות בבירה, אוכל, טעויות, תקציב, שמרו את זה); צ׳יפ כותרת לבן ומעוגל במרכז הראש של כל שקופית תוכן; הגוף כצ׳יפים שהרקע שלהם עוטף כל שורה בנפרד, עם סימן ביקורת או אזהרה שפותח כל אחד; וצ׳יפ ירוק רק בשקופית הכסף. היעד לא הוחלף, כי תאילנד ממילא יעד שישראלים טסים אליו — ולכן כאן רק השפה מתחלפת, וזה השיבוט הנאמן ביותר שאפשר.",
+  "caption": "כל מה שצריך לדעת לפני טיסה לתאילנד",
+  "hashtags": [
+    "תאילנד",
+    "בנגקוק",
+    "טיפיםלטיול",
+    "תאילנד2026",
+    "טיולים"
+  ],
+  "sound": "המקור רוכב על \"DTMF X BRAZIL\", רמיקס טרנדי מספריית טיקטוק — לא הקלטה של היוצר ולא קשור לתאילנד. בחר כל סאונד טרנדי ביום ההעלאה: בקרוסלת תמונות הסאונד הוא מנוף החשיפה והשקופיות נושאות את התוכן, ולכן הוא לא צריך להתאים לנושא. שני המקורות שנמדדו עושים בדיוק את זה.",
+  "slides": [
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "אל תטוסו",
+        "לתאילנד"
+      ],
+      "sub": "לפני שתקראו את זה",
+      "foot": [
+        "כל מה שצריך לדעת",
+        "לפני טיסה לתאילנד"
+      ],
+      "alt": "נהר בבנגקוק בלילה עם גשר מואר",
+      "image": {
+        "query": "bangkok chao phraya river night bridge lights",
+        "id": "pexels-34280549",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/34280549/pexels-photo-34280549/free-photo-of-night-view-of-krung-thon-bridge-in-bangkok.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/night-view-of-krung-thon-bridge-in-bangkok-34280549/"
+        },
+        "alt": "Free Stunning night scene of Krung Thon Bridge in Bangkok, illuminated cityscape and flowing traffic. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34280549.jpg",
+        "altRaw": "Free Stunning night scene of Krung Thon Bridge in Bangkok, illuminated cityscape and flowing traffic. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מתי לטוס:",
+      "items": [
+        "נובמבר-פברואר: הכי נוח, חם ויבש",
+        "מרץ-מאי: חם מאוד. אפריל זה סונגקראן",
+        "יוני-אוקטובר: עונת הגשמים, פחות תיירים"
+      ],
+      "alt": "חוף בתאילנד עם סירות זנב ארוך",
+      "image": {
+        "query": "thailand beach longtail boat limestone",
+        "id": "pexels-37292544",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37292544/pexels-photo-37292544/free-photo-of-scenic-view-of-krabi-s-majestic-cliffs-and-longtail-boats.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-view-of-krabi-s-majestic-cliffs-and-longtail-boats-37292544/"
+        },
+        "alt": "Free Explore the stunning cliffs and serene beaches of Krabi, Thailand, with traditional longtail boats in view. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37292544.jpg",
+        "altRaw": "Free Explore the stunning cliffs and serene beaches of Krabi, Thailand, with traditional longtail boats in view. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "לפני הטיסה:",
+      "items": [
+        "בדקו מה דורשים מדרכון ישראלי",
+        "מלאו את טופס הכניסה TDAC\nעד שלושה ימים לפני הנחיתה",
+        "‼המילוי חינם. יש אתרים\nשגובים עליו כסף"
+      ],
+      "alt": "כנף מטוס מבעד לחלון",
+      "image": {
+        "query": "airplane window wing clouds sky",
+        "id": "pexels-3374249",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/3374249/pexels-photo-3374249.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/white-airplane-wing-3374249/"
+        },
+        "alt": "Free A stunning view from an airplane window capturing the wing and clouds below. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-3374249.jpg",
+        "altRaw": "Free A stunning view from an airplane window capturing the wing and clouds below. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "כסף",
+      "accent": "100 באט בערך 10 שקלים",
+      "items": [
+        "המטבע הוא באט תאילנדי",
+        "עדיף להחזיק מזומן.\nכרטיס לא תמיד מתקבל",
+        "כספומטים בכל מקום, אבל יש\nעמלת משיכה קבועה. עדיף\nלמשוך סכום גדול בבת אחת",
+        "‼לא להחליף כסף בשדה התעופה"
+      ],
+      "alt": "בריכת אינסוף בלילה מעל אורות עיר",
+      "image": {
+        "query": "infinity pool night city lights rooftop",
+        "id": "pexels-7940830",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/7940830/pexels-photo-7940830.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/person-floating-on-infinity-pool-7940830/"
+        },
+        "alt": "Free Relaxing in an infinity pool with a stunning view of Kuala Lumpur's skyline. Perfect urban getaway. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7940830.jpg",
+        "altRaw": "Free Relaxing in an infinity pool with a stunning view of Kuala Lumpur's skyline. Perfect urban getaway. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "סים ואינטרנט",
+      "items": [
+        "eSIM זה הכי פשוט",
+        "בדקו שהמכשיר שלכם תומך",
+        "אפשר לקנות גם בסניפי 7/11,\nיש אחד כמעט בכל פינה",
+        "‼סים בשדה התעופה\nבדרך כלל יקר יותר"
+      ],
+      "alt": "פארק ירוק בבנגקוק",
+      "image": {
+        "query": "bangkok park green grass city",
+        "id": "pexels-35981282",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/35981282/pexels-photo-35981282/free-photo-of-relaxing-in-a-tropical-urban-park-setting.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/relaxing-in-a-tropical-urban-park-setting-35981282/"
+        },
+        "alt": "Free Two people sitting on a bench amidst palm trees in a sunny urban park in Bangkok, Thailand. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35981282.jpg",
+        "altRaw": "Free Two people sitting on a bench amidst palm trees in a sunny urban park in Bangkok, Thailand. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "שקעים",
+      "accent": "צריך מתאם?",
+      "items": [
+        "בתאילנד 220V, מתאים\nלמכשירים ישראליים",
+        "השקעים מקבלים פינים\nשטוחים ופינים עגולים",
+        "התקע הישראלי התלת-פיני\nלא נכנס. ראש אירופי דק,\nכמו שיש להרבה מטענים, כן",
+        "מתאם אוניברסלי פותר הכל"
+      ],
+      "alt": "חוף בקראבי עם צוקי גיר",
+      "image": {
+        "query": "krabi thailand beach limestone cliffs",
+        "id": "pexels-37908150",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/37908150/pexels-photo-37908150/free-photo-of-tropical-beach-in-krabi-with-limestone-cliffs.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/tropical-beach-in-krabi-with-limestone-cliffs-37908150/"
+        },
+        "alt": "Free Scenic view of a serene beach with limestone cliffs and turquoise sea in Krabi, Thailand. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37908150.jpg",
+        "altRaw": "Free Scenic view of a serene beach with limestone cliffs and turquoise sea in Krabi, Thailand. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "לאן ללכת?",
+      "accent": "פעם ראשונה? בנגקוק ועוד אזור אחד",
+      "items": [
+        "בנגקוק: אוכל, מקדשים, לילה",
+        "קראבי ואו נאנג (דרום):\nחופים ונוף",
+        "פוקט (דרום): חופים, לילה,\nוהכי נוח להגיע",
+        "קו סאמוי: חופים ונופש",
+        "צאנג מאי (צפון): הרים ומקדשים"
+      ],
+      "alt": "איים בתאילנד ממבט על",
+      "image": {
+        "query": "thailand islands aerial view sea",
+        "id": "pexels-31200229",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31200229/pexels-photo-31200229/free-photo-of-aerial-view-of-krabi-s-scenic-limestone-islands.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/aerial-view-of-krabi-s-scenic-limestone-islands-31200229/"
+        },
+        "alt": "Free Aerial view of stunning limestone islands and boats in Krabi, Thailand's turquoise waters. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31200229.jpg",
+        "altRaw": "Free Aerial view of stunning limestone islands and boats in Krabi, Thailand's turquoise waters. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "מה לראות בבנגקוק",
+      "items": [
+        "הארמון המלכותי",
+        "ואט פו וואט ארון",
+        "צאינהטאון בערב",
+        "שוק צאטוצאק בסוף השבוע",
+        "ICONSIAM או טרמינל 21 לקניות",
+        "פארק לומפיני"
+      ],
+      "alt": "מקדש בבנגקוק עם פסל בודהה מוזהב",
+      "image": {
+        "query": "bangkok temple golden buddha",
+        "id": "pexels-16020793",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/16020793/pexels-photo-16020793/free-photo-of-golden-buddha-statues-in-wat-pho.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/golden-buddha-statues-in-wat-pho-16020793/"
+        },
+        "alt": "Free A stunning row of golden Buddha statues in the ornate Wat Pho temple, Bangkok. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16020793.jpg",
+        "altRaw": "Free A stunning row of golden Buddha statues in the ornate Wat Pho temple, Bangkok. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "אוכל",
+      "accent": "מה לטעום?",
+      "items": [
+        "פאד קרא פאו",
+        "מנגו סטיקי רייס",
+        "טום יאם",
+        "טום קא, מרק על בסיס קוקוס",
+        "מסאמן קארי",
+        "סום טאם, סלט פפאיה חריף",
+        "פאד תאי",
+        "חובה: אוכל רחוב"
+      ],
+      "alt": "אוכל רחוב תאילנדי",
+      "image": {
+        "query": "thai street food noodles wok",
+        "id": "pexels-36829318",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/36829318/pexels-photo-36829318/free-photo-of-street-vendor-cooking-thai-food-in-mae-klong.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/street-vendor-cooking-thai-food-in-mae-klong-36829318/"
+        },
+        "alt": "Free A vibrant street food scene in Mae Klong, Thailand with a vendor preparing traditional dishes. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36829318.jpg",
+        "altRaw": "Free A vibrant street food scene in Mae Klong, Thailand with a vendor preparing traditional dishes. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-chips",
+      "title": "טעויות נפוצות",
+      "items": [
+        "לנסות לראות את כל תאילנד\nבטיול אחד",
+        "לשכוח דוחה יתושים וקרם הגנה",
+        "לשתות מי ברז.\nגם לא לצחצח שיניים איתם",
+        "להניח שהמטרו מגיע לכל מקום",
+        "מוניות זולות, אבל תזמינו\nדרך אפליקציה",
+        "לשכור קטנוע בלי לדעת לרכוב",
+        "לכסות כתפיים וברכיים במקדשים",
+        "לשבת או לדרוך על בתי רוחות"
+      ],
+      "alt": "חוף בתאילנד בשקיעה",
+      "image": {
+        "query": "thailand beach sunset people silhouette",
+        "id": "pexels-12078998",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/12078998/pexels-photo-12078998.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/silhouette-of-two-people-standing-on-shore-during-golden-hour-12078998/"
+        },
+        "alt": "Free A stunning sunset with silhouettes of two people on a Thai beach, reflecting serenity. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12078998.jpg",
+        "altRaw": "Free A stunning sunset with silhouettes of two people on a Thai beach, reflecting serenity. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-hook",
+      "titleLines": [
+        "שמרו את זה"
+      ],
+      "sub": "לטיול שלכם בתאילנד",
+      "foot": [
+        "ותכתבו בתגובות מה פספסתי"
+      ],
+      "alt": "נוף נהר והרים בתאילנד",
+      "image": {
+        "query": "thailand river mountains boat green",
+        "id": "pexels-31029463",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/31029463/pexels-photo-31029463/free-photo-of-scenic-boat-view-of-phuket-s-emerald-waters.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/scenic-boat-view-of-phuket-s-emerald-waters-31029463/"
+        },
+        "alt": "Free Experience vibrant green waters and lush cliffs from a boat in scenic Phuket, Thailand. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31029463.jpg",
+        "altRaw": "Free Experience vibrant green waters and lush cliffs from a boat in scenic Phuket, Thailand. Stock Photo",
+        "keep": true
+      },
+      "credit": null
+    }
+  ],
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ]
+}

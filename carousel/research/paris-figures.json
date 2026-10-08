@@ -1,0 +1,164 @@
+{
+  "_": "Every price and opening fact used in tt-29-paris-route, with the source that states it. Checked 8.10.2026 against the operator's own site, never against another deck. The precedent deck 7597489942712945942 supplied the STOPS; none of its numbers were copied.",
+  "_why": "Copying the precedent's figures would have shipped at least three wrong ones: it lists Centre Pompidou, closed since 22.9.2025; the Louvre at €22, which is the EEA price and not what an Israeli pays; and Sainte-Chapelle at €13, now €22 for non-EEA.",
+  "_nonEEA": "A pattern worth its own line on the deck: French state monuments now charge non-EEA visitors more, and Israelis are non-EEA. Louvre €22 -> €32, Sainte-Chapelle €16 -> €22, Palais Garnier €15 -> €25.",
+  "stops": {
+    "מגדל אייפל": {
+      "price": "23.50 יורו",
+      "note": "קומה 2 במעלית. לפסגה 36.70",
+      "time": "שעתיים",
+      "src": "https://www.toureiffel.paris/en/rates-opening-times"
+    },
+    "שער הניצחון": {
+      "price": "14.50-20 יורו",
+      "note": "14.50 בחורף, 20 מאפריל עד ספטמבר",
+      "time": "שעה",
+      "src": "https://www.paris-arc-de-triomphe.fr/en/visit/practical-information"
+    },
+    "השאנז אליזה": {
+      "price": "חינם",
+      "time": "שעה",
+      "src": "רחוב ציבורי"
+    },
+    "טרוקדרו": {
+      "price": "חינם",
+      "time": "30 דקות",
+      "src": "כיכר ציבורית"
+    },
+    "רחוב האוניברסיטה": {
+      "price": "חינם",
+      "time": "20 דקות",
+      "src": "רחוב ציבורי"
+    },
+    "האנוולידים": {
+      "price": "17 יורו",
+      "note": "כולל קבר נפוליאון",
+      "time": "שעה וחצי",
+      "src": "https://www.musee-armee.fr/en/your-visit/opening-times-and-prices-1.html"
+    },
+    "גשר אלכסנדר השלישי": {
+      "price": "חינם",
+      "time": "20 דקות",
+      "src": "גשר ציבורי"
+    },
+    "גראן פאלה": {
+      "price": "13-19 יורו",
+      "note": "לפי התערוכה",
+      "time": "שעה",
+      "src": "https://www.grandpalais.fr/en/ticketing"
+    },
+    "כיכר קונקורד": {
+      "price": "חינם",
+      "time": "20 דקות",
+      "src": "כיכר ציבורית"
+    },
+    "גני הטווילרי": {
+      "price": "חינם",
+      "time": "שעה",
+      "src": "גן ציבורי"
+    },
+    "הפאלה רויאל": {
+      "price": "חינם",
+      "time": "30 דקות",
+      "src": "חצר ציבורית"
+    },
+    "הלובר": {
+      "price": "32 יורו",
+      "note": "המחיר ללא-EEA מ-14.1.2026. לאירופים 22",
+      "time": "3-4 שעות",
+      "src": "https://www.louvre.fr/en/visit/hours-admission/tickets-and-prices"
+    },
+    "לה מארה": {
+      "price": "חינם",
+      "time": "שעה וחצי",
+      "src": "רובע"
+    },
+    "הבסטיליה": {
+      "price": "חינם",
+      "time": "20 דקות",
+      "src": "כיכר ציבורית"
+    },
+    "גני לוקסמבורג": {
+      "price": "חינם",
+      "time": "שעה",
+      "src": "גן ציבורי"
+    },
+    "הפנתיאון": {
+      "price": "13-16 יורו",
+      "note": "13 מאוקטובר עד מרץ, 16 באביב ובקיץ",
+      "time": "שעה",
+      "src": "https://www.monuments-nationaux.fr/en/adult-groups-and-tourism-professionals/what-is-advance-ticketing/rates-2026"
+    },
+    "שייקספיר אנד קומפני": {
+      "price": "חינם",
+      "time": "30 דקות",
+      "src": "חנות ספרים"
+    },
+    "סנט שאפל": {
+      "price": "22 יורו",
+      "note": "המחיר ללא-EEA מ-12.1.2026. לאירופים 16",
+      "time": "שעה",
+      "src": "https://www.sainte-chapelle.fr/en/visit/practical-information"
+    },
+    "נוטרדאם": {
+      "price": "חינם",
+      "note": "המגדלים 16 יורו בנפרד",
+      "time": "שעה",
+      "src": "https://www.notredamedeparis.fr/en/faq/will-there-be-a-charge-for-entry-to-notre-dame/"
+    },
+    "לה מדלן": {
+      "price": "חינם",
+      "time": "30 דקות",
+      "src": "כנסייה"
+    },
+    "אופרה גרנייה": {
+      "price": "25 יורו",
+      "note": "המחיר ללא-EEA. לאירופים 15",
+      "time": "שעה",
+      "src": "https://www.operadeparis.fr/en/visits/visit-and-explore/ticket-rates-documents"
+    },
+    "גלרי לאפייט": {
+      "price": "חינם",
+      "note": "הגג פתוח לקהל",
+      "time": "שעה",
+      "src": "https://haussmann.galerieslafayette.com"
+    },
+    "מולן רוז'": {
+      "price": "מ-110 יורו",
+      "note": "מופע בלבד, כולל חצי בקבוק שמפניה. עם ארוחה מ-263",
+      "time": "שעתיים וחצי",
+      "src": "https://www.moulinrouge.fr/en/offres/show/show-9pm/"
+    },
+    "סקרה-קר": {
+      "price": "חינם",
+      "note": "הכיפה 8 יורו בנפרד",
+      "time": "שעה",
+      "src": "https://www.sacre-coeur-montmartre.com/en/info-and-visits/the-dome-tour/"
+    },
+    "מוזיאון אורסיי": {
+      "price": "16 יורו",
+      "time": "שעתיים",
+      "src": "https://www.musee-orsay.fr/en/visit/admission-opening-times-tickets"
+    },
+    "קרוסל דו לובר": {
+      "price": "חינם",
+      "note": "גלריית קניות ציבורית מתחת ללובר. הפירמידה ההפוכה שם",
+      "time": "20 דקות",
+      "src": "https://www.carrouseldulouvre.com — גלריה ציבורית, כניסה חופשית"
+    }
+  },
+  "transport": {
+    "כרטיס מטרו בודד": {
+      "price": "2.55 יורו",
+      "from": "1.1.2026",
+      "src": "https://www.iledefrance-mobilites.fr/en/tarifs-titre-de-transport-en-commun-2026"
+    },
+    "כרטיס נביגו איזי": {
+      "price": "2 יורו לכרטיס עצמו",
+      "src": "https://www.ratp.fr/en/titres-et-tarifs/ticket-metro-train-rer"
+    }
+  },
+  "excluded": {
+    "סנטר פומפידו": "סגור לשיפוץ מ-22.9.2025 ועד 2030. מופיע בדק התקדים — הוסר. https://www.sortiraparis.com/en/news/in-paris/articles/325118"
+  }
+}
