@@ -14,11 +14,11 @@
  },
  {
   "name": "best / recommendations",
-  "covers": 104,
-  "creators": 33,
-  "endorse": 16,
-  "winRate": 0.5769230769230769,
-  "median": 0.18546038074143079,
+  "covers": 109,
+  "creators": 35,
+  "endorse": 17,
+  "winRate": 0.5871559633027523,
+  "median": 0.19577793540793742,
   "best": {
    "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
    "creator": "travel_guide_g",
@@ -27,11 +27,11 @@
  },
  {
   "name": "underrated / hidden / niche",
-  "covers": 40,
-  "creators": 20,
+  "covers": 41,
+  "creators": 21,
   "endorse": 14,
-  "winRate": 0.7,
-  "median": 0.2682438661672477,
+  "winRate": 0.6829268292682927,
+  "median": 0.25472289208316923,
   "best": {
    "text": "Welcome to the underrated / tropical side of Japan",
    "creator": "soft.nrt",
@@ -40,11 +40,11 @@
  },
  {
   "name": "guide / ultimate / everything",
-  "covers": 95,
-  "creators": 21,
-  "endorse": 10,
-  "winRate": 0.5473684210526316,
-  "median": 0.030368069807837905,
+  "covers": 96,
+  "creators": 22,
+  "endorse": 11,
+  "winRate": 0.5520833333333334,
+  "median": 0.037274857300324094,
   "best": {
    "text": "our guide to / SORRENTO, ITALY",
    "creator": "galswhotravel",
@@ -66,11 +66,11 @@
  },
  {
   "name": "itinerary / route / N days",
-  "covers": 48,
-  "creators": 20,
+  "covers": 49,
+  "creators": 21,
   "endorse": 8,
-  "winRate": 0.5416666666666666,
-  "median": 0.04208523315362678,
+  "winRate": 0.5306122448979592,
+  "median": 0.030368069807837905,
   "best": {
    "text": "ITALY TRIP / 19 DAYS",
    "creator": "travel_guide_g",
@@ -79,15 +79,15 @@
  },
  {
   "name": "mistakes / what not to do",
-  "covers": 31,
-  "creators": 16,
-  "endorse": 7,
-  "winRate": 0.4838709677419355,
-  "median": 0,
+  "covers": 32,
+  "creators": 17,
+  "endorse": 8,
+  "winRate": 0.5,
+  "median": 0.001982312035841538,
   "best": {
-   "text": "5 Hidden / Gems in / Osaka / You Can't Miss / Skip the tourist traps. / Discover the real Osaka.",
-   "creator": "nearxfar",
-   "x": 28.456787762401234
+   "text": "TOURIST TRAPS / VS / ALTERNATIVES / ~ Croatia edition ~",
+   "creator": "travel.destinations7",
+   "x": 202.52014552178304
   }
  },
  {
