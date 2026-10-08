@@ -51,6 +51,14 @@ const PLACES = {
   barcelona: 'spain', madrid: 'spain', seville: 'spain', mallorca: 'spain', ibiza: 'spain',
   lisbon: 'portugal', porto: 'portugal', madeira: 'portugal', algarve: 'portugal',
   nicosia: 'cyprus', limassol: 'cyprus', paphos: 'cyprus', larnaca: 'cyprus',
+  // The north of the island is not the Republic a Larnaca itinerary is about,
+  // and the pool is full of it. On 8.10 a Mackenzie Beach tile came back with
+  // a Turkish flag flying in it and a Stavrovouni tile came back as Bellapais
+  // Abbey in Kyrenia; both descriptions said "Cyprus" and the gate passed them.
+  bellapais: 'northern cyprus', kyrenia: 'northern cyprus', girne: 'northern cyprus',
+  famagusta: 'northern cyprus', gazimagusa: 'northern cyprus',
+  'gazimağusa': 'northern cyprus', karpaz: 'northern cyprus',
+  'north cyprus': 'northern cyprus', lefkosa: 'northern cyprus',
   marrakech: 'morocco', fes: 'morocco', chefchaouen: 'morocco',
   bangkok: 'thailand', phuket: 'thailand', krabi: 'thailand', 'chiang mai': 'thailand',
   tokyo: 'japan', kyoto: 'japan', osaka: 'japan', budapest: 'hungary', prague: 'czechia',
@@ -72,12 +80,21 @@ export function checkCountry(spec) {
       const named = COUNTRIES.filter((c) => new RegExp(`\\b${c}\\b`, 'i').test(e.alt));
       // A town name gives the country away just as well, and is far commoner
       // in a stock description than the country itself.
+      const towns = [];
       for (const [town, country] of Object.entries(PLACES)) {
-        if (text.includes(town) && !named.includes(country)) named.push(country);
+        if (text.includes(town)) {
+          towns.push(country);
+          if (!named.includes(country)) named.push(country);
+        }
       }
-      if (named.length && !named.includes(want)) {
+      // A town beats a country word, because it is the more specific claim.
+      // "Harbour in Kyrenia, Cyprus" says Cyprus and means the north, and
+      // without this the country word alone would wave it through.
+      const townSaysElsewhere = towns.length && !towns.includes(want);
+      if (townSaysElsewhere || (named.length && !named.includes(want))) {
+        const where = townSaysElsewhere ? [...new Set(towns)] : named;
         problems.push(`slide ${i}: the photo for "${e.for || 'the backdrop'}" is in `
-          + `${named.join('/')}, not ${spec.country} — set anyCountry:true to accept it`);
+          + `${where.join('/')}, not ${spec.country} — set anyCountry:true to accept it`);
       }
     }
   });

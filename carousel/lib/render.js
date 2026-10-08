@@ -24,7 +24,12 @@ const TEMPLATE2 = path.join(HERE, 'template2.html');
 export const CANVAS = { width: 1080, height: 1920 };
 // Instagram's publishing API accepts 0.8 (4:5) to 1.91:1 only. 1080x1350 is the
 // one master that also survives Facebook and YouTube untouched.
-export const IG_CROP = { w: 1080, h: 1350, top: 285 };
+// The window starts at 258, not 285: the route layout's heading box sits at
+// y=264 (measured off the precedent) and the old window sliced it in half,
+// while the last row of five ends at 1590 and 258+1350 = 1608 still clears it.
+// Moving the window costs nothing; moving the heading would have meant
+// un-measuring a number taken off the source.
+export const IG_CROP = { w: 1080, h: 1350, top: 258 };
 
 const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) =>

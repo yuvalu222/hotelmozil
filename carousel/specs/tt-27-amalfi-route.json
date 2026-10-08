@@ -154,10 +154,11 @@
         },
         {
           "query": "pompeii ruins forum columns vesuvius background",
-          "must": [
+          "for": "📍 פומפיי",
+          "mustAll": [
+            "italy",
             "pompeii"
           ],
-          "for": "📍 פומפיי",
           "id": "pexels-19309240",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/19309240/pexels-photo-19309240/free-photo-of-ancient-ruins-near-mountain.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -188,10 +189,11 @@
         },
         {
           "query": "herculaneum ercolano ruins italy excavation",
-          "must": [
+          "for": "📍 הרקולנאום",
+          "mustAll": [
+            "italy",
             "herculaneum"
           ],
-          "for": "📍 הרקולנאום",
           "id": "pexels-33798774",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/33798774/pexels-photo-33798774/free-photo-of-ancient-roman-ruins-in-pompei-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -222,10 +224,11 @@
         },
         {
           "query": "mount vesuvius crater rim path hikers",
-          "must": [
+          "for": "📍 הר הווזוב",
+          "mustAll": [
+            "italy",
             "vesuvius"
           ],
-          "for": "📍 הר הווזוב",
           "id": "pexels-30204921",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/30204921/pexels-photo-30204921/free-photo-of-scenic-pathway-on-mount-vesuvius-in-campania-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -256,10 +259,10 @@
         },
         {
           "query": "marina grande sorrento italy fishing harbour boats",
-          "must": [
+          "for": "📍 מרינה גרנדה סורנטו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 מרינה גרנדה סורנטו",
           "id": "pexels-10229047",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/10229047/pexels-photo-10229047.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -290,10 +293,10 @@
         },
         {
           "query": "villa comunale sorrento terrace view bay naples",
-          "must": [
+          "for": "📍 וילה קומונלה סורנטו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 וילה קומונלה סורנטו",
           "id": "pexels-37226886",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/37226886/pexels-photo-37226886/free-photo-of-majestic-marble-monument-at-sunset-in-naples.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -391,10 +394,11 @@
         },
         {
           "query": "sentiero degli dei path of the gods amalfi coast hiking",
-          "must": [
-            "italy"
-          ],
           "for": "📍 שביל האלים",
+          "mustAll": [
+            "italy",
+            "path"
+          ],
           "id": "pexels-29223202",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/29223202/pexels-photo-29223202/free-photo-of-stunning-coastal-view-of-positano-in-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -425,10 +429,10 @@
         },
         {
           "query": "nocelle positano amalfi coast hamlet stairs view",
-          "must": [
+          "for": "📍 נוצ'לה",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 נוצ'לה",
           "id": "pexels-36395781",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/36395781/pexels-photo-36395781/free-photo-of-charming-positano-street-with-cafe-and-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -457,10 +461,10 @@
         },
         {
           "query": "santa maria assunta positano majolica dome church",
-          "must": [
+          "for": "📍 סנטה מריה אסונטה",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 סנטה מריה אסונטה",
           "id": "pexels-31041339",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/31041339/pexels-photo-31041339/free-photo-of-scenic-view-of-saint-mary-s-church-in-positano.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -489,10 +493,10 @@
         },
         {
           "query": "spiaggia grande positano beach umbrellas village",
-          "must": [
+          "for": "📍 חוף מרינה גרנדה פוזיטאנו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 חוף מרינה גרנדה פוזיטאנו",
           "id": "pexels-31176160",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/31176160/pexels-photo-31176160/free-photo-of-scenic-view-of-positano-s-coastline-and-mediterranean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -523,10 +527,10 @@
         },
         {
           "query": "fornillo beach positano cove pebbles",
-          "must": [
+          "for": "📍 חוף פורנילו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 חוף פורנילו",
           "id": "pexels-13353684",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/13353684/pexels-photo-13353684.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -624,10 +628,10 @@
         },
         {
           "query": "duomo di amalfi cathedral stairs facade italy",
-          "must": [
+          "for": "📍 קתדרלת אמלפי",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 קתדרלת אמלפי",
           "id": "pexels-36720387",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/36720387/pexels-photo-36720387/free-photo-of-siena-cathedral-bell-tower-under-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -658,10 +662,10 @@
         },
         {
           "query": "atrani italy village piazza amalfi coast",
-          "must": [
+          "for": "📍 אטרני",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 אטרני",
           "id": "pexels-13762030",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/13762030/pexels-photo-13762030.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -692,10 +696,10 @@
         },
         {
           "query": "piazza vescovado ravello italy square",
-          "must": [
+          "for": "📍 ראוולו, פיאצה וסקובדו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 ראוולו, פיאצה וסקובדו",
           "id": "pexels-18523340",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/18523340/pexels-photo-18523340/free-photo-of-statue-at-villa-cimbrone-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -726,10 +730,10 @@
         },
         {
           "query": "villa rufolo ravello garden tower coast view",
-          "must": [
+          "for": "📍 וילה רופולו",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 וילה רופולו",
           "id": "pexels-2927891",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/2927891/pexels-photo-2927891.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -760,10 +764,10 @@
         },
         {
           "query": "villa cimbrone terrace of infinity ravello statues",
-          "must": [
+          "for": "📍 וילה צימברונה",
+          "mustAll": [
             "italy"
           ],
-          "for": "📍 וילה צימברונה",
           "id": "pexels-11023257",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/11023257/pexels-photo-11023257.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -863,42 +867,46 @@
         },
         {
           "query": "blue grotto capri rowing boat blue water cave",
-          "must": [
+          "for": "📍 המערה הכחולה",
+          "mustAll": [
+            "italy",
             "grotto"
           ],
-          "for": "📍 המערה הכחולה",
-          "id": "pexels-16997736",
+          "id": "pexels-1615677",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/16997736/pexels-photo-16997736/free-photo-of-people-on-footpath-in-grotto-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/1615677/pexels-photo-1615677.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/people-on-footpath-in-grotto-on-sea-shore-16997736/"
+            "page": "https://www.pexels.com/photo/mountain-near-body-of-water-1615677/"
           },
-          "alt": "Free A beautiful seaside grotto with boats and people exploring the rocky formations. Stock Photo",
-          "altRaw": "Free A beautiful seaside grotto with boats and people exploring the rocky formations. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16997736.jpg",
+          "alt": "Free Dominant rocky cliffs of Capri Island with a small boat on the blue ocean waters. Stock Photo",
+          "altRaw": "Free Dominant rocky cliffs of Capri Island with a small boat on the blue ocean waters. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1615677.jpg",
           "m": {
-            "sat": 0.3599,
-            "satHigh": 0.4164,
-            "chroma": 27.16,
-            "contrast": 70.22,
-            "warm": 0.1347,
-            "vivid": 0.141,
-            "dark": 0.4959,
+            "sat": 0.3053,
+            "satHigh": 0.2615,
+            "chroma": 39.92,
+            "contrast": 37.09,
+            "warm": 0.0682,
+            "vivid": 0.318,
+            "dark": 0.1214,
             "blown": 0,
-            "busy": 0.1182,
-            "lum": 82.6
-          }
+            "busy": 0.2258,
+            "lum": 88.8
+          },
+          "dud": null,
+          "score": 0.5
         },
         {
           "query": "marina grande capri colorful boats harbour",
-          "must": [
+          "for": "📍 מרינה גרנדה קאפרי",
+          "mustAll": [
+            "italy",
             "marina"
           ],
-          "for": "📍 מרינה גרנדה קאפרי",
           "id": "pexels-36371555",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/36371555/pexels-photo-36371555/free-photo-of-scenic-view-of-marina-grande-in-capri.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -929,10 +937,11 @@
         },
         {
           "query": "capri piazzetta street tourists shops",
-          "must": [
+          "for": "📍 הפיאצטה",
+          "mustAll": [
+            "italy",
             "street"
           ],
-          "for": "📍 הפיאצטה",
           "id": "pexels-34163015",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/34163015/pexels-photo-34163015/free-photo-of-street-view-of-naples-with-mount-vesuvius.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -963,10 +972,11 @@
         },
         {
           "query": "via krupp capri winding road turquoise sea",
-          "must": [
+          "for": "📍 גני אוגוסטוס וויה קרופ",
+          "mustAll": [
+            "italy",
             "krupp"
           ],
-          "for": "📍 גני אוגוסטוס וויה קרופ",
           "id": "pexels-39065472",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/39065472/pexels-photo-39065472/free-photo-of-scenic-view-of-via-krupp-in-capri-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -995,10 +1005,11 @@
         },
         {
           "query": "faraglioni capri rocks turquoise sea",
-          "must": [
+          "for": "📍 הפאראליוני",
+          "mustAll": [
+            "italy",
             "faraglioni"
           ],
-          "for": "📍 הפאראליוני",
           "id": "pexels-33704024",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/33704024/pexels-photo-33704024/free-photo-of-stunning-view-of-faraglioni-rocks-in-capri.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",

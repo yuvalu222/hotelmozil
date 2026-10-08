@@ -59,7 +59,14 @@ for (const [label, stops] of Object.entries(R.chains)) {
       // [cyprus] alone five rows came back as five different seafronts, and
       // with [castle] alone they came back from five different countries.
       ...(R.mustAll || (R.must && R.must[n])
-        ? { mustAll: [...(R.mustAll ? [R.mustAll] : []), ...(R.must && R.must[n] ? [R.must[n]] : [])] }
+        ? { mustAll: (R.soloMust || []).includes(n) && R.must && R.must[n]
+          ? [].concat(R.must[n])
+          : [...(R.mustAll ? [R.mustAll] : []), ...(R.must && R.must[n] ? [].concat(R.must[n]) : [])] }
+        : {}),
+      // A photograph chosen by hand, because the picker kept handing this
+      // row to a different one. lib/stock.js honours keep+id+file.
+      ...(R.pin && R.pin[n]
+        ? { keep: true, id: R.pin[n], file: `cache/${R.pin[n]}.jpg` }
         : {}),
       ...((R.anyCountry || []).includes(n) ? { anyCountry: true } : {}),
     })),

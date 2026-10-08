@@ -6,7 +6,7 @@
   "clonedUrl": "https://www.tiktok.com/@vitortrip",
   "clonedAccount": "vitortrip",
   "demonstrates": "מבנה מהתקדים (3 שקופיות של 5 עצירות, זמן ומחיר, זמן נסיעה בין עצירות), רשימת עצירות ממועצת התיירות הרשמית של לרנקה ומ-Visit Cyprus, מחירים מאומתים מול בעלי האתרים, וזמני נסיעה מנותבים ב-Valhalla.",
-  "caption": "🇨🇾 המדריך המלא ללרנקה: 3 ימים, 15 עצירות, עם זמן ומחיר לכל אחת. ולמנזר סטברובוני נשים לא נכנסות בכלל, 2.50 יורו לחירוקיטיה.\nשמרו לפני שאתם טסים 📍 מי כבר היה?",
+  "caption": "🇨🇾 המדריך המלא ללרנקה: 3 ימים, 15 עצירות, עם זמן ומחיר לכל אחת. חירוקיטיה ב-2.50 יורו, ולמנזר סטברובוני נשים לא נכנסות בכלל.\nשמרו לפני שאתם טסים 📍 מי כבר היה?",
   "hashtags": [
     "קפריסין",
     "לרנקה",
@@ -124,6 +124,10 @@
         {
           "query": "finikoudes promenade larnaca palm trees seafront",
           "for": "📍 טיילת פיניקודס",
+          "mustAll": [
+            "cyprus",
+            "promenade"
+          ],
           "id": "pexels-28974199",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/28974199/pexels-photo-28974199/free-photo-of-sunset-beach-scene-with-palm-trees-and-promenade.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -155,6 +159,10 @@
         {
           "query": "larnaca medieval castle cyprus stone fort sea",
           "for": "📍 מצודת לרנקה",
+          "mustAll": [
+            "cyprus",
+            "castle"
+          ],
           "id": "pexels-25587814",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/25587814/pexels-photo-25587814/free-photo-of-photo-of-a-seacoast-with-a-castle.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -186,6 +194,10 @@
         {
           "query": "church of agios lazaros larnaca stone bell tower",
           "for": "📍 כנסיית אגיוס לאזארוס",
+          "mustAll": [
+            "cyprus",
+            "church"
+          ],
           "id": "pexels-35170982",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/35170982/pexels-photo-35170982/free-photo-of-historic-stone-church-in-sunny-plaza.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -215,39 +227,45 @@
           "score": 0.897
         },
         {
-          "query": "kition archaeological site larnaca ancient ruins",
+          "query": "cyprus ancient roman columns ruins blue sky",
           "for": "📍 אתר קיטיון",
-          "id": "pexels-4967364",
+          "mustAll": [
+            "cyprus",
+            "column"
+          ],
+          "id": "pexels-39138477",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/4967364/pexels-photo-4967364.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/39138477/pexels-photo-39138477/free-photo-of-ancient-roman-columns-under-clear-sky-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/clear-sky-over-aqueduct-4967364/"
+            "page": "https://www.pexels.com/photo/ancient-roman-columns-under-clear-sky-in-cyprus-39138477/"
           },
-          "alt": "Free A well-preserved Roman aqueduct under a bright blue sky, showcasing ancient architectural beauty. Stock Photo",
-          "altRaw": "Free A well-preserved Roman aqueduct under a bright blue sky, showcasing ancient architectural beauty. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967364.jpg",
+          "alt": "Free Majestic ancient Roman columns stand tall against a clear blue sky in Cyprus. Stock Photo",
+          "altRaw": "Free Majestic ancient Roman columns stand tall against a clear blue sky in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39138477.jpg",
           "m": {
-            "sat": 0.5161,
-            "satHigh": 0.588,
-            "chroma": 115.61,
-            "contrast": 41.92,
-            "warm": 0.409,
-            "vivid": 0.787,
-            "dark": 0.0318,
-            "blown": 0,
-            "busy": 0.1414,
-            "lum": 148.3
-          },
-          "dud": null,
-          "score": 0.84
+            "sat": 0.3736,
+            "satHigh": 0.2878,
+            "chroma": 64.29,
+            "contrast": 51.34,
+            "warm": 0.2248,
+            "vivid": 0.6918,
+            "dark": 0.0887,
+            "blown": 0.0001,
+            "busy": 0.1053,
+            "lum": 131.4
+          }
         },
         {
           "query": "pierides museum larnaca cyprus colonial house",
           "for": "📍 מוזיאון פיירידס",
+          "mustAll": [
+            "cyprus",
+            "museum"
+          ],
           "id": "pexels-17104851",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/17104851/pexels-photo-17104851/free-photo-of-houses-in-samanbahce-disctrict-of-lefkosa-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -346,37 +364,44 @@
           "score": 0.59
         },
         {
-          "query": "cyprus beach pier palm trees clear sky",
+          "query": "larnaca coastline beach aerial waves",
           "for": "📍 חוף מקנזי",
-          "id": "pexels-27081222",
+          "mustAll": [
+            "larnaca"
+          ],
+          "id": "pexels-36725370",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/27081222/pexels-photo-27081222/free-photo-of-view-of-an-empty-beach-and-a-pier-under-a-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/36725370/pexels-photo-36725370/free-photo-of-aerial-view-of-larnaca-seafront-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/view-of-an-empty-beach-and-a-pier-under-a-blue-sky-27081222/"
+            "page": "https://www.pexels.com/photo/aerial-view-of-larnaca-seafront-in-cyprus-36725370/"
           },
-          "alt": "Free Serene beach view with a pier, palm trees, and clear blue sky in Cyprus. Stock Photo",
-          "altRaw": "Free Serene beach view with a pier, palm trees, and clear blue sky in Cyprus. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27081222.jpg",
+          "alt": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "altRaw": "Free A stunning aerial shot of Larnaca's coastline showcasing buildings, beach, and waves. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36725370.jpg",
           "m": {
-            "sat": 0.2867,
-            "satHigh": 0.0671,
-            "chroma": 50.24,
-            "contrast": 26.14,
-            "warm": 0.4015,
-            "vivid": 0.4839,
-            "dark": 0.01,
+            "sat": 0.2085,
+            "satHigh": 0.1217,
+            "chroma": 55.82,
+            "contrast": 44.84,
+            "warm": 0.0253,
+            "vivid": 0.163,
+            "dark": 0.0418,
             "blown": 0,
-            "busy": 0.0406,
-            "lum": 152.4
+            "busy": 0.1684,
+            "lum": 148.3
           }
         },
         {
           "query": "kamares aqueduct larnaca cyprus stone arches",
           "for": "📍 אמת המים קמארס",
+          "mustAll": [
+            "cyprus",
+            "aqueduct"
+          ],
           "id": "pexels-35827642",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/35827642/pexels-photo-35827642/free-photo-of-ancient-aqueduct-at-sunset-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -406,6 +431,9 @@
         {
           "query": "larnaca salt lake cyprus flamingos pink water",
           "for": "📍 אגם המלח",
+          "mustAll": [
+            "cyprus"
+          ],
           "anyCountry": true,
           "id": "pexels-30672380",
           "source": "pexels",
@@ -436,40 +464,23 @@
           "score": 0.76
         },
         {
-          "query": "hala sultan tekke mosque larnaca minaret palm trees",
+          "query": "hala sultan tekke larnaca mosque",
           "for": "📍 חלה סולטן טקה",
-          "anyCountry": true,
-          "id": "pexels-37508880",
-          "source": "pexels",
-          "url": "https://images.pexels.com/photos/37508880/pexels-photo-37508880/free-photo-of-minarets-of-istanbul-mosque-framed-by-palm-leaves.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
-          "width": 1080,
-          "height": 1920,
-          "credit": {
-            "name": null,
-            "url": null,
-            "page": "https://www.pexels.com/photo/minarets-of-istanbul-mosque-framed-by-palm-leaves-37508880/"
-          },
-          "alt": "Free Two minarets of an Istanbul mosque viewed through palm leaves under a cloudy sky. Stock Photo",
-          "altRaw": "Free Two minarets of an Istanbul mosque viewed through palm leaves under a cloudy sky. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37508880.jpg",
-          "m": {
-            "sat": 0.3043,
-            "satHigh": 0.2425,
-            "chroma": 20.2,
-            "contrast": 58.49,
-            "warm": 0.011,
-            "vivid": 0.0694,
-            "dark": 0.2805,
-            "blown": 0,
-            "busy": 0.1346,
-            "lum": 101.1
-          },
-          "dud": null,
-          "score": 0.707
+          "mustAll": [
+            "hala sultan",
+            "palm"
+          ],
+          "keep": true,
+          "id": "pexels-5655087",
+          "file": "cache/pexels-5655087.jpg"
         },
         {
           "query": "panagia angeloktisti church kiti cyprus stone",
           "for": "📍 אנגלוקטיסטי בכיתי",
+          "mustAll": [
+            "cyprus",
+            "church"
+          ],
           "id": "pexels-4967359",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/4967359/pexels-photo-4967359.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -566,8 +577,12 @@
           "score": 0.829
         },
         {
-          "query": "stavrovouni monastery cyprus hilltop mountain peak",
+          "query": "cyprus rugged mountain landscape aerial",
           "for": "📍 מנזר סטברובוני",
+          "mustAll": [
+            "cyprus",
+            "mountain"
+          ],
           "id": "pexels-30563625",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/30563625/pexels-photo-30563625/free-photo-of-aerial-view-of-rugged-cyprus-mountain-terrain.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -597,6 +612,9 @@
         {
           "query": "choirokoitia neolithic settlement cyprus round stone houses",
           "for": "📍 חירוקיטיה",
+          "mustAll": [
+            "cyprus"
+          ],
           "anyCountry": true,
           "id": "pexels-31028135",
           "source": "pexels",
@@ -629,6 +647,9 @@
         {
           "query": "agios minas monastery vavla cyprus courtyard",
           "for": "📍 מנזר אגיוס מינאס",
+          "mustAll": [
+            "cyprus"
+          ],
           "id": "pexels-37609283",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/37609283/pexels-photo-37609283/free-photo-of-gothic-ruins-and-cypress-trees-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -656,64 +677,70 @@
           }
         },
         {
-          "query": "kato drys village cyprus stone alley",
+          "query": "kato drys larnaca cyprus village alley",
           "for": "📍 קאטו דריס",
-          "id": "pexels-12703807",
+          "mustAll": [
+            "larnaca"
+          ],
+          "id": "pexels-14820022",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/12703807/pexels-photo-12703807.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/14820022/pexels-photo-14820022.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/stone-paved-alley-in-between-concrete-building-12703807/"
+            "page": "https://www.pexels.com/photo/cars-parked-on-alley-in-town-14820022/"
           },
-          "alt": "Free Explore the picturesque blue and white alleyways of Larnaca, Cyprus, perfect for architectural enthusiasts. Stock Photo",
-          "altRaw": "Free Explore the picturesque blue and white alleyways of Larnaca, Cyprus, perfect for architectural enthusiasts. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12703807.jpg",
+          "alt": "Free A picturesque urban street in Larnaca, Cyprus, captured during a warm sunset, showcasing local architecture and street life. Stock Photo",
+          "altRaw": "Free A picturesque urban street in Larnaca, Cyprus, captured during a warm sunset, showcasing local architecture and street life. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14820022.jpg",
           "m": {
-            "sat": 0.1745,
-            "satHigh": 0.1155,
-            "chroma": 41.08,
-            "contrast": 74.18,
-            "warm": 0.009,
-            "vivid": 0.138,
-            "dark": 0.1426,
-            "blown": 0.0732,
-            "busy": 0.2099,
-            "lum": 148.8
-          },
-          "dud": null,
-          "score": 0.58
+            "sat": 0.314,
+            "satHigh": 0.2149,
+            "chroma": 57.07,
+            "contrast": 88.99,
+            "warm": 0.1858,
+            "vivid": 0.2466,
+            "dark": 0.3081,
+            "blown": 0,
+            "busy": 0.1357,
+            "lum": 139.7
+          }
         },
         {
-          "query": "pano lefkara village cyprus stone street lace",
+          "query": "lefkara larnaca cyprus village stone alley",
           "for": "📍 לפקרה",
-          "id": "pexels-30933905",
+          "mustAll": [
+            "larnaca"
+          ],
+          "id": "pexels-12703806",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/30933905/pexels-photo-30933905/free-photo-of-rustic-street-in-cyprus-old-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/12703806/pexels-photo-12703806.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/rustic-street-in-cyprus-old-town-30933905/"
+            "page": "https://www.pexels.com/photo/an-entrance-of-a-stone-building-with-a-welcome-sign-12703806/"
           },
-          "alt": "Free Charming rustic street in Cyprus with stone houses and narrow alleys, perfect for tourism and travel themes. Stock Photo",
-          "altRaw": "Free Charming rustic street in Cyprus with stone houses and narrow alleys, perfect for tourism and travel themes. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30933905.jpg",
+          "alt": "Free Rustic stone building with a welcome sign in Larnaca, Cyprus, featuring a scenic view of a church tower. Stock Photo",
+          "altRaw": "Free Rustic stone building with a welcome sign in Larnaca, Cyprus, featuring a scenic view of a church tower. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12703806.jpg",
           "m": {
-            "sat": 0.2682,
-            "satHigh": 0.1769,
-            "chroma": 36.24,
-            "contrast": 60.44,
-            "warm": 0.2165,
-            "vivid": 0.2491,
-            "dark": 0.1088,
-            "blown": 0.0005,
-            "busy": 0.2033,
-            "lum": 129.4
-          }
+            "sat": 0.2684,
+            "satHigh": 0.0991,
+            "chroma": 33.52,
+            "contrast": 69.97,
+            "warm": 0.1636,
+            "vivid": 0.205,
+            "dark": 0.3503,
+            "blown": 0,
+            "busy": 0.2471,
+            "lum": 110.6
+          },
+          "dud": null,
+          "score": 0.64
         }
       ]
     },

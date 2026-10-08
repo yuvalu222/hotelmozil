@@ -61,18 +61,18 @@
     "טיילת פיניקודס": "finikoudes promenade larnaca palm trees seafront",
     "מצודת לרנקה": "larnaca medieval castle cyprus stone fort sea",
     "כנסיית אגיוס לאזארוס": "church of agios lazaros larnaca stone bell tower",
-    "אתר קיטיון": "kition archaeological site larnaca ancient ruins",
+    "אתר קיטיון": "cyprus ancient roman columns ruins blue sky",
     "מוזיאון פיירידס": "pierides museum larnaca cyprus colonial house",
-    "חוף מקנזי": "cyprus beach pier palm trees clear sky",
+    "חוף מקנזי": "larnaca coastline beach aerial waves",
     "אמת המים קמארס": "kamares aqueduct larnaca cyprus stone arches",
     "אגם המלח": "larnaca salt lake cyprus flamingos pink water",
-    "חלה סולטן טקה": "hala sultan tekke mosque larnaca minaret palm trees",
+    "חלה סולטן טקה": "hala sultan tekke larnaca mosque",
     "אנגלוקטיסטי בכיתי": "panagia angeloktisti church kiti cyprus stone",
-    "מנזר סטברובוני": "stavrovouni monastery cyprus hilltop mountain peak",
+    "מנזר סטברובוני": "cyprus rugged mountain landscape aerial",
     "חירוקיטיה": "choirokoitia neolithic settlement cyprus round stone houses",
     "מנזר אגיוס מינאס": "agios minas monastery vavla cyprus courtyard",
-    "קאטו דריס": "kato drys village cyprus stone alley",
-    "לפקרה": "pano lefkara village cyprus stone street lace"
+    "קאטו דריס": "kato drys larnaca cyprus village alley",
+    "לפקרה": "lefkara larnaca cyprus village stone alley"
   },
   "closing": {
     "line1": "סיימנו את לרנקה 🇨🇾",
@@ -87,23 +87,38 @@
   "mustAll": "cyprus",
   "anyCountry": [
     "אגם המלח",
-    "חלה סולטן טקה",
     "חירוקיטיה"
   ],
   "anyCountryWhy": {
     "אגם המלח": "אין במאגר אף תמונת פלמינגו המתויגת כקפריסין. הפלמינגו בתמונה מגריסן שבצרפת — אותו עוף, אותה תמונה.",
-    "חלה סולטן טקה": "אין במאגר מסגד המתויג כקפריסין. העומד במקום הוא מינרטים באיסטנבול.",
     "חירוקיטיה": "אין במאגר אתר ניאוליתי המתויג כקפריסין. העומד במקום הוא גבקלי טפה שבטורקיה, אתר אבן מאותה תקופה."
   },
   "must": {
     "טיילת פיניקודס": "promenade",
     "מצודת לרנקה": "castle",
     "כנסיית אגיוס לאזארוס": "church",
-    "אתר קיטיון": "ruins",
+    "אתר קיטיון": "column",
     "מוזיאון פיירידס": "museum",
-    "חוף מקנזי": "beach",
+    "חוף מקנזי": "larnaca",
     "אמת המים קמארס": "aqueduct",
-    "אנגלוקטיסטי בכיתי": "church"
+    "אנגלוקטיסטי בכיתי": "church",
+    "חלה סולטן טקה": [
+      "hala sultan",
+      "palm"
+    ],
+    "לפקרה": "larnaca",
+    "קאטו דריס": "larnaca",
+    "מנזר סטברובוני": "mountain"
   },
-  "thinPool": "לשבע עצירות אין במאגר תמונה שאומרת גם cyprus וגם את הנושא (נבדק 8.10). להן נאכפת רק המדינה."
+  "thinPool": "לשבע עצירות אין במאגר תמונה שאומרת גם cyprus וגם את הנושא (נבדק 8.10). להן נאכפת רק המדינה. קיטיון: אין לו תמונה ייעודית; במקומו עמודים רומיים עתיקים בקפריסין, אותו סוג אתר ואותה מדינה. 8.10, בדיקה שנייה: חיפוש לפי \"larnaca\" ולא \"cyprus\" מצא את המסגד האמיתי ואת לפקרה, ושני ויתורים בוטלו.",
+  "soloMust": [
+    "חוף מקנזי",
+    "חלה סולטן טקה",
+    "לפקרה",
+    "קאטו דריס"
+  ],
+  "soloMustWhy": "התיאורים האלה אומרים Larnaca ולא Cyprus. דרישה לשתי המילים זרקה את המסגד האמיתי והשאירה מסגד מטורקיה במקומו. שם העיר כבר אומר את המדינה.",
+  "pin": {
+    "חלה סולטן טקה": "pexels-5655087"
+  }
 }

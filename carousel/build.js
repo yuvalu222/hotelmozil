@@ -170,12 +170,20 @@ async function main() {
           // vanished, taking the subject constraint with it. That is how a
           // deck about pools went back to having no pools in it, and it would
           // have silently undone every constraint added today.
+          // KEEP EVERYTHING EXCEPT WHAT THE RESOLVER ITSELF PRODUCES. This was
+          // an allow-list of authored keys and it lost a field three separate
+          // times, always silently: `must` (a deck about pools went back to
+          // having no pools), then `keep` (a pinned photograph was re-searched
+          // on the next build), then `mustAll` on the night it was added — the
+          // build used it, wrote the entry back without it, and the next build
+          // had no constraint at all. A missed key in an allow-list is invisible;
+          // a missed key in this deny-list merely survives, which is harmless.
+          const RESOLVED = new Set(['id', 'source', 'url', 'width', 'height',
+            'credit', 'alt', 'altRaw', 'file', 'm', 'dud', 'score',
+            'coverFactor', 'coverWhy', 'coverScore']);
           const authored = {};
-          // `keep` pins a chosen photograph (lib/stock.js reads it). It was missing
-          // from this list, so a pinned photo survived exactly one build and was
-          // then re-searched — the same way `must` was lost.
-          for (const k of ['query', 'must', 'for', 'count', 'backdrop', 'anyCountry', 'keep']) {
-            if (entry[k] !== undefined) authored[k] = entry[k];
+          for (const k of Object.keys(entry)) {
+            if (!RESOLVED.has(k) && entry[k] !== undefined) authored[k] = entry[k];
           }
           if (m.subjectMissing) {
             console.error(`  slide ${g.index + 1}: NO PHOTO OF THE SUBJECT`
