@@ -227,7 +227,7 @@
   .ttt.upper { top:15%; }
   .ttt.mid   { top:42%; }
   .ttt.low   { top:72%; }
-  .ttt-title { font:900 82px/1.16 'Heebo'; color:#fff;
+  .ttt-title { font:900 82px/1.16 'Heebo'; color:#fff; white-space:pre-line;
                -webkit-text-stroke:6px #000; paint-order:stroke fill; }
   .ttt-line  { font:800 54px/1.32 'Heebo'; display:flex; justify-content:center;
                gap:.28em; direction:rtl; flex-wrap:wrap; color:#fff;
@@ -235,6 +235,10 @@
   .ttt-n     { unicode-bidi:isolate; color:#ffe27a; }
   .ttt-note  { font:700 41px/1.36 'Heebo'; margin-top:14px; color:#fff;
                -webkit-text-stroke:3px #000; paint-order:stroke fill; }
+  /* Measured off his own "הנה המסלול המושלם לתאילנד" cover (19,600 views):
+     emoji 92px tall on a 1500px-wide frame = 66px on 1080, sitting 60/1500 of
+     the width below the title, no spaces between them. */
+  .ttt-emoji { font-size:66px; line-height:1.15; margin-top:30px; }
   .ttt-sub   { font:700 44px/1.3 'Heebo'; margin-top:16px; color:#fff;
                -webkit-text-stroke:4px #000; paint-order:stroke fill; }
 

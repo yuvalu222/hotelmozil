@@ -41,9 +41,7 @@
     {
       "layout": "tt-tiny",
       "pos": "mid",
-      "titleCaps": "הנה המסלול המושלם לאמלפי",
-      "line": "20 עצירות, 4 ימים",
-      "note": "🇮🇹 ✈️ 📍 ✨",
+      "titleCaps": "הנה המסלול המושלם\nלאמלפי בדרום איטליה",
       "alt": "חוף אמלפי",
       "image": {
         "query": "positano amalfi coast colorful houses cliff sea sunset",
@@ -83,7 +81,10 @@
         ],
         "coverScore": 0.8957
       },
-      "credit": null
+      "credit": null,
+      "emojiRow": "🌅✈️🛍️🍋🇮🇹",
+      "top": 29,
+      "titlePx": 67
     },
     {
       "layout": "tt-route",
@@ -1085,6 +1086,7 @@
   ],
   "place": "חוף אמלפי",
   "placeAlso": [
-    "אמלפי"
+    "אמלפי",
+    "איטליה"
   ]
 }

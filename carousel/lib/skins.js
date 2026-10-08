@@ -238,11 +238,18 @@ const SKINS = {
     // slide and the feed shows 1, 2, 5. The count lives on the cover instead,
     // where it is one slide to edit. Owner's standing instruction 3.10.
     const body = `<span>${esc(s.line)}</span>`;
+    // `top` (percent of the 1920 frame) overrides the named bands. 8.10: the
+    // bands were mine; a cover copied from one of his own posts takes that
+    // post's measured position instead (research/own-cover-geometry.json).
+    const at = Number.isFinite(s.top) ? ` style="top:${s.top}%"` : '';
     return [
       `<img class="photo" src="${photos[0]}" alt="">`,
-      `<div class="ttt ${pos}">`,
-      s.titleCaps ? `<div class="ttt-title">${esc(s.titleCaps)}</div>` : '',
+      `<div class="ttt ${pos}"${at}>`,
+      s.titleCaps ? `<div class="ttt-title"${Number.isFinite(s.titlePx) ? ` style="font-size:${s.titlePx}px"` : ''}>${esc(s.titleCaps)}</div>` : '',
       s.line ? `<div class="ttt-line">${body}</div>` : '',
+      // His own cover's emoji row, at its measured size (66px on 1080 wide),
+      // not the 41px note size, which read as too small (owner, 8.10).
+      s.emojiRow ? `<div class="ttt-emoji">${esc(s.emojiRow)}</div>` : '',
       // Every slide says something. A bare place name was read as an empty
       // slide ("לא כתוב כלום ברוב התמונות בכלל"), so each item carries a
       // reason to care, not just a label.
