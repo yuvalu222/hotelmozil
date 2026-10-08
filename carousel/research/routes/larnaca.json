@@ -63,7 +63,7 @@
     "כנסיית אגיוס לאזארוס": "church of agios lazaros larnaca stone bell tower",
     "אתר קיטיון": "kition archaeological site larnaca ancient ruins",
     "מוזיאון פיירידס": "pierides museum larnaca cyprus colonial house",
-    "חוף מקנזי": "mackenzie beach larnaca airplane landing low over beach",
+    "חוף מקנזי": "cyprus beach pier palm trees clear sky",
     "אמת המים קמארס": "kamares aqueduct larnaca cyprus stone arches",
     "אגם המלח": "larnaca salt lake cyprus flamingos pink water",
     "חלה סולטן טקה": "hala sultan tekke mosque larnaca minaret palm trees",
@@ -83,5 +83,27 @@
     "must": [
       "cyprus"
     ]
-  }
+  },
+  "mustAll": "cyprus",
+  "anyCountry": [
+    "אגם המלח",
+    "חלה סולטן טקה",
+    "חירוקיטיה"
+  ],
+  "anyCountryWhy": {
+    "אגם המלח": "אין במאגר אף תמונת פלמינגו המתויגת כקפריסין. הפלמינגו בתמונה מגריסן שבצרפת — אותו עוף, אותה תמונה.",
+    "חלה סולטן טקה": "אין במאגר מסגד המתויג כקפריסין. העומד במקום הוא מינרטים באיסטנבול.",
+    "חירוקיטיה": "אין במאגר אתר ניאוליתי המתויג כקפריסין. העומד במקום הוא גבקלי טפה שבטורקיה, אתר אבן מאותה תקופה."
+  },
+  "must": {
+    "טיילת פיניקודס": "promenade",
+    "מצודת לרנקה": "castle",
+    "כנסיית אגיוס לאזארוס": "church",
+    "אתר קיטיון": "ruins",
+    "מוזיאון פיירידס": "museum",
+    "חוף מקנזי": "beach",
+    "אמת המים קמארס": "aqueduct",
+    "אנגלוקטיסטי בכיתי": "church"
+  },
+  "thinPool": "לשבע עצירות אין במאגר תמונה שאומרת גם cyprus וגם את הנושא (נבדק 8.10). להן נאכפת רק המדינה."
 }

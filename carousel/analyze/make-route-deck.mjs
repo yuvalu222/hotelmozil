@@ -49,7 +49,20 @@ for (const [label, stops] of Object.entries(R.chains)) {
   // one backdrop, then one photo per row, in order — lib/wiring.js enforces it
   const images = [
     { query: R.backdrop[label], backdrop: true },
-    ...stops.map((n) => ({ query: R.shots[n], for: `📍 ${n}` })),
+    ...stops.map((n) => ({
+      query: R.shots[n],
+      for: `📍 ${n}`,
+      // the stock description has to name the country, or the picker is free
+      // to hand back the right subject in the wrong place
+      // `must` is any-of and `mustAll` is all-of (lib/stock.js). A row needs
+      // its own subject AND its own country, which only mustAll can say: with
+      // [cyprus] alone five rows came back as five different seafronts, and
+      // with [castle] alone they came back from five different countries.
+      ...(R.mustAll || (R.must && R.must[n])
+        ? { mustAll: [...(R.mustAll ? [R.mustAll] : []), ...(R.must && R.must[n] ? [R.must[n]] : [])] }
+        : {}),
+      ...((R.anyCountry || []).includes(n) ? { anyCountry: true } : {}),
+    })),
   ];
   slides.push({
     layout: 'tt-route',

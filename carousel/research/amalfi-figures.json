@@ -105,19 +105,6 @@
       "note": "כולל 12 לסירת החתירה. נסגרת בים גבוה",
       "src": "https://www.capri.com/en/e/la-grotta-azzurra"
     },
-    "מונטה סולארו": {
-      "kind": "viewpoint",
-      "time": "שעה",
-      "price": "14 יורו",
-      "note": "רכבל הלוך-חזור. כיוון אחד 11",
-      "src": "https://www.capri.com/en/e/monte-solaro-high-drama"
-    },
-    "וילה סן מיקלה": {
-      "kind": "museum",
-      "time": "שעה",
-      "price": "12 יורו",
-      "src": "https://www.villasanmichele.eu/visit"
-    },
     "גני אוגוסטוס": {
       "kind": "park",
       "time": "שעה",
@@ -136,6 +123,28 @@
       "price": "חינם",
       "note": "סוף שביל האלים. 1,700 מדרגות משם לפוזיטאנו",
       "src": "https://www.italia.it/en/campania/things-to-do/the-amalfi-coast"
+    },
+    "מרינה גרנדה קאפרי": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "חינם",
+      "note": "הנמל שאליו מגיעה המעבורת",
+      "src": "https://www.capri.com/en/e/getting-around"
+    },
+    "הפיאצטה": {
+      "kind": "square",
+      "time": "30 דקות",
+      "price": "חינם",
+      "note": "כיכר אומברטו הראשון, לב האי",
+      "src": "https://www.capri.com"
+    },
+    "גני אוגוסטוס וויה קרופ": {
+      "kind": "park",
+      "time": "שעה",
+      "price": "2.50 יורו",
+      "note": "מהגנים נשקפת ויה קרופ המתפתלת",
+      "src": "https://www.capri.com/en/e/augustus-gardens-via-krupp"
     }
-  }
+  },
+  "_swapped": "מונטה סולארו ווילה סן מיקלה הוסרו 8.10: אין להן אף תמונה במאגר, ושלוש שורות חזרו עם אותם צוקי הפאראליוני. הוחלפו בעצירות מאותה רשימה רשמית שכן קיימות במאגר."
 }

@@ -346,70 +346,67 @@
           "score": 0.59
         },
         {
-          "query": "mackenzie beach larnaca airplane landing low over beach",
+          "query": "cyprus beach pier palm trees clear sky",
           "for": "📍 חוף מקנזי",
-          "id": "pexels-21049206",
+          "id": "pexels-27081222",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/21049206/pexels-photo-21049206/free-photo-of-commercial-airplane-flying-low-over-the-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/27081222/pexels-photo-27081222/free-photo-of-view-of-an-empty-beach-and-a-pier-under-a-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/commercial-airplane-flying-low-over-the-sea-21049206/"
+            "page": "https://www.pexels.com/photo/view-of-an-empty-beach-and-a-pier-under-a-blue-sky-27081222/"
           },
-          "alt": "Free Commercial airplane flying over the sea near Heraklion, Greece. Capturing a tranquil travel scene. Stock Photo",
-          "altRaw": "Free Commercial airplane flying over the sea near Heraklion, Greece. Capturing a tranquil travel scene. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-21049206.jpg",
+          "alt": "Free Serene beach view with a pier, palm trees, and clear blue sky in Cyprus. Stock Photo",
+          "altRaw": "Free Serene beach view with a pier, palm trees, and clear blue sky in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27081222.jpg",
           "m": {
-            "sat": 0.4013,
-            "satHigh": 0.5071,
-            "chroma": 55.07,
-            "contrast": 46.63,
-            "warm": 0,
-            "vivid": 0.4683,
-            "dark": 0.0839,
-            "blown": 0.0001,
-            "busy": 0.0829,
-            "lum": 116.4
-          },
-          "dud": null,
-          "score": 0.76
+            "sat": 0.2867,
+            "satHigh": 0.0671,
+            "chroma": 50.24,
+            "contrast": 26.14,
+            "warm": 0.4015,
+            "vivid": 0.4839,
+            "dark": 0.01,
+            "blown": 0,
+            "busy": 0.0406,
+            "lum": 152.4
+          }
         },
         {
           "query": "kamares aqueduct larnaca cyprus stone arches",
           "for": "📍 אמת המים קמארס",
-          "id": "pexels-10163045",
+          "id": "pexels-35827642",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/10163045/pexels-photo-10163045.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/35827642/pexels-photo-35827642/free-photo-of-ancient-aqueduct-at-sunset-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/an-exterior-of-the-houses-in-the-city-10163045/"
+            "page": "https://www.pexels.com/photo/ancient-aqueduct-at-sunset-in-cyprus-35827642/"
           },
-          "alt": "Free Historic stone aqueduct and town buildings under warm sunset light, showcasing medieval architecture. Stock Photo",
-          "altRaw": "Free Historic stone aqueduct and town buildings under warm sunset light, showcasing medieval architecture. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10163045.jpg",
+          "alt": "Free Sunset view of ancient aqueduct arches in Larnaca, Cyprus capturing historic architecture. Stock Photo",
+          "altRaw": "Free Sunset view of ancient aqueduct arches in Larnaca, Cyprus capturing historic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35827642.jpg",
           "m": {
-            "sat": 0.4086,
-            "satHigh": 0.4555,
-            "chroma": 58.76,
-            "contrast": 68.08,
-            "warm": 0.3816,
-            "vivid": 0.3816,
-            "dark": 0.3686,
-            "blown": 0,
-            "busy": 0.1901,
-            "lum": 94
-          },
-          "dud": null,
-          "score": 1
+            "sat": 0.3075,
+            "satHigh": 0.1989,
+            "chroma": 33.57,
+            "contrast": 69.02,
+            "warm": 0.0904,
+            "vivid": 0.2585,
+            "dark": 0.4172,
+            "blown": 0.0192,
+            "busy": 0.0254,
+            "lum": 85.1
+          }
         },
         {
           "query": "larnaca salt lake cyprus flamingos pink water",
           "for": "📍 אגם המלח",
+          "anyCountry": true,
           "id": "pexels-30672380",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/30672380/pexels-photo-30672380/free-photo-of-greater-flamingos-wading-in-gruissan-waters.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -441,6 +438,7 @@
         {
           "query": "hala sultan tekke mosque larnaca minaret palm trees",
           "for": "📍 חלה סולטן טקה",
+          "anyCountry": true,
           "id": "pexels-37508880",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/37508880/pexels-photo-37508880/free-photo-of-minarets-of-istanbul-mosque-framed-by-palm-leaves.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -472,33 +470,31 @@
         {
           "query": "panagia angeloktisti church kiti cyprus stone",
           "for": "📍 אנגלוקטיסטי בכיתי",
-          "id": "pexels-13978544",
+          "id": "pexels-4967359",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/13978544/pexels-photo-13978544.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/4967359/pexels-photo-4967359.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/panagia-filiotissa-in-naxos-greece-13978544/"
+            "page": "https://www.pexels.com/photo/church-under-blue-sky-4967359/"
           },
-          "alt": "Free A stunning low-angle view of a white church bell tower in Naxos against a clear blue sky. Stock Photo",
-          "altRaw": "Free A stunning low-angle view of a white church bell tower in Naxos against a clear blue sky. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-13978544.jpg",
+          "alt": "Free Captivating vertical shot of a historical church in Larnaca, Cyprus against a vibrant blue sky. Stock Photo",
+          "altRaw": "Free Captivating vertical shot of a historical church in Larnaca, Cyprus against a vibrant blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-4967359.jpg",
           "m": {
-            "sat": 0.3896,
-            "satHigh": 0.4057,
-            "chroma": 56.71,
-            "contrast": 53.73,
-            "warm": 0.0072,
-            "vivid": 0.4021,
-            "dark": 0.0406,
-            "blown": 0.0001,
-            "busy": 0.0798,
-            "lum": 111.9
-          },
-          "dud": null,
-          "score": 0.6
+            "sat": 0.4394,
+            "satHigh": 0.4155,
+            "chroma": 107,
+            "contrast": 39.69,
+            "warm": 0.0737,
+            "vivid": 0.5785,
+            "dark": 0.0168,
+            "blown": 0,
+            "busy": 0.0746,
+            "lum": 172.4
+          }
         }
       ]
     },
@@ -572,37 +568,36 @@
         {
           "query": "stavrovouni monastery cyprus hilltop mountain peak",
           "for": "📍 מנזר סטברובוני",
-          "id": "pexels-34757216",
+          "id": "pexels-30563625",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/34757216/pexels-photo-34757216/free-photo-of-aerial-view-of-majestic-mountain-landscape.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/30563625/pexels-photo-30563625/free-photo-of-aerial-view-of-rugged-cyprus-mountain-terrain.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/aerial-view-of-majestic-mountain-landscape-34757216/"
+            "page": "https://www.pexels.com/photo/aerial-view-of-rugged-cyprus-mountain-terrain-30563625/"
           },
-          "alt": "Free Stunning aerial view of mountainous landscape under a vibrant blue sky with white clouds. Stock Photo",
-          "altRaw": "Free Stunning aerial view of mountainous landscape under a vibrant blue sky with white clouds. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34757216.jpg",
+          "alt": "Free Stunning aerial view of Cyprus's rugged mountain landscape under clear skies. Stock Photo",
+          "altRaw": "Free Stunning aerial view of Cyprus's rugged mountain landscape under clear skies. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30563625.jpg",
           "m": {
-            "sat": 0.5265,
-            "satHigh": 0.6139,
-            "chroma": 69.19,
-            "contrast": 50.29,
-            "warm": 0.3229,
-            "vivid": 0.5277,
-            "dark": 0.2777,
-            "blown": 0,
-            "busy": 0.1272,
-            "lum": 87.5
-          },
-          "dud": null,
-          "score": 0.814
+            "sat": 0.3536,
+            "satHigh": 0.2991,
+            "chroma": 37.35,
+            "contrast": 59.36,
+            "warm": 0.375,
+            "vivid": 0.3981,
+            "dark": 0.2485,
+            "blown": 0.0037,
+            "busy": 0.2212,
+            "lum": 94.3
+          }
         },
         {
           "query": "choirokoitia neolithic settlement cyprus round stone houses",
           "for": "📍 חירוקיטיה",
+          "anyCountry": true,
           "id": "pexels-31028135",
           "source": "pexels",
           "url": "https://images.pexels.com/photos/31028135/pexels-photo-31028135/free-photo-of-ancient-gobeklitepe-stone-structures-in-turkey.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
@@ -634,95 +629,91 @@
         {
           "query": "agios minas monastery vavla cyprus courtyard",
           "for": "📍 מנזר אגיוס מינאס",
-          "id": "pexels-14319838",
+          "id": "pexels-37609283",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/14319838/pexels-photo-14319838.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/37609283/pexels-photo-37609283/free-photo-of-gothic-ruins-and-cypress-trees-in-cyprus.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/courtyard-of-mor-gabriel-monastery-tur-abdin-turkey-14319838/"
+            "page": "https://www.pexels.com/photo/gothic-ruins-and-cypress-trees-in-cyprus-37609283/"
           },
-          "alt": "Free Explore the serene courtyard of Mor Gabriel Monastery in Mardin, Türkiye with stunning architecture. Stock Photo",
-          "altRaw": "Free Explore the serene courtyard of Mor Gabriel Monastery in Mardin, Türkiye with stunning architecture. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14319838.jpg",
+          "alt": "Free Explore Gothic ruins with towering cypress trees in a sunny courtyard in Cyprus. Stock Photo",
+          "altRaw": "Free Explore Gothic ruins with towering cypress trees in a sunny courtyard in Cyprus. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37609283.jpg",
           "m": {
-            "sat": 0.6135,
-            "satHigh": 0.6742,
-            "chroma": 99.06,
-            "contrast": 58.37,
-            "warm": 0.2806,
-            "vivid": 0.5411,
-            "dark": 0.335,
-            "blown": 0.0002,
-            "busy": 0.1625,
-            "lum": 82.3
-          },
-          "dud": null,
-          "score": 0.879
+            "sat": 0.5616,
+            "satHigh": 0.6366,
+            "chroma": 54.43,
+            "contrast": 56.9,
+            "warm": 0.5059,
+            "vivid": 0.5961,
+            "dark": 0.3271,
+            "blown": 0.0005,
+            "busy": 0.156,
+            "lum": 81.1
+          }
         },
         {
           "query": "kato drys village cyprus stone alley",
           "for": "📍 קאטו דריס",
-          "id": "pexels-18552007",
+          "id": "pexels-12703807",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/18552007/pexels-photo-18552007/free-photo-of-quaint-walkway-decorated-with-potted-plants.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/12703807/pexels-photo-12703807.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/quaint-walkway-decorated-with-potted-plants-18552007/"
+            "page": "https://www.pexels.com/photo/stone-paved-alley-in-between-concrete-building-12703807/"
           },
-          "alt": "Free Charming old town alley with rustic charm, cobblestone path, and lush potted plants. Stock Photo",
-          "altRaw": "Free Charming old town alley with rustic charm, cobblestone path, and lush potted plants. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18552007.jpg",
+          "alt": "Free Explore the picturesque blue and white alleyways of Larnaca, Cyprus, perfect for architectural enthusiasts. Stock Photo",
+          "altRaw": "Free Explore the picturesque blue and white alleyways of Larnaca, Cyprus, perfect for architectural enthusiasts. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-12703807.jpg",
           "m": {
-            "sat": 0.395,
-            "satHigh": 0.3766,
-            "chroma": 47.57,
-            "contrast": 50.46,
-            "warm": 0.2184,
-            "vivid": 0.2467,
-            "dark": 0.1648,
-            "blown": 0.0021,
-            "busy": 0.298,
-            "lum": 104.7
+            "sat": 0.1745,
+            "satHigh": 0.1155,
+            "chroma": 41.08,
+            "contrast": 74.18,
+            "warm": 0.009,
+            "vivid": 0.138,
+            "dark": 0.1426,
+            "blown": 0.0732,
+            "busy": 0.2099,
+            "lum": 148.8
           },
           "dud": null,
-          "score": 0.773
+          "score": 0.58
         },
         {
           "query": "pano lefkara village cyprus stone street lace",
           "for": "📍 לפקרה",
-          "id": "pexels-37858518",
+          "id": "pexels-30933905",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/37858518/pexels-photo-37858518/free-photo-of-charming-mediterranean-alley-with-flowers-and-sunshade.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/30933905/pexels-photo-30933905/free-photo-of-rustic-street-in-cyprus-old-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/charming-mediterranean-alley-with-flowers-and-sunshade-37858518/"
+            "page": "https://www.pexels.com/photo/rustic-street-in-cyprus-old-town-30933905/"
           },
-          "alt": "Free A picturesque Mediterranean alley featuring stone buildings, flowering plants, and an orange sunshade in bright daylight. Stock Photo",
-          "altRaw": "Free A picturesque Mediterranean alley featuring stone buildings, flowering plants, and an orange sunshade in bright daylight. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37858518.jpg",
+          "alt": "Free Charming rustic street in Cyprus with stone houses and narrow alleys, perfect for tourism and travel themes. Stock Photo",
+          "altRaw": "Free Charming rustic street in Cyprus with stone houses and narrow alleys, perfect for tourism and travel themes. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-30933905.jpg",
           "m": {
-            "sat": 0.3344,
-            "satHigh": 0.2332,
-            "chroma": 54.55,
-            "contrast": 67.99,
-            "warm": 0.2208,
-            "vivid": 0.3921,
-            "dark": 0.1893,
-            "blown": 0,
-            "busy": 0.2052,
-            "lum": 130.4
-          },
-          "dud": null,
-          "score": 0.693
+            "sat": 0.2682,
+            "satHigh": 0.1769,
+            "chroma": 36.24,
+            "contrast": 60.44,
+            "warm": 0.2165,
+            "vivid": 0.2491,
+            "dark": 0.1088,
+            "blown": 0.0005,
+            "busy": 0.2033,
+            "lum": 129.4
+          }
         }
       ]
     },

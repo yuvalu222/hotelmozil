@@ -154,6 +154,9 @@
         },
         {
           "query": "pompeii ruins forum columns vesuvius background",
+          "must": [
+            "pompeii"
+          ],
           "for": "📍 פומפיי",
           "id": "pexels-19309240",
           "source": "pexels",
@@ -185,6 +188,9 @@
         },
         {
           "query": "herculaneum ercolano ruins italy excavation",
+          "must": [
+            "herculaneum"
+          ],
           "for": "📍 הרקולנאום",
           "id": "pexels-33798774",
           "source": "pexels",
@@ -216,6 +222,9 @@
         },
         {
           "query": "mount vesuvius crater rim path hikers",
+          "must": [
+            "vesuvius"
+          ],
           "for": "📍 הר הווזוב",
           "id": "pexels-30204921",
           "source": "pexels",
@@ -247,6 +256,9 @@
         },
         {
           "query": "marina grande sorrento italy fishing harbour boats",
+          "must": [
+            "italy"
+          ],
           "for": "📍 מרינה גרנדה סורנטו",
           "id": "pexels-10229047",
           "source": "pexels",
@@ -274,38 +286,39 @@
             "lum": 102.5
           },
           "dud": null,
-          "score": 0.838
+          "score": 0.734
         },
         {
           "query": "villa comunale sorrento terrace view bay naples",
+          "must": [
+            "italy"
+          ],
           "for": "📍 וילה קומונלה סורנטו",
-          "id": "pexels-37322389",
+          "id": "pexels-37226886",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/37322389/pexels-photo-37322389/free-photo-of-charming-coastal-italian-villa-overlooking-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/37226886/pexels-photo-37226886/free-photo-of-majestic-marble-monument-at-sunset-in-naples.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/charming-coastal-italian-villa-overlooking-sea-37322389/"
+            "page": "https://www.pexels.com/photo/majestic-marble-monument-at-sunset-in-naples-37226886/"
           },
-          "alt": "Free Sunlit Italian villa facade with sea view, capturing serene coastal beauty. Stock Photo",
-          "altRaw": "Free Sunlit Italian villa facade with sea view, capturing serene coastal beauty. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37322389.jpg",
+          "alt": "Free Elegant marble monument with classical statues at sunset, showcasing architectural beauty in Naples, Italy. Stock Photo",
+          "altRaw": "Free Elegant marble monument with classical statues at sunset, showcasing architectural beauty in Naples, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37226886.jpg",
           "m": {
-            "sat": 0.4325,
-            "satHigh": 0.5927,
-            "chroma": 67.08,
-            "contrast": 48.73,
-            "warm": 0.2479,
-            "vivid": 0.7639,
-            "dark": 0.0957,
+            "sat": 0.2172,
+            "satHigh": 0.0116,
+            "chroma": 39.93,
+            "contrast": 49.76,
+            "warm": 0.0643,
+            "vivid": 0.2778,
+            "dark": 0.0336,
             "blown": 0,
-            "busy": 0.0634,
-            "lum": 119.2
-          },
-          "dud": null,
-          "score": 0.84
+            "busy": 0.09,
+            "lum": 122.8
+          }
         }
       ]
     },
@@ -378,6 +391,9 @@
         },
         {
           "query": "sentiero degli dei path of the gods amalfi coast hiking",
+          "must": [
+            "italy"
+          ],
           "for": "📍 שביל האלים",
           "id": "pexels-29223202",
           "source": "pexels",
@@ -409,99 +425,107 @@
         },
         {
           "query": "nocelle positano amalfi coast hamlet stairs view",
+          "must": [
+            "italy"
+          ],
           "for": "📍 נוצ'לה",
-          "id": "pexels-33704027",
+          "id": "pexels-36395781",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/33704027/pexels-photo-33704027/free-photo-of-charming-mediterranean-alley-with-lush-greenery.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/36395781/pexels-photo-36395781/free-photo-of-charming-positano-street-with-cafe-and-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/charming-mediterranean-alley-with-lush-greenery-33704027/"
+            "page": "https://www.pexels.com/photo/charming-positano-street-with-cafe-and-architecture-36395781/"
           },
-          "alt": "Free A picturesque Mediterranean alley lined with potted plants and a vine-covered pergola. Perfect for travel inspiration. Stock Photo",
-          "altRaw": "Free A picturesque Mediterranean alley lined with potted plants and a vine-covered pergola. Perfect for travel inspiration. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33704027.jpg",
+          "alt": "Free Picturesque street view of Positano, Italy, capturing historic architecture and a cozy cafe setting. Stock Photo",
+          "altRaw": "Free Picturesque street view of Positano, Italy, capturing historic architecture and a cozy cafe setting. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36395781.jpg",
           "m": {
-            "sat": 0.5374,
-            "satHigh": 0.6506,
-            "chroma": 52.44,
-            "contrast": 63.18,
-            "warm": 0.4752,
-            "vivid": 0.4836,
-            "dark": 0.3146,
-            "blown": 0,
-            "busy": 0.2591,
-            "lum": 97
-          },
-          "dud": null,
-          "score": 0.902
+            "sat": 0.3014,
+            "satHigh": 0.2306,
+            "chroma": 32.26,
+            "contrast": 69.66,
+            "warm": 0.291,
+            "vivid": 0.2914,
+            "dark": 0.1941,
+            "blown": 0.0007,
+            "busy": 0.1829,
+            "lum": 126.9
+          }
         },
         {
           "query": "santa maria assunta positano majolica dome church",
+          "must": [
+            "italy"
+          ],
           "for": "📍 סנטה מריה אסונטה",
-          "id": "pexels-9954172",
+          "id": "pexels-31041339",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/9954172/pexels-photo-9954172.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/31041339/pexels-photo-31041339/free-photo-of-scenic-view-of-saint-mary-s-church-in-positano.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/clear-sky-over-town-on-seashore-9954172/"
+            "page": "https://www.pexels.com/photo/scenic-view-of-saint-mary-s-church-in-positano-31041339/"
           },
-          "alt": "Free Discover the vibrant cliffside town of Positano overlooking the serene Mediterranean Sea. Stock Photo",
-          "altRaw": "Free Discover the vibrant cliffside town of Positano overlooking the serene Mediterranean Sea. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-9954172.jpg",
+          "alt": "Free Stone facade of Saint Mary’s Church in Positano, Italy with scenic coastal backdrop. Stock Photo",
+          "altRaw": "Free Stone facade of Saint Mary’s Church in Positano, Italy with scenic coastal backdrop. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31041339.jpg",
           "m": {
-            "sat": 0.2943,
-            "satHigh": 0.1142,
-            "chroma": 53.48,
-            "contrast": 55.63,
-            "warm": 0.1194,
-            "vivid": 0.3706,
-            "dark": 0.1167,
+            "sat": 0.293,
+            "satHigh": 0.1753,
+            "chroma": 41.68,
+            "contrast": 53.43,
+            "warm": 0.344,
+            "vivid": 0.3727,
+            "dark": 0.0677,
             "blown": 0,
-            "busy": 0.1915,
-            "lum": 136.2
-          },
-          "dud": null,
-          "score": 0.9
+            "busy": 0.1061,
+            "lum": 147.5
+          }
         },
         {
           "query": "spiaggia grande positano beach umbrellas village",
+          "must": [
+            "italy"
+          ],
           "for": "📍 חוף מרינה גרנדה פוזיטאנו",
-          "id": "pexels-20924613",
+          "id": "pexels-31176160",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/20924613/pexels-photo-20924613/free-photo-of-townscape-and-a-rocky-coast.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/31176160/pexels-photo-31176160/free-photo-of-scenic-view-of-positano-s-coastline-and-mediterranean-sea.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/townscape-and-a-rocky-coast-20924613/"
+            "page": "https://www.pexels.com/photo/scenic-view-of-positano-s-coastline-and-mediterranean-sea-31176160/"
           },
-          "alt": "Free Stunning vertical view of Positano's waterfront with mountains and vibrant beach life. Stock Photo",
-          "altRaw": "Free Stunning vertical view of Positano's waterfront with mountains and vibrant beach life. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-20924613.jpg",
+          "alt": "Free A beautiful coastal view of Positano in Italy, featuring colorful umbrellas and clear blue waters. Stock Photo",
+          "altRaw": "Free A beautiful coastal view of Positano in Italy, featuring colorful umbrellas and clear blue waters. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-31176160.jpg",
           "m": {
-            "sat": 0.2417,
-            "satHigh": 0.1033,
-            "chroma": 39.14,
-            "contrast": 64.39,
-            "warm": 0.0229,
-            "vivid": 0.3408,
-            "dark": 0.0609,
-            "blown": 0.0096,
-            "busy": 0.122,
-            "lum": 128.2
+            "sat": 0.4126,
+            "satHigh": 0.4024,
+            "chroma": 52.59,
+            "contrast": 51.23,
+            "warm": 0.0694,
+            "vivid": 0.4927,
+            "dark": 0.1208,
+            "blown": 0,
+            "busy": 0.1348,
+            "lum": 105.7
           },
           "dud": null,
-          "score": 0.86
+          "score": 0.84
         },
         {
           "query": "fornillo beach positano cove pebbles",
+          "must": [
+            "italy"
+          ],
           "for": "📍 חוף פורנילו",
           "id": "pexels-13353684",
           "source": "pexels",
@@ -527,9 +551,7 @@
             "blown": 0.0002,
             "busy": 0.226,
             "lum": 130.2
-          },
-          "dud": null,
-          "score": 0.924
+          }
         }
       ]
     },
@@ -602,37 +624,43 @@
         },
         {
           "query": "duomo di amalfi cathedral stairs facade italy",
+          "must": [
+            "italy"
+          ],
           "for": "📍 קתדרלת אמלפי",
-          "id": "pexels-27592748",
+          "id": "pexels-36720387",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/27592748/pexels-photo-27592748/free-photo-of-a-cathedral-with-a-clock-tower-and-a-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/36720387/pexels-photo-36720387/free-photo-of-siena-cathedral-bell-tower-under-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/a-cathedral-with-a-clock-tower-and-a-sky-27592748/"
+            "page": "https://www.pexels.com/photo/siena-cathedral-bell-tower-under-clear-blue-sky-36720387/"
           },
-          "alt": "Free Captivating external view of Siena Cathedral with intricate Gothic design under a blue sky. Stock Photo",
-          "altRaw": "Free Captivating external view of Siena Cathedral with intricate Gothic design under a blue sky. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27592748.jpg",
+          "alt": "Free The iconic striped bell tower of Siena Cathedral set against a clear blue sky in Siena, Italy. Stock Photo",
+          "altRaw": "Free The iconic striped bell tower of Siena Cathedral set against a clear blue sky in Siena, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36720387.jpg",
           "m": {
-            "sat": 0.2568,
-            "satHigh": 0.1216,
-            "chroma": 29.62,
-            "contrast": 60.35,
-            "warm": 0.2584,
-            "vivid": 0.31,
-            "dark": 0.2339,
+            "sat": 0.4597,
+            "satHigh": 0.5963,
+            "chroma": 67.31,
+            "contrast": 46.3,
+            "warm": 0.0039,
+            "vivid": 0.6018,
+            "dark": 0.0308,
             "blown": 0,
-            "busy": 0.202,
-            "lum": 106.3
+            "busy": 0.1998,
+            "lum": 99.4
           },
           "dud": null,
-          "score": 0.845
+          "score": 0.82
         },
         {
           "query": "atrani italy village piazza amalfi coast",
+          "must": [
+            "italy"
+          ],
           "for": "📍 אטרני",
           "id": "pexels-13762030",
           "source": "pexels",
@@ -660,41 +688,47 @@
             "lum": 112.2
           },
           "dud": null,
-          "score": 0.748
+          "score": 0.84
         },
         {
           "query": "piazza vescovado ravello italy square",
+          "must": [
+            "italy"
+          ],
           "for": "📍 ראוולו, פיאצה וסקובדו",
-          "id": "pexels-35438881",
+          "id": "pexels-18523340",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/35438881/pexels-photo-35438881/free-photo-of-charming-italian-village-with-historic-architecture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/18523340/pexels-photo-18523340/free-photo-of-statue-at-villa-cimbrone-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/charming-italian-village-with-historic-architecture-35438881/"
+            "page": "https://www.pexels.com/photo/statue-at-villa-cimbrone-italy-18523340/"
           },
-          "alt": "Free Explore a picturesque Italian village showcasing classic architecture and timeless beauty. Stock Photo",
-          "altRaw": "Free Explore a picturesque Italian village showcasing classic architecture and timeless beauty. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-35438881.jpg",
+          "alt": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
+          "altRaw": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18523340.jpg",
           "m": {
-            "sat": 0.3243,
-            "satHigh": 0.3006,
-            "chroma": 43.05,
-            "contrast": 53.47,
-            "warm": 0.0358,
-            "vivid": 0.3359,
-            "dark": 0.3274,
-            "blown": 0.0056,
-            "busy": 0.1535,
-            "lum": 86.8
+            "sat": 0.4487,
+            "satHigh": 0.4831,
+            "chroma": 50.92,
+            "contrast": 66.22,
+            "warm": 0.5248,
+            "vivid": 0.5248,
+            "dark": 0.1072,
+            "blown": 0.0221,
+            "busy": 0.1101,
+            "lum": 116.1
           },
           "dud": null,
-          "score": 0.789
+          "score": 0.7
         },
         {
           "query": "villa rufolo ravello garden tower coast view",
+          "must": [
+            "italy"
+          ],
           "for": "📍 וילה רופולו",
           "id": "pexels-2927891",
           "source": "pexels",
@@ -722,38 +756,41 @@
             "lum": 98.6
           },
           "dud": null,
-          "score": 0.84
+          "score": 0.783
         },
         {
           "query": "villa cimbrone terrace of infinity ravello statues",
+          "must": [
+            "italy"
+          ],
           "for": "📍 וילה צימברונה",
-          "id": "pexels-18523340",
+          "id": "pexels-11023257",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/18523340/pexels-photo-18523340/free-photo-of-statue-at-villa-cimbrone-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/11023257/pexels-photo-11023257.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/statue-at-villa-cimbrone-italy-18523340/"
+            "page": "https://www.pexels.com/photo/a-brown-concrete-statue-11023257/"
           },
-          "alt": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
-          "altRaw": "Free Elegant Roman statue under arches at Villa Cimbrone, Italy, overlooking the sea. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18523340.jpg",
+          "alt": "Free A classical Roman statue framed by an archway in Ravello, Italy, overlooking the sea. Stock Photo",
+          "altRaw": "Free A classical Roman statue framed by an archway in Ravello, Italy, overlooking the sea. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11023257.jpg",
           "m": {
-            "sat": 0.4487,
-            "satHigh": 0.4831,
-            "chroma": 50.92,
-            "contrast": 66.22,
-            "warm": 0.5248,
-            "vivid": 0.5248,
-            "dark": 0.1072,
-            "blown": 0.0221,
-            "busy": 0.1101,
-            "lum": 116.1
+            "sat": 0.4113,
+            "satHigh": 0.4388,
+            "chroma": 43.48,
+            "contrast": 63.13,
+            "warm": 0.1927,
+            "vivid": 0.3392,
+            "dark": 0.4502,
+            "blown": 0,
+            "busy": 0.0746,
+            "lum": 92.8
           },
           "dud": null,
-          "score": 0.947
+          "score": 0.8
         }
       ]
     },
@@ -766,25 +803,25 @@
           "name": "📍 המערה הכחולה",
           "time": "שעה",
           "price": "19 יורו",
-          "to": "20 דקות באוטובוס"
+          "to": "90 דקות הליכה"
         },
         {
-          "name": "📍 מונטה סולארו",
+          "name": "📍 מרינה גרנדה קאפרי",
           "time": "שעה",
-          "price": "14 יורו",
-          "to": "10 דקות באוטובוס"
+          "price": "חינם",
+          "to": "25 דקות הליכה"
         },
         {
-          "name": "📍 וילה סן מיקלה",
-          "time": "שעה",
-          "price": "12 יורו",
-          "to": "10 דקות באוטובוס"
+          "name": "📍 הפיאצטה",
+          "time": "30 דקות",
+          "price": "חינם",
+          "to": "5 דקות הליכה"
         },
         {
-          "name": "📍 גני אוגוסטוס",
+          "name": "📍 גני אוגוסטוס וויה קרופ",
           "time": "שעה",
           "price": "2.50 יורו",
-          "to": "5 דקות באוטובוס"
+          "to": "10 דקות הליכה"
         },
         {
           "name": "📍 הפאראליוני",
@@ -826,158 +863,169 @@
         },
         {
           "query": "blue grotto capri rowing boat blue water cave",
+          "must": [
+            "grotto"
+          ],
           "for": "📍 המערה הכחולה",
-          "id": "pexels-1615677",
+          "id": "pexels-16997736",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/1615677/pexels-photo-1615677.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/16997736/pexels-photo-16997736/free-photo-of-people-on-footpath-in-grotto-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/mountain-near-body-of-water-1615677/"
+            "page": "https://www.pexels.com/photo/people-on-footpath-in-grotto-on-sea-shore-16997736/"
           },
-          "alt": "Free Dominant rocky cliffs of Capri Island with a small boat on the blue ocean waters. Stock Photo",
-          "altRaw": "Free Dominant rocky cliffs of Capri Island with a small boat on the blue ocean waters. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-1615677.jpg",
+          "alt": "Free A beautiful seaside grotto with boats and people exploring the rocky formations. Stock Photo",
+          "altRaw": "Free A beautiful seaside grotto with boats and people exploring the rocky formations. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-16997736.jpg",
           "m": {
-            "sat": 0.3053,
-            "satHigh": 0.2615,
-            "chroma": 39.92,
-            "contrast": 37.09,
-            "warm": 0.0682,
-            "vivid": 0.318,
-            "dark": 0.1214,
+            "sat": 0.3599,
+            "satHigh": 0.4164,
+            "chroma": 27.16,
+            "contrast": 70.22,
+            "warm": 0.1347,
+            "vivid": 0.141,
+            "dark": 0.4959,
             "blown": 0,
-            "busy": 0.2258,
-            "lum": 88.8
-          },
-          "dud": null,
-          "score": 0.5
+            "busy": 0.1182,
+            "lum": 82.6
+          }
         },
         {
-          "query": "monte solaro capri chairlift view island",
-          "for": "📍 מונטה סולארו",
-          "id": "pexels-39065476",
+          "query": "marina grande capri colorful boats harbour",
+          "must": [
+            "marina"
+          ],
+          "for": "📍 מרינה גרנדה קאפרי",
+          "id": "pexels-36371555",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/39065476/pexels-photo-39065476/free-photo-of-aerial-view-of-capri-s-iconic-faraglioni-in-summer.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/36371555/pexels-photo-36371555/free-photo-of-scenic-view-of-marina-grande-in-capri.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/aerial-view-of-capri-s-iconic-faraglioni-in-summer-39065476/"
+            "page": "https://www.pexels.com/photo/scenic-view-of-marina-grande-in-capri-36371555/"
           },
-          "alt": "Free Stunning aerial shot of Capri, Italy, showcasing the famous Faraglioni rock formations in bright summer daylight. Stock Photo",
-          "altRaw": "Free Stunning aerial shot of Capri, Italy, showcasing the famous Faraglioni rock formations in bright summer daylight. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39065476.jpg",
+          "alt": "Free A picturesque view of Marina Grande with boats, cliffs, and a seagull flying overhead in Capri, Italy. Stock Photo",
+          "altRaw": "Free A picturesque view of Marina Grande with boats, cliffs, and a seagull flying overhead in Capri, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36371555.jpg",
           "m": {
-            "sat": 0.4976,
-            "satHigh": 0.5975,
-            "chroma": 79.56,
-            "contrast": 36.53,
-            "warm": 0.0499,
-            "vivid": 0.6751,
-            "dark": 0.037,
+            "sat": 0.4061,
+            "satHigh": 0.3609,
+            "chroma": 49.6,
+            "contrast": 43.91,
+            "warm": 0.0012,
+            "vivid": 0.8379,
+            "dark": 0.04,
             "blown": 0,
-            "busy": 0.117,
-            "lum": 115.8
+            "busy": 0.0529,
+            "lum": 128.2
           },
           "dud": null,
-          "score": 0.747
+          "score": 0.76
         },
         {
-          "query": "villa san michele anacapri sphinx terrace view",
-          "for": "📍 וילה סן מיקלה",
-          "id": "pexels-38900279",
+          "query": "capri piazzetta street tourists shops",
+          "must": [
+            "street"
+          ],
+          "for": "📍 הפיאצטה",
+          "id": "pexels-34163015",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/38900279/pexels-photo-38900279/free-photo-of-scenic-aerial-view-of-capri-s-coastline.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/34163015/pexels-photo-34163015/free-photo-of-street-view-of-naples-with-mount-vesuvius.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/scenic-aerial-view-of-capri-s-coastline-38900279/"
+            "page": "https://www.pexels.com/photo/street-view-of-naples-with-mount-vesuvius-34163015/"
           },
-          "alt": "Free Stunning aerial photo of Capri, Italy's coastline with cliffs, sea, and vibrant landscape. Stock Photo",
-          "altRaw": "Free Stunning aerial photo of Capri, Italy's coastline with cliffs, sea, and vibrant landscape. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38900279.jpg",
+          "alt": "Free Crowds walking on a street in Naples with Mount Vesuvius in the background. Stock Photo",
+          "altRaw": "Free Crowds walking on a street in Naples with Mount Vesuvius in the background. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-34163015.jpg",
           "m": {
-            "sat": 0.402,
-            "satHigh": 0.446,
-            "chroma": 59.06,
-            "contrast": 50.64,
-            "warm": 0.0789,
-            "vivid": 0.6466,
-            "dark": 0.1336,
-            "blown": 0.0001,
-            "busy": 0.1341,
-            "lum": 112.2
+            "sat": 0.3535,
+            "satHigh": 0.2393,
+            "chroma": 59.42,
+            "contrast": 41.62,
+            "warm": 0.1743,
+            "vivid": 0.5482,
+            "dark": 0.0555,
+            "blown": 0,
+            "busy": 0.1207,
+            "lum": 127.1
           },
           "dud": null,
-          "score": 0.8
+          "score": 0.76
         },
         {
-          "query": "giardini di augusto capri gardens via krupp view",
-          "for": "📍 גני אוגוסטוס",
-          "id": "pexels-36702049",
+          "query": "via krupp capri winding road turquoise sea",
+          "must": [
+            "krupp"
+          ],
+          "for": "📍 גני אוגוסטוס וויה קרופ",
+          "id": "pexels-39065472",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/36702049/pexels-photo-36702049/free-photo-of-breathtaking-aerial-view-of-capri-s-faraglioni-rocks.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/39065472/pexels-photo-39065472/free-photo-of-scenic-view-of-via-krupp-in-capri-italy.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/breathtaking-aerial-view-of-capri-s-faraglioni-rocks-36702049/"
+            "page": "https://www.pexels.com/photo/scenic-view-of-via-krupp-in-capri-italy-39065472/"
           },
-          "alt": "Free Captivating aerial shot of the iconic Faraglioni rock formations in Capri, Italy under a clear blue sky. Stock Photo",
-          "altRaw": "Free Captivating aerial shot of the iconic Faraglioni rock formations in Capri, Italy under a clear blue sky. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-36702049.jpg",
+          "alt": "Free Aerial view of the winding Via Krupp road on Capri Island, Italy, with turquoise waters and cliffs. Stock Photo",
+          "altRaw": "Free Aerial view of the winding Via Krupp road on Capri Island, Italy, with turquoise waters and cliffs. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39065472.jpg",
           "m": {
-            "sat": 0.6037,
-            "satHigh": 0.8013,
-            "chroma": 40.01,
-            "contrast": 27.13,
-            "warm": 0.0005,
-            "vivid": 0.7366,
-            "dark": 0.363,
+            "sat": 0.3628,
+            "satHigh": 0.3944,
+            "chroma": 62.41,
+            "contrast": 47.51,
+            "warm": 0.0767,
+            "vivid": 0.4079,
+            "dark": 0.0964,
             "blown": 0,
-            "busy": 0.0753,
-            "lum": 63.6
-          },
-          "dud": null,
-          "score": 0.67
+            "busy": 0.2656,
+            "lum": 114.4
+          }
         },
         {
           "query": "faraglioni capri rocks turquoise sea",
+          "must": [
+            "faraglioni"
+          ],
           "for": "📍 הפאראליוני",
-          "id": "pexels-6072859",
+          "id": "pexels-33704024",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/6072859/pexels-photo-6072859.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/33704024/pexels-photo-33704024/free-photo-of-stunning-view-of-faraglioni-rocks-in-capri.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/brown-rock-formation-on-sea-under-blue-sky-6072859/"
+            "page": "https://www.pexels.com/photo/stunning-view-of-faraglioni-rocks-in-capri-33704024/"
           },
-          "alt": "Free Breathtaking vertical view of Faraglioni rock formations in the blue sea of Capri, Italy. Stock Photo",
-          "altRaw": "Free Breathtaking vertical view of Faraglioni rock formations in the blue sea of Capri, Italy. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6072859.jpg",
+          "alt": "Free Breathtaking view of iconic Faraglioni rocks on a sunny day in Capri, Italy. Stock Photo",
+          "altRaw": "Free Breathtaking view of iconic Faraglioni rocks on a sunny day in Capri, Italy. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33704024.jpg",
           "m": {
-            "sat": 0.7292,
-            "satHigh": 0.7708,
-            "chroma": 80.78,
-            "contrast": 43.78,
-            "warm": 0.0332,
-            "vivid": 0.7644,
-            "dark": 0.2275,
+            "sat": 0.7337,
+            "satHigh": 0.7611,
+            "chroma": 86.48,
+            "contrast": 55.2,
+            "warm": 0.0465,
+            "vivid": 0.732,
+            "dark": 0.3513,
             "blown": 0,
-            "busy": 0.0978,
-            "lum": 84.3
+            "busy": 0.0726,
+            "lum": 92.1
           },
           "dud": null,
-          "score": 0.7
+          "score": 0.798
         }
       ]
     },

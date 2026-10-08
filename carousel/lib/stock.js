@@ -109,19 +109,55 @@ export async function download(candidate, cacheDir) {
 // Matched against the photographer's own words, so it only rejects a photo
 // that was described that way. It is a floor, not a substitute for looking at
 // the contact sheet.
-const NOT_POSTABLE = /(nude|nudity|naked|topless|nsfw|explicit)/i;
+// WARNING: THIS FILTER WAS DEAD UNTIL 8.10. The word boundaries at either
+// end were written through a heredoc, which turned each two-character escape
+// into a real backspace byte: the pattern became /<BS>(nude|...)<BS>/, never
+// matched anything, and every run reported zero dropped. A check that cannot
+// fire reports the convenient answer forever. Built from code points here so
+// no escape is typed, and analyze/char-check.mjs now fails on a control
+// character anywhere in the source.
+const WB = String.fromCharCode(92) + "b";
+const NOT_POSTABLE = new RegExp(
+  WB + "(nude|nudity|naked|topless|nsfw|explicit)" + WB, "i",
+);
 
 function postable(candidates) {
   const kept = candidates.filter((c) => !NOT_POSTABLE.test(String(c.altRaw || '')));
   return { kept, dropped: candidates.length - kept.length };
 }
 
+// Accents. A query token is typed without them and the photographer writes
+// them: "elysees" never matched "Champs-Élysées", "trocadero" never matched
+// "Trocadéro", and both rows quietly fell back to a near-miss of the Arc de
+// Triomphe. Folding the marks away makes the token mean what it looks like.
+// The combining-mark range is built from its code points rather than typed as
+// a character class: written literally it is a run of invisible characters in
+// the source, which is the same hazard as the backspace this file carried in
+// its content filter until tonight.
+const MARKS = new RegExp(`[${String.fromCharCode(0x0300)}-${String.fromCharCode(0x036f)}]`, 'g');
+const fold = (s) => String(s).normalize('NFD').replace(MARKS, '').toLowerCase();
+
 function subjectFilter(candidates, must) {
   if (!must || !must.length) return { kept: candidates, dropped: 0 };
-  const words = must.map((w) => String(w).toLowerCase());
+  const words = must.map(fold);
   const kept = candidates.filter((c) => {
-    const alt = String(c.altRaw || '').toLowerCase();
+    const alt = fold(c.altRaw || '');
     return alt && words.some((w) => alt.includes(w));
+  });
+  return { kept, dropped: candidates.length - kept.length };
+}
+
+// `must` is ANY-of, because several decks use it for a synonym list
+// (thermal|bath|spa|pool). That cannot express "this country AND this
+// subject": asking for [cyprus, castle] let a castle in Italy through, and
+// asking for [castle] alone let five of them through from five countries.
+// `mustAll` is the other half — every token has to be in the description.
+function allFilter(candidates, mustAll) {
+  if (!mustAll || !mustAll.length) return { kept: candidates, dropped: 0 };
+  const words = mustAll.map(fold);
+  const kept = candidates.filter((c) => {
+    const alt = fold(c.altRaw || '');
+    return alt && words.every((w) => alt.includes(w));
   });
   return { kept, dropped: candidates.length - kept.length };
 }
@@ -194,6 +230,11 @@ export async function gather(spec, { cacheDir, perSlide = 4 }) {
         const mg = subjectFilter(cands, entry.must);
         const entryMissing = entry.must && !mg.kept.length ? entry.must : null;
         if (!entryMissing) cands = mg.kept;
+        // and then every token of `mustAll`, which is how a row asks for its
+        // own subject AND its own country at the same time
+        const ag = allFilter(cands, entry.mustAll);
+        const allMissing = entry.mustAll && !ag.kept.length ? entry.mustAll : null;
+        if (!allMissing) cands = ag.kept;
 
         // Download a little more than the tile needs, so the caller's
         // duplicate veto has something to fall back to.
@@ -207,7 +248,7 @@ export async function gather(spec, { cacheDir, perSlide = 4 }) {
         }
         for (const p of picks.slice(0, want)) usedInSlide.add(p.id);
         multi.push({ entryIndex: k, query: entry.query, want, picks, collage,
-                     subjectMissing: entryMissing });
+                     subjectMissing: entryMissing || allMissing });
       }
       out.push({ index: i, multi, candidates: [] });
       continue;

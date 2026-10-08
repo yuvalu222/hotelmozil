@@ -1265,3 +1265,69 @@ And one gate was **relaxed**, with its reason: `checkWiring` compared a row's
 name to the name its query was written against, so adding a pin to 57 rows
 "broke" 57 correct queries. It now compares identity with the decoration
 stripped, and a self-test proves a real rename is still caught.
+
+### 19k. Four checks that could not fire, and the one character behind two of them
+
+Late in the same night, the character gate added in 19j found a real control
+character in `lib/stock.js`. Pulling that thread found four separate checks
+that had been passing everything:
+
+**1. The content filter had never rejected a photograph.** `NOT_POSTABLE` was
+written as `/<BS>(nude|nudity|naked|topless|nsfw|explicit)<BS>/i` — its two
+word boundaries had been typed through a heredoc, which turned each
+two-character escape into a real backspace byte (0x08). The pattern could only
+match a word with a backspace on either side, so it matched nothing, dropped
+nothing, and reported zero dropped on every run since it was written. Rebuilt
+from code points; it now blocks nude/naked/topless and keeps bikini, which is
+the owner's standing instruction.
+
+**2. The duplicate-subject check had the same injury** in its own first hour —
+the word-boundary escape in its noun regex became a backspace, the regex
+matched nothing, and the check called all three decks clean while the Capri
+slide was showing the Faraglioni three times.
+
+**3. `checkCountry` existed and nothing called it.** It had been in
+`lib/wiring.js` since the Gruissan flamingo incident and was never wired into
+`build.js`. Six photos on the Larnaca deck were from Greece, France and
+Türkiye — including, again, a flamingo lagoon in France. It now runs after
+sourcing (before that there is no description to read) and blocks the render.
+
+**4. `must` could not say "this country AND this subject".** `lib/stock.js`
+treats it as any-of, because other decks use it for synonym lists
+(thermal|bath|spa|pool). `[cyprus, castle]` therefore let a castle in Italy
+through, and `[castle]` alone let five castles through from five countries.
+Added `mustAll`, which requires every token.
+
+And one quieter bug in the same family: `must` compares a typed token against
+the photographer's words, and the photographer uses accents. `elysees` never
+matched **Champs-Élysées**, `trocadero` never matched **Trocadéro**, so both
+rows fell back to a near-miss of the Arc de Triomphe. The filter now folds
+combining marks away before comparing.
+
+### 19l. Two things the measurement said that judgement would not have
+
+**TikTok's own furniture does not mirror.** The English sources keep everything
+in the left 788px, which is exactly why nothing of theirs is covered: the
+like/comment/share rail is on the right in every language. Mirroring the
+layout for Hebrew put the photo column and the arrow at x=1021, 92px inside
+that rail. The block keeps the Hebrew reading order and is inset to clear it.
+
+**The stock pool decides what a deck can show.** Probing before writing
+(`analyze/probe-cyprus.mjs`) found no photograph described as Monte Solaro or
+Villa San Michele, which is why three Capri rows kept coming back as the same
+rocks; the island's Marina Grande, Piazzetta and Via Krupp are all there, all
+on the same official list, so the day was rebuilt on those. Cyprus is thinner
+still: seven of fifteen Larnaca stops have no photograph that says both
+"Cyprus" and the subject, so those enforce the country only, and that is
+written down in `research/routes/larnaca.json` rather than left to be noticed.
+
+### 19m. A gate that fires on good work is worse than no gate
+
+The ink check reported the Cyprus closing slide — a sunset over the sea, one
+of the best frames in the set — as "rendered almost nothing", because a smooth
+sunset has few bright pixels and few edges, exactly like a black frame. It now
+also measures chroma: the sunset reads about 90, a failed render under 10. The
+first duplicate-subject check had the same fault in the other direction,
+reporting 37 problems on the Paris deck of which every single one was the word
+"Paris". Both were narrowed until they fire on the defect and nothing else,
+and both were re-tested against a planted failure to prove they still bite.

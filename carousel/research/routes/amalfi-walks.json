@@ -107,35 +107,35 @@
     "4": [
       {
         "from": "המערה הכחולה",
-        "to": "מונטה סולארו",
-        "km": 5.15,
-        "minutes": 20,
-        "mode": "car",
-        "how": "valhalla auto"
+        "to": "מרינה גרנדה קאפרי",
+        "km": 5.41,
+        "minutes": 90,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
       },
       {
-        "from": "מונטה סולארו",
-        "to": "וילה סן מיקלה",
-        "km": 1.59,
-        "minutes": 10,
-        "mode": "car",
-        "how": "valhalla auto"
+        "from": "מרינה גרנדה קאפרי",
+        "to": "הפיאצטה",
+        "km": 1.28,
+        "minutes": 25,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
       },
       {
-        "from": "וילה סן מיקלה",
-        "to": "גני אוגוסטוס",
-        "km": 3.4,
-        "minutes": 10,
-        "mode": "car",
-        "how": "valhalla auto"
-      },
-      {
-        "from": "גני אוגוסטוס",
-        "to": "הפאראליוני",
-        "km": 1.24,
+        "from": "הפיאצטה",
+        "to": "גני אוגוסטוס וויה קרופ",
+        "km": 0.54,
         "minutes": 5,
-        "mode": "car",
-        "how": "valhalla auto"
+        "mode": "foot",
+        "how": "valhalla pedestrian"
+      },
+      {
+        "from": "גני אוגוסטוס וויה קרופ",
+        "to": "הפאראליוני",
+        "km": 0.55,
+        "minutes": 10,
+        "mode": "foot",
+        "how": "valhalla pedestrian"
       }
     ]
   }

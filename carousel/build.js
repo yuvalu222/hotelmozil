@@ -18,7 +18,7 @@ import { pickColourful, closeColourCheck, aHashOf, hamming } from './lib/colourf
 import { rank as wowRank, measure as wowMeasure, closeWow } from './lib/wow.js';
 import { renderSpec } from './lib/render.js';
 import { checkFacts } from './lib/facts.js';
-import { checkWiring } from './lib/wiring.js';
+import { checkWiring, checkCountry, checkDuplicateSubjects } from './lib/wiring.js';
 import { checkCover } from './lib/cover-copy.js';
 import { checkRouteRows } from './lib/route-rows.js';
 import { rankCovers } from './lib/cover.js';
@@ -308,6 +308,31 @@ async function main() {
     } else {
       await fs.writeFile(specPath, JSON.stringify(spec, null, 2) + '\n');
     }
+  }
+
+  // The country check can only run NOW: before sourcing there is no stock
+  // description to read. It existed in lib/wiring.js and nothing ever called
+  // it, which is how six photos from Greece, France and Türkiye shipped on a
+  // Cyprus deck on 8.10 — including a flamingo lagoon in Gruissan, the exact
+  // failure the comment at the top of that file was written about. It blocks
+  // the render rather than warning, because a warning you can walk past is
+  // not a gate; `anyCountry: true` on the entry is how an accepted stand-in
+  // is written down.
+  const dupes = checkDuplicateSubjects(spec);
+  if (dupes.length) {
+    console.error(`
+${dupes.length} row(s) showing another row's subject:`);
+    for (const p of dupes) console.error(`  - ${p}`);
+    console.error('fix the query (a `must` token usually does it); nothing rendered.');
+    process.exit(1);
+  }
+
+  const wrongCountry = checkCountry(spec);
+  if (wrongCountry.length) {
+    console.error(`\n${wrongCountry.length} photo(s) from the wrong country:`);
+    for (const p of wrongCountry) console.error(`  - ${p}`);
+    console.error('nothing rendered.');
+    process.exit(1);
   }
 
   console.log('rendering...');

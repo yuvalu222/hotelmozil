@@ -155,6 +155,9 @@
         },
         {
           "query": "rue de luniversite paris eiffel tower street view",
+          "must": [
+            "paris"
+          ],
           "for": "📍 רחוב האוניברסיטה",
           "id": "pexels-6081405",
           "source": "pexels",
@@ -186,6 +189,9 @@
         },
         {
           "query": "eiffel tower paris full tower daylight",
+          "must": [
+            "eiffel"
+          ],
           "for": "📍 מגדל אייפל",
           "id": "pexels-7229151",
           "source": "pexels",
@@ -217,6 +223,9 @@
         },
         {
           "query": "trocadero paris eiffel tower view esplanade",
+          "must": [
+            "trocadero"
+          ],
           "for": "📍 טרוקדרו",
           "id": "pexels-30637286",
           "source": "pexels",
@@ -244,10 +253,13 @@
             "lum": 111.4
           },
           "dud": null,
-          "score": 0.94
+          "score": 0.791
         },
         {
           "query": "arc de triomphe paris monument front",
+          "must": [
+            "triomphe"
+          ],
           "for": "📍 שער הניצחון",
           "id": "pexels-37220087",
           "source": "pexels",
@@ -279,34 +291,37 @@
         },
         {
           "query": "champs elysees paris avenue trees",
+          "must": [
+            "elysees"
+          ],
           "for": "📍 השאנז אליזה",
-          "id": "pexels-14979444",
+          "id": "pexels-33223864",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/14979444/pexels-photo-14979444/free-photo-of-the-roadway-leading-to-arc-de-triomphe-in-paris.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/33223864/pexels-photo-33223864/free-photo-of-champs-elysees-traffic-scene-with-obelisk-in-view.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/the-roadway-leading-to-arc-de-triomphe-in-paris-14979444/"
+            "page": "https://www.pexels.com/photo/champs-elysees-traffic-scene-with-obelisk-in-view-33223864/"
           },
-          "alt": "Free A picturesque view of the Arc de Triomphe framed by a leafy avenue in Paris, under a vibrant sky. Stock Photo",
-          "altRaw": "Free A picturesque view of the Arc de Triomphe framed by a leafy avenue in Paris, under a vibrant sky. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14979444.jpg",
+          "alt": "Free Lively traffic scene on the Champs-Élysées in Paris, featuring the iconic obelisk. Stock Photo",
+          "altRaw": "Free Lively traffic scene on the Champs-Élysées in Paris, featuring the iconic obelisk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-33223864.jpg",
           "m": {
-            "sat": 0.2713,
-            "satHigh": 0.2262,
-            "chroma": 62.98,
-            "contrast": 49.67,
-            "warm": 0.1195,
-            "vivid": 0.1908,
-            "dark": 0.0196,
-            "blown": 0.0069,
-            "busy": 0.0959,
-            "lum": 170.8
+            "sat": 0.2004,
+            "satHigh": 0.1447,
+            "chroma": 33.22,
+            "contrast": 62.88,
+            "warm": 0.0123,
+            "vivid": 0.027,
+            "dark": 0.1125,
+            "blown": 0.0021,
+            "busy": 0.1882,
+            "lum": 147.9
           },
           "dud": null,
-          "score": 0.846
+          "score": 0.66
         }
       ]
     },
@@ -379,6 +394,9 @@
         },
         {
           "query": "hotel des invalides paris golden dome",
+          "must": [
+            "invalides"
+          ],
           "for": "📍 האנוולידים",
           "id": "pexels-31331795",
           "source": "pexels",
@@ -410,6 +428,9 @@
         },
         {
           "query": "pont alexandre iii paris bridge gold statues",
+          "must": [
+            "alexandre"
+          ],
           "for": "📍 גשר אלכסנדר השלישי",
           "id": "pexels-22039349",
           "source": "pexels",
@@ -441,68 +462,75 @@
         },
         {
           "query": "grand palais paris glass roof facade",
+          "must": [
+            "grand"
+          ],
           "for": "📍 גראן פאלה",
-          "id": "pexels-37606084",
+          "id": "pexels-38157692",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/37606084/pexels-photo-37606084/free-photo-of-intricate-glass-dome-ceiling-in-paris-landmark.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/38157692/pexels-photo-38157692/free-photo-of-grand-palais-with-french-flag-and-quadriga-sculpture.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/intricate-glass-dome-ceiling-in-paris-landmark-37606084/"
+            "page": "https://www.pexels.com/photo/grand-palais-with-french-flag-and-quadriga-sculpture-38157692/"
           },
-          "alt": "Free Elegant glass dome ceiling showcasing intricate architecture, Paris, France. Stock Photo",
-          "altRaw": "Free Elegant glass dome ceiling showcasing intricate architecture, Paris, France. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-37606084.jpg",
+          "alt": "Free View of the Grand Palais in Paris featuring a quadriga sculpture and the French flag under a clear blue sky. Stock Photo",
+          "altRaw": "Free View of the Grand Palais in Paris featuring a quadriga sculpture and the French flag under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38157692.jpg",
           "m": {
-            "sat": 0.3094,
-            "satHigh": 0.1914,
-            "chroma": 49.33,
-            "contrast": 62.25,
-            "warm": 0,
-            "vivid": 0.4572,
-            "dark": 0.2449,
+            "sat": 0.2722,
+            "satHigh": 0.0746,
+            "chroma": 49.14,
+            "contrast": 53.44,
+            "warm": 0.0398,
+            "vivid": 0.3537,
+            "dark": 0.0468,
             "blown": 0,
-            "busy": 0.4334,
-            "lum": 117.5
+            "busy": 0.1284,
+            "lum": 158.6
           },
           "dud": null,
-          "score": 0.92
+          "score": 0.859
         },
         {
           "query": "place de la concorde paris obelisk",
+          "must": [
+            "concorde"
+          ],
           "for": "📍 כיכר קונקורד",
-          "id": "pexels-39344179",
+          "id": "pexels-7882422",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/39344179/pexels-photo-39344179/free-photo-of-luxor-obelisk-against-clear-blue-sky.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/7882422/pexels-photo-7882422.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/luxor-obelisk-against-clear-blue-sky-39344179/"
+            "page": "https://www.pexels.com/photo/place-de-la-concorde-in-paris-france-7882422/"
           },
-          "alt": "Free The Luxor Obelisk stands tall against a clear blue sky in Paris, France. Stock Photo",
-          "altRaw": "Free The Luxor Obelisk stands tall against a clear blue sky in Paris, France. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-39344179.jpg",
+          "alt": "Free Eiffel Tower view with Luxor Obelisk at Place de la Concorde, Paris on a cloudy day. Stock Photo",
+          "altRaw": "Free Eiffel Tower view with Luxor Obelisk at Place de la Concorde, Paris on a cloudy day. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-7882422.jpg",
           "m": {
-            "sat": 0.2705,
-            "satHigh": 0.1221,
-            "chroma": 52.57,
-            "contrast": 25.45,
-            "warm": 0.1929,
-            "vivid": 0.3959,
-            "dark": 0.0002,
+            "sat": 0.1687,
+            "satHigh": 0.0056,
+            "chroma": 30.09,
+            "contrast": 61.96,
+            "warm": 0.0018,
+            "vivid": 0.0929,
+            "dark": 0.0734,
             "blown": 0,
-            "busy": 0.0366,
-            "lum": 160.4
-          },
-          "dud": null,
-          "score": 0.84
+            "busy": 0.0526,
+            "lum": 137.7
+          }
         },
         {
           "query": "jardin des tuileries paris garden pond",
+          "must": [
+            "tuileries"
+          ],
           "for": "📍 גני הטווילרי",
           "id": "pexels-35252787",
           "source": "pexels",
@@ -530,7 +558,7 @@
             "lum": 117.2
           },
           "dud": null,
-          "score": 0.799
+          "score": 0.782
         }
       ]
     },
@@ -603,37 +631,43 @@
         },
         {
           "query": "palais royal paris columns courtyard",
+          "must": [
+            "paris"
+          ],
           "for": "📍 הפאלה רויאל",
-          "id": "pexels-15161111",
+          "id": "pexels-18246313",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/15161111/pexels-photo-15161111/free-photo-of-ornamented-building-with-columns.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/18246313/pexels-photo-18246313/free-photo-of-facade-of-palais-royal-in-paris.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/ornamented-building-with-columns-15161111/"
+            "page": "https://www.pexels.com/photo/facade-of-palais-royal-in-paris-18246313/"
           },
-          "alt": "Free A symmetrical view of historic columns and hanging lamps in an open urban space. Stock Photo",
-          "altRaw": "Free A symmetrical view of historic columns and hanging lamps in an open urban space. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-15161111.jpg",
+          "alt": "Free Elegant view of Palais-Royal's classic columns and unique courtyard sculptures in Paris. Stock Photo",
+          "altRaw": "Free Elegant view of Palais-Royal's classic columns and unique courtyard sculptures in Paris. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-18246313.jpg",
           "m": {
-            "sat": 0.3234,
-            "satHigh": 0.3201,
-            "chroma": 31.46,
-            "contrast": 48.58,
-            "warm": 0.4869,
-            "vivid": 0.4874,
-            "dark": 0.0709,
-            "blown": 0,
-            "busy": 0.0949,
-            "lum": 116.9
+            "sat": 0.2548,
+            "satHigh": 0.1846,
+            "chroma": 55.03,
+            "contrast": 45.72,
+            "warm": 0.0613,
+            "vivid": 0.3536,
+            "dark": 0.0378,
+            "blown": 0.003,
+            "busy": 0.1959,
+            "lum": 147.8
           },
           "dud": null,
-          "score": 0.753
+          "score": 0.9
         },
         {
           "query": "carrousel du louvre paris inverted pyramid",
+          "must": [
+            "paris"
+          ],
           "for": "📍 קרוסל דו לובר",
           "id": "pexels-35050021",
           "source": "pexels",
@@ -661,10 +695,13 @@
             "lum": 154.2
           },
           "dud": null,
-          "score": 0.904
+          "score": 1
         },
         {
           "query": "louvre museum paris glass pyramid",
+          "must": [
+            "louvre"
+          ],
           "for": "📍 הלובר",
           "id": "pexels-16126356",
           "source": "pexels",
@@ -696,6 +733,9 @@
         },
         {
           "query": "le marais paris street facades cafe",
+          "must": [
+            "paris"
+          ],
           "for": "📍 לה מארה",
           "id": "pexels-39208595",
           "source": "pexels",
@@ -727,6 +767,9 @@
         },
         {
           "query": "place de la bastille paris july column",
+          "must": [
+            "bastille"
+          ],
           "for": "📍 הבסטיליה",
           "id": "pexels-39225099",
           "source": "pexels",
@@ -827,6 +870,9 @@
         },
         {
           "query": "jardin du luxembourg paris palace pond chairs",
+          "must": [
+            "luxembourg"
+          ],
           "for": "📍 גני לוקסמבורג",
           "id": "pexels-33609245",
           "source": "pexels",
@@ -858,6 +904,9 @@
         },
         {
           "query": "pantheon paris dome facade columns",
+          "must": [
+            "pantheon"
+          ],
           "for": "📍 הפנתיאון",
           "id": "pexels-38833889",
           "source": "pexels",
@@ -889,37 +938,43 @@
         },
         {
           "query": "shakespeare and company paris bookshop storefront",
+          "must": [
+            "paris"
+          ],
           "for": "📍 שייקספיר אנד קומפני",
-          "id": "pexels-8143121",
+          "id": "pexels-11077631",
           "source": "pexels",
-          "url": "https://images.pexels.com/photos/8143121/pexels-photo-8143121.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "url": "https://images.pexels.com/photos/11077631/pexels-photo-11077631.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
           "width": 1080,
           "height": 1920,
           "credit": {
             "name": null,
             "url": null,
-            "page": "https://www.pexels.com/photo/pink-flowers-blooming-on-a-tree-beside-a-store-8143121/"
+            "page": "https://www.pexels.com/photo/bookshop-in-old-town-11077631/"
           },
-          "alt": "Free A picturesque Paris street with a blooming tree in front of a cozy bookshop and cafe. Stock Photo",
-          "altRaw": "Free A picturesque Paris street with a blooming tree in front of a cozy bookshop and cafe. Stock Photo",
-          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-8143121.jpg",
+          "alt": "Free Elegant entrance of a historic bookshop in a Parisian street, featuring classic architecture. Stock Photo",
+          "altRaw": "Free Elegant entrance of a historic bookshop in a Parisian street, featuring classic architecture. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-11077631.jpg",
           "m": {
-            "sat": 0.2527,
-            "satHigh": 0.1988,
-            "chroma": 52.45,
-            "contrast": 67.32,
-            "warm": 0.129,
-            "vivid": 0.1313,
-            "dark": 0.1244,
-            "blown": 0.0048,
-            "busy": 0.2884,
-            "lum": 152.8
+            "sat": 0.3227,
+            "satHigh": 0.2717,
+            "chroma": 31.66,
+            "contrast": 66.69,
+            "warm": 0.164,
+            "vivid": 0.1849,
+            "dark": 0.3673,
+            "blown": 0.0032,
+            "busy": 0.1829,
+            "lum": 92.5
           },
           "dud": null,
-          "score": 0.963
+          "score": 0.821
         },
         {
           "query": "sainte chapelle paris stained glass interior",
+          "must": [
+            "chapelle"
+          ],
           "for": "📍 סנט שאפל",
           "id": "pexels-29730828",
           "source": "pexels",
@@ -951,6 +1006,9 @@
         },
         {
           "query": "notre dame cathedral paris facade towers",
+          "must": [
+            "notre"
+          ],
           "for": "📍 נוטרדאם",
           "id": "pexels-24186954",
           "source": "pexels",
@@ -1051,6 +1109,9 @@
         },
         {
           "query": "eglise de la madeleine paris columns",
+          "must": [
+            "madeleine"
+          ],
           "for": "📍 לה מדלן",
           "id": "pexels-38937889",
           "source": "pexels",
@@ -1082,6 +1143,9 @@
         },
         {
           "query": "palais garnier paris opera grand staircase",
+          "must": [
+            "garnier"
+          ],
           "for": "📍 אופרה גרנייה",
           "id": "pexels-19235980",
           "source": "pexels",
@@ -1109,10 +1173,13 @@
             "lum": 67.3
           },
           "dud": null,
-          "score": 0.913
+          "score": 0.929
         },
         {
           "query": "galeries lafayette paris dome interior",
+          "must": [
+            "lafayette"
+          ],
           "for": "📍 גלרי לאפייט",
           "id": "pexels-34435072",
           "source": "pexels",
@@ -1144,6 +1211,9 @@
         },
         {
           "query": "moulin rouge paris red windmill night",
+          "must": [
+            "moulin"
+          ],
           "for": "📍 מולן רוז'",
           "id": "pexels-31483053",
           "source": "pexels",
@@ -1175,6 +1245,9 @@
         },
         {
           "query": "sacre coeur basilica paris white dome",
+          "must": [
+            "sacre"
+          ],
           "for": "📍 סקרה-קר",
           "id": "pexels-18871959",
           "source": "pexels",

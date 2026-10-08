@@ -18,6 +18,15 @@ import path from 'node:path';
 const BIDI = [0x200e, 0x200f, 0x202a, 0x202b, 0x202c, 0x202d, 0x202e,
   0x2066, 0x2067, 0x2068, 0x2069];
 const ARABIC = [0x0600, 0x06ff];
+// Control characters. On 8.10 a heredoc turned the two-character escape for a
+// word boundary into a real backspace byte inside a regex: it then matched
+// nothing, and the gate built on it called every deck clean — a gate that
+// silently always passes is worse than no gate. Tab, newline and carriage
+// return are the only ones a source file should hold.
+const isControl = (n) => (n < 32 && n !== 9 && n !== 10 && n !== 13) || n === 127;
+// Built from its code point, not typed: writing the escape is how the bug
+// this check exists for gets made.
+const NL = String.fromCharCode(10);
 
 const roots = process.argv.slice(2);
 const targets = roots.length ? roots : ['specs', 'lib', 'research', 'analyze', 'TIKTOK.md'];
@@ -39,6 +48,15 @@ for (const f of files) {
       const line = t.slice(0, i).split('\n').length;
       console.error(`${f}:${line}  direction mark U+${cp.toString(16).toUpperCase().padStart(4, '0')}`);
       bad++;
+    }
+  }
+  for (let i = 0; i < t.length; i++) {
+    const n = t.codePointAt(i);
+    if (isControl(n)) {
+      const line = t.slice(0, i).split(NL).length;
+      console.error(`${f}:${line}  control character U+${n.toString(16).toUpperCase().padStart(4, '0')}`);
+      bad++;
+      break;
     }
   }
   const stray = [...t].filter((c) => {

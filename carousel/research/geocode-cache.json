@@ -338,5 +338,45 @@
   "lat": 40.663289,
   "lon": 14.6125597,
   "name": "Ravello, Salerno, Campania, Italia"
+ },
+ "Marina Grande Capri, Campania, Italy": {
+  "lat": 40.556249,
+  "lon": 14.2387925,
+  "name": "Marina Grande, Via Cristoforo Colombo, Capri, Napoli, Campania, 80073, Italia"
+ },
+ "Piazzetta Capri, Campania, Italy": {
+  "lat": 40.8692657,
+  "lon": 14.3795623,
+  "name": "Piazzetta Capri, Pollena Trocchia, Napoli, Campania, Italia"
+ },
+ "Giardini di Augusto Capri, Campania, Italy": {
+  "lat": 40.5470184,
+  "lon": 14.2432052,
+  "name": "Giardini di Augusto, Capri, Napoli, Campania, Italia"
+ },
+ "Grotta Azzurra, Anacapri, Napoli, Campania, Italy": {
+  "lat": 40.5609387,
+  "lon": 14.2057363,
+  "name": "Grotta Azzurra, Via Grotta Azzurra, Anacapri, Napoli, Campania, 80071, Italia"
+ },
+ "Marina Grande, Capri, Napoli, Italia": {
+  "lat": 40.556249,
+  "lon": 14.2387925,
+  "name": "Marina Grande, Via Cristoforo Colombo, Capri, Napoli, Campania, 80073, Italia"
+ },
+ "Piazza Umberto I, Capri, Napoli, Campania, Italy": {
+  "lat": 40.550745,
+  "lon": 14.2427857,
+  "name": "Piazza Umberto Primo, Capri, Napoli, Campania, 80073, Italia"
+ },
+ "Giardini di Augusto, Capri, Napoli, Campania, Italy": {
+  "lat": 40.5470184,
+  "lon": 14.2432052,
+  "name": "Giardini di Augusto, Capri, Napoli, Campania, Italia"
+ },
+ "Faraglioni, Capri, Napoli, Campania, Italy": {
+  "lat": 40.5497361,
+  "lon": 14.2467361,
+  "name": "Faraglioni, Via Camerelle, Capri, Napoli, Campania, 80073, Italia"
  }
 }

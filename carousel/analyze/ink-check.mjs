@@ -60,7 +60,16 @@ window.__ink = async (uri) => {
     if (Math.abs(lum[y*W+xx] - lum[y*W+xx-1]) > 30) edges++;
     cells++;
   }
-  return { bright: bright / n, dark: dark / n, edges: edges / cells };
+  // Colour. A frame that failed to render is grey or black; a photograph that
+  // simply happens to be smooth and mid-toned — a sunset, for one — is deeply
+  // coloured. Mean chroma separates the two where brightness and edges cannot.
+  let chroma = 0;
+  for (let i = 0; i < d.length; i += 4) {
+    const mx = Math.max(d[i], d[i+1], d[i+2]);
+    const mn = Math.min(d[i], d[i+1], d[i+2]);
+    chroma += mx - mn;
+  }
+  return { bright: bright / n, dark: dark / n, edges: edges / cells, chroma: chroma / n };
 };
 `});
 
@@ -75,8 +84,14 @@ for (const deck of decks) {
     // Thresholds from the failure itself: the black slides measured
     // bright≈0.004 and edges≈0.002. A real slide of ours runs bright 0.06-0.30
     // and edges 0.05-0.25.
-    if (m.bright < 0.02 && m.edges < 0.02) {
-      notes.push(`${f}: rendered almost nothing — bright ${(m.bright*100).toFixed(1)}%, edges ${(m.edges*100).toFixed(1)}%`);
+    // ⚠️ Chroma is in this test because the two-signal version cried wolf on
+    // 8.10: a Cyprus sunset closing slide measured bright 1.5%, edges 1.6% and
+    // was reported as "rendered almost nothing" — it is one of the best frames
+    // in the set. Its chroma is ~90. The black slides this check was built for
+    // measure under 10. A gate that fires on good work teaches you to ignore it.
+    if (m.bright < 0.02 && m.edges < 0.02 && m.chroma < 25) {
+      notes.push(`${f}: rendered almost nothing — bright ${(m.bright*100).toFixed(1)}%, `
+        + `edges ${(m.edges*100).toFixed(1)}%, chroma ${m.chroma.toFixed(0)}`);
     } else if (m.dark > 0.85) {
       notes.push(`${f}: ${(m.dark*100).toFixed(0)}% of the frame is black`);
     } else if (m.edges < 0.012) {

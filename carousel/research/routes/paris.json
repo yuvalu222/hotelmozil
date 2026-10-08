@@ -116,5 +116,29 @@
     "must": [
       "paris"
     ]
+  },
+  "mustAll": "paris",
+  "must": {
+    "השאנז אליזה": "elysees",
+    "שער הניצחון": "triomphe",
+    "מגדל אייפל": "eiffel",
+    "הלובר": "louvre",
+    "נוטרדאם": "notre",
+    "סקרה-קר": "sacre",
+    "מולן רוז'": "moulin",
+    "סנט שאפל": "chapelle",
+    "הפנתיאון": "pantheon",
+    "אופרה גרנייה": "garnier",
+    "גלרי לאפייט": "lafayette",
+    "גני לוקסמבורג": "luxembourg",
+    "האנוולידים": "invalides",
+    "גראן פאלה": "grand",
+    "גשר אלכסנדר השלישי": "alexandre",
+    "כיכר קונקורד": "concorde",
+    "גני הטווילרי": "tuileries",
+    "שייקספיר אנד קומפני": "paris",
+    "לה מדלן": "madeleine",
+    "הבסטיליה": "bastille",
+    "טרוקדרו": "trocadero"
   }
 }

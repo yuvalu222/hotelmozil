@@ -32,7 +32,30 @@ const COUNTRIES = [
   'croatia', 'thailand', 'vietnam', 'japan', 'india', 'mexico', 'brazil',
   'morocco', 'egypt', 'hungary', 'czechia', 'poland', 'georgia', 'albania',
   'malta', 'israel', 'indonesia', 'dubai', 'norway', 'iceland', 'netherlands',
+  // a stock description usually names the country, but often enough it names
+  // only the town, and the check passed three wrong-country photos on 8.10
+  // because of it: an Istanbul mosque for Hala Sultan Tekke, a Naxos bell
+  // tower for Angeloktisti in Kiti, and Göbeklitepe for Choirokoitia. The
+  // last also writes the country as "Türkiye", which "turkey" never matches.
+  'turkiye', 'türkiye',
 ];
+
+/** Towns and regions that give away a country the description never names. */
+const PLACES = {
+  istanbul: 'turkey', cappadocia: 'turkey', antalya: 'turkey', bodrum: 'turkey',
+  'şanlıurfa': 'turkey', sanliurfa: 'turkey', 'göbeklitepe': 'turkey', gobeklitepe: 'turkey',
+  naxos: 'greece', mykonos: 'greece', athens: 'greece', corfu: 'greece', zakynthos: 'greece',
+  milos: 'greece', paros: 'greece', thessaloniki: 'greece', meteora: 'greece',
+  rome: 'italy', venice: 'italy', florence: 'italy', milan: 'italy', naples: 'italy',
+  sicily: 'italy', tuscany: 'italy', 'cinque terre': 'italy',
+  barcelona: 'spain', madrid: 'spain', seville: 'spain', mallorca: 'spain', ibiza: 'spain',
+  lisbon: 'portugal', porto: 'portugal', madeira: 'portugal', algarve: 'portugal',
+  nicosia: 'cyprus', limassol: 'cyprus', paphos: 'cyprus', larnaca: 'cyprus',
+  marrakech: 'morocco', fes: 'morocco', chefchaouen: 'morocco',
+  bangkok: 'thailand', phuket: 'thailand', krabi: 'thailand', 'chiang mai': 'thailand',
+  tokyo: 'japan', kyoto: 'japan', osaka: 'japan', budapest: 'hungary', prague: 'czechia',
+  vienna: 'austria', amsterdam: 'netherlands', 'tel aviv': 'israel', jerusalem: 'israel',
+};
 
 /**
  * @param {object} spec a deck spec with a `country`
@@ -45,7 +68,13 @@ export function checkCountry(spec) {
   (spec.slides || []).forEach((slide, i) => {
     for (const e of [slide.image, ...(slide.images || [])]) {
       if (!e || !e.alt || e.anyCountry) continue;
+      const text = String(e.alt).toLowerCase();
       const named = COUNTRIES.filter((c) => new RegExp(`\\b${c}\\b`, 'i').test(e.alt));
+      // A town name gives the country away just as well, and is far commoner
+      // in a stock description than the country itself.
+      for (const [town, country] of Object.entries(PLACES)) {
+        if (text.includes(town) && !named.includes(country)) named.push(country);
+      }
       if (named.length && !named.includes(want)) {
         problems.push(`slide ${i}: the photo for "${e.for || 'the backdrop'}" is in `
           + `${named.join('/')}, not ${spec.country} — set anyCountry:true to accept it`);
@@ -95,6 +124,69 @@ export function checkWiring(spec) {
           + `"${e.query}", which was written for "${e.for}"`);
       }
     });
+  });
+  return problems;
+}
+
+// Two rows on one slide showing the same thing.
+//
+// On 8.10 the Capri slide carried Monte Solaro, the Augustus Gardens and the
+// Faraglioni, and all three photographs were of the Faraglioni — the picker
+// answered three different queries with the same landmark because it is what
+// Capri stock is full of. Every gate passed it: each photo was of Capri, in
+// Italy, and wired to the right row.
+//
+// ⚠️ THE FIRST VERSION OF THIS CHECK WAS NOISE. Flagging any capitalised word
+// two descriptions share reported 37 problems on the Paris deck, every one of
+// them the word "Paris". A gate that fires on good work teaches you to ignore
+// it, which is the same fault the ink check had an hour earlier.
+//
+// The sharpened test: a shared name is a problem only when it appears in
+// exactly ONE of the slide's own row queries. "Paris" is in all five, so it
+// says nothing. "Faraglioni" is in one — so the other row showing it is
+// showing somebody else's subject. "Louvre" is in two, because the Carrousel
+// really is the Louvre, and "Vesuvius" is in two, because Pompeii really does
+// have the mountain behind it; neither is flagged, correctly.
+
+/**
+ * @param {object} spec a deck spec
+ * @returns {string[]} problems, empty when no row shows another row's subject
+ */
+export function checkDuplicateSubjects(spec) {
+  const problems = [];
+  (spec.slides || []).forEach((slide, i) => {
+    const rows = (slide.images || []).filter((e) => e && e.for && e.alt);
+    if (rows.length < 2) return;
+    const queries = rows.map((e) => String(e.query || '').toLowerCase());
+    const inQueries = (w) => queries.filter((q) => q.includes(w)).length;
+    // Split on non-letters rather than use a word boundary. The first
+    // version of this line went through a heredoc, which turned its backslash-b
+    // escape into a real backspace byte (0x08): the regex matched nothing
+    // and the check called every deck clean. Same failure as the bidi rule.
+    const nouns = rows.map((e) => new Set(
+      String(e.alt).split(/[^A-Za-z]+/)
+        .filter((x) => /^[A-Z][a-z][a-z][a-z]/.test(x))
+        .map((x) => x.toLowerCase()),
+    ));
+    const seen = new Set();
+    for (let a2 = 0; a2 < rows.length; a2++) {
+      for (let b = a2 + 1; b < rows.length; b++) {
+        // A shared GENERIC noun is not a shared subject. Pompeii and Vesuvius
+        // both say "Mount" because the mountain stands behind the ruins, which
+        // is correct and not a duplicate. Only names count.
+        const GENERIC = new Set(['mount', 'mountain', 'beach', 'island', 'village',
+          'church', 'museum', 'garden', 'gardens', 'palace', 'castle', 'tower',
+          'bridge', 'square', 'street', 'coast', 'cliff', 'cliffs', 'harbour',
+          'harbor', 'grotto', 'cave', 'lake', 'river', 'valley', 'monastery']);
+        const shared = [...nouns[a2]].filter((w) => nouns[b].has(w) && !GENERIC.has(w) && inQueries(w) === 1);
+        if (!shared.length) continue;
+        const key = `${i}|${shared.join()}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        problems.push(`slide ${i}: "${rows[a2].for}" and "${rows[b].for}" are both `
+          + `photographs of ${shared.join('/')} — one slide, two rows, one subject`);
+      }
+    }
   });
   return problems;
 }
