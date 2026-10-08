@@ -7306,5 +7306,8780 @@
   "busy": 0.272,
   "warm": 0.394,
   "skyTop": -0.138
+ },
+ "C0813": {
+  "brightness": 106.8,
+  "contrast": 56.9,
+  "colourful": 82.1,
+  "saturation": 0.595,
+  "busy": 0.095,
+  "warm": 0.075,
+  "skyTop": 0.214
+ },
+ "C0814": {
+  "brightness": 122,
+  "contrast": 52.4,
+  "colourful": 62.7,
+  "saturation": 0.274,
+  "busy": 0.169,
+  "warm": 0.033,
+  "skyTop": 0.225
+ },
+ "C0815": {
+  "brightness": 119.2,
+  "contrast": 63.8,
+  "colourful": 39,
+  "saturation": 0.433,
+  "busy": 0.057,
+  "warm": 0.306,
+  "skyTop": -0.206
+ },
+ "C0816": {
+  "brightness": 171.4,
+  "contrast": 62.5,
+  "colourful": 51.3,
+  "saturation": 0.361,
+  "busy": 0.095,
+  "warm": 0.567,
+  "skyTop": -0.335
+ },
+ "C0817": {
+  "brightness": 95,
+  "contrast": 55.3,
+  "colourful": 58.9,
+  "saturation": 0.426,
+  "busy": 0.145,
+  "warm": 0.003,
+  "skyTop": 0.064
+ },
+ "C0818": {
+  "brightness": 111.5,
+  "contrast": 34.8,
+  "colourful": 32.5,
+  "saturation": 0.336,
+  "busy": 0.069,
+  "warm": 0.422,
+  "skyTop": -0.18
+ },
+ "C0819": {
+  "brightness": 128.4,
+  "contrast": 64.5,
+  "colourful": 55,
+  "saturation": 0.372,
+  "busy": 0.175,
+  "warm": 0.322,
+  "skyTop": 0.05
+ },
+ "C0820": {
+  "brightness": 109.2,
+  "contrast": 53.7,
+  "colourful": 8.2,
+  "saturation": 0.105,
+  "busy": 0.052,
+  "warm": 0,
+  "skyTop": -0.037
+ },
+ "C0821": {
+  "brightness": 125.4,
+  "contrast": 63.5,
+  "colourful": 39.4,
+  "saturation": 0.209,
+  "busy": 0.11,
+  "warm": 0.084,
+  "skyTop": -0.02
+ },
+ "C0822": {
+  "brightness": 102.3,
+  "contrast": 49.6,
+  "colourful": 20.7,
+  "saturation": 0.169,
+  "busy": 0.159,
+  "warm": 0.057,
+  "skyTop": 0.027
+ },
+ "C0823": {
+  "brightness": 114.9,
+  "contrast": 66,
+  "colourful": 54.4,
+  "saturation": 0.294,
+  "busy": 0.169,
+  "warm": 0.056,
+  "skyTop": 0.172
+ },
+ "C0824": {
+  "brightness": 117.9,
+  "contrast": 64.5,
+  "colourful": 82.8,
+  "saturation": 0.581,
+  "busy": 0.288,
+  "warm": 0.548,
+  "skyTop": -0.173
+ },
+ "C0825": {
+  "brightness": 115.9,
+  "contrast": 65.8,
+  "colourful": 36.5,
+  "saturation": 0.279,
+  "busy": 0.012,
+  "warm": 0.055,
+  "skyTop": 0.028
+ },
+ "C0826": {
+  "brightness": 116.4,
+  "contrast": 60.5,
+  "colourful": 39,
+  "saturation": 0.349,
+  "busy": 0.078,
+  "warm": 0.247,
+  "skyTop": -0.143
+ },
+ "C0827": {
+  "brightness": 36,
+  "contrast": 36.2,
+  "colourful": 44.6,
+  "saturation": 0.601,
+  "busy": 0.122,
+  "warm": 0.109,
+  "skyTop": -0.034
+ },
+ "C0828": {
+  "brightness": 97.4,
+  "contrast": 64.2,
+  "colourful": 46.2,
+  "saturation": 0.38,
+  "busy": 0.073,
+  "warm": 0.244,
+  "skyTop": -0.037
+ },
+ "C0829": {
+  "brightness": 138.5,
+  "contrast": 61.7,
+  "colourful": 78.1,
+  "saturation": 0.39,
+  "busy": 0.092,
+  "warm": 0.009,
+  "skyTop": 0.031
+ },
+ "C0830": {
+  "brightness": 134.6,
+  "contrast": 58.8,
+  "colourful": 21.1,
+  "saturation": 0.187,
+  "busy": 0.114,
+  "warm": 0.053,
+  "skyTop": -0.087
+ },
+ "C0831": {
+  "brightness": 97.3,
+  "contrast": 48.1,
+  "colourful": 47.3,
+  "saturation": 0.277,
+  "busy": 0.137,
+  "warm": 0.037,
+  "skyTop": 0.028
+ },
+ "C0832": {
+  "brightness": 110.4,
+  "contrast": 61,
+  "colourful": 53.4,
+  "saturation": 0.353,
+  "busy": 0.145,
+  "warm": 0.019,
+  "skyTop": 0.101
+ },
+ "C0833": {
+  "brightness": 122.3,
+  "contrast": 75.4,
+  "colourful": 51.1,
+  "saturation": 0.319,
+  "busy": 0.14,
+  "warm": 0.318,
+  "skyTop": -0.256
+ },
+ "C0834": {
+  "brightness": 40.5,
+  "contrast": 55.5,
+  "colourful": 66.5,
+  "saturation": 0.771,
+  "busy": 0.186,
+  "warm": 0.096,
+  "skyTop": 0.086
+ },
+ "C0835": {
+  "brightness": 114.1,
+  "contrast": 54.1,
+  "colourful": 59.6,
+  "saturation": 0.5,
+  "busy": 0.292,
+  "warm": 0.561,
+  "skyTop": 0.037
+ },
+ "C0836": {
+  "brightness": 88.2,
+  "contrast": 38.1,
+  "colourful": 33.1,
+  "saturation": 0.508,
+  "busy": 0.053,
+  "warm": 0.009,
+  "skyTop": 0.023
+ },
+ "C0837": {
+  "brightness": 90.7,
+  "contrast": 34,
+  "colourful": 39.4,
+  "saturation": 0.364,
+  "busy": 0.06,
+  "warm": 0.287,
+  "skyTop": 0.083
+ },
+ "C0838": {
+  "brightness": 102.7,
+  "contrast": 36.1,
+  "colourful": 83.1,
+  "saturation": 0.563,
+  "busy": 0.105,
+  "warm": 0.475,
+  "skyTop": 0.073
+ },
+ "C0839": {
+  "brightness": 122.8,
+  "contrast": 74.8,
+  "colourful": 73,
+  "saturation": 0.337,
+  "busy": 0.115,
+  "warm": 0.083,
+  "skyTop": 0.153
+ },
+ "C0840": {
+  "brightness": 132.6,
+  "contrast": 71,
+  "colourful": 55.8,
+  "saturation": 0.322,
+  "busy": 0.2,
+  "warm": 0.351,
+  "skyTop": -0.209
+ },
+ "C0841": {
+  "brightness": 140.5,
+  "contrast": 59.5,
+  "colourful": 87.4,
+  "saturation": 0.526,
+  "busy": 0.037,
+  "warm": 0.002,
+  "skyTop": 0.211
+ },
+ "C0842": {
+  "brightness": 119.7,
+  "contrast": 65.8,
+  "colourful": 45.6,
+  "saturation": 0.249,
+  "busy": 0.189,
+  "warm": 0.128,
+  "skyTop": 0.096
+ },
+ "C0843": {
+  "brightness": 96,
+  "contrast": 61.2,
+  "colourful": 54.7,
+  "saturation": 0.455,
+  "busy": 0.054,
+  "warm": 0.425,
+  "skyTop": -0.211
+ },
+ "C0844": {
+  "brightness": 102.7,
+  "contrast": 63.1,
+  "colourful": 36.6,
+  "saturation": 0.347,
+  "busy": 0.083,
+  "warm": 0.25,
+  "skyTop": 0.008
+ },
+ "C0845": {
+  "brightness": 164.9,
+  "contrast": 54.3,
+  "colourful": 42.8,
+  "saturation": 0.218,
+  "busy": 0.113,
+  "warm": 0.002,
+  "skyTop": 0.221
+ },
+ "C0846": {
+  "brightness": 118.3,
+  "contrast": 60.2,
+  "colourful": 66.3,
+  "saturation": 0.426,
+  "busy": 0.162,
+  "warm": 0.187,
+  "skyTop": 0.102
+ },
+ "C0847": {
+  "brightness": 139.3,
+  "contrast": 55.2,
+  "colourful": 26.1,
+  "saturation": 0.183,
+  "busy": 0.166,
+  "warm": 0.022,
+  "skyTop": 0.06
+ },
+ "C0848": {
+  "brightness": 132.4,
+  "contrast": 70.2,
+  "colourful": 39.4,
+  "saturation": 0.268,
+  "busy": 0.213,
+  "warm": 0.008,
+  "skyTop": 0.01
+ },
+ "C0849": {
+  "brightness": 140.2,
+  "contrast": 53.7,
+  "colourful": 64,
+  "saturation": 0.363,
+  "busy": 0.175,
+  "warm": 0.014,
+  "skyTop": 0.104
+ },
+ "C0850": {
+  "brightness": 110.5,
+  "contrast": 51.2,
+  "colourful": 43.8,
+  "saturation": 0.308,
+  "busy": 0.24,
+  "warm": 0.002,
+  "skyTop": 0.023
+ },
+ "C0851": {
+  "brightness": 118.1,
+  "contrast": 80.1,
+  "colourful": 32,
+  "saturation": 0.275,
+  "busy": 0.142,
+  "warm": 0.038,
+  "skyTop": 0.046
+ },
+ "C0852": {
+  "brightness": 41.3,
+  "contrast": 35.7,
+  "colourful": 44.6,
+  "saturation": 0.557,
+  "busy": 0.086,
+  "warm": 0.064,
+  "skyTop": 0.045
+ },
+ "C0853": {
+  "brightness": 67.3,
+  "contrast": 42.1,
+  "colourful": 57.5,
+  "saturation": 0.552,
+  "busy": 0.074,
+  "warm": 0.384,
+  "skyTop": -0.097
+ },
+ "C0854": {
+  "brightness": 90.2,
+  "contrast": 33.7,
+  "colourful": 77,
+  "saturation": 0.391,
+  "busy": 0.107,
+  "warm": 0.104,
+  "skyTop": 0.025
+ },
+ "C0855": {
+  "brightness": 65.4,
+  "contrast": 36,
+  "colourful": 50.4,
+  "saturation": 0.397,
+  "busy": 0.101,
+  "warm": 0.2,
+  "skyTop": -0.089
+ },
+ "C0856": {
+  "brightness": 121,
+  "contrast": 62.1,
+  "colourful": 33,
+  "saturation": 0.163,
+  "busy": 0.135,
+  "warm": 0.083,
+  "skyTop": -0.067
+ },
+ "C0857": {
+  "brightness": 97.9,
+  "contrast": 74.8,
+  "colourful": 40.6,
+  "saturation": 0.315,
+  "busy": 0.08,
+  "warm": 0.152,
+  "skyTop": -0.052
+ },
+ "C0858": {
+  "brightness": 88,
+  "contrast": 44.1,
+  "colourful": 46.4,
+  "saturation": 0.295,
+  "busy": 0.179,
+  "warm": 0.058,
+  "skyTop": 0.053
+ },
+ "C0859": {
+  "brightness": 127.1,
+  "contrast": 60.8,
+  "colourful": 48.1,
+  "saturation": 0.297,
+  "busy": 0.125,
+  "warm": 0.231,
+  "skyTop": -0.152
+ },
+ "C0860": {
+  "brightness": 123.9,
+  "contrast": 85.1,
+  "colourful": 38.5,
+  "saturation": 0.336,
+  "busy": 0.16,
+  "warm": 0.014,
+  "skyTop": 0.001
+ },
+ "C0861": {
+  "brightness": 121.5,
+  "contrast": 64,
+  "colourful": 40.2,
+  "saturation": 0.373,
+  "busy": 0.141,
+  "warm": 0.316,
+  "skyTop": -0.17
+ },
+ "C0862": {
+  "brightness": 130.7,
+  "contrast": 58.3,
+  "colourful": 33,
+  "saturation": 0.217,
+  "busy": 0.165,
+  "warm": 0.044,
+  "skyTop": -0.017
+ },
+ "C0863": {
+  "brightness": 124.9,
+  "contrast": 50.4,
+  "colourful": 70.9,
+  "saturation": 0.463,
+  "busy": 0.122,
+  "warm": 0.001,
+  "skyTop": 0.18
+ },
+ "C0864": {
+  "brightness": 133.8,
+  "contrast": 49.9,
+  "colourful": 70.4,
+  "saturation": 0.415,
+  "busy": 0.077,
+  "warm": 0.632,
+  "skyTop": -0.234
+ },
+ "C0865": {
+  "brightness": 162.9,
+  "contrast": 53.4,
+  "colourful": 13.8,
+  "saturation": 0.084,
+  "busy": 0.174,
+  "warm": 0.019,
+  "skyTop": 0.031
+ },
+ "C0866": {
+  "brightness": 99.6,
+  "contrast": 59.4,
+  "colourful": 31.6,
+  "saturation": 0.294,
+  "busy": 0.189,
+  "warm": 0.181,
+  "skyTop": -0.042
+ },
+ "C0867": {
+  "brightness": 131.1,
+  "contrast": 72.3,
+  "colourful": 51.6,
+  "saturation": 0.321,
+  "busy": 0.275,
+  "warm": 0.079,
+  "skyTop": 0.093
+ },
+ "C0868": {
+  "brightness": 115.5,
+  "contrast": 48.8,
+  "colourful": 56.7,
+  "saturation": 0.524,
+  "busy": 0.029,
+  "warm": 0.621,
+  "skyTop": -0.158
+ },
+ "C0869": {
+  "brightness": 69.3,
+  "contrast": 55.3,
+  "colourful": 27.9,
+  "saturation": 0.385,
+  "busy": 0.083,
+  "warm": 0.057,
+  "skyTop": 0.015
+ },
+ "C0870": {
+  "brightness": 99.7,
+  "contrast": 55.8,
+  "colourful": 76.7,
+  "saturation": 0.348,
+  "busy": 0.094,
+  "warm": 0.306,
+  "skyTop": -0.007
+ },
+ "C0871": {
+  "brightness": 74.8,
+  "contrast": 44.6,
+  "colourful": 21,
+  "saturation": 0.33,
+  "busy": 0.137,
+  "warm": 0.045,
+  "skyTop": -0.103
+ },
+ "C0872": {
+  "brightness": 128.4,
+  "contrast": 80.7,
+  "colourful": 39.2,
+  "saturation": 0.325,
+  "busy": 0.125,
+  "warm": 0.014,
+  "skyTop": -0.063
+ },
+ "C0873": {
+  "brightness": 118.3,
+  "contrast": 74,
+  "colourful": 42.7,
+  "saturation": 0.224,
+  "busy": 0.121,
+  "warm": 0.203,
+  "skyTop": -0.048
+ },
+ "C0874": {
+  "brightness": 133.7,
+  "contrast": 75,
+  "colourful": 26.2,
+  "saturation": 0.197,
+  "busy": 0.101,
+  "warm": 0.011,
+  "skyTop": 0.06
+ },
+ "C0875": {
+  "brightness": 126.3,
+  "contrast": 45.2,
+  "colourful": 101.1,
+  "saturation": 0.58,
+  "busy": 0.211,
+  "warm": 0.066,
+  "skyTop": 0.33
+ },
+ "C0876": {
+  "brightness": 67.6,
+  "contrast": 53.8,
+  "colourful": 31.8,
+  "saturation": 0.437,
+  "busy": 0.121,
+  "warm": 0.167,
+  "skyTop": -0.09
+ },
+ "C0877": {
+  "brightness": 67.2,
+  "contrast": 47,
+  "colourful": 35.3,
+  "saturation": 0.34,
+  "busy": 0.162,
+  "warm": 0.148,
+  "skyTop": -0.072
+ },
+ "C0878": {
+  "brightness": 168.1,
+  "contrast": 61.7,
+  "colourful": 37.3,
+  "saturation": 0.2,
+  "busy": 0.086,
+  "warm": 0.058,
+  "skyTop": -0.084
+ },
+ "C0879": {
+  "brightness": 122.8,
+  "contrast": 62.3,
+  "colourful": 35.5,
+  "saturation": 0.176,
+  "busy": 0.239,
+  "warm": 0.092,
+  "skyTop": -0.03
+ },
+ "C0880": {
+  "brightness": 106.8,
+  "contrast": 61.2,
+  "colourful": 45,
+  "saturation": 0.314,
+  "busy": 0.096,
+  "warm": 0.195,
+  "skyTop": -0.225
+ },
+ "C0881": {
+  "brightness": 110.1,
+  "contrast": 52,
+  "colourful": 19.8,
+  "saturation": 0.219,
+  "busy": 0.041,
+  "warm": 0.028,
+  "skyTop": -0.118
+ },
+ "C0882": {
+  "brightness": 65,
+  "contrast": 36.3,
+  "colourful": 52.2,
+  "saturation": 0.401,
+  "busy": 0.098,
+  "warm": 0.151,
+  "skyTop": -0.106
+ },
+ "C0883": {
+  "brightness": 108.5,
+  "contrast": 63.5,
+  "colourful": 31.3,
+  "saturation": 0.221,
+  "busy": 0.079,
+  "warm": 0.263,
+  "skyTop": -0.193
+ },
+ "C0884": {
+  "brightness": 79.8,
+  "contrast": 44.9,
+  "colourful": 72.9,
+  "saturation": 0.37,
+  "busy": 0.165,
+  "warm": 0.132,
+  "skyTop": -0.002
+ },
+ "C0885": {
+  "brightness": 85.9,
+  "contrast": 54.7,
+  "colourful": 48.9,
+  "saturation": 0.358,
+  "busy": 0.056,
+  "warm": 0.084,
+  "skyTop": 0.112
+ },
+ "C0886": {
+  "brightness": 109.2,
+  "contrast": 49.2,
+  "colourful": 58.3,
+  "saturation": 0.374,
+  "busy": 0.266,
+  "warm": 0.006,
+  "skyTop": 0.212
+ },
+ "C0887": {
+  "brightness": 127.1,
+  "contrast": 69.6,
+  "colourful": 61.5,
+  "saturation": 0.359,
+  "busy": 0.087,
+  "warm": 0.357,
+  "skyTop": 0.003
+ },
+ "C0888": {
+  "brightness": 90.8,
+  "contrast": 62.3,
+  "colourful": 39.2,
+  "saturation": 0.5,
+  "busy": 0.233,
+  "warm": 0.274,
+  "skyTop": -0.154
+ },
+ "C0889": {
+  "brightness": 129,
+  "contrast": 63.4,
+  "colourful": 13.9,
+  "saturation": 0.136,
+  "busy": 0.019,
+  "warm": 0,
+  "skyTop": 0.043
+ },
+ "C0890": {
+  "brightness": 82.9,
+  "contrast": 37.1,
+  "colourful": 58.8,
+  "saturation": 0.354,
+  "busy": 0.164,
+  "warm": 0.084,
+  "skyTop": -0.072
+ },
+ "C0891": {
+  "brightness": 110.9,
+  "contrast": 52,
+  "colourful": 53.4,
+  "saturation": 0.338,
+  "busy": 0.298,
+  "warm": 0.212,
+  "skyTop": -0.212
+ },
+ "C0892": {
+  "brightness": 86.4,
+  "contrast": 36.3,
+  "colourful": 31.6,
+  "saturation": 0.348,
+  "busy": 0.07,
+  "warm": 0.214,
+  "skyTop": -0.093
+ },
+ "C0893": {
+  "brightness": 124.9,
+  "contrast": 54.3,
+  "colourful": 54.8,
+  "saturation": 0.362,
+  "busy": 0.11,
+  "warm": 0.055,
+  "skyTop": 0.095
+ },
+ "C0894": {
+  "brightness": 127.3,
+  "contrast": 78.2,
+  "colourful": 52.9,
+  "saturation": 0.3,
+  "busy": 0.105,
+  "warm": 0.076,
+  "skyTop": 0.126
+ },
+ "C0895": {
+  "brightness": 112.2,
+  "contrast": 57.3,
+  "colourful": 57,
+  "saturation": 0.334,
+  "busy": 0.285,
+  "warm": 0.026,
+  "skyTop": -0.04
+ },
+ "C0896": {
+  "brightness": 105,
+  "contrast": 56.7,
+  "colourful": 64.9,
+  "saturation": 0.464,
+  "busy": 0.165,
+  "warm": 0.468,
+  "skyTop": -0.022
+ },
+ "C0897": {
+  "brightness": 42.6,
+  "contrast": 28.2,
+  "colourful": 53,
+  "saturation": 0.791,
+  "busy": 0.021,
+  "warm": 0.253,
+  "skyTop": -0.344
+ },
+ "C0898": {
+  "brightness": 124.5,
+  "contrast": 53.8,
+  "colourful": 77.6,
+  "saturation": 0.394,
+  "busy": 0.18,
+  "warm": 0.014,
+  "skyTop": 0.071
+ },
+ "C0899": {
+  "brightness": 79.5,
+  "contrast": 42.8,
+  "colourful": 67.6,
+  "saturation": 0.477,
+  "busy": 0.079,
+  "warm": 0.334,
+  "skyTop": -0.051
+ },
+ "C0900": {
+  "brightness": 26.2,
+  "contrast": 33,
+  "colourful": 74.8,
+  "saturation": 0.537,
+  "busy": 0.062,
+  "warm": 0.023,
+  "skyTop": -0.016
+ },
+ "C0901": {
+  "brightness": 56.1,
+  "contrast": 43.7,
+  "colourful": 53,
+  "saturation": 0.565,
+  "busy": 0.188,
+  "warm": 0.315,
+  "skyTop": -0.171
+ },
+ "C0902": {
+  "brightness": 130.3,
+  "contrast": 51.4,
+  "colourful": 71.6,
+  "saturation": 0.395,
+  "busy": 0.104,
+  "warm": 0.006,
+  "skyTop": 0.267
+ },
+ "C0903": {
+  "brightness": 112.2,
+  "contrast": 41.8,
+  "colourful": 21.2,
+  "saturation": 0.182,
+  "busy": 0.146,
+  "warm": 0.122,
+  "skyTop": -0.085
+ },
+ "C0904": {
+  "brightness": 120.3,
+  "contrast": 68.6,
+  "colourful": 39.1,
+  "saturation": 0.259,
+  "busy": 0.164,
+  "warm": 0.065,
+  "skyTop": 0.057
+ },
+ "C0905": {
+  "brightness": 57.6,
+  "contrast": 63,
+  "colourful": 46.1,
+  "saturation": 0.288,
+  "busy": 0.051,
+  "warm": 0,
+  "skyTop": 0.074
+ },
+ "C0906": {
+  "brightness": 91.7,
+  "contrast": 65,
+  "colourful": 22.7,
+  "saturation": 0.262,
+  "busy": 0.155,
+  "warm": 0.006,
+  "skyTop": -0.007
+ },
+ "C0907": {
+  "brightness": 112.1,
+  "contrast": 59.6,
+  "colourful": 18.6,
+  "saturation": 0.293,
+  "busy": 0.039,
+  "warm": 0.052,
+  "skyTop": -0.052
+ },
+ "C0908": {
+  "brightness": 69.1,
+  "contrast": 51.2,
+  "colourful": 41.4,
+  "saturation": 0.405,
+  "busy": 0.108,
+  "warm": 0.025,
+  "skyTop": 0.138
+ },
+ "C0909": {
+  "brightness": 84.6,
+  "contrast": 38.9,
+  "colourful": 52.9,
+  "saturation": 0.587,
+  "busy": 0.023,
+  "warm": 0.701,
+  "skyTop": -0.427
+ },
+ "C0910": {
+  "brightness": 118.7,
+  "contrast": 76.3,
+  "colourful": 30.2,
+  "saturation": 0.254,
+  "busy": 0.12,
+  "warm": 0.078,
+  "skyTop": 0.012
+ },
+ "C0911": {
+  "brightness": 113.2,
+  "contrast": 50.2,
+  "colourful": 17.1,
+  "saturation": 0.186,
+  "busy": 0.193,
+  "warm": 0.018,
+  "skyTop": -0.054
+ },
+ "C0912": {
+  "brightness": 116,
+  "contrast": 46.7,
+  "colourful": 80.6,
+  "saturation": 0.515,
+  "busy": 0.127,
+  "warm": 0.006,
+  "skyTop": 0.035
+ },
+ "C0913": {
+  "brightness": 211.6,
+  "contrast": 78.1,
+  "colourful": 5.2,
+  "saturation": 0.001,
+  "busy": 0.108,
+  "warm": 0.001,
+  "skyTop": 0
+ },
+ "C0914": {
+  "brightness": 115.4,
+  "contrast": 61.9,
+  "colourful": 59.5,
+  "saturation": 0.38,
+  "busy": 0.094,
+  "warm": 0.234,
+  "skyTop": 0.097
+ },
+ "C0915": {
+  "brightness": 126.5,
+  "contrast": 86,
+  "colourful": 52,
+  "saturation": 0.261,
+  "busy": 0.176,
+  "warm": 0.264,
+  "skyTop": -0.147
+ },
+ "C0916": {
+  "brightness": 56.8,
+  "contrast": 47.3,
+  "colourful": 32.2,
+  "saturation": 0.415,
+  "busy": 0.12,
+  "warm": 0.058,
+  "skyTop": -0.09
+ },
+ "C0917": {
+  "brightness": 229.8,
+  "contrast": 34.4,
+  "colourful": 3.3,
+  "saturation": 0.017,
+  "busy": 0.021,
+  "warm": 0,
+  "skyTop": 0.003
+ },
+ "C0918": {
+  "brightness": 102.9,
+  "contrast": 57.4,
+  "colourful": 43.4,
+  "saturation": 0.356,
+  "busy": 0.22,
+  "warm": 0.281,
+  "skyTop": -0.051
+ },
+ "C0919": {
+  "brightness": 183.4,
+  "contrast": 77.1,
+  "colourful": 54.3,
+  "saturation": 0.223,
+  "busy": 0.153,
+  "warm": 0.101,
+  "skyTop": 0.001
+ },
+ "C0920": {
+  "brightness": 96,
+  "contrast": 76.1,
+  "colourful": 57.3,
+  "saturation": 0.454,
+  "busy": 0.103,
+  "warm": 0.268,
+  "skyTop": 0.044
+ },
+ "C0921": {
+  "brightness": 71.2,
+  "contrast": 54.1,
+  "colourful": 98.3,
+  "saturation": 0.614,
+  "busy": 0.071,
+  "warm": 0.151,
+  "skyTop": 0.285
+ },
+ "C0922": {
+  "brightness": 125.4,
+  "contrast": 65.7,
+  "colourful": 40.4,
+  "saturation": 0.361,
+  "busy": 0.201,
+  "warm": 0.227,
+  "skyTop": -0.131
+ },
+ "C0923": {
+  "brightness": 113,
+  "contrast": 60.2,
+  "colourful": 88.5,
+  "saturation": 0.511,
+  "busy": 0.289,
+  "warm": 0.071,
+  "skyTop": 0.302
+ },
+ "C0924": {
+  "brightness": 37.5,
+  "contrast": 40,
+  "colourful": 49.6,
+  "saturation": 0.561,
+  "busy": 0.046,
+  "warm": 0.165,
+  "skyTop": 0.104
+ },
+ "C0925": {
+  "brightness": 54.1,
+  "contrast": 69.2,
+  "colourful": 14.9,
+  "saturation": 0.238,
+  "busy": 0.044,
+  "warm": 0,
+  "skyTop": 0.023
+ },
+ "C0926": {
+  "brightness": 89.3,
+  "contrast": 77.4,
+  "colourful": 45,
+  "saturation": 0.217,
+  "busy": 0.098,
+  "warm": 0.022,
+  "skyTop": 0.072
+ },
+ "C0927": {
+  "brightness": 90.8,
+  "contrast": 35.5,
+  "colourful": 82.3,
+  "saturation": 0.58,
+  "busy": 0.051,
+  "warm": 0.012,
+  "skyTop": 0.207
+ },
+ "C0928": {
+  "brightness": 126.5,
+  "contrast": 72.6,
+  "colourful": 28.4,
+  "saturation": 0.16,
+  "busy": 0.14,
+  "warm": 0.035,
+  "skyTop": 0.044
+ },
+ "C0929": {
+  "brightness": 146.8,
+  "contrast": 67.8,
+  "colourful": 29.2,
+  "saturation": 0.142,
+  "busy": 0.184,
+  "warm": 0.023,
+  "skyTop": 0.071
+ },
+ "C0930": {
+  "brightness": 87.8,
+  "contrast": 53.4,
+  "colourful": 42.6,
+  "saturation": 0.258,
+  "busy": 0.198,
+  "warm": 0.081,
+  "skyTop": -0.059
+ },
+ "C0931": {
+  "brightness": 58.4,
+  "contrast": 63.4,
+  "colourful": 32.2,
+  "saturation": 0.331,
+  "busy": 0.079,
+  "warm": 0.054,
+  "skyTop": -0.032
+ },
+ "C0932": {
+  "brightness": 73.6,
+  "contrast": 40.2,
+  "colourful": 27.3,
+  "saturation": 0.498,
+  "busy": 0.086,
+  "warm": 0.347,
+  "skyTop": -0.156
+ },
+ "C0933": {
+  "brightness": 167.8,
+  "contrast": 78.3,
+  "colourful": 30.7,
+  "saturation": 0.321,
+  "busy": 0.112,
+  "warm": 0.19,
+  "skyTop": -0.068
+ },
+ "C0934": {
+  "brightness": 106.3,
+  "contrast": 47.6,
+  "colourful": 37.2,
+  "saturation": 0.306,
+  "busy": 0.178,
+  "warm": 0.163,
+  "skyTop": -0.075
+ },
+ "C0935": {
+  "brightness": 111.3,
+  "contrast": 69.5,
+  "colourful": 35.7,
+  "saturation": 0.28,
+  "busy": 0.014,
+  "warm": 0.108,
+  "skyTop": -0.118
+ },
+ "C0936": {
+  "brightness": 102.6,
+  "contrast": 57.9,
+  "colourful": 64,
+  "saturation": 0.469,
+  "busy": 0.111,
+  "warm": 0.006,
+  "skyTop": 0.251
+ },
+ "C0937": {
+  "brightness": 37.6,
+  "contrast": 46.5,
+  "colourful": 112.2,
+  "saturation": 0.858,
+  "busy": 0.093,
+  "warm": 0.331,
+  "skyTop": 0.315
+ },
+ "C0938": {
+  "brightness": 54.4,
+  "contrast": 72.4,
+  "colourful": 40.8,
+  "saturation": 0.734,
+  "busy": 0.063,
+  "warm": 0.235,
+  "skyTop": -0.247
+ },
+ "C0939": {
+  "brightness": 111.4,
+  "contrast": 59.7,
+  "colourful": 38,
+  "saturation": 0.318,
+  "busy": 0.111,
+  "warm": 0.179,
+  "skyTop": -0.009
+ },
+ "C0940": {
+  "brightness": 149.8,
+  "contrast": 40.1,
+  "colourful": 119.8,
+  "saturation": 0.476,
+  "busy": 0.051,
+  "warm": 0.348,
+  "skyTop": -0.014
+ },
+ "C0941": {
+  "brightness": 146.4,
+  "contrast": 65.3,
+  "colourful": 82.4,
+  "saturation": 0.384,
+  "busy": 0.109,
+  "warm": 0.038,
+  "skyTop": 0.131
+ },
+ "C0942": {
+  "brightness": 116.6,
+  "contrast": 79.5,
+  "colourful": 18.8,
+  "saturation": 0.161,
+  "busy": 0.081,
+  "warm": 0.046,
+  "skyTop": 0.028
+ },
+ "C0943": {
+  "brightness": 104.3,
+  "contrast": 72.9,
+  "colourful": 111,
+  "saturation": 0.622,
+  "busy": 0.107,
+  "warm": 0.078,
+  "skyTop": -0.004
+ },
+ "C0944": {
+  "brightness": 89.1,
+  "contrast": 42.2,
+  "colourful": 48.6,
+  "saturation": 0.276,
+  "busy": 0.181,
+  "warm": 0.049,
+  "skyTop": 0.144
+ },
+ "C0945": {
+  "brightness": 93.6,
+  "contrast": 52.7,
+  "colourful": 37.6,
+  "saturation": 0.37,
+  "busy": 0.069,
+  "warm": 0.283,
+  "skyTop": 0.008
+ },
+ "C0946": {
+  "brightness": 103.8,
+  "contrast": 59.3,
+  "colourful": 59.6,
+  "saturation": 0.492,
+  "busy": 0.171,
+  "warm": 0.547,
+  "skyTop": -0.194
+ },
+ "C0947": {
+  "brightness": 132,
+  "contrast": 51.6,
+  "colourful": 33.3,
+  "saturation": 0.194,
+  "busy": 0.116,
+  "warm": 0.06,
+  "skyTop": 0.064
+ },
+ "C0948": {
+  "brightness": 109.5,
+  "contrast": 70.1,
+  "colourful": 32.6,
+  "saturation": 0.334,
+  "busy": 0.049,
+  "warm": 0.005,
+  "skyTop": -0.072
+ },
+ "C0949": {
+  "brightness": 99.2,
+  "contrast": 56.6,
+  "colourful": 33.5,
+  "saturation": 0.49,
+  "busy": 0.115,
+  "warm": 0.438,
+  "skyTop": -0.201
+ },
+ "C0950": {
+  "brightness": 89.8,
+  "contrast": 49.3,
+  "colourful": 29.6,
+  "saturation": 0.462,
+  "busy": 0.126,
+  "warm": 0.266,
+  "skyTop": -0.125
+ },
+ "C0951": {
+  "brightness": 127,
+  "contrast": 75,
+  "colourful": 42.2,
+  "saturation": 0.343,
+  "busy": 0.187,
+  "warm": 0.038,
+  "skyTop": 0.067
+ },
+ "C0952": {
+  "brightness": 51.1,
+  "contrast": 43.8,
+  "colourful": 20.1,
+  "saturation": 0.449,
+  "busy": 0.183,
+  "warm": 0.011,
+  "skyTop": -0.034
+ },
+ "C0953": {
+  "brightness": 102.6,
+  "contrast": 67.1,
+  "colourful": 49.5,
+  "saturation": 0.363,
+  "busy": 0.17,
+  "warm": 0.17,
+  "skyTop": -0.047
+ },
+ "C0954": {
+  "brightness": 127.9,
+  "contrast": 59,
+  "colourful": 50.3,
+  "saturation": 0.346,
+  "busy": 0.119,
+  "warm": 0.004,
+  "skyTop": 0.078
+ },
+ "C0955": {
+  "brightness": 128.1,
+  "contrast": 77.7,
+  "colourful": 40.3,
+  "saturation": 0.335,
+  "busy": 0.123,
+  "warm": 0.203,
+  "skyTop": -0.074
+ },
+ "C0956": {
+  "brightness": 129.9,
+  "contrast": 58.7,
+  "colourful": 34.5,
+  "saturation": 0.307,
+  "busy": 0.15,
+  "warm": 0.266,
+  "skyTop": -0.214
+ },
+ "C0957": {
+  "brightness": 108.5,
+  "contrast": 53.5,
+  "colourful": 37.3,
+  "saturation": 0.371,
+  "busy": 0.11,
+  "warm": 0.277,
+  "skyTop": -0.281
+ },
+ "C0958": {
+  "brightness": 86.9,
+  "contrast": 54.5,
+  "colourful": 44.8,
+  "saturation": 0.397,
+  "busy": 0.164,
+  "warm": 0.088,
+  "skyTop": 0.022
+ },
+ "C0959": {
+  "brightness": 83.5,
+  "contrast": 47.6,
+  "colourful": 64.8,
+  "saturation": 0.436,
+  "busy": 0.033,
+  "warm": 0.401,
+  "skyTop": -0.034
+ },
+ "C0960": {
+  "brightness": 130,
+  "contrast": 63.8,
+  "colourful": 30.3,
+  "saturation": 0.37,
+  "busy": 0.058,
+  "warm": 0.226,
+  "skyTop": -0.204
+ },
+ "C0961": {
+  "brightness": 113.5,
+  "contrast": 73,
+  "colourful": 53,
+  "saturation": 0.348,
+  "busy": 0.101,
+  "warm": 0.034,
+  "skyTop": 0.115
+ },
+ "C0962": {
+  "brightness": 149,
+  "contrast": 64.6,
+  "colourful": 37.4,
+  "saturation": 0.262,
+  "busy": 0.177,
+  "warm": 0.006,
+  "skyTop": 0.075
+ },
+ "C0963": {
+  "brightness": 107.8,
+  "contrast": 46.7,
+  "colourful": 41.7,
+  "saturation": 0.348,
+  "busy": 0.107,
+  "warm": 0.019,
+  "skyTop": 0.051
+ },
+ "C0964": {
+  "brightness": 118.1,
+  "contrast": 75.3,
+  "colourful": 32.1,
+  "saturation": 0.246,
+  "busy": 0.1,
+  "warm": 0.089,
+  "skyTop": 0.011
+ },
+ "C0965": {
+  "brightness": 80,
+  "contrast": 44.9,
+  "colourful": 45,
+  "saturation": 0.432,
+  "busy": 0.105,
+  "warm": 0.171,
+  "skyTop": -0.006
+ },
+ "C0966": {
+  "brightness": 105.9,
+  "contrast": 43,
+  "colourful": 38.3,
+  "saturation": 0.374,
+  "busy": 0.174,
+  "warm": 0.017,
+  "skyTop": -0.064
+ },
+ "C0967": {
+  "brightness": 78.9,
+  "contrast": 57.3,
+  "colourful": 63,
+  "saturation": 0.286,
+  "busy": 0.182,
+  "warm": 0.2,
+  "skyTop": -0.051
+ },
+ "C0968": {
+  "brightness": 144.8,
+  "contrast": 73.1,
+  "colourful": 36.4,
+  "saturation": 0.221,
+  "busy": 0.166,
+  "warm": 0.162,
+  "skyTop": 0.034
+ },
+ "C0969": {
+  "brightness": 110.5,
+  "contrast": 54.2,
+  "colourful": 53.3,
+  "saturation": 0.297,
+  "busy": 0.094,
+  "warm": 0.011,
+  "skyTop": 0.158
+ },
+ "C0970": {
+  "brightness": 140.2,
+  "contrast": 45,
+  "colourful": 69.4,
+  "saturation": 0.284,
+  "busy": 0.1,
+  "warm": 0.158,
+  "skyTop": -0.095
+ },
+ "C0971": {
+  "brightness": 135.6,
+  "contrast": 63.5,
+  "colourful": 42,
+  "saturation": 0.296,
+  "busy": 0.064,
+  "warm": 0.175,
+  "skyTop": 0
+ },
+ "C0972": {
+  "brightness": 94.9,
+  "contrast": 54.1,
+  "colourful": 42.4,
+  "saturation": 0.386,
+  "busy": 0.103,
+  "warm": 0.292,
+  "skyTop": 0.008
+ },
+ "C0973": {
+  "brightness": 85.6,
+  "contrast": 53,
+  "colourful": 48.9,
+  "saturation": 0.506,
+  "busy": 0.123,
+  "warm": 0.539,
+  "skyTop": -0.204
+ },
+ "C0974": {
+  "brightness": 75.4,
+  "contrast": 50.7,
+  "colourful": 39.6,
+  "saturation": 0.256,
+  "busy": 0.142,
+  "warm": 0.049,
+  "skyTop": 0.011
+ },
+ "C0975": {
+  "brightness": 108.8,
+  "contrast": 64.6,
+  "colourful": 15.2,
+  "saturation": 0.123,
+  "busy": 0.107,
+  "warm": 0.001,
+  "skyTop": -0.02
+ },
+ "C0976": {
+  "brightness": 118,
+  "contrast": 70.9,
+  "colourful": 31.5,
+  "saturation": 0.182,
+  "busy": 0.138,
+  "warm": 0.055,
+  "skyTop": -0.06
+ },
+ "C0977": {
+  "brightness": 187.4,
+  "contrast": 76.2,
+  "colourful": 54.3,
+  "saturation": 0.213,
+  "busy": 0.164,
+  "warm": 0.101,
+  "skyTop": 0.002
+ },
+ "C0978": {
+  "brightness": 151.2,
+  "contrast": 53.8,
+  "colourful": 34.5,
+  "saturation": 0.204,
+  "busy": 0.045,
+  "warm": 0.241,
+  "skyTop": -0.07
+ },
+ "C0979": {
+  "brightness": 120.5,
+  "contrast": 65.5,
+  "colourful": 27.6,
+  "saturation": 0.188,
+  "busy": 0.141,
+  "warm": 0.07,
+  "skyTop": -0.159
+ },
+ "C0980": {
+  "brightness": 97.2,
+  "contrast": 54,
+  "colourful": 28.5,
+  "saturation": 0.244,
+  "busy": 0.228,
+  "warm": 0.022,
+  "skyTop": 0.142
+ },
+ "C0981": {
+  "brightness": 84.9,
+  "contrast": 39.7,
+  "colourful": 57.4,
+  "saturation": 0.38,
+  "busy": 0.129,
+  "warm": 0.074,
+  "skyTop": 0.132
+ },
+ "C0982": {
+  "brightness": 157.7,
+  "contrast": 60.5,
+  "colourful": 25.9,
+  "saturation": 0.16,
+  "busy": 0.054,
+  "warm": 0.073,
+  "skyTop": 0.066
+ },
+ "C0983": {
+  "brightness": 131.3,
+  "contrast": 74.9,
+  "colourful": 42.2,
+  "saturation": 0.239,
+  "busy": 0.244,
+  "warm": 0.104,
+  "skyTop": -0.028
+ },
+ "C0984": {
+  "brightness": 147,
+  "contrast": 66.1,
+  "colourful": 59.1,
+  "saturation": 0.329,
+  "busy": 0.16,
+  "warm": 0.081,
+  "skyTop": -0.172
+ },
+ "C0985": {
+  "brightness": 140.3,
+  "contrast": 63.2,
+  "colourful": 82,
+  "saturation": 0.333,
+  "busy": 0.107,
+  "warm": 0.025,
+  "skyTop": 0.242
+ },
+ "C0986": {
+  "brightness": 101.3,
+  "contrast": 47.7,
+  "colourful": 25.5,
+  "saturation": 0.294,
+  "busy": 0.167,
+  "warm": 0.163,
+  "skyTop": -0.141
+ },
+ "C0987": {
+  "brightness": 73.6,
+  "contrast": 56.2,
+  "colourful": 26.3,
+  "saturation": 0.518,
+  "busy": 0.072,
+  "warm": 0.237,
+  "skyTop": -0.122
+ },
+ "C0988": {
+  "brightness": 129.9,
+  "contrast": 57.9,
+  "colourful": 65,
+  "saturation": 0.516,
+  "busy": 0.13,
+  "warm": 0.001,
+  "skyTop": 0.045
+ },
+ "C0989": {
+  "brightness": 94,
+  "contrast": 62.7,
+  "colourful": 59.5,
+  "saturation": 0.28,
+  "busy": 0.094,
+  "warm": 0.209,
+  "skyTop": -0.435
+ },
+ "C0990": {
+  "brightness": 69.1,
+  "contrast": 51.5,
+  "colourful": 38.2,
+  "saturation": 0.394,
+  "busy": 0.081,
+  "warm": 0.349,
+  "skyTop": -0.158
+ },
+ "C0991": {
+  "brightness": 114.4,
+  "contrast": 44.5,
+  "colourful": 49.1,
+  "saturation": 0.336,
+  "busy": 0.102,
+  "warm": 0.017,
+  "skyTop": 0.162
+ },
+ "C0992": {
+  "brightness": 69.8,
+  "contrast": 53.7,
+  "colourful": 54.2,
+  "saturation": 0.691,
+  "busy": 0.17,
+  "warm": 0.432,
+  "skyTop": -0.189
+ },
+ "C0993": {
+  "brightness": 123.5,
+  "contrast": 51,
+  "colourful": 57.2,
+  "saturation": 0.386,
+  "busy": 0.15,
+  "warm": 0.355,
+  "skyTop": -0.264
+ },
+ "C0994": {
+  "brightness": 126.9,
+  "contrast": 65.9,
+  "colourful": 36.2,
+  "saturation": 0.37,
+  "busy": 0.15,
+  "warm": 0.294,
+  "skyTop": -0.236
+ },
+ "C0995": {
+  "brightness": 95.1,
+  "contrast": 48.7,
+  "colourful": 38.4,
+  "saturation": 0.277,
+  "busy": 0.117,
+  "warm": 0.162,
+  "skyTop": -0.064
+ },
+ "C0996": {
+  "brightness": 95.5,
+  "contrast": 71,
+  "colourful": 36.7,
+  "saturation": 0.522,
+  "busy": 0.07,
+  "warm": 0.38,
+  "skyTop": -0.219
+ },
+ "C0997": {
+  "brightness": 134.2,
+  "contrast": 60.4,
+  "colourful": 29.5,
+  "saturation": 0.22,
+  "busy": 0.078,
+  "warm": 0.2,
+  "skyTop": -0.115
+ },
+ "C0998": {
+  "brightness": 139.5,
+  "contrast": 50.1,
+  "colourful": 61.3,
+  "saturation": 0.423,
+  "busy": 0.103,
+  "warm": 0.641,
+  "skyTop": -0.307
+ },
+ "C0999": {
+  "brightness": 138.1,
+  "contrast": 70,
+  "colourful": 33.6,
+  "saturation": 0.194,
+  "busy": 0.143,
+  "warm": 0.047,
+  "skyTop": 0.054
+ },
+ "C1000": {
+  "brightness": 110.1,
+  "contrast": 38.1,
+  "colourful": 21.2,
+  "saturation": 0.218,
+  "busy": 0.091,
+  "warm": 0.097,
+  "skyTop": -0.116
+ },
+ "C1001": {
+  "brightness": 116.4,
+  "contrast": 35.3,
+  "colourful": 61.3,
+  "saturation": 0.43,
+  "busy": 0.052,
+  "warm": 0.063,
+  "skyTop": 0.177
+ },
+ "C1002": {
+  "brightness": 82.3,
+  "contrast": 56.4,
+  "colourful": 46.7,
+  "saturation": 0.453,
+  "busy": 0.237,
+  "warm": 0.224,
+  "skyTop": -0.12
+ },
+ "C1003": {
+  "brightness": 107.3,
+  "contrast": 54.5,
+  "colourful": 25.7,
+  "saturation": 0.228,
+  "busy": 0.068,
+  "warm": 0.312,
+  "skyTop": -0.052
+ },
+ "C1004": {
+  "brightness": 92.6,
+  "contrast": 74.8,
+  "colourful": 68.2,
+  "saturation": 0.588,
+  "busy": 0.119,
+  "warm": 0.558,
+  "skyTop": 0.104
+ },
+ "C1005": {
+  "brightness": 110,
+  "contrast": 69.9,
+  "colourful": 32.8,
+  "saturation": 0.334,
+  "busy": 0.053,
+  "warm": 0.004,
+  "skyTop": -0.072
+ },
+ "C1006": {
+  "brightness": 122.5,
+  "contrast": 39.7,
+  "colourful": 139.2,
+  "saturation": 0.68,
+  "busy": 0.13,
+  "warm": 0.11,
+  "skyTop": 0.455
+ },
+ "C1007": {
+  "brightness": 112.1,
+  "contrast": 84.4,
+  "colourful": 28.3,
+  "saturation": 0.407,
+  "busy": 0.05,
+  "warm": 0.019,
+  "skyTop": -0.009
+ },
+ "C1008": {
+  "brightness": 99.3,
+  "contrast": 72.2,
+  "colourful": 36.2,
+  "saturation": 0.507,
+  "busy": 0.171,
+  "warm": 0.254,
+  "skyTop": -0.116
+ },
+ "C1009": {
+  "brightness": 185.4,
+  "contrast": 42.2,
+  "colourful": 22.9,
+  "saturation": 0.11,
+  "busy": 0.061,
+  "warm": 0.017,
+  "skyTop": 0.068
+ },
+ "C1010": {
+  "brightness": 123.2,
+  "contrast": 67,
+  "colourful": 43.6,
+  "saturation": 0.258,
+  "busy": 0.202,
+  "warm": 0.063,
+  "skyTop": 0.15
+ },
+ "C1011": {
+  "brightness": 119.4,
+  "contrast": 60.7,
+  "colourful": 91.9,
+  "saturation": 0.478,
+  "busy": 0.129,
+  "warm": 0.421,
+  "skyTop": -0.378
+ },
+ "C1012": {
+  "brightness": 134.1,
+  "contrast": 70.8,
+  "colourful": 39,
+  "saturation": 0.259,
+  "busy": 0.21,
+  "warm": 0.008,
+  "skyTop": 0.01
+ },
+ "C1013": {
+  "brightness": 113.4,
+  "contrast": 59.3,
+  "colourful": 42.9,
+  "saturation": 0.266,
+  "busy": 0.147,
+  "warm": 0.115,
+  "skyTop": 0.064
+ },
+ "C1014": {
+  "brightness": 74.1,
+  "contrast": 39.7,
+  "colourful": 37.7,
+  "saturation": 0.483,
+  "busy": 0.043,
+  "warm": 0.406,
+  "skyTop": -0.24
+ },
+ "C1015": {
+  "brightness": 167.7,
+  "contrast": 65.1,
+  "colourful": 22.9,
+  "saturation": 0.134,
+  "busy": 0.104,
+  "warm": 0.005,
+  "skyTop": 0.048
+ },
+ "C1016": {
+  "brightness": 127.5,
+  "contrast": 52,
+  "colourful": 22.3,
+  "saturation": 0.216,
+  "busy": 0.224,
+  "warm": 0.042,
+  "skyTop": -0.156
+ },
+ "C1017": {
+  "brightness": 89.2,
+  "contrast": 39.2,
+  "colourful": 43.6,
+  "saturation": 0.546,
+  "busy": 0.043,
+  "warm": 0.708,
+  "skyTop": -0.27
+ },
+ "C1018": {
+  "brightness": 124.3,
+  "contrast": 56.1,
+  "colourful": 43.8,
+  "saturation": 0.375,
+  "busy": 0.184,
+  "warm": 0.001,
+  "skyTop": 0.037
+ },
+ "C1019": {
+  "brightness": 29.6,
+  "contrast": 45.6,
+  "colourful": 66.7,
+  "saturation": 0.735,
+  "busy": 0.083,
+  "warm": 0.109,
+  "skyTop": 0.377
+ },
+ "C1020": {
+  "brightness": 96.3,
+  "contrast": 57.1,
+  "colourful": 39,
+  "saturation": 0.283,
+  "busy": 0.1,
+  "warm": 0.049,
+  "skyTop": 0.016
+ },
+ "C1021": {
+  "brightness": 102,
+  "contrast": 46.6,
+  "colourful": 20.2,
+  "saturation": 0.141,
+  "busy": 0.181,
+  "warm": 0.032,
+  "skyTop": 0.005
+ },
+ "C1022": {
+  "brightness": 127.3,
+  "contrast": 50.6,
+  "colourful": 19,
+  "saturation": 0.202,
+  "busy": 0.134,
+  "warm": 0.053,
+  "skyTop": -0.075
+ },
+ "C1023": {
+  "brightness": 125.8,
+  "contrast": 69.2,
+  "colourful": 32.8,
+  "saturation": 0.272,
+  "busy": 0.147,
+  "warm": 0.094,
+  "skyTop": 0.021
+ },
+ "C1024": {
+  "brightness": 123.5,
+  "contrast": 66.7,
+  "colourful": 24.2,
+  "saturation": 0.211,
+  "busy": 0.061,
+  "warm": 0.129,
+  "skyTop": -0.024
+ },
+ "C1025": {
+  "brightness": 142.4,
+  "contrast": 62.9,
+  "colourful": 25.4,
+  "saturation": 0.124,
+  "busy": 0.143,
+  "warm": 0.002,
+  "skyTop": 0.091
+ },
+ "C1026": {
+  "brightness": 115.4,
+  "contrast": 65.7,
+  "colourful": 33.4,
+  "saturation": 0.261,
+  "busy": 0.197,
+  "warm": 0.153,
+  "skyTop": 0.004
+ },
+ "C1027": {
+  "brightness": 80.4,
+  "contrast": 57.9,
+  "colourful": 24.9,
+  "saturation": 0.256,
+  "busy": 0.043,
+  "warm": 0.085,
+  "skyTop": -0.069
+ },
+ "C1028": {
+  "brightness": 130.6,
+  "contrast": 74.1,
+  "colourful": 42.6,
+  "saturation": 0.242,
+  "busy": 0.259,
+  "warm": 0.106,
+  "skyTop": -0.027
+ },
+ "C1029": {
+  "brightness": 120.5,
+  "contrast": 75.9,
+  "colourful": 56.9,
+  "saturation": 0.309,
+  "busy": 0.25,
+  "warm": 0.22,
+  "skyTop": -0.151
+ },
+ "C1030": {
+  "brightness": 115.6,
+  "contrast": 68.1,
+  "colourful": 33.2,
+  "saturation": 0.218,
+  "busy": 0.108,
+  "warm": 0.07,
+  "skyTop": 0.077
+ },
+ "C1031": {
+  "brightness": 134.7,
+  "contrast": 47.2,
+  "colourful": 81.4,
+  "saturation": 0.453,
+  "busy": 0.107,
+  "warm": 0.008,
+  "skyTop": 0.162
+ },
+ "C1032": {
+  "brightness": 124.8,
+  "contrast": 88.8,
+  "colourful": 125.7,
+  "saturation": 0.58,
+  "busy": 0.084,
+  "warm": 0.307,
+  "skyTop": -0.032
+ },
+ "C1033": {
+  "brightness": 114.8,
+  "contrast": 47.3,
+  "colourful": 53.4,
+  "saturation": 0.4,
+  "busy": 0.058,
+  "warm": 0.213,
+  "skyTop": -0.127
+ },
+ "C1034": {
+  "brightness": 130.5,
+  "contrast": 73.7,
+  "colourful": 87.4,
+  "saturation": 0.402,
+  "busy": 0.318,
+  "warm": 0.357,
+  "skyTop": -0.312
+ },
+ "C1035": {
+  "brightness": 102.5,
+  "contrast": 63.9,
+  "colourful": 45.2,
+  "saturation": 0.52,
+  "busy": 0.095,
+  "warm": 0.105,
+  "skyTop": -0.232
+ },
+ "C1036": {
+  "brightness": 119.9,
+  "contrast": 66.6,
+  "colourful": 35.2,
+  "saturation": 0.23,
+  "busy": 0.116,
+  "warm": 0.068,
+  "skyTop": -0.067
+ },
+ "C1037": {
+  "brightness": 102.4,
+  "contrast": 54.9,
+  "colourful": 43.7,
+  "saturation": 0.257,
+  "busy": 0.092,
+  "warm": 0.089,
+  "skyTop": 0.093
+ },
+ "C1038": {
+  "brightness": 79.3,
+  "contrast": 43.8,
+  "colourful": 65.7,
+  "saturation": 0.679,
+  "busy": 0.185,
+  "warm": 0.645,
+  "skyTop": -0.386
+ },
+ "C1039": {
+  "brightness": 162.9,
+  "contrast": 77.6,
+  "colourful": 31.4,
+  "saturation": 0.23,
+  "busy": 0.091,
+  "warm": 0.108,
+  "skyTop": -0.125
+ },
+ "C1040": {
+  "brightness": 109,
+  "contrast": 54.5,
+  "colourful": 52.4,
+  "saturation": 0.294,
+  "busy": 0.124,
+  "warm": 0.01,
+  "skyTop": 0.143
+ },
+ "C1041": {
+  "brightness": 135.3,
+  "contrast": 52.2,
+  "colourful": 79.2,
+  "saturation": 0.447,
+  "busy": 0.067,
+  "warm": 0.195,
+  "skyTop": 0.147
+ },
+ "C1042": {
+  "brightness": 89.9,
+  "contrast": 48.8,
+  "colourful": 62.9,
+  "saturation": 0.685,
+  "busy": 0.105,
+  "warm": 0.694,
+  "skyTop": -0.287
+ },
+ "C1043": {
+  "brightness": 109.2,
+  "contrast": 62.2,
+  "colourful": 51.4,
+  "saturation": 0.302,
+  "busy": 0.093,
+  "warm": 0.212,
+  "skyTop": -0.109
+ },
+ "C1044": {
+  "brightness": 88.6,
+  "contrast": 42.2,
+  "colourful": 58.7,
+  "saturation": 0.309,
+  "busy": 0.13,
+  "warm": 0.031,
+  "skyTop": 0.193
+ },
+ "C1045": {
+  "brightness": 119.4,
+  "contrast": 61.6,
+  "colourful": 83.2,
+  "saturation": 0.438,
+  "busy": 0.288,
+  "warm": 0.121,
+  "skyTop": 0.284
+ },
+ "C1046": {
+  "brightness": 103,
+  "contrast": 69,
+  "colourful": 20.4,
+  "saturation": 0.186,
+  "busy": 0.176,
+  "warm": 0.054,
+  "skyTop": 0.032
+ },
+ "C1047": {
+  "brightness": 124.9,
+  "contrast": 40.5,
+  "colourful": 121.2,
+  "saturation": 0.767,
+  "busy": 0.096,
+  "warm": 0.003,
+  "skyTop": -0.028
+ },
+ "C1048": {
+  "brightness": 135.1,
+  "contrast": 47.1,
+  "colourful": 39,
+  "saturation": 0.241,
+  "busy": 0.047,
+  "warm": 0.012,
+  "skyTop": 0.145
+ },
+ "C1049": {
+  "brightness": 143.2,
+  "contrast": 83.3,
+  "colourful": 46.5,
+  "saturation": 0.228,
+  "busy": 0.22,
+  "warm": 0.089,
+  "skyTop": 0.049
+ },
+ "C1050": {
+  "brightness": 75.7,
+  "contrast": 39.2,
+  "colourful": 65.7,
+  "saturation": 0.746,
+  "busy": 0.07,
+  "warm": 0.676,
+  "skyTop": -0.443
+ },
+ "C1051": {
+  "brightness": 140.8,
+  "contrast": 75.7,
+  "colourful": 82.1,
+  "saturation": 0.529,
+  "busy": 0.107,
+  "warm": 0.203,
+  "skyTop": -0.046
+ },
+ "C1052": {
+  "brightness": 135.5,
+  "contrast": 53.2,
+  "colourful": 59.3,
+  "saturation": 0.324,
+  "busy": 0.236,
+  "warm": 0.109,
+  "skyTop": 0.195
+ },
+ "C1053": {
+  "brightness": 134.6,
+  "contrast": 60.1,
+  "colourful": 47.9,
+  "saturation": 0.241,
+  "busy": 0.042,
+  "warm": 0.014,
+  "skyTop": 0.167
+ },
+ "C1054": {
+  "brightness": 119.5,
+  "contrast": 63.4,
+  "colourful": 20.7,
+  "saturation": 0.209,
+  "busy": 0.125,
+  "warm": 0.003,
+  "skyTop": 0.009
+ },
+ "C1055": {
+  "brightness": 106.5,
+  "contrast": 60.4,
+  "colourful": 52,
+  "saturation": 0.354,
+  "busy": 0.088,
+  "warm": 0.264,
+  "skyTop": -0.122
+ },
+ "C1056": {
+  "brightness": 69.5,
+  "contrast": 50.4,
+  "colourful": 57.6,
+  "saturation": 0.601,
+  "busy": 0.046,
+  "warm": 0.156,
+  "skyTop": 0.171
+ },
+ "C1057": {
+  "brightness": 83.9,
+  "contrast": 43.9,
+  "colourful": 50.9,
+  "saturation": 0.331,
+  "busy": 0.197,
+  "warm": 0.12,
+  "skyTop": 0.096
+ },
+ "C1058": {
+  "brightness": 132.3,
+  "contrast": 57.7,
+  "colourful": 74.9,
+  "saturation": 0.424,
+  "busy": 0.273,
+  "warm": 0.397,
+  "skyTop": -0.147
+ },
+ "C1059": {
+  "brightness": 129.8,
+  "contrast": 45.7,
+  "colourful": 70.9,
+  "saturation": 0.453,
+  "busy": 0.058,
+  "warm": 0.003,
+  "skyTop": 0.201
+ },
+ "C1060": {
+  "brightness": 122.8,
+  "contrast": 54.1,
+  "colourful": 82.8,
+  "saturation": 0.433,
+  "busy": 0.146,
+  "warm": 0.075,
+  "skyTop": 0.177
+ },
+ "C1061": {
+  "brightness": 92.8,
+  "contrast": 75.1,
+  "colourful": 16.7,
+  "saturation": 0.213,
+  "busy": 0.175,
+  "warm": 0.005,
+  "skyTop": 0
+ },
+ "C1062": {
+  "brightness": 129,
+  "contrast": 47,
+  "colourful": 67.1,
+  "saturation": 0.469,
+  "busy": 0.061,
+  "warm": 0.006,
+  "skyTop": 0.158
+ },
+ "C1063": {
+  "brightness": 139.7,
+  "contrast": 42,
+  "colourful": 70.3,
+  "saturation": 0.311,
+  "busy": 0.042,
+  "warm": 0.279,
+  "skyTop": 0.12
+ },
+ "C1064": {
+  "brightness": 95.5,
+  "contrast": 56,
+  "colourful": 59.9,
+  "saturation": 0.315,
+  "busy": 0.089,
+  "warm": 0.197,
+  "skyTop": -0.024
+ },
+ "C1065": {
+  "brightness": 190.5,
+  "contrast": 60.4,
+  "colourful": 32,
+  "saturation": 0.244,
+  "busy": 0.095,
+  "warm": 0.234,
+  "skyTop": -0.115
+ },
+ "C1066": {
+  "brightness": 152.7,
+  "contrast": 62.9,
+  "colourful": 24.8,
+  "saturation": 0.162,
+  "busy": 0.123,
+  "warm": 0.005,
+  "skyTop": 0.061
+ },
+ "C1067": {
+  "brightness": 155,
+  "contrast": 56.5,
+  "colourful": 43.1,
+  "saturation": 0.247,
+  "busy": 0.084,
+  "warm": 0.052,
+  "skyTop": 0.057
+ },
+ "C1068": {
+  "brightness": 146.7,
+  "contrast": 72.2,
+  "colourful": 22.9,
+  "saturation": 0.183,
+  "busy": 0.058,
+  "warm": 0,
+  "skyTop": 0.075
+ },
+ "C1069": {
+  "brightness": 58,
+  "contrast": 53.9,
+  "colourful": 79.9,
+  "saturation": 0.701,
+  "busy": 0.204,
+  "warm": 0.035,
+  "skyTop": 0.274
+ },
+ "C1070": {
+  "brightness": 157.1,
+  "contrast": 46.5,
+  "colourful": 23.4,
+  "saturation": 0.158,
+  "busy": 0.035,
+  "warm": 0.014,
+  "skyTop": -0.118
+ },
+ "C1071": {
+  "brightness": 131.3,
+  "contrast": 57.8,
+  "colourful": 38.6,
+  "saturation": 0.214,
+  "busy": 0.123,
+  "warm": 0.117,
+  "skyTop": -0.06
+ },
+ "C1072": {
+  "brightness": 96.2,
+  "contrast": 55.2,
+  "colourful": 58.8,
+  "saturation": 0.311,
+  "busy": 0.084,
+  "warm": 0.19,
+  "skyTop": -0.024
+ },
+ "C1073": {
+  "brightness": 178.1,
+  "contrast": 59,
+  "colourful": 33.5,
+  "saturation": 0.277,
+  "busy": 0.093,
+  "warm": 0.346,
+  "skyTop": -0.111
+ },
+ "C1074": {
+  "brightness": 133.7,
+  "contrast": 61.1,
+  "colourful": 49.8,
+  "saturation": 0.319,
+  "busy": 0.109,
+  "warm": 0.366,
+  "skyTop": -0.173
+ },
+ "C1075": {
+  "brightness": 96.3,
+  "contrast": 38.1,
+  "colourful": 44.5,
+  "saturation": 0.505,
+  "busy": 0.064,
+  "warm": 0.774,
+  "skyTop": -0.209
+ },
+ "C1076": {
+  "brightness": 140.2,
+  "contrast": 53.6,
+  "colourful": 79.1,
+  "saturation": 0.432,
+  "busy": 0.067,
+  "warm": 0.008,
+  "skyTop": 0.148
+ },
+ "C1077": {
+  "brightness": 78.8,
+  "contrast": 48.8,
+  "colourful": 123,
+  "saturation": 0.603,
+  "busy": 0.235,
+  "warm": 0.079,
+  "skyTop": 0.349
+ },
+ "C1078": {
+  "brightness": 117.2,
+  "contrast": 73.9,
+  "colourful": 27,
+  "saturation": 0.193,
+  "busy": 0.161,
+  "warm": 0.137,
+  "skyTop": -0.07
+ },
+ "C1079": {
+  "brightness": 126,
+  "contrast": 43.4,
+  "colourful": 70.3,
+  "saturation": 0.402,
+  "busy": 0.064,
+  "warm": 0.261,
+  "skyTop": -0.125
+ },
+ "C1080": {
+  "brightness": 124.7,
+  "contrast": 56.6,
+  "colourful": 50.7,
+  "saturation": 0.427,
+  "busy": 0.164,
+  "warm": 0.413,
+  "skyTop": -0.131
+ },
+ "C1081": {
+  "brightness": 133,
+  "contrast": 70.8,
+  "colourful": 29.5,
+  "saturation": 0.179,
+  "busy": 0.193,
+  "warm": 0.066,
+  "skyTop": 0.037
+ },
+ "C1082": {
+  "brightness": 93.2,
+  "contrast": 42.5,
+  "colourful": 37.6,
+  "saturation": 0.251,
+  "busy": 0.193,
+  "warm": 0.068,
+  "skyTop": 0.012
+ },
+ "C1083": {
+  "brightness": 97,
+  "contrast": 47.8,
+  "colourful": 31.1,
+  "saturation": 0.348,
+  "busy": 0.047,
+  "warm": 0.048,
+  "skyTop": 0.045
+ },
+ "C1084": {
+  "brightness": 66,
+  "contrast": 65.8,
+  "colourful": 102.3,
+  "saturation": 0.735,
+  "busy": 0.188,
+  "warm": 0.508,
+  "skyTop": -0.463
+ },
+ "C1085": {
+  "brightness": 93.9,
+  "contrast": 56.8,
+  "colourful": 16.8,
+  "saturation": 0.245,
+  "busy": 0.066,
+  "warm": 0.105,
+  "skyTop": -0.028
+ },
+ "C1086": {
+  "brightness": 140.1,
+  "contrast": 61.9,
+  "colourful": 19.7,
+  "saturation": 0.126,
+  "busy": 0.029,
+  "warm": 0.017,
+  "skyTop": -0.017
+ },
+ "C1087": {
+  "brightness": 114.5,
+  "contrast": 48.1,
+  "colourful": 39.9,
+  "saturation": 0.306,
+  "busy": 0.051,
+  "warm": 0.157,
+  "skyTop": 0.058
+ },
+ "C1088": {
+  "brightness": 102.5,
+  "contrast": 40.2,
+  "colourful": 32.8,
+  "saturation": 0.52,
+  "busy": 0.031,
+  "warm": 0.799,
+  "skyTop": -0.211
+ },
+ "C1089": {
+  "brightness": 141.1,
+  "contrast": 61.7,
+  "colourful": 38.5,
+  "saturation": 0.297,
+  "busy": 0.159,
+  "warm": 0.01,
+  "skyTop": 0.045
+ },
+ "C1090": {
+  "brightness": 62.4,
+  "contrast": 43.5,
+  "colourful": 38,
+  "saturation": 0.467,
+  "busy": 0.154,
+  "warm": 0.067,
+  "skyTop": -0.074
+ },
+ "C1091": {
+  "brightness": 146.6,
+  "contrast": 60.8,
+  "colourful": 27.7,
+  "saturation": 0.243,
+  "busy": 0.102,
+  "warm": 0.162,
+  "skyTop": -0.099
+ },
+ "C1092": {
+  "brightness": 106.8,
+  "contrast": 55.4,
+  "colourful": 45.6,
+  "saturation": 0.342,
+  "busy": 0.134,
+  "warm": 0.234,
+  "skyTop": -0.015
+ },
+ "C1093": {
+  "brightness": 111.2,
+  "contrast": 35.6,
+  "colourful": 35.9,
+  "saturation": 0.305,
+  "busy": 0.036,
+  "warm": 0.073,
+  "skyTop": 0.057
+ },
+ "C1094": {
+  "brightness": 119,
+  "contrast": 39.7,
+  "colourful": 98.5,
+  "saturation": 0.588,
+  "busy": 0.043,
+  "warm": 0.113,
+  "skyTop": 0.264
+ },
+ "C1095": {
+  "brightness": 101.3,
+  "contrast": 89.2,
+  "colourful": 72,
+  "saturation": 0.452,
+  "busy": 0.192,
+  "warm": 0.094,
+  "skyTop": 0.038
+ },
+ "C1096": {
+  "brightness": 130.8,
+  "contrast": 56.4,
+  "colourful": 23.2,
+  "saturation": 0.206,
+  "busy": 0.06,
+  "warm": 0.079,
+  "skyTop": -0.142
+ },
+ "C1097": {
+  "brightness": 91.5,
+  "contrast": 62.6,
+  "colourful": 75.4,
+  "saturation": 0.554,
+  "busy": 0.109,
+  "warm": 0.134,
+  "skyTop": -0.046
+ },
+ "C1098": {
+  "brightness": 81.2,
+  "contrast": 48,
+  "colourful": 38.6,
+  "saturation": 0.447,
+  "busy": 0.094,
+  "warm": 0.181,
+  "skyTop": -0.092
+ },
+ "C1099": {
+  "brightness": 106.8,
+  "contrast": 63.2,
+  "colourful": 49,
+  "saturation": 0.368,
+  "busy": 0.148,
+  "warm": 0.004,
+  "skyTop": 0.151
+ },
+ "C1100": {
+  "brightness": 115.4,
+  "contrast": 50.1,
+  "colourful": 83.5,
+  "saturation": 0.463,
+  "busy": 0.125,
+  "warm": 0.093,
+  "skyTop": 0.272
+ },
+ "C1101": {
+  "brightness": 54.4,
+  "contrast": 69,
+  "colourful": 15.1,
+  "saturation": 0.238,
+  "busy": 0.049,
+  "warm": 0,
+  "skyTop": 0.023
+ },
+ "C1102": {
+  "brightness": 31.2,
+  "contrast": 48,
+  "colourful": 31.1,
+  "saturation": 0.403,
+  "busy": 0.047,
+  "warm": 0.092,
+  "skyTop": -0.017
+ },
+ "C1103": {
+  "brightness": 72.7,
+  "contrast": 44,
+  "colourful": 55.6,
+  "saturation": 0.417,
+  "busy": 0.049,
+  "warm": 0.215,
+  "skyTop": -0.052
+ },
+ "C1104": {
+  "brightness": 95.7,
+  "contrast": 60,
+  "colourful": 64,
+  "saturation": 0.478,
+  "busy": 0.08,
+  "warm": 0.08,
+  "skyTop": 0.039
+ },
+ "C1105": {
+  "brightness": 146.7,
+  "contrast": 59.6,
+  "colourful": 50.4,
+  "saturation": 0.334,
+  "busy": 0.31,
+  "warm": 0.269,
+  "skyTop": -0.292
+ },
+ "C1106": {
+  "brightness": 169.4,
+  "contrast": 76.7,
+  "colourful": 38.4,
+  "saturation": 0.193,
+  "busy": 0.082,
+  "warm": 0.161,
+  "skyTop": 0.032
+ },
+ "C1107": {
+  "brightness": 129.5,
+  "contrast": 62,
+  "colourful": 38.4,
+  "saturation": 0.209,
+  "busy": 0.158,
+  "warm": 0.078,
+  "skyTop": -0.049
+ },
+ "C1108": {
+  "brightness": 109,
+  "contrast": 83.4,
+  "colourful": 43.7,
+  "saturation": 0.251,
+  "busy": 0.087,
+  "warm": 0.087,
+  "skyTop": -0.015
+ },
+ "C1109": {
+  "brightness": 98.3,
+  "contrast": 38.6,
+  "colourful": 29.8,
+  "saturation": 0.38,
+  "busy": 0.088,
+  "warm": 0.401,
+  "skyTop": -0.205
+ },
+ "C1110": {
+  "brightness": 165.5,
+  "contrast": 64,
+  "colourful": 44.5,
+  "saturation": 0.221,
+  "busy": 0.108,
+  "warm": 0.169,
+  "skyTop": 0.015
+ },
+ "C1111": {
+  "brightness": 136.6,
+  "contrast": 43.8,
+  "colourful": 40.9,
+  "saturation": 0.276,
+  "busy": 0.059,
+  "warm": 0.078,
+  "skyTop": 0.056
+ },
+ "C1112": {
+  "brightness": 96.7,
+  "contrast": 55.5,
+  "colourful": 36.8,
+  "saturation": 0.329,
+  "busy": 0.102,
+  "warm": 0.027,
+  "skyTop": 0.106
+ },
+ "C1113": {
+  "brightness": 131.4,
+  "contrast": 77.6,
+  "colourful": 45.6,
+  "saturation": 0.332,
+  "busy": 0.034,
+  "warm": 0.178,
+  "skyTop": -0.017
+ },
+ "C1114": {
+  "brightness": 91.7,
+  "contrast": 60.7,
+  "colourful": 57.6,
+  "saturation": 0.411,
+  "busy": 0.057,
+  "warm": 0.054,
+  "skyTop": 0.163
+ },
+ "C1115": {
+  "brightness": 33.1,
+  "contrast": 37.8,
+  "colourful": 33.6,
+  "saturation": 0.805,
+  "busy": 0.05,
+  "warm": 0.133,
+  "skyTop": -0.105
+ },
+ "C1116": {
+  "brightness": 113.3,
+  "contrast": 44.1,
+  "colourful": 53,
+  "saturation": 0.404,
+  "busy": 0.045,
+  "warm": 0.095,
+  "skyTop": -0.079
+ },
+ "C1117": {
+  "brightness": 107.5,
+  "contrast": 73,
+  "colourful": 29.2,
+  "saturation": 0.286,
+  "busy": 0.206,
+  "warm": 0.063,
+  "skyTop": -0.085
+ },
+ "C1118": {
+  "brightness": 91.5,
+  "contrast": 52.3,
+  "colourful": 21.3,
+  "saturation": 0.242,
+  "busy": 0.062,
+  "warm": 0.007,
+  "skyTop": -0.126
+ },
+ "C1119": {
+  "brightness": 118.5,
+  "contrast": 47.3,
+  "colourful": 108.8,
+  "saturation": 0.637,
+  "busy": 0.234,
+  "warm": 0.011,
+  "skyTop": 0.305
+ },
+ "C1120": {
+  "brightness": 121.5,
+  "contrast": 59.8,
+  "colourful": 32.4,
+  "saturation": 0.158,
+  "busy": 0.064,
+  "warm": 0.13,
+  "skyTop": -0.046
+ },
+ "C1121": {
+  "brightness": 105,
+  "contrast": 54.7,
+  "colourful": 63.5,
+  "saturation": 0.433,
+  "busy": 0.185,
+  "warm": 0.176,
+  "skyTop": 0.127
+ },
+ "C1122": {
+  "brightness": 109.3,
+  "contrast": 64.3,
+  "colourful": 50.5,
+  "saturation": 0.484,
+  "busy": 0.063,
+  "warm": 0.01,
+  "skyTop": 0.092
+ },
+ "C1123": {
+  "brightness": 130.8,
+  "contrast": 58.9,
+  "colourful": 16.4,
+  "saturation": 0.208,
+  "busy": 0.106,
+  "warm": 0.027,
+  "skyTop": -0.092
+ },
+ "C1124": {
+  "brightness": 139.2,
+  "contrast": 43.6,
+  "colourful": 44.1,
+  "saturation": 0.209,
+  "busy": 0.122,
+  "warm": 0.185,
+  "skyTop": -0.061
+ },
+ "C1125": {
+  "brightness": 45.8,
+  "contrast": 46.7,
+  "colourful": 55.5,
+  "saturation": 0.823,
+  "busy": 0.08,
+  "warm": 0.3,
+  "skyTop": -0.141
+ },
+ "C1126": {
+  "brightness": 124.4,
+  "contrast": 61.3,
+  "colourful": 21.1,
+  "saturation": 0.282,
+  "busy": 0.052,
+  "warm": 0.094,
+  "skyTop": -0.069
+ },
+ "C1127": {
+  "brightness": 100.5,
+  "contrast": 34.7,
+  "colourful": 94.4,
+  "saturation": 0.555,
+  "busy": 0.094,
+  "warm": 0.004,
+  "skyTop": 0.315
+ },
+ "C1128": {
+  "brightness": 63.6,
+  "contrast": 42,
+  "colourful": 34.7,
+  "saturation": 0.225,
+  "busy": 0.132,
+  "warm": 0.07,
+  "skyTop": 0.006
+ },
+ "C1129": {
+  "brightness": 138.6,
+  "contrast": 72.5,
+  "colourful": 41.5,
+  "saturation": 0.237,
+  "busy": 0.148,
+  "warm": 0.069,
+  "skyTop": 0.086
+ },
+ "C1130": {
+  "brightness": 85.9,
+  "contrast": 56.4,
+  "colourful": 40.2,
+  "saturation": 0.299,
+  "busy": 0.125,
+  "warm": 0.134,
+  "skyTop": 0.039
+ },
+ "C1131": {
+  "brightness": 131.8,
+  "contrast": 53.2,
+  "colourful": 29.2,
+  "saturation": 0.211,
+  "busy": 0.192,
+  "warm": 0.062,
+  "skyTop": 0.079
+ },
+ "C1132": {
+  "brightness": 104,
+  "contrast": 71.6,
+  "colourful": 47,
+  "saturation": 0.442,
+  "busy": 0.116,
+  "warm": 0.158,
+  "skyTop": -0.083
+ },
+ "C1133": {
+  "brightness": 123.6,
+  "contrast": 58.9,
+  "colourful": 57.4,
+  "saturation": 0.394,
+  "busy": 0.073,
+  "warm": 0.156,
+  "skyTop": 0.142
+ },
+ "C1134": {
+  "brightness": 144.8,
+  "contrast": 73.4,
+  "colourful": 50.5,
+  "saturation": 0.239,
+  "busy": 0.073,
+  "warm": 0.124,
+  "skyTop": -0.118
+ },
+ "C1135": {
+  "brightness": 153,
+  "contrast": 72,
+  "colourful": 58.3,
+  "saturation": 0.263,
+  "busy": 0.138,
+  "warm": 0.024,
+  "skyTop": 0.102
+ },
+ "C1136": {
+  "brightness": 156.8,
+  "contrast": 76.7,
+  "colourful": 44.8,
+  "saturation": 0.288,
+  "busy": 0.254,
+  "warm": 0.036,
+  "skyTop": 0.008
+ },
+ "C1137": {
+  "brightness": 88.6,
+  "contrast": 66.2,
+  "colourful": 66.6,
+  "saturation": 0.513,
+  "busy": 0.12,
+  "warm": 0.014,
+  "skyTop": 0.286
+ },
+ "C1138": {
+  "brightness": 93.4,
+  "contrast": 53.8,
+  "colourful": 29.4,
+  "saturation": 0.475,
+  "busy": 0.102,
+  "warm": 0.407,
+  "skyTop": -0.157
+ },
+ "C1139": {
+  "brightness": 125.2,
+  "contrast": 70.5,
+  "colourful": 50.2,
+  "saturation": 0.38,
+  "busy": 0.159,
+  "warm": 0.185,
+  "skyTop": 0.007
+ },
+ "C1140": {
+  "brightness": 119.6,
+  "contrast": 78.8,
+  "colourful": 38.5,
+  "saturation": 0.213,
+  "busy": 0.097,
+  "warm": 0.119,
+  "skyTop": -0.072
+ },
+ "C1141": {
+  "brightness": 126.6,
+  "contrast": 64.4,
+  "colourful": 80.7,
+  "saturation": 0.402,
+  "busy": 0.32,
+  "warm": 0.395,
+  "skyTop": -0.306
+ },
+ "C1142": {
+  "brightness": 104,
+  "contrast": 67.2,
+  "colourful": 34.2,
+  "saturation": 0.269,
+  "busy": 0.164,
+  "warm": 0.198,
+  "skyTop": -0.123
+ },
+ "C1143": {
+  "brightness": 106.4,
+  "contrast": 70,
+  "colourful": 33.9,
+  "saturation": 0.431,
+  "busy": 0.126,
+  "warm": 0.119,
+  "skyTop": -0.103
+ },
+ "C1144": {
+  "brightness": 18.5,
+  "contrast": 29.9,
+  "colourful": 22.3,
+  "saturation": 0.625,
+  "busy": 0.08,
+  "warm": 0.037,
+  "skyTop": 0.014
+ },
+ "C1145": {
+  "brightness": 118.2,
+  "contrast": 46.3,
+  "colourful": 15.1,
+  "saturation": 0.116,
+  "busy": 0.29,
+  "warm": 0.004,
+  "skyTop": -0.005
+ },
+ "C1146": {
+  "brightness": 66.7,
+  "contrast": 50.9,
+  "colourful": 35.4,
+  "saturation": 0.372,
+  "busy": 0.064,
+  "warm": 0.174,
+  "skyTop": -0.072
+ },
+ "C1147": {
+  "brightness": 131.8,
+  "contrast": 78.3,
+  "colourful": 50.9,
+  "saturation": 0.393,
+  "busy": 0.046,
+  "warm": 0.24,
+  "skyTop": 0.038
+ },
+ "C1148": {
+  "brightness": 145.7,
+  "contrast": 66.4,
+  "colourful": 48.8,
+  "saturation": 0.264,
+  "busy": 0.189,
+  "warm": 0.067,
+  "skyTop": 0.06
+ },
+ "C1149": {
+  "brightness": 112.4,
+  "contrast": 40.4,
+  "colourful": 77.7,
+  "saturation": 0.639,
+  "busy": 0.076,
+  "warm": 0.006,
+  "skyTop": 0.137
+ },
+ "C1150": {
+  "brightness": 147.1,
+  "contrast": 57.2,
+  "colourful": 62.5,
+  "saturation": 0.473,
+  "busy": 0.085,
+  "warm": 0.642,
+  "skyTop": -0.447
+ },
+ "C1151": {
+  "brightness": 132.1,
+  "contrast": 71.4,
+  "colourful": 30.1,
+  "saturation": 0.204,
+  "busy": 0.124,
+  "warm": 0.111,
+  "skyTop": -0.123
+ },
+ "C1152": {
+  "brightness": 46.1,
+  "contrast": 30.2,
+  "colourful": 35,
+  "saturation": 0.489,
+  "busy": 0.1,
+  "warm": 0.088,
+  "skyTop": -0.048
+ },
+ "C1153": {
+  "brightness": 130.7,
+  "contrast": 43.8,
+  "colourful": 59.6,
+  "saturation": 0.376,
+  "busy": 0.114,
+  "warm": 0.326,
+  "skyTop": -0.133
+ },
+ "C1154": {
+  "brightness": 134.3,
+  "contrast": 50.4,
+  "colourful": 75,
+  "saturation": 0.424,
+  "busy": 0.172,
+  "warm": 0.004,
+  "skyTop": 0.204
+ },
+ "C1155": {
+  "brightness": 112.9,
+  "contrast": 83.3,
+  "colourful": 40,
+  "saturation": 0.224,
+  "busy": 0.175,
+  "warm": 0.07,
+  "skyTop": -0.006
+ },
+ "C1156": {
+  "brightness": 91.5,
+  "contrast": 43.4,
+  "colourful": 66.9,
+  "saturation": 0.638,
+  "busy": 0.147,
+  "warm": 0.046,
+  "skyTop": -0.158
+ },
+ "C1157": {
+  "brightness": 75.5,
+  "contrast": 56,
+  "colourful": 41.8,
+  "saturation": 0.499,
+  "busy": 0.196,
+  "warm": 0.108,
+  "skyTop": -0.004
+ },
+ "C1158": {
+  "brightness": 92.6,
+  "contrast": 54.8,
+  "colourful": 18.6,
+  "saturation": 0.167,
+  "busy": 0.085,
+  "warm": 0.014,
+  "skyTop": -0.012
+ },
+ "C1159": {
+  "brightness": 147,
+  "contrast": 76.9,
+  "colourful": 24,
+  "saturation": 0.119,
+  "busy": 0.126,
+  "warm": 0.041,
+  "skyTop": -0.001
+ },
+ "C1160": {
+  "brightness": 103.1,
+  "contrast": 50.7,
+  "colourful": 17.3,
+  "saturation": 0.221,
+  "busy": 0.112,
+  "warm": 0.025,
+  "skyTop": -0.079
+ },
+ "C1161": {
+  "brightness": 116.9,
+  "contrast": 55.8,
+  "colourful": 48.5,
+  "saturation": 0.313,
+  "busy": 0.164,
+  "warm": 0.126,
+  "skyTop": 0.113
+ },
+ "C1162": {
+  "brightness": 120.2,
+  "contrast": 54.1,
+  "colourful": 69,
+  "saturation": 0.474,
+  "busy": 0.066,
+  "warm": 0.194,
+  "skyTop": 0.192
+ },
+ "C1163": {
+  "brightness": 123.5,
+  "contrast": 80.7,
+  "colourful": 54.7,
+  "saturation": 0.318,
+  "busy": 0.163,
+  "warm": 0.259,
+  "skyTop": 0.005
+ },
+ "C1164": {
+  "brightness": 90.7,
+  "contrast": 45.8,
+  "colourful": 41.9,
+  "saturation": 0.204,
+  "busy": 0.018,
+  "warm": 0.151,
+  "skyTop": -0.098
+ },
+ "C1165": {
+  "brightness": 104,
+  "contrast": 51.9,
+  "colourful": 71.2,
+  "saturation": 0.379,
+  "busy": 0.11,
+  "warm": 0.154,
+  "skyTop": 0.243
+ },
+ "C1166": {
+  "brightness": 76.3,
+  "contrast": 49.7,
+  "colourful": 23,
+  "saturation": 0.225,
+  "busy": 0.106,
+  "warm": 0.035,
+  "skyTop": -0.005
+ },
+ "C1167": {
+  "brightness": 81.1,
+  "contrast": 53.9,
+  "colourful": 17.7,
+  "saturation": 0.294,
+  "busy": 0.019,
+  "warm": 0,
+  "skyTop": 0.059
+ },
+ "C1168": {
+  "brightness": 68.3,
+  "contrast": 54.8,
+  "colourful": 32.5,
+  "saturation": 0.337,
+  "busy": 0.072,
+  "warm": 0.046,
+  "skyTop": -0.038
+ },
+ "C1169": {
+  "brightness": 123.9,
+  "contrast": 69.6,
+  "colourful": 27,
+  "saturation": 0.21,
+  "busy": 0.155,
+  "warm": 0.065,
+  "skyTop": 0.026
+ },
+ "C1170": {
+  "brightness": 112.9,
+  "contrast": 58.9,
+  "colourful": 46.5,
+  "saturation": 0.395,
+  "busy": 0.069,
+  "warm": 0.614,
+  "skyTop": -0.254
+ },
+ "C1171": {
+  "brightness": 136,
+  "contrast": 67,
+  "colourful": 37.1,
+  "saturation": 0.207,
+  "busy": 0.181,
+  "warm": 0.077,
+  "skyTop": 0.006
+ },
+ "C1172": {
+  "brightness": 89.4,
+  "contrast": 56.8,
+  "colourful": 66.6,
+  "saturation": 0.48,
+  "busy": 0.155,
+  "warm": 0.234,
+  "skyTop": 0.136
+ },
+ "C1173": {
+  "brightness": 111.4,
+  "contrast": 57.3,
+  "colourful": 62.3,
+  "saturation": 0.458,
+  "busy": 0.124,
+  "warm": 0.441,
+  "skyTop": -0.225
+ },
+ "C1174": {
+  "brightness": 54.7,
+  "contrast": 50.5,
+  "colourful": 30,
+  "saturation": 0.619,
+  "busy": 0.066,
+  "warm": 0.092,
+  "skyTop": -0.175
+ },
+ "C1175": {
+  "brightness": 140.1,
+  "contrast": 63.7,
+  "colourful": 52.7,
+  "saturation": 0.322,
+  "busy": 0.24,
+  "warm": 0.201,
+  "skyTop": 0.092
+ },
+ "C1176": {
+  "brightness": 88.8,
+  "contrast": 65.8,
+  "colourful": 45.4,
+  "saturation": 0.297,
+  "busy": 0.043,
+  "warm": 0.041,
+  "skyTop": -0.052
+ },
+ "C1177": {
+  "brightness": 85.6,
+  "contrast": 53.9,
+  "colourful": 36.3,
+  "saturation": 0.384,
+  "busy": 0.146,
+  "warm": 0.284,
+  "skyTop": -0.152
+ },
+ "C1178": {
+  "brightness": 112.3,
+  "contrast": 40,
+  "colourful": 66.1,
+  "saturation": 0.432,
+  "busy": 0.193,
+  "warm": 0.204,
+  "skyTop": 0.141
+ },
+ "C1179": {
+  "brightness": 149.3,
+  "contrast": 50.3,
+  "colourful": 50.1,
+  "saturation": 0.264,
+  "busy": 0.095,
+  "warm": 0.031,
+  "skyTop": 0.187
+ },
+ "C1180": {
+  "brightness": 106.5,
+  "contrast": 67.7,
+  "colourful": 30.2,
+  "saturation": 0.262,
+  "busy": 0.125,
+  "warm": 0.081,
+  "skyTop": -0.082
+ },
+ "C1181": {
+  "brightness": 127.2,
+  "contrast": 49.3,
+  "colourful": 81.4,
+  "saturation": 0.484,
+  "busy": 0.055,
+  "warm": 0.212,
+  "skyTop": 0.128
+ },
+ "C1182": {
+  "brightness": 118.3,
+  "contrast": 36.5,
+  "colourful": 29.5,
+  "saturation": 0.459,
+  "busy": 0.04,
+  "warm": 0.749,
+  "skyTop": -0.239
+ },
+ "C1183": {
+  "brightness": 97.4,
+  "contrast": 46,
+  "colourful": 67.5,
+  "saturation": 0.527,
+  "busy": 0.128,
+  "warm": 0.125,
+  "skyTop": 0.018
+ },
+ "C1184": {
+  "brightness": 143.7,
+  "contrast": 60.8,
+  "colourful": 77.3,
+  "saturation": 0.602,
+  "busy": 0.214,
+  "warm": 0.82,
+  "skyTop": -0.422
+ },
+ "C1185": {
+  "brightness": 102.3,
+  "contrast": 53.1,
+  "colourful": 25.3,
+  "saturation": 0.271,
+  "busy": 0.122,
+  "warm": 0.127,
+  "skyTop": -0.064
+ },
+ "C1186": {
+  "brightness": 123.4,
+  "contrast": 58.8,
+  "colourful": 25.1,
+  "saturation": 0.239,
+  "busy": 0.034,
+  "warm": 0.06,
+  "skyTop": -0.025
+ },
+ "C1187": {
+  "brightness": 109.6,
+  "contrast": 70.1,
+  "colourful": 32.7,
+  "saturation": 0.334,
+  "busy": 0.048,
+  "warm": 0.005,
+  "skyTop": -0.072
+ },
+ "C1188": {
+  "brightness": 164.2,
+  "contrast": 49.6,
+  "colourful": 37.3,
+  "saturation": 0.201,
+  "busy": 0.108,
+  "warm": 0.116,
+  "skyTop": -0.126
+ },
+ "C1189": {
+  "brightness": 133.9,
+  "contrast": 52.2,
+  "colourful": 58,
+  "saturation": 0.322,
+  "busy": 0.206,
+  "warm": 0.105,
+  "skyTop": 0.192
+ },
+ "C1190": {
+  "brightness": 115.7,
+  "contrast": 81.6,
+  "colourful": 33.9,
+  "saturation": 0.287,
+  "busy": 0.223,
+  "warm": 0.142,
+  "skyTop": -0.01
+ },
+ "C1191": {
+  "brightness": 102.6,
+  "contrast": 65.5,
+  "colourful": 50.4,
+  "saturation": 0.554,
+  "busy": 0.163,
+  "warm": 0.007,
+  "skyTop": 0.124
+ },
+ "C1192": {
+  "brightness": 117,
+  "contrast": 78.2,
+  "colourful": 50.7,
+  "saturation": 0.344,
+  "busy": 0.139,
+  "warm": 0.37,
+  "skyTop": -0.173
+ },
+ "C1193": {
+  "brightness": 92.4,
+  "contrast": 52.9,
+  "colourful": 23.3,
+  "saturation": 0.213,
+  "busy": 0.174,
+  "warm": 0.041,
+  "skyTop": -0.039
+ },
+ "C1194": {
+  "brightness": 36.6,
+  "contrast": 46.1,
+  "colourful": 37.9,
+  "saturation": 0.41,
+  "busy": 0.06,
+  "warm": 0.101,
+  "skyTop": -0.001
+ },
+ "C1195": {
+  "brightness": 102.2,
+  "contrast": 66.2,
+  "colourful": 64.1,
+  "saturation": 0.493,
+  "busy": 0.074,
+  "warm": 0.338,
+  "skyTop": 0.056
+ },
+ "C1196": {
+  "brightness": 152.3,
+  "contrast": 71.5,
+  "colourful": 57.6,
+  "saturation": 0.356,
+  "busy": 0.292,
+  "warm": 0.024,
+  "skyTop": 0.061
+ },
+ "C1197": {
+  "brightness": 104.8,
+  "contrast": 55.2,
+  "colourful": 48.7,
+  "saturation": 0.358,
+  "busy": 0.15,
+  "warm": 0.078,
+  "skyTop": 0.188
+ },
+ "C1198": {
+  "brightness": 118.1,
+  "contrast": 76.6,
+  "colourful": 99.3,
+  "saturation": 0.514,
+  "busy": 0.222,
+  "warm": 0.339,
+  "skyTop": 0.032
+ },
+ "C1199": {
+  "brightness": 70.4,
+  "contrast": 53,
+  "colourful": 41.1,
+  "saturation": 0.285,
+  "busy": 0.228,
+  "warm": 0.156,
+  "skyTop": -0.004
+ },
+ "C1200": {
+  "brightness": 92.4,
+  "contrast": 42.5,
+  "colourful": 75.2,
+  "saturation": 0.379,
+  "busy": 0.147,
+  "warm": 0.131,
+  "skyTop": 0.242
+ },
+ "C1201": {
+  "brightness": 140.5,
+  "contrast": 38.7,
+  "colourful": 78.6,
+  "saturation": 0.4,
+  "busy": 0.032,
+  "warm": 0.003,
+  "skyTop": 0.191
+ },
+ "C1202": {
+  "brightness": 115.8,
+  "contrast": 58.7,
+  "colourful": 41.7,
+  "saturation": 0.381,
+  "busy": 0.061,
+  "warm": 0.358,
+  "skyTop": -0.105
+ },
+ "C1203": {
+  "brightness": 104.7,
+  "contrast": 53.7,
+  "colourful": 63.9,
+  "saturation": 0.508,
+  "busy": 0.137,
+  "warm": 0.019,
+  "skyTop": 0.001
+ },
+ "C1204": {
+  "brightness": 76.7,
+  "contrast": 56.9,
+  "colourful": 43.6,
+  "saturation": 0.304,
+  "busy": 0.184,
+  "warm": 0.209,
+  "skyTop": 0.018
+ },
+ "C1205": {
+  "brightness": 130.5,
+  "contrast": 77.1,
+  "colourful": 42.7,
+  "saturation": 0.297,
+  "busy": 0.132,
+  "warm": 0.079,
+  "skyTop": 0.164
+ },
+ "C1206": {
+  "brightness": 128.2,
+  "contrast": 57.1,
+  "colourful": 48.2,
+  "saturation": 0.325,
+  "busy": 0.165,
+  "warm": 0.034,
+  "skyTop": 0.03
+ },
+ "C1207": {
+  "brightness": 96.1,
+  "contrast": 39.4,
+  "colourful": 95,
+  "saturation": 0.619,
+  "busy": 0.121,
+  "warm": 0.008,
+  "skyTop": 0.283
+ },
+ "C1208": {
+  "brightness": 121.9,
+  "contrast": 49.1,
+  "colourful": 24.6,
+  "saturation": 0.173,
+  "busy": 0.109,
+  "warm": 0.01,
+  "skyTop": -0.01
+ },
+ "C1209": {
+  "brightness": 52.3,
+  "contrast": 57.7,
+  "colourful": 19.8,
+  "saturation": 0.267,
+  "busy": 0.15,
+  "warm": 0.048,
+  "skyTop": 0.011
+ },
+ "C1210": {
+  "brightness": 117,
+  "contrast": 71.2,
+  "colourful": 39.9,
+  "saturation": 0.245,
+  "busy": 0.122,
+  "warm": 0.033,
+  "skyTop": 0.063
+ },
+ "C1211": {
+  "brightness": 204.8,
+  "contrast": 49.9,
+  "colourful": 25.8,
+  "saturation": 0.068,
+  "busy": 0.35,
+  "warm": 0.046,
+  "skyTop": -0.04
+ },
+ "C1212": {
+  "brightness": 60.8,
+  "contrast": 43.9,
+  "colourful": 32.9,
+  "saturation": 0.455,
+  "busy": 0.075,
+  "warm": 0.044,
+  "skyTop": 0.085
+ },
+ "C1213": {
+  "brightness": 91.8,
+  "contrast": 74.3,
+  "colourful": 40.4,
+  "saturation": 0.388,
+  "busy": 0.075,
+  "warm": 0.148,
+  "skyTop": -0.033
+ },
+ "C1214": {
+  "brightness": 88.4,
+  "contrast": 55.2,
+  "colourful": 63.8,
+  "saturation": 0.514,
+  "busy": 0.13,
+  "warm": 0.211,
+  "skyTop": 0.037
+ },
+ "C1215": {
+  "brightness": 106.1,
+  "contrast": 57.9,
+  "colourful": 64.8,
+  "saturation": 0.429,
+  "busy": 0.342,
+  "warm": 0.323,
+  "skyTop": -0.16
+ },
+ "C1216": {
+  "brightness": 111.6,
+  "contrast": 59,
+  "colourful": 34.6,
+  "saturation": 0.344,
+  "busy": 0.191,
+  "warm": 0,
+  "skyTop": 0.049
+ },
+ "C1217": {
+  "brightness": 74.2,
+  "contrast": 56.5,
+  "colourful": 39,
+  "saturation": 0.348,
+  "busy": 0.112,
+  "warm": 0.019,
+  "skyTop": 0.115
+ },
+ "C1218": {
+  "brightness": 137.5,
+  "contrast": 56.6,
+  "colourful": 52.7,
+  "saturation": 0.287,
+  "busy": 0.093,
+  "warm": 0.204,
+  "skyTop": 0.064
+ },
+ "C1219": {
+  "brightness": 69.8,
+  "contrast": 49.5,
+  "colourful": 69.3,
+  "saturation": 0.514,
+  "busy": 0.275,
+  "warm": 0.087,
+  "skyTop": 0.025
+ },
+ "C1220": {
+  "brightness": 151.2,
+  "contrast": 42.2,
+  "colourful": 32.6,
+  "saturation": 0.213,
+  "busy": 0.077,
+  "warm": 0.046,
+  "skyTop": -0.064
+ },
+ "C1221": {
+  "brightness": 125.3,
+  "contrast": 63.9,
+  "colourful": 37.5,
+  "saturation": 0.296,
+  "busy": 0.248,
+  "warm": 0.002,
+  "skyTop": 0.037
+ },
+ "C1222": {
+  "brightness": 83.7,
+  "contrast": 47.4,
+  "colourful": 55.2,
+  "saturation": 0.542,
+  "busy": 0.149,
+  "warm": 0,
+  "skyTop": 0.075
+ },
+ "C1223": {
+  "brightness": 142.7,
+  "contrast": 68.8,
+  "colourful": 56.2,
+  "saturation": 0.29,
+  "busy": 0.146,
+  "warm": 0.106,
+  "skyTop": 0.092
+ },
+ "C1224": {
+  "brightness": 143,
+  "contrast": 52.8,
+  "colourful": 79.9,
+  "saturation": 0.395,
+  "busy": 0.138,
+  "warm": 0.19,
+  "skyTop": 0.151
+ },
+ "C1225": {
+  "brightness": 104,
+  "contrast": 61,
+  "colourful": 53.6,
+  "saturation": 0.403,
+  "busy": 0.131,
+  "warm": 0.345,
+  "skyTop": -0.077
+ },
+ "C1226": {
+  "brightness": 90.1,
+  "contrast": 43.2,
+  "colourful": 62.3,
+  "saturation": 0.359,
+  "busy": 0.213,
+  "warm": 0.067,
+  "skyTop": 0.166
+ },
+ "C1227": {
+  "brightness": 83.5,
+  "contrast": 47.4,
+  "colourful": 45.2,
+  "saturation": 0.384,
+  "busy": 0.207,
+  "warm": 0.097,
+  "skyTop": 0.006
+ },
+ "C1228": {
+  "brightness": 138.3,
+  "contrast": 66.8,
+  "colourful": 61.3,
+  "saturation": 0.32,
+  "busy": 0.242,
+  "warm": 0.2,
+  "skyTop": 0.046
+ },
+ "C1229": {
+  "brightness": 119.7,
+  "contrast": 52,
+  "colourful": 43.8,
+  "saturation": 0.303,
+  "busy": 0.126,
+  "warm": 0,
+  "skyTop": 0.137
+ },
+ "C1230": {
+  "brightness": 137.3,
+  "contrast": 65.7,
+  "colourful": 59.4,
+  "saturation": 0.319,
+  "busy": 0.15,
+  "warm": 0.057,
+  "skyTop": -0.107
+ },
+ "C1231": {
+  "brightness": 136.2,
+  "contrast": 67.6,
+  "colourful": 26.7,
+  "saturation": 0.25,
+  "busy": 0.129,
+  "warm": 0.005,
+  "skyTop": 0.024
+ },
+ "C1232": {
+  "brightness": 82.9,
+  "contrast": 55.6,
+  "colourful": 47,
+  "saturation": 0.597,
+  "busy": 0.309,
+  "warm": 0.008,
+  "skyTop": -0.072
+ },
+ "C1233": {
+  "brightness": 117.7,
+  "contrast": 76,
+  "colourful": 27.2,
+  "saturation": 0.254,
+  "busy": 0.119,
+  "warm": 0.073,
+  "skyTop": 0.012
+ },
+ "C1234": {
+  "brightness": 90.6,
+  "contrast": 83.3,
+  "colourful": 55.5,
+  "saturation": 0.237,
+  "busy": 0.228,
+  "warm": 0.094,
+  "skyTop": -0.004
+ },
+ "C1235": {
+  "brightness": 64.3,
+  "contrast": 43.2,
+  "colourful": 38.7,
+  "saturation": 0.283,
+  "busy": 0.186,
+  "warm": 0.062,
+  "skyTop": -0.049
+ },
+ "C1236": {
+  "brightness": 144.9,
+  "contrast": 52.3,
+  "colourful": 83.5,
+  "saturation": 0.408,
+  "busy": 0.176,
+  "warm": 0.146,
+  "skyTop": 0.167
+ },
+ "C1237": {
+  "brightness": 105.7,
+  "contrast": 69.3,
+  "colourful": 67.8,
+  "saturation": 0.54,
+  "busy": 0.144,
+  "warm": 0.068,
+  "skyTop": 0.028
+ },
+ "C1238": {
+  "brightness": 143.6,
+  "contrast": 69.3,
+  "colourful": 52.8,
+  "saturation": 0.285,
+  "busy": 0.102,
+  "warm": 0.228,
+  "skyTop": 0.082
+ },
+ "C1239": {
+  "brightness": 98.4,
+  "contrast": 58.4,
+  "colourful": 34.4,
+  "saturation": 0.519,
+  "busy": 0.145,
+  "warm": 0.427,
+  "skyTop": -0.174
+ },
+ "C1240": {
+  "brightness": 58,
+  "contrast": 47.7,
+  "colourful": 53.2,
+  "saturation": 0.712,
+  "busy": 0.072,
+  "warm": 0.461,
+  "skyTop": -0.185
+ },
+ "C1241": {
+  "brightness": 134,
+  "contrast": 53.7,
+  "colourful": 72.3,
+  "saturation": 0.523,
+  "busy": 0.078,
+  "warm": 0.004,
+  "skyTop": 0.159
+ },
+ "C1242": {
+  "brightness": 127.2,
+  "contrast": 52.1,
+  "colourful": 57.2,
+  "saturation": 0.289,
+  "busy": 0.109,
+  "warm": 0.024,
+  "skyTop": 0.241
+ },
+ "C1243": {
+  "brightness": 101.3,
+  "contrast": 36.9,
+  "colourful": 64.1,
+  "saturation": 0.404,
+  "busy": 0.076,
+  "warm": 0.064,
+  "skyTop": 0.225
+ },
+ "C1244": {
+  "brightness": 96.5,
+  "contrast": 46.8,
+  "colourful": 40.8,
+  "saturation": 0.314,
+  "busy": 0.105,
+  "warm": 0.049,
+  "skyTop": 0.095
+ },
+ "C1245": {
+  "brightness": 66,
+  "contrast": 56,
+  "colourful": 38.7,
+  "saturation": 0.445,
+  "busy": 0.04,
+  "warm": 0.14,
+  "skyTop": -0.002
+ },
+ "C1246": {
+  "brightness": 98.5,
+  "contrast": 73,
+  "colourful": 15.7,
+  "saturation": 0.184,
+  "busy": 0.076,
+  "warm": 0.002,
+  "skyTop": 0.033
+ },
+ "C1247": {
+  "brightness": 226.8,
+  "contrast": 58.8,
+  "colourful": 42.3,
+  "saturation": 0.085,
+  "busy": 0.06,
+  "warm": 0.014,
+  "skyTop": -0.009
+ },
+ "C1248": {
+  "brightness": 106.7,
+  "contrast": 53.9,
+  "colourful": 51.1,
+  "saturation": 0.386,
+  "busy": 0.05,
+  "warm": 0.034,
+  "skyTop": 0.063
+ },
+ "C1249": {
+  "brightness": 135,
+  "contrast": 70.8,
+  "colourful": 60.1,
+  "saturation": 0.317,
+  "busy": 0.175,
+  "warm": 0.041,
+  "skyTop": 0.078
+ },
+ "C1250": {
+  "brightness": 166.1,
+  "contrast": 45.6,
+  "colourful": 25.5,
+  "saturation": 0.148,
+  "busy": 0.183,
+  "warm": 0.031,
+  "skyTop": -0.116
+ },
+ "C1251": {
+  "brightness": 122.4,
+  "contrast": 72,
+  "colourful": 47.2,
+  "saturation": 0.259,
+  "busy": 0.151,
+  "warm": 0.081,
+  "skyTop": -0.078
+ },
+ "C1252": {
+  "brightness": 110.3,
+  "contrast": 52.4,
+  "colourful": 32,
+  "saturation": 0.299,
+  "busy": 0.144,
+  "warm": 0.165,
+  "skyTop": -0.024
+ },
+ "C1253": {
+  "brightness": 102.1,
+  "contrast": 58,
+  "colourful": 61.6,
+  "saturation": 0.526,
+  "busy": 0.104,
+  "warm": 0.638,
+  "skyTop": -0.227
+ },
+ "C1254": {
+  "brightness": 71.9,
+  "contrast": 44.3,
+  "colourful": 66.4,
+  "saturation": 0.482,
+  "busy": 0.163,
+  "warm": 0.311,
+  "skyTop": -0.192
+ },
+ "C1255": {
+  "brightness": 139,
+  "contrast": 48.3,
+  "colourful": 66.4,
+  "saturation": 0.354,
+  "busy": 0.05,
+  "warm": 0.027,
+  "skyTop": 0.148
+ },
+ "C1256": {
+  "brightness": 99.4,
+  "contrast": 50.1,
+  "colourful": 26.8,
+  "saturation": 0.323,
+  "busy": 0.083,
+  "warm": 0.09,
+  "skyTop": -0.155
+ },
+ "C1257": {
+  "brightness": 145.2,
+  "contrast": 74.3,
+  "colourful": 22.3,
+  "saturation": 0.152,
+  "busy": 0.207,
+  "warm": 0.021,
+  "skyTop": 0.047
+ },
+ "C1258": {
+  "brightness": 100.8,
+  "contrast": 41.1,
+  "colourful": 49.3,
+  "saturation": 0.302,
+  "busy": 0.185,
+  "warm": 0.023,
+  "skyTop": 0.023
+ },
+ "C1259": {
+  "brightness": 45.9,
+  "contrast": 32,
+  "colourful": 40.7,
+  "saturation": 0.569,
+  "busy": 0.026,
+  "warm": 0.32,
+  "skyTop": -0.075
+ },
+ "C1260": {
+  "brightness": 64.7,
+  "contrast": 43.2,
+  "colourful": 44.2,
+  "saturation": 0.318,
+  "busy": 0.165,
+  "warm": 0.084,
+  "skyTop": -0.045
+ },
+ "C1261": {
+  "brightness": 39.3,
+  "contrast": 37.6,
+  "colourful": 48.2,
+  "saturation": 0.792,
+  "busy": 0.065,
+  "warm": 0.286,
+  "skyTop": -0.134
+ },
+ "C1262": {
+  "brightness": 76.1,
+  "contrast": 44.1,
+  "colourful": 29.7,
+  "saturation": 0.463,
+  "busy": 0.075,
+  "warm": 0.202,
+  "skyTop": -0.152
+ },
+ "C1263": {
+  "brightness": 118.2,
+  "contrast": 54.8,
+  "colourful": 67.7,
+  "saturation": 0.262,
+  "busy": 0.112,
+  "warm": 0.234,
+  "skyTop": -0.018
+ },
+ "C1264": {
+  "brightness": 117.1,
+  "contrast": 62,
+  "colourful": 45.9,
+  "saturation": 0.431,
+  "busy": 0.126,
+  "warm": 0.199,
+  "skyTop": -0.188
+ },
+ "C1265": {
+  "brightness": 80.3,
+  "contrast": 53.9,
+  "colourful": 36.1,
+  "saturation": 0.334,
+  "busy": 0.207,
+  "warm": 0.098,
+  "skyTop": -0.124
+ },
+ "C1266": {
+  "brightness": 121.9,
+  "contrast": 63.6,
+  "colourful": 19.5,
+  "saturation": 0.202,
+  "busy": 0.095,
+  "warm": 0.005,
+  "skyTop": 0.052
+ },
+ "C1267": {
+  "brightness": 116.4,
+  "contrast": 58.6,
+  "colourful": 54.6,
+  "saturation": 0.349,
+  "busy": 0.199,
+  "warm": 0.076,
+  "skyTop": 0.172
+ },
+ "C1268": {
+  "brightness": 149,
+  "contrast": 55.5,
+  "colourful": 37.3,
+  "saturation": 0.236,
+  "busy": 0.124,
+  "warm": 0.259,
+  "skyTop": 0.045
+ },
+ "C1269": {
+  "brightness": 95.2,
+  "contrast": 44.1,
+  "colourful": 68,
+  "saturation": 0.469,
+  "busy": 0.08,
+  "warm": 0.047,
+  "skyTop": 0.191
+ },
+ "C1270": {
+  "brightness": 173.7,
+  "contrast": 68.4,
+  "colourful": 32.1,
+  "saturation": 0.163,
+  "busy": 0.128,
+  "warm": 0.11,
+  "skyTop": -0.054
+ },
+ "C1271": {
+  "brightness": 87.8,
+  "contrast": 45.4,
+  "colourful": 49.8,
+  "saturation": 0.359,
+  "busy": 0.077,
+  "warm": 0.207,
+  "skyTop": -0.031
+ },
+ "C1272": {
+  "brightness": 108.2,
+  "contrast": 65,
+  "colourful": 41,
+  "saturation": 0.316,
+  "busy": 0.116,
+  "warm": 0.294,
+  "skyTop": -0.253
+ },
+ "C1273": {
+  "brightness": 128.4,
+  "contrast": 45.6,
+  "colourful": 45.9,
+  "saturation": 0.342,
+  "busy": 0.053,
+  "warm": 0.001,
+  "skyTop": 0.241
+ },
+ "C1274": {
+  "brightness": 143.1,
+  "contrast": 51.9,
+  "colourful": 53.8,
+  "saturation": 0.352,
+  "busy": 0.226,
+  "warm": 0.121,
+  "skyTop": 0.123
+ },
+ "C1275": {
+  "brightness": 192.1,
+  "contrast": 40.4,
+  "colourful": 47.7,
+  "saturation": 0.195,
+  "busy": 0.047,
+  "warm": 0.009,
+  "skyTop": -0.021
+ },
+ "C1276": {
+  "brightness": 88,
+  "contrast": 45.8,
+  "colourful": 54.5,
+  "saturation": 0.358,
+  "busy": 0.171,
+  "warm": 0.014,
+  "skyTop": 0.03
+ },
+ "C1277": {
+  "brightness": 132.4,
+  "contrast": 67.1,
+  "colourful": 56.6,
+  "saturation": 0.453,
+  "busy": 0.243,
+  "warm": 0.004,
+  "skyTop": 0.064
+ },
+ "C1278": {
+  "brightness": 155.9,
+  "contrast": 63.7,
+  "colourful": 29.5,
+  "saturation": 0.201,
+  "busy": 0.051,
+  "warm": 0.035,
+  "skyTop": -0.037
+ },
+ "C1279": {
+  "brightness": 133.7,
+  "contrast": 64.1,
+  "colourful": 31.8,
+  "saturation": 0.192,
+  "busy": 0.057,
+  "warm": 0.016,
+  "skyTop": 0.085
+ },
+ "C1280": {
+  "brightness": 88,
+  "contrast": 62.2,
+  "colourful": 35.4,
+  "saturation": 0.308,
+  "busy": 0.027,
+  "warm": 0.001,
+  "skyTop": 0.008
+ },
+ "C1281": {
+  "brightness": 135.3,
+  "contrast": 46.8,
+  "colourful": 79.8,
+  "saturation": 0.46,
+  "busy": 0.044,
+  "warm": 0.01,
+  "skyTop": 0.149
+ },
+ "C1282": {
+  "brightness": 79.3,
+  "contrast": 67.7,
+  "colourful": 35.4,
+  "saturation": 0.354,
+  "busy": 0.117,
+  "warm": 0.224,
+  "skyTop": -0.034
+ },
+ "C1283": {
+  "brightness": 113.7,
+  "contrast": 65.5,
+  "colourful": 66.1,
+  "saturation": 0.388,
+  "busy": 0.243,
+  "warm": 0.107,
+  "skyTop": 0.087
+ },
+ "C1284": {
+  "brightness": 103.7,
+  "contrast": 54.6,
+  "colourful": 43.3,
+  "saturation": 0.319,
+  "busy": 0.257,
+  "warm": 0.169,
+  "skyTop": -0.016
+ },
+ "C1285": {
+  "brightness": 74,
+  "contrast": 39.4,
+  "colourful": 65.7,
+  "saturation": 0.649,
+  "busy": 0.116,
+  "warm": 0.694,
+  "skyTop": -0.206
+ },
+ "C1286": {
+  "brightness": 46.2,
+  "contrast": 54.3,
+  "colourful": 21,
+  "saturation": 0.384,
+  "busy": 0.064,
+  "warm": 0.065,
+  "skyTop": 0.008
+ },
+ "C1287": {
+  "brightness": 64.5,
+  "contrast": 43.1,
+  "colourful": 34.6,
+  "saturation": 0.511,
+  "busy": 0.141,
+  "warm": 0.249,
+  "skyTop": -0.225
+ },
+ "C1288": {
+  "brightness": 48.5,
+  "contrast": 75.4,
+  "colourful": 25.3,
+  "saturation": 0.232,
+  "busy": 0.136,
+  "warm": 0.046,
+  "skyTop": 0
+ },
+ "C1289": {
+  "brightness": 126.8,
+  "contrast": 57.4,
+  "colourful": 28.9,
+  "saturation": 0.207,
+  "busy": 0.092,
+  "warm": 0.04,
+  "skyTop": 0.068
+ },
+ "C1290": {
+  "brightness": 113.1,
+  "contrast": 55.2,
+  "colourful": 35.7,
+  "saturation": 0.313,
+  "busy": 0.157,
+  "warm": 0.011,
+  "skyTop": -0.012
+ },
+ "C1291": {
+  "brightness": 85.7,
+  "contrast": 65.1,
+  "colourful": 45,
+  "saturation": 0.561,
+  "busy": 0.132,
+  "warm": 0.019,
+  "skyTop": 0.029
+ },
+ "C1292": {
+  "brightness": 132,
+  "contrast": 60.4,
+  "colourful": 49,
+  "saturation": 0.289,
+  "busy": 0.094,
+  "warm": 0.276,
+  "skyTop": 0.056
+ },
+ "C1293": {
+  "brightness": 114.1,
+  "contrast": 57.7,
+  "colourful": 72.2,
+  "saturation": 0.41,
+  "busy": 0.126,
+  "warm": 0.305,
+  "skyTop": -0.147
+ },
+ "C1294": {
+  "brightness": 111.5,
+  "contrast": 76.3,
+  "colourful": 36.8,
+  "saturation": 0.241,
+  "busy": 0.137,
+  "warm": 0.161,
+  "skyTop": -0.167
+ },
+ "C1295": {
+  "brightness": 112.8,
+  "contrast": 64.6,
+  "colourful": 41.1,
+  "saturation": 0.401,
+  "busy": 0.107,
+  "warm": 0.046,
+  "skyTop": 0.04
+ },
+ "C1296": {
+  "brightness": 196.2,
+  "contrast": 72.9,
+  "colourful": 0,
+  "saturation": 0,
+  "busy": 0.235,
+  "warm": 0,
+  "skyTop": 0
+ },
+ "C1297": {
+  "brightness": 117.6,
+  "contrast": 75.9,
+  "colourful": 31.6,
+  "saturation": 0.257,
+  "busy": 0.131,
+  "warm": 0.096,
+  "skyTop": 0.011
+ },
+ "C1298": {
+  "brightness": 145.5,
+  "contrast": 56,
+  "colourful": 72.7,
+  "saturation": 0.482,
+  "busy": 0.06,
+  "warm": 0.062,
+  "skyTop": 0.233
+ },
+ "C1299": {
+  "brightness": 146.7,
+  "contrast": 60.5,
+  "colourful": 58.5,
+  "saturation": 0.265,
+  "busy": 0.115,
+  "warm": 0.122,
+  "skyTop": -0.01
+ },
+ "C1300": {
+  "brightness": 36.6,
+  "contrast": 48.7,
+  "colourful": 45.1,
+  "saturation": 0.602,
+  "busy": 0.11,
+  "warm": 0.137,
+  "skyTop": -0.012
+ },
+ "C1301": {
+  "brightness": 134.2,
+  "contrast": 73.3,
+  "colourful": 36.7,
+  "saturation": 0.229,
+  "busy": 0.12,
+  "warm": 0.141,
+  "skyTop": -0.124
+ },
+ "C1302": {
+  "brightness": 65.2,
+  "contrast": 41.8,
+  "colourful": 26,
+  "saturation": 0.431,
+  "busy": 0.221,
+  "warm": 0.131,
+  "skyTop": -0.127
+ },
+ "C1303": {
+  "brightness": 118.2,
+  "contrast": 54.7,
+  "colourful": 73.4,
+  "saturation": 0.384,
+  "busy": 0.075,
+  "warm": 0.025,
+  "skyTop": 0.061
+ },
+ "C1304": {
+  "brightness": 91.7,
+  "contrast": 45.9,
+  "colourful": 47.7,
+  "saturation": 0.402,
+  "busy": 0.119,
+  "warm": 0.382,
+  "skyTop": -0.188
+ },
+ "C1305": {
+  "brightness": 110.5,
+  "contrast": 63.7,
+  "colourful": 68.3,
+  "saturation": 0.379,
+  "busy": 0.075,
+  "warm": 0.325,
+  "skyTop": -0.363
+ },
+ "C1306": {
+  "brightness": 104.7,
+  "contrast": 63.6,
+  "colourful": 45.8,
+  "saturation": 0.4,
+  "busy": 0.124,
+  "warm": 0.361,
+  "skyTop": -0.095
+ },
+ "C1307": {
+  "brightness": 117.3,
+  "contrast": 69.4,
+  "colourful": 30.1,
+  "saturation": 0.21,
+  "busy": 0.068,
+  "warm": 0.024,
+  "skyTop": 0.012
+ },
+ "C1308": {
+  "brightness": 43.9,
+  "contrast": 49.5,
+  "colourful": 71.6,
+  "saturation": 0.601,
+  "busy": 0.065,
+  "warm": 0.056,
+  "skyTop": 0.061
+ },
+ "C1309": {
+  "brightness": 79,
+  "contrast": 58.5,
+  "colourful": 55.8,
+  "saturation": 0.59,
+  "busy": 0.114,
+  "warm": 0.484,
+  "skyTop": -0.245
+ },
+ "C1310": {
+  "brightness": 125.1,
+  "contrast": 54.8,
+  "colourful": 47.9,
+  "saturation": 0.288,
+  "busy": 0.087,
+  "warm": 0.272,
+  "skyTop": 0.014
+ },
+ "C1311": {
+  "brightness": 104.8,
+  "contrast": 64.6,
+  "colourful": 54.1,
+  "saturation": 0.299,
+  "busy": 0.145,
+  "warm": 0.035,
+  "skyTop": 0.206
+ },
+ "C1312": {
+  "brightness": 96.2,
+  "contrast": 47.6,
+  "colourful": 22.5,
+  "saturation": 0.205,
+  "busy": 0.093,
+  "warm": 0.029,
+  "skyTop": -0.019
+ },
+ "C1313": {
+  "brightness": 125.6,
+  "contrast": 68.9,
+  "colourful": 55.6,
+  "saturation": 0.374,
+  "busy": 0.121,
+  "warm": 0.173,
+  "skyTop": 0.099
+ },
+ "C1314": {
+  "brightness": 152.7,
+  "contrast": 73.2,
+  "colourful": 50,
+  "saturation": 0.295,
+  "busy": 0.173,
+  "warm": 0.136,
+  "skyTop": 0.104
+ },
+ "C1315": {
+  "brightness": 99.7,
+  "contrast": 62.4,
+  "colourful": 43.6,
+  "saturation": 0.342,
+  "busy": 0.051,
+  "warm": 0.218,
+  "skyTop": -0.18
+ },
+ "C1316": {
+  "brightness": 113.6,
+  "contrast": 82.5,
+  "colourful": 32.2,
+  "saturation": 0.274,
+  "busy": 0.187,
+  "warm": 0.118,
+  "skyTop": -0.057
+ },
+ "C1317": {
+  "brightness": 70.2,
+  "contrast": 48.6,
+  "colourful": 25.8,
+  "saturation": 0.318,
+  "busy": 0.192,
+  "warm": 0.086,
+  "skyTop": -0.054
+ },
+ "C1318": {
+  "brightness": 119.9,
+  "contrast": 54.2,
+  "colourful": 44.7,
+  "saturation": 0.394,
+  "busy": 0.205,
+  "warm": 0.248,
+  "skyTop": -0.146
+ },
+ "C1319": {
+  "brightness": 32.9,
+  "contrast": 39.8,
+  "colourful": 31.2,
+  "saturation": 0.633,
+  "busy": 0.045,
+  "warm": 0.091,
+  "skyTop": -0.071
+ },
+ "C1320": {
+  "brightness": 97.5,
+  "contrast": 56.7,
+  "colourful": 40.8,
+  "saturation": 0.407,
+  "busy": 0.122,
+  "warm": 0.272,
+  "skyTop": -0.115
+ },
+ "C1321": {
+  "brightness": 124.7,
+  "contrast": 69.5,
+  "colourful": 42.7,
+  "saturation": 0.369,
+  "busy": 0.086,
+  "warm": 0.001,
+  "skyTop": 0.167
+ },
+ "C1322": {
+  "brightness": 138.1,
+  "contrast": 61.6,
+  "colourful": 56.6,
+  "saturation": 0.346,
+  "busy": 0.159,
+  "warm": 0.101,
+  "skyTop": 0.153
+ },
+ "C1323": {
+  "brightness": 86.6,
+  "contrast": 88.3,
+  "colourful": 56.7,
+  "saturation": 0.58,
+  "busy": 0.109,
+  "warm": 0.104,
+  "skyTop": -0.046
+ },
+ "C1324": {
+  "brightness": 120.6,
+  "contrast": 74.9,
+  "colourful": 42.8,
+  "saturation": 0.332,
+  "busy": 0.149,
+  "warm": 0.144,
+  "skyTop": -0.119
+ },
+ "C1325": {
+  "brightness": 76.9,
+  "contrast": 75.4,
+  "colourful": 60.4,
+  "saturation": 0.693,
+  "busy": 0.304,
+  "warm": 0,
+  "skyTop": 0.23
+ },
+ "C1326": {
+  "brightness": 111.4,
+  "contrast": 65.2,
+  "colourful": 92.3,
+  "saturation": 0.604,
+  "busy": 0.176,
+  "warm": 0.088,
+  "skyTop": -0.183
+ },
+ "C1327": {
+  "brightness": 160.8,
+  "contrast": 71.2,
+  "colourful": 33,
+  "saturation": 0.166,
+  "busy": 0.166,
+  "warm": 0.095,
+  "skyTop": 0.011
+ },
+ "C1328": {
+  "brightness": 141,
+  "contrast": 78.4,
+  "colourful": 57,
+  "saturation": 0.286,
+  "busy": 0.135,
+  "warm": 0.256,
+  "skyTop": 0.061
+ },
+ "C1329": {
+  "brightness": 132.8,
+  "contrast": 47.7,
+  "colourful": 36.9,
+  "saturation": 0.246,
+  "busy": 0.068,
+  "warm": 0.018,
+  "skyTop": 0.172
+ },
+ "C1330": {
+  "brightness": 111.9,
+  "contrast": 48.9,
+  "colourful": 13.9,
+  "saturation": 0.141,
+  "busy": 0.031,
+  "warm": 0.013,
+  "skyTop": 0.035
+ },
+ "C1331": {
+  "brightness": 140.3,
+  "contrast": 66.7,
+  "colourful": 103.4,
+  "saturation": 0.618,
+  "busy": 0.073,
+  "warm": 0,
+  "skyTop": 0.28
+ },
+ "C1332": {
+  "brightness": 120.5,
+  "contrast": 58.8,
+  "colourful": 52.9,
+  "saturation": 0.334,
+  "busy": 0.261,
+  "warm": 0.025,
+  "skyTop": 0.168
+ },
+ "C1333": {
+  "brightness": 119.5,
+  "contrast": 66.3,
+  "colourful": 34.5,
+  "saturation": 0.255,
+  "busy": 0.227,
+  "warm": 0.089,
+  "skyTop": 0.001
+ },
+ "C1334": {
+  "brightness": 103.1,
+  "contrast": 41.9,
+  "colourful": 27.2,
+  "saturation": 0.191,
+  "busy": 0.236,
+  "warm": 0.005,
+  "skyTop": 0.105
+ },
+ "C1335": {
+  "brightness": 92,
+  "contrast": 52.6,
+  "colourful": 21.7,
+  "saturation": 0.24,
+  "busy": 0.063,
+  "warm": 0.008,
+  "skyTop": -0.128
+ },
+ "C1336": {
+  "brightness": 118.4,
+  "contrast": 52.6,
+  "colourful": 67.5,
+  "saturation": 0.367,
+  "busy": 0.163,
+  "warm": 0.007,
+  "skyTop": 0.264
+ },
+ "C1337": {
+  "brightness": 139.7,
+  "contrast": 58.1,
+  "colourful": 43.3,
+  "saturation": 0.271,
+  "busy": 0.074,
+  "warm": 0.193,
+  "skyTop": -0.103
+ },
+ "C1338": {
+  "brightness": 129.3,
+  "contrast": 76.5,
+  "colourful": 19.3,
+  "saturation": 0.135,
+  "busy": 0.171,
+  "warm": 0.01,
+  "skyTop": 0.022
+ },
+ "C1339": {
+  "brightness": 106.9,
+  "contrast": 62.2,
+  "colourful": 20.8,
+  "saturation": 0.192,
+  "busy": 0.146,
+  "warm": 0.055,
+  "skyTop": -0.086
+ },
+ "C1340": {
+  "brightness": 186.9,
+  "contrast": 26.4,
+  "colourful": 30.2,
+  "saturation": 0.157,
+  "busy": 0.024,
+  "warm": 0.001,
+  "skyTop": 0.142
+ },
+ "C1341": {
+  "brightness": 121.8,
+  "contrast": 74.9,
+  "colourful": 44.7,
+  "saturation": 0.274,
+  "busy": 0.123,
+  "warm": 0.212,
+  "skyTop": -0.161
+ },
+ "C1342": {
+  "brightness": 154.1,
+  "contrast": 57.2,
+  "colourful": 64.3,
+  "saturation": 0.295,
+  "busy": 0.114,
+  "warm": 0.051,
+  "skyTop": 0.175
+ },
+ "C1343": {
+  "brightness": 84.7,
+  "contrast": 53.2,
+  "colourful": 42.3,
+  "saturation": 0.256,
+  "busy": 0.171,
+  "warm": 0.113,
+  "skyTop": -0.043
+ },
+ "C1344": {
+  "brightness": 124.9,
+  "contrast": 55.5,
+  "colourful": 77.1,
+  "saturation": 0.385,
+  "busy": 0.225,
+  "warm": 0.02,
+  "skyTop": 0.296
+ },
+ "C1345": {
+  "brightness": 112.9,
+  "contrast": 55.9,
+  "colourful": 78.8,
+  "saturation": 0.43,
+  "busy": 0.266,
+  "warm": 0.231,
+  "skyTop": -0.056
+ },
+ "C1346": {
+  "brightness": 64.9,
+  "contrast": 35.4,
+  "colourful": 61,
+  "saturation": 0.473,
+  "busy": 0.069,
+  "warm": 0.3,
+  "skyTop": -0.024
+ },
+ "C1347": {
+  "brightness": 128.3,
+  "contrast": 60.2,
+  "colourful": 43.8,
+  "saturation": 0.346,
+  "busy": 0.121,
+  "warm": 0.359,
+  "skyTop": -0.206
+ },
+ "C1348": {
+  "brightness": 115.8,
+  "contrast": 66.4,
+  "colourful": 34.2,
+  "saturation": 0.262,
+  "busy": 0.042,
+  "warm": 0.019,
+  "skyTop": 0.121
+ },
+ "C1349": {
+  "brightness": 29.8,
+  "contrast": 37.8,
+  "colourful": 6,
+  "saturation": 0.006,
+  "busy": 0.082,
+  "warm": 0.004,
+  "skyTop": 0
+ },
+ "C1350": {
+  "brightness": 103.1,
+  "contrast": 39.6,
+  "colourful": 57.6,
+  "saturation": 0.392,
+  "busy": 0.089,
+  "warm": 0.074,
+  "skyTop": 0.163
+ },
+ "C1351": {
+  "brightness": 117.4,
+  "contrast": 58.4,
+  "colourful": 25.9,
+  "saturation": 0.297,
+  "busy": 0.062,
+  "warm": 0.143,
+  "skyTop": -0.08
+ },
+ "C1352": {
+  "brightness": 134.5,
+  "contrast": 81.2,
+  "colourful": 78.6,
+  "saturation": 0.38,
+  "busy": 0.256,
+  "warm": 0.3,
+  "skyTop": -0.322
+ },
+ "C1353": {
+  "brightness": 110.2,
+  "contrast": 70.4,
+  "colourful": 33.1,
+  "saturation": 0.334,
+  "busy": 0.05,
+  "warm": 0.006,
+  "skyTop": -0.072
+ },
+ "C1354": {
+  "brightness": 108.2,
+  "contrast": 55.6,
+  "colourful": 64.5,
+  "saturation": 0.456,
+  "busy": 0.083,
+  "warm": 0.274,
+  "skyTop": -0.058
+ },
+ "C1355": {
+  "brightness": 86.1,
+  "contrast": 62.3,
+  "colourful": 26.3,
+  "saturation": 0.405,
+  "busy": 0.118,
+  "warm": 0.234,
+  "skyTop": -0.146
+ },
+ "C1356": {
+  "brightness": 126.4,
+  "contrast": 45.2,
+  "colourful": 100.3,
+  "saturation": 0.576,
+  "busy": 0.207,
+  "warm": 0.065,
+  "skyTop": 0.326
+ },
+ "C1357": {
+  "brightness": 102.7,
+  "contrast": 49.4,
+  "colourful": 61.4,
+  "saturation": 0.496,
+  "busy": 0.125,
+  "warm": 0.587,
+  "skyTop": -0.418
+ },
+ "C1358": {
+  "brightness": 91.9,
+  "contrast": 48.7,
+  "colourful": 79.9,
+  "saturation": 0.572,
+  "busy": 0.076,
+  "warm": 0.063,
+  "skyTop": 0.252
+ },
+ "C1359": {
+  "brightness": 128.7,
+  "contrast": 65.2,
+  "colourful": 36.7,
+  "saturation": 0.259,
+  "busy": 0.156,
+  "warm": 0.226,
+  "skyTop": -0.08
+ },
+ "C1360": {
+  "brightness": 122.1,
+  "contrast": 49.8,
+  "colourful": 38.3,
+  "saturation": 0.252,
+  "busy": 0.09,
+  "warm": 0.07,
+  "skyTop": -0.089
+ },
+ "C1361": {
+  "brightness": 130.2,
+  "contrast": 47,
+  "colourful": 41.6,
+  "saturation": 0.246,
+  "busy": 0.073,
+  "warm": 0.067,
+  "skyTop": 0.022
+ },
+ "C1362": {
+  "brightness": 160.9,
+  "contrast": 35.2,
+  "colourful": 23.9,
+  "saturation": 0.131,
+  "busy": 0.032,
+  "warm": 0.001,
+  "skyTop": 0.076
+ },
+ "C1363": {
+  "brightness": 102.3,
+  "contrast": 47,
+  "colourful": 24.8,
+  "saturation": 0.289,
+  "busy": 0.094,
+  "warm": 0.166,
+  "skyTop": -0.11
+ },
+ "C1364": {
+  "brightness": 81.8,
+  "contrast": 56.5,
+  "colourful": 31.1,
+  "saturation": 0.405,
+  "busy": 0.12,
+  "warm": 0.209,
+  "skyTop": -0.139
+ },
+ "C1365": {
+  "brightness": 88,
+  "contrast": 44.3,
+  "colourful": 68.3,
+  "saturation": 0.503,
+  "busy": 0.129,
+  "warm": 0.074,
+  "skyTop": 0.143
+ },
+ "C1366": {
+  "brightness": 86.6,
+  "contrast": 47.8,
+  "colourful": 37.9,
+  "saturation": 0.389,
+  "busy": 0.15,
+  "warm": 0.156,
+  "skyTop": 0.051
+ },
+ "C1367": {
+  "brightness": 73.4,
+  "contrast": 41.4,
+  "colourful": 36.1,
+  "saturation": 0.25,
+  "busy": 0.244,
+  "warm": 0.115,
+  "skyTop": -0.023
+ },
+ "C1368": {
+  "brightness": 86.5,
+  "contrast": 53.7,
+  "colourful": 45,
+  "saturation": 0.535,
+  "busy": 0.116,
+  "warm": 0.482,
+  "skyTop": -0.201
+ },
+ "C1369": {
+  "brightness": 115.9,
+  "contrast": 66.5,
+  "colourful": 31,
+  "saturation": 0.253,
+  "busy": 0.199,
+  "warm": 0.143,
+  "skyTop": 0.004
+ },
+ "C1370": {
+  "brightness": 125.8,
+  "contrast": 61.7,
+  "colourful": 45.8,
+  "saturation": 0.355,
+  "busy": 0.031,
+  "warm": 0.006,
+  "skyTop": 0.154
+ },
+ "C1371": {
+  "brightness": 125.4,
+  "contrast": 69.9,
+  "colourful": 39.6,
+  "saturation": 0.343,
+  "busy": 0.177,
+  "warm": 0.001,
+  "skyTop": 0.169
+ },
+ "C1372": {
+  "brightness": 136.8,
+  "contrast": 75.2,
+  "colourful": 9.6,
+  "saturation": 0.11,
+  "busy": 0.131,
+  "warm": 0,
+  "skyTop": -0.048
+ },
+ "C1373": {
+  "brightness": 113.9,
+  "contrast": 71.6,
+  "colourful": 51.3,
+  "saturation": 0.312,
+  "busy": 0.169,
+  "warm": 0.135,
+  "skyTop": -0.096
+ },
+ "C1374": {
+  "brightness": 54.6,
+  "contrast": 69.5,
+  "colourful": 15.1,
+  "saturation": 0.238,
+  "busy": 0.052,
+  "warm": 0,
+  "skyTop": 0.023
+ },
+ "C1375": {
+  "brightness": 77.1,
+  "contrast": 71,
+  "colourful": 35.6,
+  "saturation": 0.213,
+  "busy": 0.103,
+  "warm": 0.146,
+  "skyTop": -0.077
+ },
+ "C1376": {
+  "brightness": 91.1,
+  "contrast": 57.6,
+  "colourful": 42.2,
+  "saturation": 0.381,
+  "busy": 0.119,
+  "warm": 0.378,
+  "skyTop": -0.114
+ },
+ "C1377": {
+  "brightness": 116.2,
+  "contrast": 49,
+  "colourful": 93.4,
+  "saturation": 0.511,
+  "busy": 0.12,
+  "warm": 0.11,
+  "skyTop": 0.213
+ },
+ "C1378": {
+  "brightness": 78.8,
+  "contrast": 49.3,
+  "colourful": 41,
+  "saturation": 0.346,
+  "busy": 0.173,
+  "warm": 0.293,
+  "skyTop": -0.028
+ },
+ "C1379": {
+  "brightness": 88,
+  "contrast": 44.6,
+  "colourful": 86.7,
+  "saturation": 0.546,
+  "busy": 0.118,
+  "warm": 0.388,
+  "skyTop": -0.18
+ },
+ "C1380": {
+  "brightness": 98,
+  "contrast": 55.9,
+  "colourful": 46,
+  "saturation": 0.425,
+  "busy": 0.087,
+  "warm": 0.345,
+  "skyTop": 0.031
+ },
+ "C1381": {
+  "brightness": 125,
+  "contrast": 46.2,
+  "colourful": 28.2,
+  "saturation": 0.219,
+  "busy": 0.147,
+  "warm": 0.005,
+  "skyTop": -0.021
+ },
+ "C1382": {
+  "brightness": 34.6,
+  "contrast": 30.1,
+  "colourful": 45.2,
+  "saturation": 0.568,
+  "busy": 0.03,
+  "warm": 0.031,
+  "skyTop": 0.135
+ },
+ "C1383": {
+  "brightness": 144.6,
+  "contrast": 63.2,
+  "colourful": 39.8,
+  "saturation": 0.286,
+  "busy": 0.027,
+  "warm": 0.004,
+  "skyTop": 0.13
+ },
+ "C1384": {
+  "brightness": 72.4,
+  "contrast": 72.6,
+  "colourful": 38.1,
+  "saturation": 0.564,
+  "busy": 0.064,
+  "warm": 0.023,
+  "skyTop": 0.034
+ },
+ "C1385": {
+  "brightness": 160.7,
+  "contrast": 55.2,
+  "colourful": 29.3,
+  "saturation": 0.174,
+  "busy": 0.439,
+  "warm": 0.002,
+  "skyTop": -0.044
+ },
+ "C1386": {
+  "brightness": 87.3,
+  "contrast": 35.6,
+  "colourful": 34.5,
+  "saturation": 0.422,
+  "busy": 0.092,
+  "warm": 0.566,
+  "skyTop": -0.148
+ },
+ "C1387": {
+  "brightness": 76.7,
+  "contrast": 58.7,
+  "colourful": 16.8,
+  "saturation": 0.218,
+  "busy": 0.089,
+  "warm": 0.003,
+  "skyTop": -0.092
+ },
+ "C1388": {
+  "brightness": 98.8,
+  "contrast": 45.4,
+  "colourful": 96.1,
+  "saturation": 0.549,
+  "busy": 0.094,
+  "warm": 0.035,
+  "skyTop": 0.024
+ },
+ "C1389": {
+  "brightness": 72.2,
+  "contrast": 30.1,
+  "colourful": 82.7,
+  "saturation": 0.622,
+  "busy": 0.051,
+  "warm": 0.726,
+  "skyTop": -0.451
+ },
+ "C1390": {
+  "brightness": 138.4,
+  "contrast": 56.5,
+  "colourful": 108.9,
+  "saturation": 0.523,
+  "busy": 0.191,
+  "warm": 0.041,
+  "skyTop": 0.345
+ },
+ "C1391": {
+  "brightness": 65.8,
+  "contrast": 47,
+  "colourful": 31.6,
+  "saturation": 0.409,
+  "busy": 0.032,
+  "warm": 0.211,
+  "skyTop": -0.07
+ },
+ "C1392": {
+  "brightness": 89.9,
+  "contrast": 58.6,
+  "colourful": 60,
+  "saturation": 0.453,
+  "busy": 0.219,
+  "warm": 0.074,
+  "skyTop": -0.044
+ },
+ "C1393": {
+  "brightness": 67.3,
+  "contrast": 41.6,
+  "colourful": 34.3,
+  "saturation": 0.433,
+  "busy": 0.123,
+  "warm": 0.243,
+  "skyTop": -0.049
+ },
+ "C1394": {
+  "brightness": 164.6,
+  "contrast": 55.7,
+  "colourful": 42.6,
+  "saturation": 0.194,
+  "busy": 0.107,
+  "warm": 0.043,
+  "skyTop": 0.054
+ },
+ "C1395": {
+  "brightness": 90.9,
+  "contrast": 59.2,
+  "colourful": 38.2,
+  "saturation": 0.314,
+  "busy": 0.141,
+  "warm": 0.11,
+  "skyTop": 0.034
+ },
+ "C1396": {
+  "brightness": 120.1,
+  "contrast": 59.1,
+  "colourful": 105.3,
+  "saturation": 0.656,
+  "busy": 0.085,
+  "warm": 0.101,
+  "skyTop": 0.269
+ },
+ "C1397": {
+  "brightness": 160.8,
+  "contrast": 51.8,
+  "colourful": 31.5,
+  "saturation": 0.189,
+  "busy": 0.135,
+  "warm": 0.001,
+  "skyTop": -0.084
+ },
+ "C1398": {
+  "brightness": 84.2,
+  "contrast": 50,
+  "colourful": 60.2,
+  "saturation": 0.482,
+  "busy": 0.171,
+  "warm": 0.308,
+  "skyTop": -0.095
+ },
+ "C1399": {
+  "brightness": 111.1,
+  "contrast": 68.2,
+  "colourful": 36.9,
+  "saturation": 0.295,
+  "busy": 0.157,
+  "warm": 0.087,
+  "skyTop": 0.086
+ },
+ "C1400": {
+  "brightness": 88.2,
+  "contrast": 43.9,
+  "colourful": 63.9,
+  "saturation": 0.398,
+  "busy": 0.133,
+  "warm": 0.025,
+  "skyTop": 0.082
+ },
+ "C1401": {
+  "brightness": 120.5,
+  "contrast": 52.2,
+  "colourful": 62,
+  "saturation": 0.442,
+  "busy": 0.271,
+  "warm": 0.01,
+  "skyTop": 0.139
+ },
+ "C1402": {
+  "brightness": 121.2,
+  "contrast": 72,
+  "colourful": 56.2,
+  "saturation": 0.376,
+  "busy": 0.146,
+  "warm": 0.004,
+  "skyTop": 0.109
+ },
+ "C1403": {
+  "brightness": 88.5,
+  "contrast": 47.8,
+  "colourful": 65,
+  "saturation": 0.481,
+  "busy": 0.109,
+  "warm": 0.096,
+  "skyTop": 0.174
+ },
+ "C1404": {
+  "brightness": 147,
+  "contrast": 38.2,
+  "colourful": 76.5,
+  "saturation": 0.382,
+  "busy": 0.106,
+  "warm": 0.418,
+  "skyTop": -0.141
+ },
+ "C1405": {
+  "brightness": 102.8,
+  "contrast": 49.3,
+  "colourful": 79.1,
+  "saturation": 0.351,
+  "busy": 0.031,
+  "warm": 0.354,
+  "skyTop": 0.001
+ },
+ "C1406": {
+  "brightness": 98.2,
+  "contrast": 45.8,
+  "colourful": 88.6,
+  "saturation": 0.479,
+  "busy": 0.205,
+  "warm": 0.128,
+  "skyTop": 0.145
+ },
+ "C1407": {
+  "brightness": 115.5,
+  "contrast": 34.9,
+  "colourful": 64.2,
+  "saturation": 0.461,
+  "busy": 0.075,
+  "warm": 0.467,
+  "skyTop": 0.169
+ },
+ "C1408": {
+  "brightness": 68.2,
+  "contrast": 58.1,
+  "colourful": 60.2,
+  "saturation": 0.474,
+  "busy": 0.043,
+  "warm": 0.297,
+  "skyTop": -0.293
+ },
+ "C1409": {
+  "brightness": 160.2,
+  "contrast": 71.3,
+  "colourful": 47.4,
+  "saturation": 0.279,
+  "busy": 0.087,
+  "warm": 0.033,
+  "skyTop": -0.104
+ },
+ "C1410": {
+  "brightness": 99.1,
+  "contrast": 80.3,
+  "colourful": 23.2,
+  "saturation": 0.224,
+  "busy": 0.184,
+  "warm": 0.03,
+  "skyTop": -0.042
+ },
+ "C1411": {
+  "brightness": 99.5,
+  "contrast": 60.1,
+  "colourful": 64.4,
+  "saturation": 0.351,
+  "busy": 0.169,
+  "warm": 0.129,
+  "skyTop": -0.026
+ },
+ "C1412": {
+  "brightness": 115.5,
+  "contrast": 47.2,
+  "colourful": 22.5,
+  "saturation": 0.209,
+  "busy": 0.103,
+  "warm": 0.048,
+  "skyTop": -0.132
+ },
+ "C1413": {
+  "brightness": 103.5,
+  "contrast": 44.8,
+  "colourful": 71.9,
+  "saturation": 0.344,
+  "busy": 0.167,
+  "warm": 0.081,
+  "skyTop": 0.062
+ },
+ "C1414": {
+  "brightness": 101.3,
+  "contrast": 41.6,
+  "colourful": 45.4,
+  "saturation": 0.36,
+  "busy": 0.076,
+  "warm": 0.233,
+  "skyTop": 0.051
+ },
+ "C1415": {
+  "brightness": 139.6,
+  "contrast": 62.3,
+  "colourful": 31.4,
+  "saturation": 0.255,
+  "busy": 0.142,
+  "warm": 0.068,
+  "skyTop": -0.073
+ },
+ "C1416": {
+  "brightness": 129.8,
+  "contrast": 45.3,
+  "colourful": 23.9,
+  "saturation": 0.244,
+  "busy": 0.076,
+  "warm": 0.023,
+  "skyTop": -0.105
+ },
+ "C1417": {
+  "brightness": 139.9,
+  "contrast": 57.2,
+  "colourful": 58.4,
+  "saturation": 0.391,
+  "busy": 0.365,
+  "warm": 0.005,
+  "skyTop": -0.056
+ },
+ "C1418": {
+  "brightness": 107.1,
+  "contrast": 78.2,
+  "colourful": 25,
+  "saturation": 0.245,
+  "busy": 0.157,
+  "warm": 0.024,
+  "skyTop": 0.017
+ },
+ "C1419": {
+  "brightness": 60.1,
+  "contrast": 51.2,
+  "colourful": 33,
+  "saturation": 0.362,
+  "busy": 0.068,
+  "warm": 0.071,
+  "skyTop": -0.035
+ },
+ "C1420": {
+  "brightness": 164.2,
+  "contrast": 55.4,
+  "colourful": 27.5,
+  "saturation": 0.169,
+  "busy": 0.393,
+  "warm": 0.002,
+  "skyTop": -0.089
+ },
+ "C1421": {
+  "brightness": 114,
+  "contrast": 53.7,
+  "colourful": 58.1,
+  "saturation": 0.341,
+  "busy": 0.102,
+  "warm": 0.273,
+  "skyTop": -0.083
+ },
+ "C1422": {
+  "brightness": 129.1,
+  "contrast": 50.4,
+  "colourful": 63.2,
+  "saturation": 0.305,
+  "busy": 0.148,
+  "warm": 0.019,
+  "skyTop": 0.223
+ },
+ "C1423": {
+  "brightness": 146.8,
+  "contrast": 64.5,
+  "colourful": 116.9,
+  "saturation": 0.567,
+  "busy": 0.171,
+  "warm": 0.114,
+  "skyTop": -0.083
+ },
+ "C1424": {
+  "brightness": 115.3,
+  "contrast": 57.9,
+  "colourful": 74.1,
+  "saturation": 0.445,
+  "busy": 0.206,
+  "warm": 0.06,
+  "skyTop": 0.214
+ },
+ "C1425": {
+  "brightness": 115.2,
+  "contrast": 49.6,
+  "colourful": 110.4,
+  "saturation": 0.64,
+  "busy": 0.14,
+  "warm": 0.037,
+  "skyTop": 0.3
+ },
+ "C1426": {
+  "brightness": 87.5,
+  "contrast": 44.8,
+  "colourful": 56.2,
+  "saturation": 0.33,
+  "busy": 0.145,
+  "warm": 0.067,
+  "skyTop": 0.139
+ },
+ "C1427": {
+  "brightness": 94.6,
+  "contrast": 63.8,
+  "colourful": 58.2,
+  "saturation": 0.392,
+  "busy": 0.126,
+  "warm": 0.017,
+  "skyTop": 0.156
+ },
+ "C1428": {
+  "brightness": 82.2,
+  "contrast": 53.2,
+  "colourful": 17.3,
+  "saturation": 0.278,
+  "busy": 0.023,
+  "warm": 0,
+  "skyTop": 0.048
+ },
+ "C1429": {
+  "brightness": 228.7,
+  "contrast": 28.5,
+  "colourful": 24.7,
+  "saturation": 0.055,
+  "busy": 0.098,
+  "warm": 0.006,
+  "skyTop": -0.005
+ },
+ "C1430": {
+  "brightness": 45.1,
+  "contrast": 56.7,
+  "colourful": 23.9,
+  "saturation": 0.409,
+  "busy": 0.087,
+  "warm": 0.04,
+  "skyTop": -0.057
+ },
+ "C1431": {
+  "brightness": 146.3,
+  "contrast": 54.4,
+  "colourful": 36,
+  "saturation": 0.229,
+  "busy": 0.117,
+  "warm": 0.104,
+  "skyTop": 0.03
+ },
+ "C1432": {
+  "brightness": 114.8,
+  "contrast": 79.7,
+  "colourful": 39.3,
+  "saturation": 0.311,
+  "busy": 0.121,
+  "warm": 0.077,
+  "skyTop": -0.028
+ },
+ "C1433": {
+  "brightness": 100.1,
+  "contrast": 59,
+  "colourful": 44.9,
+  "saturation": 0.254,
+  "busy": 0.06,
+  "warm": 0.047,
+  "skyTop": 0.162
+ },
+ "C1434": {
+  "brightness": 174,
+  "contrast": 62.7,
+  "colourful": 39.8,
+  "saturation": 0.188,
+  "busy": 0.047,
+  "warm": 0.098,
+  "skyTop": 0.013
+ },
+ "C1435": {
+  "brightness": 112,
+  "contrast": 74,
+  "colourful": 1.6,
+  "saturation": 0.015,
+  "busy": 0.114,
+  "warm": 0,
+  "skyTop": 0
+ },
+ "C1436": {
+  "brightness": 103.6,
+  "contrast": 46.4,
+  "colourful": 28,
+  "saturation": 0.197,
+  "busy": 0.045,
+  "warm": 0.101,
+  "skyTop": 0.026
+ },
+ "C1437": {
+  "brightness": 111,
+  "contrast": 64,
+  "colourful": 29.7,
+  "saturation": 0.284,
+  "busy": 0.139,
+  "warm": 0.129,
+  "skyTop": -0.067
+ },
+ "C1438": {
+  "brightness": 126.9,
+  "contrast": 76.9,
+  "colourful": 20.4,
+  "saturation": 0.169,
+  "busy": 0.047,
+  "warm": 0.053,
+  "skyTop": 0.025
+ },
+ "C1439": {
+  "brightness": 85.3,
+  "contrast": 51.3,
+  "colourful": 52.9,
+  "saturation": 0.535,
+  "busy": 0.076,
+  "warm": 0.513,
+  "skyTop": -0.179
+ },
+ "C1440": {
+  "brightness": 106.4,
+  "contrast": 63.2,
+  "colourful": 37.5,
+  "saturation": 0.322,
+  "busy": 0.232,
+  "warm": 0.189,
+  "skyTop": -0.165
+ },
+ "C1441": {
+  "brightness": 140.8,
+  "contrast": 46.5,
+  "colourful": 28.5,
+  "saturation": 0.183,
+  "busy": 0.167,
+  "warm": 0.103,
+  "skyTop": -0.089
+ },
+ "C1442": {
+  "brightness": 107,
+  "contrast": 64.4,
+  "colourful": 46.9,
+  "saturation": 0.389,
+  "busy": 0.365,
+  "warm": 0.043,
+  "skyTop": -0.072
+ },
+ "C1443": {
+  "brightness": 142.4,
+  "contrast": 43.8,
+  "colourful": 41.8,
+  "saturation": 0.263,
+  "busy": 0.041,
+  "warm": 0.038,
+  "skyTop": 0.034
+ },
+ "C1444": {
+  "brightness": 82.3,
+  "contrast": 41.4,
+  "colourful": 41.1,
+  "saturation": 0.344,
+  "busy": 0.114,
+  "warm": 0.033,
+  "skyTop": 0.147
+ },
+ "C1445": {
+  "brightness": 146.2,
+  "contrast": 69.5,
+  "colourful": 82.2,
+  "saturation": 0.342,
+  "busy": 0.17,
+  "warm": 0.094,
+  "skyTop": 0.162
+ },
+ "C1446": {
+  "brightness": 75.8,
+  "contrast": 49.7,
+  "colourful": 24.9,
+  "saturation": 0.16,
+  "busy": 0.098,
+  "warm": 0.004,
+  "skyTop": -0.011
+ },
+ "C1447": {
+  "brightness": 75.9,
+  "contrast": 47.5,
+  "colourful": 31.5,
+  "saturation": 0.308,
+  "busy": 0.076,
+  "warm": 0.117,
+  "skyTop": -0.041
+ },
+ "C1448": {
+  "brightness": 118,
+  "contrast": 82.5,
+  "colourful": 40.8,
+  "saturation": 0.303,
+  "busy": 0.144,
+  "warm": 0.084,
+  "skyTop": 0.013
+ },
+ "C1449": {
+  "brightness": 118,
+  "contrast": 44.5,
+  "colourful": 10.9,
+  "saturation": 0.077,
+  "busy": 0.149,
+  "warm": 0.003,
+  "skyTop": -0.011
+ },
+ "C1450": {
+  "brightness": 139.5,
+  "contrast": 46.9,
+  "colourful": 60.1,
+  "saturation": 0.35,
+  "busy": 0.161,
+  "warm": 0.068,
+  "skyTop": 0.183
+ },
+ "C1451": {
+  "brightness": 99.3,
+  "contrast": 54.6,
+  "colourful": 43.8,
+  "saturation": 0.401,
+  "busy": 0.132,
+  "warm": 0.3,
+  "skyTop": -0.135
+ },
+ "C1452": {
+  "brightness": 120.6,
+  "contrast": 61.3,
+  "colourful": 135.2,
+  "saturation": 0.635,
+  "busy": 0.154,
+  "warm": 0.391,
+  "skyTop": 0.007
+ },
+ "C1453": {
+  "brightness": 109.3,
+  "contrast": 41.5,
+  "colourful": 74.2,
+  "saturation": 0.407,
+  "busy": 0.156,
+  "warm": 0.122,
+  "skyTop": 0.13
+ },
+ "C1454": {
+  "brightness": 52.7,
+  "contrast": 40.1,
+  "colourful": 55.5,
+  "saturation": 0.697,
+  "busy": 0.085,
+  "warm": 0.246,
+  "skyTop": -0.032
+ },
+ "C1455": {
+  "brightness": 130.8,
+  "contrast": 61.2,
+  "colourful": 31.3,
+  "saturation": 0.242,
+  "busy": 0.138,
+  "warm": 0.079,
+  "skyTop": 0.052
+ },
+ "C1456": {
+  "brightness": 120.3,
+  "contrast": 32.4,
+  "colourful": 11.8,
+  "saturation": 0.139,
+  "busy": 0.022,
+  "warm": 0.017,
+  "skyTop": -0.026
+ },
+ "C1457": {
+  "brightness": 55,
+  "contrast": 34.2,
+  "colourful": 84.4,
+  "saturation": 0.824,
+  "busy": 0.05,
+  "warm": 0.063,
+  "skyTop": 0.179
+ },
+ "C1458": {
+  "brightness": 64.1,
+  "contrast": 39.9,
+  "colourful": 34.8,
+  "saturation": 0.458,
+  "busy": 0.183,
+  "warm": 0.231,
+  "skyTop": -0.096
+ },
+ "C1459": {
+  "brightness": 73.4,
+  "contrast": 51.1,
+  "colourful": 49.3,
+  "saturation": 0.57,
+  "busy": 0.158,
+  "warm": 0.342,
+  "skyTop": -0.164
+ },
+ "C1460": {
+  "brightness": 99.1,
+  "contrast": 49,
+  "colourful": 87.5,
+  "saturation": 0.464,
+  "busy": 0.173,
+  "warm": 0.043,
+  "skyTop": 0.251
+ },
+ "C1461": {
+  "brightness": 116.5,
+  "contrast": 48,
+  "colourful": 44.4,
+  "saturation": 0.29,
+  "busy": 0.176,
+  "warm": 0.152,
+  "skyTop": -0.043
+ },
+ "C1462": {
+  "brightness": 126.6,
+  "contrast": 66.2,
+  "colourful": 28.3,
+  "saturation": 0.281,
+  "busy": 0.111,
+  "warm": 0,
+  "skyTop": 0.051
+ },
+ "C1463": {
+  "brightness": 117.1,
+  "contrast": 68.2,
+  "colourful": 66.1,
+  "saturation": 0.443,
+  "busy": 0.166,
+  "warm": 0.119,
+  "skyTop": -0.085
+ },
+ "C1464": {
+  "brightness": 136.2,
+  "contrast": 52.4,
+  "colourful": 65.3,
+  "saturation": 0.411,
+  "busy": 0.106,
+  "warm": 0.002,
+  "skyTop": 0.238
+ },
+ "C1465": {
+  "brightness": 94.5,
+  "contrast": 45.5,
+  "colourful": 39.7,
+  "saturation": 0.246,
+  "busy": 0.155,
+  "warm": 0.042,
+  "skyTop": 0.061
+ },
+ "C1466": {
+  "brightness": 108.6,
+  "contrast": 51.6,
+  "colourful": 56.3,
+  "saturation": 0.386,
+  "busy": 0.185,
+  "warm": 0.031,
+  "skyTop": 0.037
+ },
+ "C1467": {
+  "brightness": 79.2,
+  "contrast": 42.5,
+  "colourful": 63.1,
+  "saturation": 0.645,
+  "busy": 0.136,
+  "warm": 0.707,
+  "skyTop": -0.295
+ },
+ "C1468": {
+  "brightness": 235.2,
+  "contrast": 27.9,
+  "colourful": 17.8,
+  "saturation": 0.111,
+  "busy": 0.046,
+  "warm": 0.031,
+  "skyTop": -0.089
+ },
+ "C1469": {
+  "brightness": 120.5,
+  "contrast": 54.9,
+  "colourful": 68.8,
+  "saturation": 0.612,
+  "busy": 0.061,
+  "warm": 0,
+  "skyTop": 0.102
+ },
+ "C1470": {
+  "brightness": 107.9,
+  "contrast": 53.5,
+  "colourful": 42.3,
+  "saturation": 0.323,
+  "busy": 0.271,
+  "warm": 0.2,
+  "skyTop": -0.068
+ },
+ "C1471": {
+  "brightness": 85.1,
+  "contrast": 64.3,
+  "colourful": 70.5,
+  "saturation": 0.601,
+  "busy": 0.05,
+  "warm": 0.099,
+  "skyTop": 0.245
+ },
+ "C1472": {
+  "brightness": 100.2,
+  "contrast": 45.1,
+  "colourful": 34.4,
+  "saturation": 0.215,
+  "busy": 0.186,
+  "warm": 0.046,
+  "skyTop": 0.047
+ },
+ "C1473": {
+  "brightness": 32.5,
+  "contrast": 40.2,
+  "colourful": 34.2,
+  "saturation": 0.792,
+  "busy": 0.051,
+  "warm": 0.127,
+  "skyTop": -0.092
+ },
+ "C1474": {
+  "brightness": 153.1,
+  "contrast": 44.7,
+  "colourful": 38.4,
+  "saturation": 0.226,
+  "busy": 0.054,
+  "warm": 0.21,
+  "skyTop": 0.057
+ },
+ "C1475": {
+  "brightness": 101.8,
+  "contrast": 56.8,
+  "colourful": 56.4,
+  "saturation": 0.403,
+  "busy": 0.168,
+  "warm": 0.201,
+  "skyTop": -0.082
+ },
+ "C1476": {
+  "brightness": 117.8,
+  "contrast": 80.3,
+  "colourful": 61.3,
+  "saturation": 0.398,
+  "busy": 0.097,
+  "warm": 0.281,
+  "skyTop": 0.08
+ },
+ "C1477": {
+  "brightness": 145.4,
+  "contrast": 53.1,
+  "colourful": 62.6,
+  "saturation": 0.444,
+  "busy": 0.058,
+  "warm": 0,
+  "skyTop": 0.114
+ },
+ "C1478": {
+  "brightness": 85.8,
+  "contrast": 39.3,
+  "colourful": 50.7,
+  "saturation": 0.279,
+  "busy": 0.119,
+  "warm": 0.028,
+  "skyTop": 0.073
+ },
+ "C1479": {
+  "brightness": 98.6,
+  "contrast": 85.4,
+  "colourful": 66.2,
+  "saturation": 0.414,
+  "busy": 0.212,
+  "warm": 0.17,
+  "skyTop": -0.028
+ },
+ "C1480": {
+  "brightness": 89.7,
+  "contrast": 60.5,
+  "colourful": 44.1,
+  "saturation": 0.413,
+  "busy": 0.142,
+  "warm": 0.165,
+  "skyTop": -0.149
+ },
+ "C1481": {
+  "brightness": 118.2,
+  "contrast": 57.4,
+  "colourful": 71.7,
+  "saturation": 0.56,
+  "busy": 0.055,
+  "warm": 0.006,
+  "skyTop": 0.217
+ },
+ "C1482": {
+  "brightness": 117.4,
+  "contrast": 72.5,
+  "colourful": 54,
+  "saturation": 0.429,
+  "busy": 0.071,
+  "warm": 0.316,
+  "skyTop": 0.031
+ },
+ "C1483": {
+  "brightness": 94.5,
+  "contrast": 57.8,
+  "colourful": 46.8,
+  "saturation": 0.569,
+  "busy": 0.18,
+  "warm": 0.561,
+  "skyTop": -0.353
+ },
+ "C1484": {
+  "brightness": 84.4,
+  "contrast": 41.4,
+  "colourful": 39.6,
+  "saturation": 0.599,
+  "busy": 0.055,
+  "warm": 0.719,
+  "skyTop": -0.267
+ },
+ "C1485": {
+  "brightness": 94.6,
+  "contrast": 58.5,
+  "colourful": 42.6,
+  "saturation": 0.489,
+  "busy": 0.204,
+  "warm": 0.316,
+  "skyTop": -0.171
+ },
+ "C1486": {
+  "brightness": 84.1,
+  "contrast": 52.9,
+  "colourful": 60,
+  "saturation": 0.472,
+  "busy": 0.187,
+  "warm": 0.434,
+  "skyTop": -0.121
+ },
+ "C1487": {
+  "brightness": 100.4,
+  "contrast": 75.7,
+  "colourful": 82.7,
+  "saturation": 0.496,
+  "busy": 0.108,
+  "warm": 0.285,
+  "skyTop": -0.37
+ },
+ "C1488": {
+  "brightness": 64.6,
+  "contrast": 51.4,
+  "colourful": 28.4,
+  "saturation": 0.338,
+  "busy": 0.167,
+  "warm": 0.083,
+  "skyTop": -0.018
+ },
+ "C1489": {
+  "brightness": 138.9,
+  "contrast": 63.8,
+  "colourful": 49.2,
+  "saturation": 0.289,
+  "busy": 0.135,
+  "warm": 0.13,
+  "skyTop": 0.074
+ },
+ "C1490": {
+  "brightness": 122.2,
+  "contrast": 56.3,
+  "colourful": 41.2,
+  "saturation": 0.271,
+  "busy": 0.155,
+  "warm": 0.07,
+  "skyTop": 0.063
+ },
+ "C1491": {
+  "brightness": 21.7,
+  "contrast": 33.3,
+  "colourful": 47.1,
+  "saturation": 0.854,
+  "busy": 0.034,
+  "warm": 0.007,
+  "skyTop": 0.098
+ },
+ "C1492": {
+  "brightness": 81.3,
+  "contrast": 46.5,
+  "colourful": 51,
+  "saturation": 0.406,
+  "busy": 0.08,
+  "warm": 0.232,
+  "skyTop": -0.008
+ },
+ "C1493": {
+  "brightness": 92.7,
+  "contrast": 56.7,
+  "colourful": 31.9,
+  "saturation": 0.196,
+  "busy": 0.073,
+  "warm": 0.066,
+  "skyTop": 0.005
+ },
+ "C1494": {
+  "brightness": 81.2,
+  "contrast": 60.9,
+  "colourful": 68.8,
+  "saturation": 0.664,
+  "busy": 0.164,
+  "warm": 0.611,
+  "skyTop": -0.299
+ },
+ "C1495": {
+  "brightness": 67.3,
+  "contrast": 53,
+  "colourful": 19.2,
+  "saturation": 0.134,
+  "busy": 0.286,
+  "warm": 0.035,
+  "skyTop": -0.026
+ },
+ "C1496": {
+  "brightness": 109.5,
+  "contrast": 57.2,
+  "colourful": 54.6,
+  "saturation": 0.315,
+  "busy": 0.143,
+  "warm": 0.232,
+  "skyTop": 0.084
+ },
+ "C1497": {
+  "brightness": 137.2,
+  "contrast": 55.6,
+  "colourful": 60.2,
+  "saturation": 0.352,
+  "busy": 0.111,
+  "warm": 0.126,
+  "skyTop": 0.136
+ },
+ "C1498": {
+  "brightness": 125.5,
+  "contrast": 58.8,
+  "colourful": 100.7,
+  "saturation": 0.491,
+  "busy": 0.105,
+  "warm": 0.024,
+  "skyTop": 0.369
+ },
+ "C1499": {
+  "brightness": 119.2,
+  "contrast": 58.5,
+  "colourful": 56.8,
+  "saturation": 0.335,
+  "busy": 0.095,
+  "warm": 0.259,
+  "skyTop": -0.008
+ },
+ "C1500": {
+  "brightness": 62.8,
+  "contrast": 56.5,
+  "colourful": 45.1,
+  "saturation": 0.551,
+  "busy": 0.112,
+  "warm": 0.239,
+  "skyTop": -0.135
+ },
+ "C1501": {
+  "brightness": 128.5,
+  "contrast": 44.1,
+  "colourful": 60.3,
+  "saturation": 0.387,
+  "busy": 0.049,
+  "warm": 0.001,
+  "skyTop": 0.212
+ },
+ "C1502": {
+  "brightness": 93.5,
+  "contrast": 47.4,
+  "colourful": 35.2,
+  "saturation": 0.257,
+  "busy": 0.116,
+  "warm": 0.055,
+  "skyTop": 0.082
+ },
+ "C1503": {
+  "brightness": 109.5,
+  "contrast": 63.4,
+  "colourful": 24.4,
+  "saturation": 0.21,
+  "busy": 0.348,
+  "warm": 0.088,
+  "skyTop": -0.116
+ },
+ "C1504": {
+  "brightness": 139.9,
+  "contrast": 40.4,
+  "colourful": 127.4,
+  "saturation": 0.573,
+  "busy": 0.101,
+  "warm": 0.014,
+  "skyTop": 0.365
+ },
+ "C1505": {
+  "brightness": 124.8,
+  "contrast": 63.2,
+  "colourful": 43.9,
+  "saturation": 0.374,
+  "busy": 0.108,
+  "warm": 0.44,
+  "skyTop": -0.168
+ },
+ "C1506": {
+  "brightness": 60.1,
+  "contrast": 64,
+  "colourful": 26.3,
+  "saturation": 0.457,
+  "busy": 0.13,
+  "warm": 0.001,
+  "skyTop": -0.062
+ },
+ "C1507": {
+  "brightness": 133.2,
+  "contrast": 76.9,
+  "colourful": 51.4,
+  "saturation": 0.361,
+  "busy": 0.192,
+  "warm": 0.354,
+  "skyTop": -0.156
+ },
+ "C1508": {
+  "brightness": 140.1,
+  "contrast": 56.5,
+  "colourful": 47.1,
+  "saturation": 0.249,
+  "busy": 0.186,
+  "warm": 0.233,
+  "skyTop": 0.008
+ },
+ "C1509": {
+  "brightness": 75.9,
+  "contrast": 48.8,
+  "colourful": 23.5,
+  "saturation": 0.375,
+  "busy": 0.223,
+  "warm": 0.002,
+  "skyTop": 0.056
+ },
+ "C1510": {
+  "brightness": 160.1,
+  "contrast": 57.1,
+  "colourful": 23.8,
+  "saturation": 0.187,
+  "busy": 0.057,
+  "warm": 0.044,
+  "skyTop": -0.08
+ },
+ "C1511": {
+  "brightness": 106.6,
+  "contrast": 43.5,
+  "colourful": 24.9,
+  "saturation": 0.333,
+  "busy": 0.038,
+  "warm": 0.171,
+  "skyTop": -0.096
+ },
+ "C1512": {
+  "brightness": 71,
+  "contrast": 55.7,
+  "colourful": 44.9,
+  "saturation": 0.391,
+  "busy": 0.222,
+  "warm": 0.156,
+  "skyTop": -0.14
+ },
+ "C1513": {
+  "brightness": 142.4,
+  "contrast": 57.5,
+  "colourful": 38.8,
+  "saturation": 0.2,
+  "busy": 0.121,
+  "warm": 0.189,
+  "skyTop": -0.186
+ },
+ "C1514": {
+  "brightness": 147,
+  "contrast": 62.3,
+  "colourful": 76.4,
+  "saturation": 0.363,
+  "busy": 0.146,
+  "warm": 0.05,
+  "skyTop": 0.111
+ },
+ "C1515": {
+  "brightness": 123.9,
+  "contrast": 51.9,
+  "colourful": 76.4,
+  "saturation": 0.45,
+  "busy": 0.144,
+  "warm": 0.013,
+  "skyTop": -0.091
+ },
+ "C1516": {
+  "brightness": 127.7,
+  "contrast": 62.2,
+  "colourful": 90.7,
+  "saturation": 0.485,
+  "busy": 0.21,
+  "warm": 0.011,
+  "skyTop": 0.28
+ },
+ "C1517": {
+  "brightness": 75.1,
+  "contrast": 69.1,
+  "colourful": 26.8,
+  "saturation": 0.366,
+  "busy": 0.222,
+  "warm": 0.042,
+  "skyTop": -0.093
+ },
+ "C1518": {
+  "brightness": 141.2,
+  "contrast": 57.8,
+  "colourful": 35,
+  "saturation": 0.195,
+  "busy": 0.076,
+  "warm": 0.013,
+  "skyTop": 0.112
+ },
+ "C1519": {
+  "brightness": 114.5,
+  "contrast": 57.3,
+  "colourful": 48.2,
+  "saturation": 0.287,
+  "busy": 0.183,
+  "warm": 0.079,
+  "skyTop": 0.149
+ },
+ "C1520": {
+  "brightness": 135.6,
+  "contrast": 61,
+  "colourful": 30.4,
+  "saturation": 0.273,
+  "busy": 0.135,
+  "warm": 0.167,
+  "skyTop": -0.053
+ },
+ "C1521": {
+  "brightness": 108.1,
+  "contrast": 60.8,
+  "colourful": 41.2,
+  "saturation": 0.28,
+  "busy": 0.216,
+  "warm": 0.204,
+  "skyTop": -0.223
+ },
+ "C1522": {
+  "brightness": 132.1,
+  "contrast": 78.4,
+  "colourful": 47.9,
+  "saturation": 0.309,
+  "busy": 0.183,
+  "warm": 0.229,
+  "skyTop": -0.173
+ },
+ "C1523": {
+  "brightness": 127.8,
+  "contrast": 57.6,
+  "colourful": 69.6,
+  "saturation": 0.561,
+  "busy": 0.126,
+  "warm": 0.601,
+  "skyTop": -0.371
+ },
+ "C1524": {
+  "brightness": 144.8,
+  "contrast": 54.7,
+  "colourful": 34.4,
+  "saturation": 0.186,
+  "busy": 0.06,
+  "warm": 0.051,
+  "skyTop": 0.102
+ },
+ "C1525": {
+  "brightness": 68.9,
+  "contrast": 54.3,
+  "colourful": 83.5,
+  "saturation": 0.634,
+  "busy": 0.116,
+  "warm": 0.193,
+  "skyTop": 0.072
+ },
+ "C1526": {
+  "brightness": 122.5,
+  "contrast": 63.7,
+  "colourful": 50.4,
+  "saturation": 0.282,
+  "busy": 0.215,
+  "warm": 0.174,
+  "skyTop": 0.061
+ },
+ "C1527": {
+  "brightness": 114.7,
+  "contrast": 59.8,
+  "colourful": 37.8,
+  "saturation": 0.271,
+  "busy": 0.112,
+  "warm": 0.096,
+  "skyTop": -0.113
+ },
+ "C1528": {
+  "brightness": 132.6,
+  "contrast": 68,
+  "colourful": 36.3,
+  "saturation": 0.184,
+  "busy": 0.137,
+  "warm": 0.164,
+  "skyTop": -0.027
+ },
+ "C1529": {
+  "brightness": 76.7,
+  "contrast": 56.1,
+  "colourful": 70.2,
+  "saturation": 0.477,
+  "busy": 0.112,
+  "warm": 0.317,
+  "skyTop": -0.181
+ },
+ "C1530": {
+  "brightness": 63,
+  "contrast": 43.9,
+  "colourful": 46.6,
+  "saturation": 0.697,
+  "busy": 0.064,
+  "warm": 0.558,
+  "skyTop": -0.095
+ },
+ "C1531": {
+  "brightness": 105.6,
+  "contrast": 56.7,
+  "colourful": 38.8,
+  "saturation": 0.258,
+  "busy": 0.181,
+  "warm": 0.141,
+  "skyTop": -0.017
+ },
+ "C1532": {
+  "brightness": 82.2,
+  "contrast": 46.5,
+  "colourful": 81.2,
+  "saturation": 0.829,
+  "busy": 0.033,
+  "warm": 0,
+  "skyTop": 0.065
+ },
+ "C1533": {
+  "brightness": 83,
+  "contrast": 57.9,
+  "colourful": 40.8,
+  "saturation": 0.425,
+  "busy": 0.261,
+  "warm": 0.327,
+  "skyTop": -0.211
+ },
+ "C1534": {
+  "brightness": 106.2,
+  "contrast": 69.4,
+  "colourful": 61.5,
+  "saturation": 0.428,
+  "busy": 0.072,
+  "warm": 0.187,
+  "skyTop": 0.118
+ },
+ "C1535": {
+  "brightness": 106.1,
+  "contrast": 62.7,
+  "colourful": 37.4,
+  "saturation": 0.228,
+  "busy": 0.204,
+  "warm": 0.085,
+  "skyTop": -0.064
+ },
+ "C1536": {
+  "brightness": 86.7,
+  "contrast": 43,
+  "colourful": 49.3,
+  "saturation": 0.283,
+  "busy": 0.14,
+  "warm": 0.051,
+  "skyTop": 0.176
+ },
+ "C1537": {
+  "brightness": 97.5,
+  "contrast": 35.5,
+  "colourful": 36.6,
+  "saturation": 0.277,
+  "busy": 0.15,
+  "warm": 0.003,
+  "skyTop": 0.145
+ },
+ "C1538": {
+  "brightness": 104,
+  "contrast": 38.1,
+  "colourful": 53.4,
+  "saturation": 0.383,
+  "busy": 0.134,
+  "warm": 0.049,
+  "skyTop": 0.06
+ },
+ "C1539": {
+  "brightness": 93.9,
+  "contrast": 42,
+  "colourful": 89.5,
+  "saturation": 0.37,
+  "busy": 0.115,
+  "warm": 0.075,
+  "skyTop": -0.108
+ },
+ "C1540": {
+  "brightness": 136.8,
+  "contrast": 58.7,
+  "colourful": 34.1,
+  "saturation": 0.197,
+  "busy": 0.119,
+  "warm": 0.071,
+  "skyTop": -0.053
+ },
+ "C1541": {
+  "brightness": 137.3,
+  "contrast": 69.5,
+  "colourful": 53,
+  "saturation": 0.412,
+  "busy": 0.118,
+  "warm": 0.507,
+  "skyTop": -0.301
+ },
+ "C1542": {
+  "brightness": 151.7,
+  "contrast": 62.8,
+  "colourful": 55.4,
+  "saturation": 0.283,
+  "busy": 0.12,
+  "warm": 0.319,
+  "skyTop": -0.049
+ },
+ "C1543": {
+  "brightness": 80,
+  "contrast": 68.7,
+  "colourful": 49.4,
+  "saturation": 0.388,
+  "busy": 0.132,
+  "warm": 0.216,
+  "skyTop": -0.181
+ },
+ "C1544": {
+  "brightness": 68.8,
+  "contrast": 41.6,
+  "colourful": 66,
+  "saturation": 0.804,
+  "busy": 0.037,
+  "warm": 0.002,
+  "skyTop": 0.118
+ },
+ "C1545": {
+  "brightness": 142,
+  "contrast": 60.7,
+  "colourful": 54.7,
+  "saturation": 0.367,
+  "busy": 0.056,
+  "warm": 0.467,
+  "skyTop": 0.041
+ },
+ "C1546": {
+  "brightness": 102.2,
+  "contrast": 54.3,
+  "colourful": 35.5,
+  "saturation": 0.281,
+  "busy": 0.172,
+  "warm": 0.153,
+  "skyTop": -0.133
+ },
+ "C1547": {
+  "brightness": 101.6,
+  "contrast": 66.3,
+  "colourful": 31.4,
+  "saturation": 0.297,
+  "busy": 0.06,
+  "warm": 0.012,
+  "skyTop": 0.086
+ },
+ "C1548": {
+  "brightness": 156.1,
+  "contrast": 60.3,
+  "colourful": 50,
+  "saturation": 0.328,
+  "busy": 0.117,
+  "warm": 0.484,
+  "skyTop": -0.313
+ },
+ "C1549": {
+  "brightness": 68.9,
+  "contrast": 43.9,
+  "colourful": 33.9,
+  "saturation": 0.435,
+  "busy": 0.105,
+  "warm": 0.18,
+  "skyTop": -0.026
+ },
+ "C1550": {
+  "brightness": 83.4,
+  "contrast": 41.4,
+  "colourful": 38.7,
+  "saturation": 0.337,
+  "busy": 0.196,
+  "warm": 0.237,
+  "skyTop": -0.088
+ },
+ "C1551": {
+  "brightness": 114.9,
+  "contrast": 57.8,
+  "colourful": 51.7,
+  "saturation": 0.305,
+  "busy": 0.271,
+  "warm": 0.201,
+  "skyTop": -0.027
+ },
+ "C1552": {
+  "brightness": 130.1,
+  "contrast": 42.4,
+  "colourful": 43.5,
+  "saturation": 0.246,
+  "busy": 0.044,
+  "warm": 0.121,
+  "skyTop": 0.138
+ },
+ "C1553": {
+  "brightness": 91.6,
+  "contrast": 54.4,
+  "colourful": 42.9,
+  "saturation": 0.437,
+  "busy": 0.268,
+  "warm": 0.39,
+  "skyTop": -0.214
+ },
+ "C1554": {
+  "brightness": 199.3,
+  "contrast": 50.7,
+  "colourful": 26.2,
+  "saturation": 0.132,
+  "busy": 0.064,
+  "warm": 0.05,
+  "skyTop": -0.05
+ },
+ "C1555": {
+  "brightness": 88.2,
+  "contrast": 43.9,
+  "colourful": 55.9,
+  "saturation": 0.356,
+  "busy": 0.114,
+  "warm": 0.095,
+  "skyTop": 0.121
+ },
+ "C1556": {
+  "brightness": 57.3,
+  "contrast": 35.2,
+  "colourful": 76.4,
+  "saturation": 0.588,
+  "busy": 0.118,
+  "warm": 0.091,
+  "skyTop": 0.255
+ },
+ "C1557": {
+  "brightness": 87.5,
+  "contrast": 49.4,
+  "colourful": 56,
+  "saturation": 0.439,
+  "busy": 0.187,
+  "warm": 0.362,
+  "skyTop": -0.276
+ },
+ "C1558": {
+  "brightness": 138.1,
+  "contrast": 40.2,
+  "colourful": 42.3,
+  "saturation": 0.308,
+  "busy": 0.059,
+  "warm": 0.009,
+  "skyTop": 0.072
+ },
+ "C1559": {
+  "brightness": 147.9,
+  "contrast": 58.6,
+  "colourful": 63.7,
+  "saturation": 0.327,
+  "busy": 0.203,
+  "warm": 0.142,
+  "skyTop": 0.135
+ },
+ "C1560": {
+  "brightness": 64.2,
+  "contrast": 45.9,
+  "colourful": 62,
+  "saturation": 0.785,
+  "busy": 0.048,
+  "warm": 0.493,
+  "skyTop": -0.213
+ },
+ "C1561": {
+  "brightness": 113,
+  "contrast": 73.8,
+  "colourful": 32.1,
+  "saturation": 0.213,
+  "busy": 0.169,
+  "warm": 0.103,
+  "skyTop": -0.083
+ },
+ "C1562": {
+  "brightness": 124.1,
+  "contrast": 82.8,
+  "colourful": 23.1,
+  "saturation": 0.214,
+  "busy": 0.199,
+  "warm": 0.021,
+  "skyTop": -0.027
+ },
+ "C1563": {
+  "brightness": 116.2,
+  "contrast": 59.9,
+  "colourful": 36.3,
+  "saturation": 0.266,
+  "busy": 0.215,
+  "warm": 0.011,
+  "skyTop": 0.078
+ },
+ "C1564": {
+  "brightness": 95.4,
+  "contrast": 57.6,
+  "colourful": 40.2,
+  "saturation": 0.331,
+  "busy": 0.07,
+  "warm": 0.138,
+  "skyTop": 0.088
+ },
+ "C1565": {
+  "brightness": 94.4,
+  "contrast": 65.6,
+  "colourful": 29.2,
+  "saturation": 0.257,
+  "busy": 0.04,
+  "warm": 0.087,
+  "skyTop": 0.021
+ },
+ "C1566": {
+  "brightness": 93.5,
+  "contrast": 64.7,
+  "colourful": 40.9,
+  "saturation": 0.406,
+  "busy": 0.109,
+  "warm": 0.068,
+  "skyTop": -0.026
+ },
+ "C1567": {
+  "brightness": 137.5,
+  "contrast": 49.5,
+  "colourful": 33.3,
+  "saturation": 0.213,
+  "busy": 0.186,
+  "warm": 0.02,
+  "skyTop": 0.056
+ },
+ "C1568": {
+  "brightness": 104,
+  "contrast": 57.9,
+  "colourful": 60.4,
+  "saturation": 0.396,
+  "busy": 0.109,
+  "warm": 0.09,
+  "skyTop": 0.172
+ },
+ "C1569": {
+  "brightness": 50.6,
+  "contrast": 33.9,
+  "colourful": 38.2,
+  "saturation": 0.705,
+  "busy": 0.046,
+  "warm": 0.291,
+  "skyTop": -0.116
+ },
+ "C1570": {
+  "brightness": 94.4,
+  "contrast": 60.1,
+  "colourful": 24.6,
+  "saturation": 0.183,
+  "busy": 0.123,
+  "warm": 0.019,
+  "skyTop": 0.053
+ },
+ "C1571": {
+  "brightness": 146.6,
+  "contrast": 78.4,
+  "colourful": 25.7,
+  "saturation": 0.128,
+  "busy": 0.151,
+  "warm": 0.061,
+  "skyTop": -0.031
+ },
+ "C1572": {
+  "brightness": 129.8,
+  "contrast": 57.3,
+  "colourful": 49.8,
+  "saturation": 0.326,
+  "busy": 0.064,
+  "warm": 0.375,
+  "skyTop": -0.171
+ },
+ "C1573": {
+  "brightness": 104.9,
+  "contrast": 65.9,
+  "colourful": 107,
+  "saturation": 0.596,
+  "busy": 0.165,
+  "warm": 0.614,
+  "skyTop": -0.51
+ },
+ "C1574": {
+  "brightness": 21.6,
+  "contrast": 50.2,
+  "colourful": 71.2,
+  "saturation": 0.857,
+  "busy": 0.073,
+  "warm": 0.072,
+  "skyTop": -0.055
+ },
+ "C1575": {
+  "brightness": 131.1,
+  "contrast": 63.4,
+  "colourful": 42.2,
+  "saturation": 0.339,
+  "busy": 0.188,
+  "warm": 0.441,
+  "skyTop": -0.204
+ },
+ "C1576": {
+  "brightness": 85.9,
+  "contrast": 52,
+  "colourful": 49.6,
+  "saturation": 0.357,
+  "busy": 0.131,
+  "warm": 0.3,
+  "skyTop": 0.027
+ },
+ "C1577": {
+  "brightness": 147.2,
+  "contrast": 61.4,
+  "colourful": 78.3,
+  "saturation": 0.434,
+  "busy": 0.148,
+  "warm": 0,
+  "skyTop": 0.333
+ },
+ "C1578": {
+  "brightness": 118.4,
+  "contrast": 49.1,
+  "colourful": 37,
+  "saturation": 0.408,
+  "busy": 0.13,
+  "warm": 0.412,
+  "skyTop": -0.254
+ },
+ "C1579": {
+  "brightness": 90.3,
+  "contrast": 59.9,
+  "colourful": 20.2,
+  "saturation": 0.216,
+  "busy": 0.161,
+  "warm": 0.054,
+  "skyTop": -0.001
+ },
+ "C1580": {
+  "brightness": 116.3,
+  "contrast": 80.8,
+  "colourful": 24.5,
+  "saturation": 0.164,
+  "busy": 0.181,
+  "warm": 0.078,
+  "skyTop": -0.041
+ },
+ "C1581": {
+  "brightness": 146.4,
+  "contrast": 58.5,
+  "colourful": 36,
+  "saturation": 0.196,
+  "busy": 0.159,
+  "warm": 0.018,
+  "skyTop": 0.067
+ },
+ "C1582": {
+  "brightness": 228.7,
+  "contrast": 61.5,
+  "colourful": 41,
+  "saturation": 0.082,
+  "busy": 0.09,
+  "warm": 0.012,
+  "skyTop": -0.003
+ },
+ "C1583": {
+  "brightness": 97.7,
+  "contrast": 70.5,
+  "colourful": 30.1,
+  "saturation": 0.284,
+  "busy": 0.241,
+  "warm": 0.038,
+  "skyTop": 0.033
+ },
+ "C1584": {
+  "brightness": 93.6,
+  "contrast": 49.4,
+  "colourful": 50.8,
+  "saturation": 0.436,
+  "busy": 0.199,
+  "warm": 0.021,
+  "skyTop": 0.081
+ },
+ "C1585": {
+  "brightness": 126.8,
+  "contrast": 64,
+  "colourful": 85.3,
+  "saturation": 0.472,
+  "busy": 0.046,
+  "warm": 0.361,
+  "skyTop": 0.289
+ },
+ "C1586": {
+  "brightness": 171.3,
+  "contrast": 69.1,
+  "colourful": 27.3,
+  "saturation": 0.137,
+  "busy": 0.173,
+  "warm": 0.058,
+  "skyTop": -0.042
+ },
+ "C1587": {
+  "brightness": 135.9,
+  "contrast": 48.6,
+  "colourful": 97.7,
+  "saturation": 0.536,
+  "busy": 0.088,
+  "warm": 0.004,
+  "skyTop": 0.347
+ },
+ "C1588": {
+  "brightness": 122,
+  "contrast": 28.7,
+  "colourful": 77.7,
+  "saturation": 0.797,
+  "busy": 0.068,
+  "warm": 0.001,
+  "skyTop": 0.008
+ },
+ "C1589": {
+  "brightness": 118.3,
+  "contrast": 48.5,
+  "colourful": 93.5,
+  "saturation": 0.846,
+  "busy": 0.036,
+  "warm": 0.925,
+  "skyTop": -0.8
+ },
+ "C1590": {
+  "brightness": 137.2,
+  "contrast": 64.7,
+  "colourful": 32.3,
+  "saturation": 0.219,
+  "busy": 0.302,
+  "warm": 0.055,
+  "skyTop": -0.165
+ },
+ "C1591": {
+  "brightness": 106.8,
+  "contrast": 68.1,
+  "colourful": 37.8,
+  "saturation": 0.241,
+  "busy": 0.147,
+  "warm": 0.14,
+  "skyTop": 0.074
+ },
+ "C1592": {
+  "brightness": 67.4,
+  "contrast": 28.8,
+  "colourful": 14.5,
+  "saturation": 0.242,
+  "busy": 0.042,
+  "warm": 0.014,
+  "skyTop": -0.082
+ },
+ "C1593": {
+  "brightness": 114.9,
+  "contrast": 73.8,
+  "colourful": 54.3,
+  "saturation": 0.392,
+  "busy": 0.169,
+  "warm": 0.314,
+  "skyTop": -0.256
+ },
+ "C1594": {
+  "brightness": 121.1,
+  "contrast": 45.8,
+  "colourful": 62,
+  "saturation": 0.364,
+  "busy": 0.163,
+  "warm": 0.282,
+  "skyTop": -0.03
+ },
+ "C1595": {
+  "brightness": 153.5,
+  "contrast": 50.3,
+  "colourful": 27,
+  "saturation": 0.154,
+  "busy": 0.119,
+  "warm": 0.011,
+  "skyTop": 0.009
+ },
+ "C1596": {
+  "brightness": 130,
+  "contrast": 57.1,
+  "colourful": 62.4,
+  "saturation": 0.329,
+  "busy": 0.114,
+  "warm": 0.238,
+  "skyTop": 0.019
+ },
+ "C1597": {
+  "brightness": 124.7,
+  "contrast": 49,
+  "colourful": 48.2,
+  "saturation": 0.308,
+  "busy": 0.159,
+  "warm": 0.102,
+  "skyTop": 0.126
+ },
+ "C1598": {
+  "brightness": 121.9,
+  "contrast": 54.3,
+  "colourful": 53.9,
+  "saturation": 0.353,
+  "busy": 0.114,
+  "warm": 0.4,
+  "skyTop": -0.088
+ },
+ "C1599": {
+  "brightness": 101.4,
+  "contrast": 73.7,
+  "colourful": 31.7,
+  "saturation": 0.295,
+  "busy": 0.082,
+  "warm": 0.01,
+  "skyTop": 0.09
+ },
+ "C1600": {
+  "brightness": 43.3,
+  "contrast": 43.8,
+  "colourful": 24.4,
+  "saturation": 0.42,
+  "busy": 0.083,
+  "warm": 0.092,
+  "skyTop": -0.094
+ },
+ "C1601": {
+  "brightness": 138.6,
+  "contrast": 68.3,
+  "colourful": 41.9,
+  "saturation": 0.316,
+  "busy": 0.107,
+  "warm": 0.329,
+  "skyTop": -0.033
+ },
+ "C1602": {
+  "brightness": 80.4,
+  "contrast": 51.1,
+  "colourful": 16.7,
+  "saturation": 0.218,
+  "busy": 0.035,
+  "warm": 0.017,
+  "skyTop": -0.071
+ },
+ "C1603": {
+  "brightness": 83,
+  "contrast": 67.3,
+  "colourful": 45.1,
+  "saturation": 0.394,
+  "busy": 0.068,
+  "warm": 0.088,
+  "skyTop": 0.093
+ },
+ "C1604": {
+  "brightness": 94.4,
+  "contrast": 46.2,
+  "colourful": 72,
+  "saturation": 0.427,
+  "busy": 0.131,
+  "warm": 0.001,
+  "skyTop": 0.135
+ },
+ "C1605": {
+  "brightness": 141.6,
+  "contrast": 54.6,
+  "colourful": 45.6,
+  "saturation": 0.364,
+  "busy": 0.187,
+  "warm": 0.153,
+  "skyTop": -0.265
+ },
+ "C1606": {
+  "brightness": 113.4,
+  "contrast": 67,
+  "colourful": 75.1,
+  "saturation": 0.61,
+  "busy": 0.065,
+  "warm": 0.001,
+  "skyTop": 0.298
+ },
+ "C1607": {
+  "brightness": 79.1,
+  "contrast": 42.5,
+  "colourful": 48.2,
+  "saturation": 0.664,
+  "busy": 0.101,
+  "warm": 0.627,
+  "skyTop": -0.254
+ },
+ "C1608": {
+  "brightness": 135.3,
+  "contrast": 55.8,
+  "colourful": 57.7,
+  "saturation": 0.321,
+  "busy": 0.099,
+  "warm": 0.025,
+  "skyTop": 0.018
+ },
+ "C1609": {
+  "brightness": 42.8,
+  "contrast": 46.1,
+  "colourful": 10.2,
+  "saturation": 0.299,
+  "busy": 0.082,
+  "warm": 0,
+  "skyTop": -0.026
+ },
+ "C1610": {
+  "brightness": 162.3,
+  "contrast": 52.9,
+  "colourful": 59.7,
+  "saturation": 0.309,
+  "busy": 0.106,
+  "warm": 0.243,
+  "skyTop": 0.138
+ },
+ "C1611": {
+  "brightness": 86.8,
+  "contrast": 46.6,
+  "colourful": 75.1,
+  "saturation": 0.524,
+  "busy": 0.182,
+  "warm": 0.124,
+  "skyTop": 0.07
+ },
+ "C1612": {
+  "brightness": 103,
+  "contrast": 63.6,
+  "colourful": 35.2,
+  "saturation": 0.322,
+  "busy": 0.083,
+  "warm": 0.001,
+  "skyTop": 0.029
+ },
+ "C1613": {
+  "brightness": 43.5,
+  "contrast": 44.2,
+  "colourful": 39.1,
+  "saturation": 0.618,
+  "busy": 0.061,
+  "warm": 0.013,
+  "skyTop": 0.202
+ },
+ "C1614": {
+  "brightness": 99.7,
+  "contrast": 54.8,
+  "colourful": 75.5,
+  "saturation": 0.518,
+  "busy": 0.214,
+  "warm": 0.065,
+  "skyTop": 0.235
+ },
+ "C1615": {
+  "brightness": 144.1,
+  "contrast": 55.9,
+  "colourful": 58.9,
+  "saturation": 0.323,
+  "busy": 0.025,
+  "warm": 0.169,
+  "skyTop": 0.151
+ },
+ "C1616": {
+  "brightness": 116.3,
+  "contrast": 64,
+  "colourful": 35.8,
+  "saturation": 0.283,
+  "busy": 0.193,
+  "warm": 0.022,
+  "skyTop": 0
+ },
+ "C1617": {
+  "brightness": 111.7,
+  "contrast": 61.3,
+  "colourful": 29.8,
+  "saturation": 0.204,
+  "busy": 0.165,
+  "warm": 0.044,
+  "skyTop": 0.029
+ },
+ "C1618": {
+  "brightness": 141,
+  "contrast": 73.3,
+  "colourful": 30.7,
+  "saturation": 0.168,
+  "busy": 0.155,
+  "warm": 0.025,
+  "skyTop": 0.03
+ },
+ "C1619": {
+  "brightness": 33,
+  "contrast": 36.8,
+  "colourful": 42.9,
+  "saturation": 0.663,
+  "busy": 0.037,
+  "warm": 0.047,
+  "skyTop": 0.115
+ },
+ "C1620": {
+  "brightness": 148.8,
+  "contrast": 68.1,
+  "colourful": 45.2,
+  "saturation": 0.277,
+  "busy": 0.194,
+  "warm": 0.058,
+  "skyTop": 0.111
+ },
+ "C1621": {
+  "brightness": 90.3,
+  "contrast": 38,
+  "colourful": 30.2,
+  "saturation": 0.277,
+  "busy": 0.25,
+  "warm": 0.038,
+  "skyTop": -0.085
+ },
+ "C1622": {
+  "brightness": 169.2,
+  "contrast": 54.6,
+  "colourful": 79.3,
+  "saturation": 0.402,
+  "busy": 0.064,
+  "warm": 0.002,
+  "skyTop": -0.049
+ },
+ "C1623": {
+  "brightness": 81,
+  "contrast": 42.5,
+  "colourful": 30,
+  "saturation": 0.209,
+  "busy": 0.171,
+  "warm": 0.036,
+  "skyTop": 0.002
+ },
+ "C1624": {
+  "brightness": 70.2,
+  "contrast": 53.4,
+  "colourful": 22.5,
+  "saturation": 0.413,
+  "busy": 0.212,
+  "warm": 0.054,
+  "skyTop": -0.091
+ },
+ "C1625": {
+  "brightness": 30.8,
+  "contrast": 27,
+  "colourful": 14.5,
+  "saturation": 0.427,
+  "busy": 0.055,
+  "warm": 0.002,
+  "skyTop": 0.028
+ },
+ "C1626": {
+  "brightness": 107.3,
+  "contrast": 61,
+  "colourful": 27.7,
+  "saturation": 0.184,
+  "busy": 0.122,
+  "warm": 0.088,
+  "skyTop": 0.031
+ },
+ "C1627": {
+  "brightness": 87.6,
+  "contrast": 61.3,
+  "colourful": 62.7,
+  "saturation": 0.703,
+  "busy": 0.137,
+  "warm": 0,
+  "skyTop": 0.056
+ },
+ "C1628": {
+  "brightness": 58.5,
+  "contrast": 54.8,
+  "colourful": 36.1,
+  "saturation": 0.684,
+  "busy": 0.075,
+  "warm": 0.212,
+  "skyTop": -0.193
+ },
+ "C1629": {
+  "brightness": 156,
+  "contrast": 57,
+  "colourful": 18.9,
+  "saturation": 0.118,
+  "busy": 0.069,
+  "warm": 0.025,
+  "skyTop": 0
+ },
+ "C1630": {
+  "brightness": 127.9,
+  "contrast": 53.4,
+  "colourful": 59.5,
+  "saturation": 0.376,
+  "busy": 0.069,
+  "warm": 0.473,
+  "skyTop": -0.209
+ },
+ "C1631": {
+  "brightness": 88.7,
+  "contrast": 43.3,
+  "colourful": 55.2,
+  "saturation": 0.369,
+  "busy": 0.078,
+  "warm": 0.54,
+  "skyTop": -0.173
+ },
+ "C1632": {
+  "brightness": 143.8,
+  "contrast": 68.8,
+  "colourful": 63.8,
+  "saturation": 0.288,
+  "busy": 0.119,
+  "warm": 0.094,
+  "skyTop": 0.1
+ },
+ "C1633": {
+  "brightness": 86.8,
+  "contrast": 43.2,
+  "colourful": 82.5,
+  "saturation": 0.669,
+  "busy": 0.128,
+  "warm": 0.001,
+  "skyTop": 0.161
+ },
+ "C1634": {
+  "brightness": 189.2,
+  "contrast": 75.3,
+  "colourful": 54.4,
+  "saturation": 0.213,
+  "busy": 0.155,
+  "warm": 0.101,
+  "skyTop": 0.001
+ },
+ "C1635": {
+  "brightness": 128.7,
+  "contrast": 68.2,
+  "colourful": 77.4,
+  "saturation": 0.477,
+  "busy": 0.183,
+  "warm": 0.191,
+  "skyTop": 0.119
+ },
+ "C1636": {
+  "brightness": 95.2,
+  "contrast": 42.6,
+  "colourful": 27.4,
+  "saturation": 0.226,
+  "busy": 0.223,
+  "warm": 0.009,
+  "skyTop": -0.049
+ },
+ "C1637": {
+  "brightness": 89.7,
+  "contrast": 84.4,
+  "colourful": 16.5,
+  "saturation": 0.132,
+  "busy": 0.071,
+  "warm": 0.017,
+  "skyTop": -0.032
+ },
+ "C1638": {
+  "brightness": 128.9,
+  "contrast": 54.9,
+  "colourful": 117.7,
+  "saturation": 0.583,
+  "busy": 0.1,
+  "warm": 0.029,
+  "skyTop": 0.474
+ },
+ "C1639": {
+  "brightness": 120.7,
+  "contrast": 69.7,
+  "colourful": 68.8,
+  "saturation": 0.422,
+  "busy": 0.115,
+  "warm": 0.374,
+  "skyTop": -0.233
+ },
+ "C1640": {
+  "brightness": 124.1,
+  "contrast": 52.4,
+  "colourful": 52.2,
+  "saturation": 0.335,
+  "busy": 0.084,
+  "warm": 0.3,
+  "skyTop": 0.068
+ },
+ "C1641": {
+  "brightness": 119.4,
+  "contrast": 54,
+  "colourful": 75.1,
+  "saturation": 0.479,
+  "busy": 0.055,
+  "warm": 0.154,
+  "skyTop": 0.101
+ },
+ "C1642": {
+  "brightness": 151.6,
+  "contrast": 52.7,
+  "colourful": 79.5,
+  "saturation": 0.392,
+  "busy": 0.134,
+  "warm": 0.093,
+  "skyTop": 0.152
+ },
+ "C1643": {
+  "brightness": 72.2,
+  "contrast": 46.4,
+  "colourful": 48.7,
+  "saturation": 0.344,
+  "busy": 0.136,
+  "warm": 0.141,
+  "skyTop": -0.07
+ },
+ "C1644": {
+  "brightness": 100.5,
+  "contrast": 53,
+  "colourful": 40.6,
+  "saturation": 0.382,
+  "busy": 0.028,
+  "warm": 0.46,
+  "skyTop": -0.263
+ },
+ "C1645": {
+  "brightness": 131.8,
+  "contrast": 72.6,
+  "colourful": 65.8,
+  "saturation": 0.334,
+  "busy": 0.123,
+  "warm": 0.241,
+  "skyTop": -0.064
+ },
+ "C1646": {
+  "brightness": 157.5,
+  "contrast": 71.2,
+  "colourful": 88.4,
+  "saturation": 0.445,
+  "busy": 0.304,
+  "warm": 0.248,
+  "skyTop": 0.108
+ },
+ "C1647": {
+  "brightness": 35.3,
+  "contrast": 43.6,
+  "colourful": 19.4,
+  "saturation": 0.656,
+  "busy": 0.078,
+  "warm": 0.014,
+  "skyTop": -0.009
+ },
+ "C1648": {
+  "brightness": 124.7,
+  "contrast": 35,
+  "colourful": 13.2,
+  "saturation": 0.104,
+  "busy": 0.034,
+  "warm": 0.007,
+  "skyTop": -0.033
+ },
+ "C1649": {
+  "brightness": 84.1,
+  "contrast": 50.9,
+  "colourful": 0.3,
+  "saturation": 0.001,
+  "busy": 0.07,
+  "warm": 0,
+  "skyTop": 0
+ },
+ "C1650": {
+  "brightness": 79.5,
+  "contrast": 59,
+  "colourful": 44.2,
+  "saturation": 0.48,
+  "busy": 0.126,
+  "warm": 0.057,
+  "skyTop": 0
+ },
+ "C1651": {
+  "brightness": 92.3,
+  "contrast": 51.5,
+  "colourful": 37.8,
+  "saturation": 0.355,
+  "busy": 0.234,
+  "warm": 0.113,
+  "skyTop": -0.182
+ },
+ "C1652": {
+  "brightness": 151.5,
+  "contrast": 82,
+  "colourful": 36.6,
+  "saturation": 0.257,
+  "busy": 0.136,
+  "warm": 0.01,
+  "skyTop": 0.08
+ },
+ "C1653": {
+  "brightness": 125.6,
+  "contrast": 73.9,
+  "colourful": 28.3,
+  "saturation": 0.284,
+  "busy": 0.07,
+  "warm": 0,
+  "skyTop": 0.05
+ },
+ "C1654": {
+  "brightness": 159,
+  "contrast": 49.5,
+  "colourful": 69.2,
+  "saturation": 0.385,
+  "busy": 0.063,
+  "warm": 0.007,
+  "skyTop": 0.083
+ },
+ "C1655": {
+  "brightness": 128.7,
+  "contrast": 53.3,
+  "colourful": 80.5,
+  "saturation": 0.424,
+  "busy": 0.15,
+  "warm": 0.341,
+  "skyTop": 0.129
+ },
+ "C1656": {
+  "brightness": 74.4,
+  "contrast": 65.4,
+  "colourful": 59.6,
+  "saturation": 0.573,
+  "busy": 0.188,
+  "warm": 0.27,
+  "skyTop": -0.13
+ },
+ "C1657": {
+  "brightness": 116.7,
+  "contrast": 51.6,
+  "colourful": 107.5,
+  "saturation": 0.677,
+  "busy": 0.091,
+  "warm": 0.094,
+  "skyTop": 0.27
+ },
+ "C1658": {
+  "brightness": 80.2,
+  "contrast": 68.6,
+  "colourful": 54.8,
+  "saturation": 0.571,
+  "busy": 0.122,
+  "warm": 0.149,
+  "skyTop": 0.045
+ },
+ "C1659": {
+  "brightness": 122.6,
+  "contrast": 78.5,
+  "colourful": 31.1,
+  "saturation": 0.198,
+  "busy": 0.104,
+  "warm": 0.046,
+  "skyTop": 0.076
+ },
+ "C1660": {
+  "brightness": 175.5,
+  "contrast": 48.7,
+  "colourful": 68.8,
+  "saturation": 0.316,
+  "busy": 0.064,
+  "warm": 0.004,
+  "skyTop": 0.052
+ },
+ "C1661": {
+  "brightness": 120.9,
+  "contrast": 47.5,
+  "colourful": 50.1,
+  "saturation": 0.327,
+  "busy": 0.193,
+  "warm": 0.063,
+  "skyTop": -0.084
+ },
+ "C1662": {
+  "brightness": 122.2,
+  "contrast": 38.5,
+  "colourful": 53.1,
+  "saturation": 0.369,
+  "busy": 0.054,
+  "warm": 0.016,
+  "skyTop": 0.21
+ },
+ "C1663": {
+  "brightness": 145,
+  "contrast": 58.4,
+  "colourful": 38.5,
+  "saturation": 0.262,
+  "busy": 0.068,
+  "warm": 0.044,
+  "skyTop": -0.015
+ },
+ "C1664": {
+  "brightness": 141.4,
+  "contrast": 39.8,
+  "colourful": 68.8,
+  "saturation": 0.538,
+  "busy": 0.149,
+  "warm": 0.006,
+  "skyTop": 0.216
+ },
+ "C1665": {
+  "brightness": 143.5,
+  "contrast": 64.2,
+  "colourful": 98.4,
+  "saturation": 0.407,
+  "busy": 0.236,
+  "warm": 0.109,
+  "skyTop": 0.161
+ },
+ "C1666": {
+  "brightness": 70.2,
+  "contrast": 51.5,
+  "colourful": 39.1,
+  "saturation": 0.559,
+  "busy": 0.109,
+  "warm": 0.355,
+  "skyTop": -0.208
+ },
+ "C1667": {
+  "brightness": 95.7,
+  "contrast": 44.4,
+  "colourful": 57.6,
+  "saturation": 0.414,
+  "busy": 0.073,
+  "warm": 0.028,
+  "skyTop": 0.221
+ },
+ "C1668": {
+  "brightness": 121.6,
+  "contrast": 50.9,
+  "colourful": 74.2,
+  "saturation": 0.299,
+  "busy": 0.205,
+  "warm": 0.017,
+  "skyTop": 0.019
+ },
+ "C1669": {
+  "brightness": 130.6,
+  "contrast": 61.9,
+  "colourful": 49.4,
+  "saturation": 0.346,
+  "busy": 0.175,
+  "warm": 0.454,
+  "skyTop": -0.318
+ },
+ "C1670": {
+  "brightness": 80.3,
+  "contrast": 38.3,
+  "colourful": 71.4,
+  "saturation": 0.844,
+  "busy": 0.072,
+  "warm": 0.024,
+  "skyTop": 0.041
+ },
+ "C1671": {
+  "brightness": 39.7,
+  "contrast": 40.3,
+  "colourful": 31.3,
+  "saturation": 0.382,
+  "busy": 0.02,
+  "warm": 0.274,
+  "skyTop": -0.016
+ },
+ "C1672": {
+  "brightness": 122.1,
+  "contrast": 61.3,
+  "colourful": 95.8,
+  "saturation": 0.543,
+  "busy": 0.213,
+  "warm": 0.536,
+  "skyTop": 0.006
+ },
+ "C1673": {
+  "brightness": 105.2,
+  "contrast": 78.6,
+  "colourful": 52.6,
+  "saturation": 0.519,
+  "busy": 0.132,
+  "warm": 0.323,
+  "skyTop": -0.171
+ },
+ "C1674": {
+  "brightness": 124.4,
+  "contrast": 52.5,
+  "colourful": 84.3,
+  "saturation": 0.48,
+  "busy": 0.241,
+  "warm": 0.029,
+  "skyTop": 0.264
+ },
+ "C1675": {
+  "brightness": 125.9,
+  "contrast": 61.3,
+  "colourful": 41.5,
+  "saturation": 0.191,
+  "busy": 0.215,
+  "warm": 0.143,
+  "skyTop": -0.015
+ },
+ "C1676": {
+  "brightness": 142.1,
+  "contrast": 58.4,
+  "colourful": 38.6,
+  "saturation": 0.224,
+  "busy": 0.111,
+  "warm": 0.187,
+  "skyTop": -0.068
+ },
+ "C1677": {
+  "brightness": 137.1,
+  "contrast": 59.7,
+  "colourful": 59.1,
+  "saturation": 0.335,
+  "busy": 0.159,
+  "warm": 0.016,
+  "skyTop": 0.207
+ },
+ "C1678": {
+  "brightness": 121,
+  "contrast": 53.5,
+  "colourful": 50.1,
+  "saturation": 0.317,
+  "busy": 0.146,
+  "warm": 0.095,
+  "skyTop": 0.057
+ },
+ "C1679": {
+  "brightness": 103.6,
+  "contrast": 53.3,
+  "colourful": 41.4,
+  "saturation": 0.427,
+  "busy": 0.079,
+  "warm": 0.265,
+  "skyTop": -0.175
+ },
+ "C1680": {
+  "brightness": 131.5,
+  "contrast": 58.4,
+  "colourful": 47.6,
+  "saturation": 0.245,
+  "busy": 0.097,
+  "warm": 0.201,
+  "skyTop": -0.098
+ },
+ "C1681": {
+  "brightness": 124.6,
+  "contrast": 52.5,
+  "colourful": 67.9,
+  "saturation": 0.475,
+  "busy": 0.16,
+  "warm": 0.573,
+  "skyTop": -0.299
+ },
+ "C1682": {
+  "brightness": 130.3,
+  "contrast": 88.4,
+  "colourful": 42.4,
+  "saturation": 0.263,
+  "busy": 0.109,
+  "warm": 0.032,
+  "skyTop": 0.147
+ },
+ "C1683": {
+  "brightness": 86,
+  "contrast": 42.5,
+  "colourful": 35.3,
+  "saturation": 0.259,
+  "busy": 0.166,
+  "warm": 0.101,
+  "skyTop": -0.069
+ },
+ "C1684": {
+  "brightness": 87.1,
+  "contrast": 60.7,
+  "colourful": 61.3,
+  "saturation": 0.698,
+  "busy": 0.131,
+  "warm": 0,
+  "skyTop": 0.054
+ },
+ "C1685": {
+  "brightness": 111.4,
+  "contrast": 64.4,
+  "colourful": 40.9,
+  "saturation": 0.288,
+  "busy": 0.119,
+  "warm": 0.265,
+  "skyTop": -0.199
+ },
+ "C1686": {
+  "brightness": 67.2,
+  "contrast": 65.5,
+  "colourful": 53.5,
+  "saturation": 0.699,
+  "busy": 0.091,
+  "warm": 0.371,
+  "skyTop": -0.356
+ },
+ "C1687": {
+  "brightness": 74.4,
+  "contrast": 50.5,
+  "colourful": 74,
+  "saturation": 0.548,
+  "busy": 0.12,
+  "warm": 0.18,
+  "skyTop": 0.065
+ },
+ "C1688": {
+  "brightness": 115.2,
+  "contrast": 55.8,
+  "colourful": 69.8,
+  "saturation": 0.51,
+  "busy": 0.07,
+  "warm": 0.003,
+  "skyTop": 0.034
+ },
+ "C1689": {
+  "brightness": 101.6,
+  "contrast": 49.6,
+  "colourful": 33.6,
+  "saturation": 0.283,
+  "busy": 0.411,
+  "warm": 0.015,
+  "skyTop": -0.143
+ },
+ "C1690": {
+  "brightness": 121.9,
+  "contrast": 71.7,
+  "colourful": 27.4,
+  "saturation": 0.251,
+  "busy": 0.05,
+  "warm": 0.027,
+  "skyTop": -0.004
+ },
+ "C1691": {
+  "brightness": 61.4,
+  "contrast": 43.5,
+  "colourful": 31.8,
+  "saturation": 0.378,
+  "busy": 0.093,
+  "warm": 0.092,
+  "skyTop": -0.032
+ },
+ "C1692": {
+  "brightness": 135,
+  "contrast": 67,
+  "colourful": 37,
+  "saturation": 0.207,
+  "busy": 0.182,
+  "warm": 0.076,
+  "skyTop": 0.006
+ },
+ "C1693": {
+  "brightness": 91.8,
+  "contrast": 44.2,
+  "colourful": 43,
+  "saturation": 0.292,
+  "busy": 0.177,
+  "warm": 0.171,
+  "skyTop": -0.019
+ },
+ "C1694": {
+  "brightness": 126,
+  "contrast": 72.1,
+  "colourful": 26.3,
+  "saturation": 0.166,
+  "busy": 0.04,
+  "warm": 0.032,
+  "skyTop": 0.034
+ },
+ "C1695": {
+  "brightness": 151.7,
+  "contrast": 68.5,
+  "colourful": 53.7,
+  "saturation": 0.294,
+  "busy": 0.088,
+  "warm": 0.019,
+  "skyTop": 0.132
+ },
+ "C1696": {
+  "brightness": 136.6,
+  "contrast": 49.8,
+  "colourful": 57.2,
+  "saturation": 0.25,
+  "busy": 0.133,
+  "warm": 0.001,
+  "skyTop": 0.062
+ },
+ "C1697": {
+  "brightness": 115.6,
+  "contrast": 76.9,
+  "colourful": 39.2,
+  "saturation": 0.358,
+  "busy": 0.108,
+  "warm": 0.342,
+  "skyTop": -0.076
+ },
+ "C1698": {
+  "brightness": 129.6,
+  "contrast": 76.5,
+  "colourful": 48.9,
+  "saturation": 0.444,
+  "busy": 0.12,
+  "warm": 0.021,
+  "skyTop": -0.096
+ },
+ "C1699": {
+  "brightness": 115.2,
+  "contrast": 82.4,
+  "colourful": 21.9,
+  "saturation": 0.233,
+  "busy": 0.092,
+  "warm": 0.006,
+  "skyTop": 0.008
+ },
+ "C1700": {
+  "brightness": 65.3,
+  "contrast": 30.4,
+  "colourful": 61.1,
+  "saturation": 0.774,
+  "busy": 0.042,
+  "warm": 0.018,
+  "skyTop": 0.164
+ },
+ "C1701": {
+  "brightness": 145.9,
+  "contrast": 57.5,
+  "colourful": 55.6,
+  "saturation": 0.305,
+  "busy": 0.083,
+  "warm": 0.023,
+  "skyTop": -0.021
+ },
+ "C1702": {
+  "brightness": 97.4,
+  "contrast": 40.4,
+  "colourful": 56.6,
+  "saturation": 0.481,
+  "busy": 0.151,
+  "warm": 0.057,
+  "skyTop": -0.035
+ },
+ "C1703": {
+  "brightness": 162.3,
+  "contrast": 36.6,
+  "colourful": 41.4,
+  "saturation": 0.205,
+  "busy": 0.085,
+  "warm": 0.001,
+  "skyTop": 0.167
+ },
+ "C1704": {
+  "brightness": 106.2,
+  "contrast": 49.3,
+  "colourful": 15.8,
+  "saturation": 0.174,
+  "busy": 0.131,
+  "warm": 0.023,
+  "skyTop": -0.016
+ },
+ "C1705": {
+  "brightness": 115.5,
+  "contrast": 63.3,
+  "colourful": 48.8,
+  "saturation": 0.333,
+  "busy": 0.068,
+  "warm": 0.036,
+  "skyTop": 0.163
+ },
+ "C1706": {
+  "brightness": 111.6,
+  "contrast": 63.5,
+  "colourful": 44.1,
+  "saturation": 0.339,
+  "busy": 0.063,
+  "warm": 0.135,
+  "skyTop": 0.037
+ },
+ "C1707": {
+  "brightness": 27.9,
+  "contrast": 56.7,
+  "colourful": 21.1,
+  "saturation": 0.44,
+  "busy": 0.101,
+  "warm": 0.035,
+  "skyTop": -0.041
+ },
+ "C1708": {
+  "brightness": 110.6,
+  "contrast": 70.3,
+  "colourful": 28.3,
+  "saturation": 0.294,
+  "busy": 0.053,
+  "warm": 0,
+  "skyTop": 0.053
+ },
+ "C1709": {
+  "brightness": 138.1,
+  "contrast": 56.7,
+  "colourful": 29.9,
+  "saturation": 0.187,
+  "busy": 0.135,
+  "warm": 0.102,
+  "skyTop": -0.043
+ },
+ "C1710": {
+  "brightness": 121.2,
+  "contrast": 50.5,
+  "colourful": 50.6,
+  "saturation": 0.333,
+  "busy": 0.081,
+  "warm": 0.317,
+  "skyTop": -0.096
+ },
+ "C1711": {
+  "brightness": 121.8,
+  "contrast": 64,
+  "colourful": 98.2,
+  "saturation": 0.57,
+  "busy": 0.206,
+  "warm": 0.07,
+  "skyTop": 0.279
+ },
+ "C1712": {
+  "brightness": 82.7,
+  "contrast": 43.7,
+  "colourful": 32.6,
+  "saturation": 0.328,
+  "busy": 0.209,
+  "warm": 0.168,
+  "skyTop": -0.052
+ },
+ "C1713": {
+  "brightness": 128.2,
+  "contrast": 36.6,
+  "colourful": 19.8,
+  "saturation": 0.28,
+  "busy": 0.029,
+  "warm": 0.108,
+  "skyTop": -0.143
+ },
+ "C1714": {
+  "brightness": 118.4,
+  "contrast": 70.4,
+  "colourful": 33,
+  "saturation": 0.228,
+  "busy": 0.125,
+  "warm": 0.128,
+  "skyTop": -0.073
+ },
+ "C1715": {
+  "brightness": 80,
+  "contrast": 42.8,
+  "colourful": 48.5,
+  "saturation": 0.37,
+  "busy": 0.142,
+  "warm": 0.2,
+  "skyTop": -0.026
+ },
+ "C1716": {
+  "brightness": 51.6,
+  "contrast": 44.8,
+  "colourful": 21.7,
+  "saturation": 0.516,
+  "busy": 0.035,
+  "warm": 0.031,
+  "skyTop": -0.112
+ },
+ "C1717": {
+  "brightness": 40.4,
+  "contrast": 37.7,
+  "colourful": 32.1,
+  "saturation": 0.507,
+  "busy": 0.082,
+  "warm": 0.092,
+  "skyTop": 0.024
+ },
+ "C1718": {
+  "brightness": 69.7,
+  "contrast": 39,
+  "colourful": 50.3,
+  "saturation": 0.51,
+  "busy": 0.023,
+  "warm": 0.505,
+  "skyTop": -0.132
+ },
+ "C1719": {
+  "brightness": 146.6,
+  "contrast": 58.3,
+  "colourful": 102.2,
+  "saturation": 0.422,
+  "busy": 0.123,
+  "warm": 0.396,
+  "skyTop": 0.03
+ },
+ "C1720": {
+  "brightness": 119.1,
+  "contrast": 59.5,
+  "colourful": 21,
+  "saturation": 0.196,
+  "busy": 0.102,
+  "warm": 0.007,
+  "skyTop": 0.032
+ },
+ "C1721": {
+  "brightness": 103.1,
+  "contrast": 57.6,
+  "colourful": 63.5,
+  "saturation": 0.47,
+  "busy": 0.174,
+  "warm": 0.141,
+  "skyTop": 0.211
+ },
+ "C1722": {
+  "brightness": 84.6,
+  "contrast": 72.1,
+  "colourful": 20.9,
+  "saturation": 0.313,
+  "busy": 0.083,
+  "warm": 0.021,
+  "skyTop": -0.042
+ },
+ "C1723": {
+  "brightness": 149.6,
+  "contrast": 60.4,
+  "colourful": 36,
+  "saturation": 0.233,
+  "busy": 0.089,
+  "warm": 0.117,
+  "skyTop": 0.128
+ },
+ "C1724": {
+  "brightness": 92.9,
+  "contrast": 42.2,
+  "colourful": 42.1,
+  "saturation": 0.335,
+  "busy": 0.21,
+  "warm": 0.01,
+  "skyTop": 0.01
+ },
+ "C1725": {
+  "brightness": 201.5,
+  "contrast": 51.8,
+  "colourful": 29.7,
+  "saturation": 0.178,
+  "busy": 0.07,
+  "warm": 0.194,
+  "skyTop": -0.091
+ },
+ "C1726": {
+  "brightness": 175.2,
+  "contrast": 49.5,
+  "colourful": 52.5,
+  "saturation": 0.311,
+  "busy": 0.03,
+  "warm": 0.085,
+  "skyTop": 0.17
+ },
+ "C1727": {
+  "brightness": 129.3,
+  "contrast": 80.7,
+  "colourful": 29.8,
+  "saturation": 0.291,
+  "busy": 0.217,
+  "warm": 0.04,
+  "skyTop": 0.031
+ },
+ "C1728": {
+  "brightness": 119,
+  "contrast": 62,
+  "colourful": 40.6,
+  "saturation": 0.345,
+  "busy": 0.109,
+  "warm": 0.127,
+  "skyTop": 0.107
+ },
+ "C1729": {
+  "brightness": 121.9,
+  "contrast": 61.5,
+  "colourful": 106.5,
+  "saturation": 0.516,
+  "busy": 0.158,
+  "warm": 0.031,
+  "skyTop": 0.328
+ },
+ "C1730": {
+  "brightness": 82.1,
+  "contrast": 41.8,
+  "colourful": 63.6,
+  "saturation": 0.424,
+  "busy": 0.154,
+  "warm": 0.181,
+  "skyTop": 0.154
+ },
+ "C1731": {
+  "brightness": 93.4,
+  "contrast": 42.2,
+  "colourful": 32.3,
+  "saturation": 0.414,
+  "busy": 0.041,
+  "warm": 0.282,
+  "skyTop": -0.125
+ },
+ "C1732": {
+  "brightness": 109.1,
+  "contrast": 64.1,
+  "colourful": 66.4,
+  "saturation": 0.422,
+  "busy": 0.129,
+  "warm": 0.064,
+  "skyTop": 0.15
+ },
+ "C1733": {
+  "brightness": 134.9,
+  "contrast": 62.9,
+  "colourful": 50.5,
+  "saturation": 0.33,
+  "busy": 0.093,
+  "warm": 0.185,
+  "skyTop": -0.173
+ },
+ "C1734": {
+  "brightness": 98.1,
+  "contrast": 70.8,
+  "colourful": 28.8,
+  "saturation": 0.283,
+  "busy": 0.238,
+  "warm": 0.036,
+  "skyTop": 0.033
+ },
+ "C1735": {
+  "brightness": 129,
+  "contrast": 66.8,
+  "colourful": 42.5,
+  "saturation": 0.327,
+  "busy": 0.092,
+  "warm": 0.158,
+  "skyTop": -0.11
+ },
+ "C1736": {
+  "brightness": 103.5,
+  "contrast": 69.3,
+  "colourful": 51.9,
+  "saturation": 0.568,
+  "busy": 0.19,
+  "warm": 0.458,
+  "skyTop": -0.107
+ },
+ "C1737": {
+  "brightness": 60.6,
+  "contrast": 45.3,
+  "colourful": 25.5,
+  "saturation": 0.309,
+  "busy": 0.065,
+  "warm": 0.097,
+  "skyTop": -0.092
+ },
+ "C1738": {
+  "brightness": 93.1,
+  "contrast": 38.4,
+  "colourful": 36.5,
+  "saturation": 0.232,
+  "busy": 0.131,
+  "warm": 0.112,
+  "skyTop": 0.025
+ },
+ "C1739": {
+  "brightness": 128.3,
+  "contrast": 71.7,
+  "colourful": 44.1,
+  "saturation": 0.27,
+  "busy": 0.137,
+  "warm": 0.211,
+  "skyTop": -0.011
+ },
+ "C1740": {
+  "brightness": 80.6,
+  "contrast": 54.6,
+  "colourful": 84.7,
+  "saturation": 0.695,
+  "busy": 0.307,
+  "warm": 0.476,
+  "skyTop": -0.147
+ },
+ "C1741": {
+  "brightness": 129,
+  "contrast": 63.2,
+  "colourful": 99.7,
+  "saturation": 0.539,
+  "busy": 0.148,
+  "warm": 0.019,
+  "skyTop": 0.433
+ },
+ "C1742": {
+  "brightness": 223.7,
+  "contrast": 57.8,
+  "colourful": 40.6,
+  "saturation": 0.084,
+  "busy": 0.06,
+  "warm": 0.013,
+  "skyTop": -0.01
+ },
+ "C1743": {
+  "brightness": 82.7,
+  "contrast": 42.7,
+  "colourful": 37.5,
+  "saturation": 0.227,
+  "busy": 0.214,
+  "warm": 0.063,
+  "skyTop": 0.007
+ },
+ "C1744": {
+  "brightness": 90.7,
+  "contrast": 47.7,
+  "colourful": 26.8,
+  "saturation": 0.319,
+  "busy": 0.067,
+  "warm": 0.073,
+  "skyTop": -0.125
+ },
+ "C1745": {
+  "brightness": 117.4,
+  "contrast": 54,
+  "colourful": 17.4,
+  "saturation": 0.255,
+  "busy": 0.061,
+  "warm": 0,
+  "skyTop": 0.043
+ },
+ "C1746": {
+  "brightness": 135.3,
+  "contrast": 75.7,
+  "colourful": 88.5,
+  "saturation": 0.519,
+  "busy": 0.155,
+  "warm": 0.614,
+  "skyTop": -0.239
+ },
+ "C1747": {
+  "brightness": 65.2,
+  "contrast": 49.9,
+  "colourful": 23.8,
+  "saturation": 0.33,
+  "busy": 0.13,
+  "warm": 0.022,
+  "skyTop": -0.004
+ },
+ "C1748": {
+  "brightness": 84.6,
+  "contrast": 54.1,
+  "colourful": 36,
+  "saturation": 0.454,
+  "busy": 0.066,
+  "warm": 0.396,
+  "skyTop": -0.21
+ },
+ "C1749": {
+  "brightness": 102.7,
+  "contrast": 60.1,
+  "colourful": 46.5,
+  "saturation": 0.436,
+  "busy": 0.105,
+  "warm": 0.024,
+  "skyTop": 0.12
+ },
+ "C1750": {
+  "brightness": 97.2,
+  "contrast": 50.8,
+  "colourful": 57.1,
+  "saturation": 0.367,
+  "busy": 0.116,
+  "warm": 0.139,
+  "skyTop": 0.063
+ },
+ "C1751": {
+  "brightness": 113.5,
+  "contrast": 69,
+  "colourful": 57.7,
+  "saturation": 0.416,
+  "busy": 0.116,
+  "warm": 0.395,
+  "skyTop": -0.208
+ },
+ "C1752": {
+  "brightness": 129.5,
+  "contrast": 48.7,
+  "colourful": 81.1,
+  "saturation": 0.48,
+  "busy": 0.112,
+  "warm": 0.018,
+  "skyTop": 0.267
+ },
+ "C1753": {
+  "brightness": 186.7,
+  "contrast": 76.3,
+  "colourful": 54.6,
+  "saturation": 0.216,
+  "busy": 0.165,
+  "warm": 0.101,
+  "skyTop": 0.002
+ },
+ "C1754": {
+  "brightness": 52.1,
+  "contrast": 46.2,
+  "colourful": 24.5,
+  "saturation": 0.356,
+  "busy": 0.149,
+  "warm": 0.073,
+  "skyTop": -0.016
+ },
+ "C1755": {
+  "brightness": 137,
+  "contrast": 52.8,
+  "colourful": 38,
+  "saturation": 0.207,
+  "busy": 0.211,
+  "warm": 0.114,
+  "skyTop": -0.018
+ },
+ "C1756": {
+  "brightness": 166.8,
+  "contrast": 76.4,
+  "colourful": 24.4,
+  "saturation": 0.159,
+  "busy": 0.228,
+  "warm": 0.019,
+  "skyTop": 0.009
+ },
+ "C1757": {
+  "brightness": 82.3,
+  "contrast": 39.8,
+  "colourful": 38.6,
+  "saturation": 0.252,
+  "busy": 0.168,
+  "warm": 0.031,
+  "skyTop": 0.097
+ },
+ "C1758": {
+  "brightness": 115.6,
+  "contrast": 74.4,
+  "colourful": 20.1,
+  "saturation": 0.194,
+  "busy": 0.101,
+  "warm": 0.026,
+  "skyTop": 0.008
+ },
+ "C1759": {
+  "brightness": 83.6,
+  "contrast": 41.3,
+  "colourful": 28,
+  "saturation": 0.237,
+  "busy": 0.179,
+  "warm": 0.17,
+  "skyTop": -0.126
+ },
+ "C1760": {
+  "brightness": 56.7,
+  "contrast": 39.2,
+  "colourful": 14.4,
+  "saturation": 0.264,
+  "busy": 0.029,
+  "warm": 0,
+  "skyTop": 0.058
+ },
+ "C1761": {
+  "brightness": 126.9,
+  "contrast": 58.7,
+  "colourful": 48.4,
+  "saturation": 0.265,
+  "busy": 0.071,
+  "warm": 0.013,
+  "skyTop": 0.202
+ },
+ "C1762": {
+  "brightness": 146.3,
+  "contrast": 67.8,
+  "colourful": 62.2,
+  "saturation": 0.382,
+  "busy": 0.055,
+  "warm": 0.308,
+  "skyTop": 0.059
+ },
+ "C1763": {
+  "brightness": 132,
+  "contrast": 36.9,
+  "colourful": 65.2,
+  "saturation": 0.354,
+  "busy": 0.051,
+  "warm": 0.004,
+  "skyTop": 0.25
+ },
+ "C1764": {
+  "brightness": 111.2,
+  "contrast": 51.3,
+  "colourful": 44.6,
+  "saturation": 0.279,
+  "busy": 0.168,
+  "warm": 0.005,
+  "skyTop": 0.209
+ },
+ "C1765": {
+  "brightness": 129.7,
+  "contrast": 65.7,
+  "colourful": 35.3,
+  "saturation": 0.222,
+  "busy": 0.116,
+  "warm": 0.177,
+  "skyTop": -0.024
+ },
+ "C1766": {
+  "brightness": 77.2,
+  "contrast": 41.3,
+  "colourful": 56.1,
+  "saturation": 0.297,
+  "busy": 0.126,
+  "warm": 0.074,
+  "skyTop": 0.127
+ },
+ "C1767": {
+  "brightness": 89.5,
+  "contrast": 50.7,
+  "colourful": 19.7,
+  "saturation": 0.287,
+  "busy": 0.067,
+  "warm": 0.035,
+  "skyTop": -0.129
+ },
+ "C1768": {
+  "brightness": 222.4,
+  "contrast": 56.4,
+  "colourful": 34.1,
+  "saturation": 0.127,
+  "busy": 0.093,
+  "warm": 0.04,
+  "skyTop": -0.063
+ },
+ "C1769": {
+  "brightness": 125.9,
+  "contrast": 66.4,
+  "colourful": 53.8,
+  "saturation": 0.325,
+  "busy": 0.082,
+  "warm": 0.08,
+  "skyTop": 0.159
+ },
+ "C1770": {
+  "brightness": 103.8,
+  "contrast": 52.1,
+  "colourful": 18.3,
+  "saturation": 0.29,
+  "busy": 0.054,
+  "warm": 0.057,
+  "skyTop": -0.129
+ },
+ "C1771": {
+  "brightness": 147.9,
+  "contrast": 35.5,
+  "colourful": 28.6,
+  "saturation": 0.181,
+  "busy": 0.086,
+  "warm": 0.087,
+  "skyTop": -0.092
+ },
+ "C1772": {
+  "brightness": 165.1,
+  "contrast": 75,
+  "colourful": 17.5,
+  "saturation": 0.12,
+  "busy": 0.076,
+  "warm": 0.047,
+  "skyTop": -0.042
+ },
+ "C1773": {
+  "brightness": 76.8,
+  "contrast": 65,
+  "colourful": 31.2,
+  "saturation": 0.488,
+  "busy": 0.1,
+  "warm": 0.142,
+  "skyTop": -0.049
+ },
+ "C1774": {
+  "brightness": 121.1,
+  "contrast": 63.2,
+  "colourful": 34.4,
+  "saturation": 0.323,
+  "busy": 0.177,
+  "warm": 0.071,
+  "skyTop": 0.056
+ },
+ "C1775": {
+  "brightness": 83.7,
+  "contrast": 41.8,
+  "colourful": 35.3,
+  "saturation": 0.589,
+  "busy": 0.076,
+  "warm": 0.681,
+  "skyTop": -0.254
+ },
+ "C1776": {
+  "brightness": 78.6,
+  "contrast": 37.1,
+  "colourful": 35.4,
+  "saturation": 0.49,
+  "busy": 0.064,
+  "warm": 0,
+  "skyTop": -0.012
+ },
+ "C1777": {
+  "brightness": 88.1,
+  "contrast": 54.6,
+  "colourful": 27.6,
+  "saturation": 0.476,
+  "busy": 0.086,
+  "warm": 0.315,
+  "skyTop": -0.203
+ },
+ "C1778": {
+  "brightness": 132.5,
+  "contrast": 70.6,
+  "colourful": 27.9,
+  "saturation": 0.223,
+  "busy": 0.194,
+  "warm": 0.011,
+  "skyTop": -0.077
+ },
+ "C1779": {
+  "brightness": 132.2,
+  "contrast": 67.3,
+  "colourful": 70.2,
+  "saturation": 0.424,
+  "busy": 0.083,
+  "warm": 0.306,
+  "skyTop": 0.119
+ },
+ "C1780": {
+  "brightness": 111.5,
+  "contrast": 79.2,
+  "colourful": 38.6,
+  "saturation": 0.343,
+  "busy": 0.022,
+  "warm": 0.14,
+  "skyTop": 0.047
+ },
+ "C1781": {
+  "brightness": 115.8,
+  "contrast": 65.4,
+  "colourful": 35.9,
+  "saturation": 0.265,
+  "busy": 0.201,
+  "warm": 0.164,
+  "skyTop": 0.004
+ },
+ "C1782": {
+  "brightness": 109.8,
+  "contrast": 74.5,
+  "colourful": 40.7,
+  "saturation": 0.323,
+  "busy": 0.109,
+  "warm": 0.075,
+  "skyTop": -0.028
+ },
+ "C1783": {
+  "brightness": 146.1,
+  "contrast": 48.3,
+  "colourful": 50.2,
+  "saturation": 0.205,
+  "busy": 0.108,
+  "warm": 0.007,
+  "skyTop": 0.068
+ },
+ "C1784": {
+  "brightness": 62.4,
+  "contrast": 75.1,
+  "colourful": 74.7,
+  "saturation": 0.425,
+  "busy": 0.147,
+  "warm": 0.138,
+  "skyTop": -0.032
+ },
+ "C1785": {
+  "brightness": 87.4,
+  "contrast": 44.2,
+  "colourful": 55.9,
+  "saturation": 0.345,
+  "busy": 0.115,
+  "warm": 0.231,
+  "skyTop": -0.216
+ },
+ "C1786": {
+  "brightness": 113.5,
+  "contrast": 64.4,
+  "colourful": 24.5,
+  "saturation": 0.154,
+  "busy": 0.241,
+  "warm": 0.003,
+  "skyTop": 0.035
+ },
+ "C1787": {
+  "brightness": 120.4,
+  "contrast": 61.8,
+  "colourful": 27.6,
+  "saturation": 0.188,
+  "busy": 0.216,
+  "warm": 0.001,
+  "skyTop": 0.065
  }
 }

@@ -1,50 +1,24 @@
 [
  {
-  "name": "underrated / hidden / niche",
-  "covers": 25,
-  "creators": 13,
-  "endorse": 10,
-  "winRate": 0.72,
-  "median": 0.25472289208316923,
-  "best": {
-   "text": "Welcome to the underrated / tropical side of Japan",
-   "creator": "soft.nrt",
-   "x": 453.95188053140674
-  }
- },
- {
   "name": "N things / places to do in X",
-  "covers": 78,
-  "creators": 20,
-  "endorse": 7,
-  "winRate": 0.44871794871794873,
-  "median": -0.010834872151612274,
+  "covers": 130,
+  "creators": 33,
+  "endorse": 17,
+  "winRate": 0.5384615384615384,
+  "median": 0.0813498553000831,
   "best": {
-   "text": "10 / things you NEED to do in / COSTA RICA",
-   "creator": "yoshandtils",
-   "x": 42.17040007300465
-  }
- },
- {
-  "name": "guide / ultimate / everything",
-  "covers": 76,
-  "creators": 11,
-  "endorse": 5,
-  "winRate": 0.5789473684210527,
-  "median": 0.05804545839487085,
-  "best": {
-   "text": "5 things you NEED to know / before going to Japan",
-   "creator": "soft.nrt",
-   "x": 25.75945313913422
+   "text": "Top 10 Places to Visit in / Bali",
+   "creator": "downtoearthtravel25",
+   "x": 134.4633303528234
   }
  },
  {
   "name": "best / recommendations",
-  "covers": 56,
-  "creators": 16,
-  "endorse": 5,
-  "winRate": 0.5,
-  "median": 0.0006482026445699951,
+  "covers": 103,
+  "creators": 32,
+  "endorse": 15,
+  "winRate": 0.5728155339805825,
+  "median": 0.17514282607492415,
   "best": {
    "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
    "creator": "travel_guide_g",
@@ -52,25 +26,51 @@
   }
  },
  {
-  "name": "mistakes / what not to do",
-  "covers": 26,
-  "creators": 12,
-  "endorse": 5,
-  "winRate": 0.46153846153846156,
-  "median": -0.004371733903039576,
+  "name": "underrated / hidden / niche",
+  "covers": 37,
+  "creators": 19,
+  "endorse": 14,
+  "winRate": 0.7567567567567568,
+  "median": 0.30805377919094346,
   "best": {
-   "text": "Things you should NEVER do / in Japan / And what you should do instead",
-   "creator": "dreamrreve",
-   "x": 26.48726478131479
+   "text": "Welcome to the underrated / tropical side of Japan",
+   "creator": "soft.nrt",
+   "x": 453.95188053140674
+  }
+ },
+ {
+  "name": "guide / ultimate / everything",
+  "covers": 95,
+  "creators": 21,
+  "endorse": 10,
+  "winRate": 0.5473684210526316,
+  "median": 0.030368069807837905,
+  "best": {
+   "text": "our guide to / SORRENTO, ITALY",
+   "creator": "galswhotravel",
+   "x": 36.464405692882885
+  }
+ },
+ {
+  "name": "what it costs",
+  "covers": 55,
+  "creators": 17,
+  "endorse": 8,
+  "winRate": 0.5454545454545454,
+  "median": 0.18883196847331263,
+  "best": {
+   "text": "\"But London is so expensive\"",
+   "creator": "travel_guide_g",
+   "x": 358.2105511755364
   }
  },
  {
   "name": "itinerary / route / N days",
-  "covers": 33,
-  "creators": 13,
-  "endorse": 4,
-  "winRate": 0.5151515151515151,
-  "median": 0.005935780080505992,
+  "covers": 48,
+  "creators": 20,
+  "endorse": 8,
+  "winRate": 0.5416666666666666,
+  "median": 0.04208523315362678,
   "best": {
    "text": "ITALY TRIP / 19 DAYS",
    "creator": "travel_guide_g",
@@ -78,16 +78,16 @@
   }
  },
  {
-  "name": "what it costs",
-  "covers": 20,
-  "creators": 9,
-  "endorse": 3,
-  "winRate": 0.4,
-  "median": -0.006546180595917495,
+  "name": "mistakes / what not to do",
+  "covers": 31,
+  "creators": 16,
+  "endorse": 7,
+  "winRate": 0.4838709677419355,
+  "median": 0,
   "best": {
-   "text": "\"But London is so expensive\"",
-   "creator": "travel_guide_g",
-   "x": 358.2105511755364
+   "text": "5 Hidden / Gems in / Osaka / You Can't Miss / Skip the tourist traps. / Discover the real Osaka.",
+   "creator": "nearxfar",
+   "x": 28.456787762401234
   }
  },
  {
@@ -104,12 +104,25 @@
   }
  },
  {
-  "name": "shopping (apps/brands/stores)",
-  "covers": 28,
+  "name": "I wish I knew (quote)",
+  "covers": 19,
   "creators": 7,
   "endorse": 2,
-  "winRate": 0.4642857142857143,
-  "median": -0.02097581443381058,
+  "winRate": 0.47368421052631576,
+  "median": -0.018784701341540533,
+  "best": {
+   "text": "5 things I wish I knew / before going to Japan / part 16",
+   "creator": "nearxfar",
+   "x": 8.614411280340194
+  }
+ },
+ {
+  "name": "shopping (apps/brands/stores)",
+  "covers": 31,
+  "creators": 9,
+  "endorse": 2,
+  "winRate": 0.45161290322580644,
+  "median": -0.04195162886762116,
   "best": {
    "text": "whimsical stores to / check out in Tokyo",
    "creator": "itsjustinjapan",
@@ -130,29 +143,16 @@
   }
  },
  {
-  "name": "I wish I knew (quote)",
-  "covers": 4,
-  "creators": 2,
-  "endorse": 0,
-  "winRate": 0.25,
-  "median": -0.05851660219000232,
-  "best": {
-   "text": "\"I wish I knew / about / these apps / before my / trip to Japan\"",
-   "creator": "itsjustinjapan",
-   "x": 3.474226804123715
-  }
- },
- {
   "name": "hard truth / dark side",
-  "covers": 9,
-  "creators": 3,
+  "covers": 14,
+  "creators": 5,
   "endorse": 0,
-  "winRate": 0.2222222222222222,
-  "median": -0.19295547403448055,
+  "winRate": 0.2857142857142857,
+  "median": -0.20641282883437473,
   "best": {
-   "text": "The DARK side of living in / Japan no one talks about...",
-   "creator": "corpus:holisticjess",
-   "x": 2.1980353634577567
+   "text": "The cold truth about / moving to Switzerland / with your bestfriend ...",
+   "creator": "angelicauratips",
+   "x": 5.084474885844751
   }
  }
 ]

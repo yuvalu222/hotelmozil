@@ -37,6 +37,28 @@ contradiction persists. Template "underrated / hidden / niche": 9 of 12
 creators, 71% beat own median, ×1.50, unchanged.
 
 
+**Update at 62 creators, 1,282 covers (8.10 evening). The sample doubled; three findings now exclude 1 on reach:**
+
+| on the cover | plays | 95% interval | creators where it won |
+|---|---|---|---|
+| **a superlative word** (best / top / must / most / perfect / ultimate) | **x1.73** | [1.15, 2.73] | 29 of 44 |
+| **a number** | **x1.46** | [1.10, 1.96] | 28 of 50 |
+| **names the place** | **x1.37** | [1.12, 1.70] | 37 of 49 |
+| first person (I / my / we) | x0.66 | [0.48, 0.90] | 15 of 46 |
+| a question mark | x0.51 | [0.21, 0.97] | 10 of 20 (Upworthy: -10%, replicated) |
+
+Weakened with more data: short <=8 words is now x1.09 [0.86, 1.37]; text in
+the top third is x0.83 [0.61, 1.14] on plays (still x0.68 on likes). Neither
+is a rule any more, only a lean. Template "underrated / hidden / niche": 14 of
+19 creators, 76% beat their own median, typical x2.03 - the strongest and most
+consistent template. "Best / recommendations" x1.50 and "what it costs" x1.54
+are next, each winning for about half of creators.
+
+Our three route covers ("הנה המסלול המושלם ל<place> / N עצירות") already carry
+the three proven parts: superlative (המושלם), a number, the place; no first
+person and no question. Nothing to change on them from this round.
+
+
 Text at the BOTTOM beat text mid-frame in 6 of 6 creators (×2.6), but only
 24 bottom covers, mostly big bare place names (PORTO, Puglia): exploratory.
 
