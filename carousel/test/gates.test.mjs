@@ -209,3 +209,17 @@ test('no source file holds a control character or a stray script', () => {
   for (const d of dirs) walk(`${root}${d}`);
   assert.deepEqual(bad, []);
 });
+
+// Multi-country decks (tt-trio, 8.10) carry the country per photo.
+test('a per-photo country is enforced when the deck has none', () => {
+  const trio = (country, alt) => ({ slides: [{ images: [{ for: 'x', country, alt }] }] });
+  assert.equal(checkCountry(trio('austria', 'Parliament building in Budapest, Hungary')).length, 1);
+  assert.equal(checkCountry(trio('hungary', 'Parliament building in Budapest, Hungary')).length, 0);
+  assert.equal(checkCountry({ slides: [{ images: [{ for: 'x', alt: 'Budapest, Hungary' }] }] }).length, 0);
+});
+
+test('a town name inside another word is not that town', () => {
+  const fr = (alt) => ({ country: 'France', slides: [{ images: [{ for: 'x', alt }] }] });
+  assert.equal(checkCountry(fr("Promenade des Anglais along Nice's coastline in France")).length, 0);
+  assert.equal(checkCountry(fr('The Colosseum in Rome at dusk')).length, 1);
+});

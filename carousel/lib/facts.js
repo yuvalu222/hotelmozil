@@ -88,6 +88,12 @@ export function checkFacts(spec) {
   (spec.slides || []).forEach((slide, i) => {
     const items = slide.items || [];
     if (!items.length) return;
+    // tt-trio copies @miba_app, whose rows are a city and nothing else; the
+    // figure on that slide is the travel time on the seam (`to`), checked there.
+    if (slide.layout === 'tt-trio') {
+      items.slice(0, -1).forEach((it) => { if (!/\d|שעה|שעתיים/.test(it.to || '')) problems.push(`${`slide ${i}`}: "${it.name}" has no travel time to the next city`); });
+      return;
+    }
     const label = `slide ${i}${slide.title ? ` (${slide.title})` : ''}`;
 
     let withFigure = 0;

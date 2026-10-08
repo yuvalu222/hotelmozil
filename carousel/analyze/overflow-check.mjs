@@ -91,6 +91,9 @@ for (const spec of specs) {
         // reaching 1080px. A backdrop is meant to run under the UI; only the
         // content thumbnails sitting on top of it are a collision.
         if (n.tagName === 'IMG' && b.width > W * 0.9 && b.height > H * 0.9) continue;
+        // tt-trio's three full-width strips are the backdrop split in thirds:
+        // edge to edge by design, exactly as the source runs them.
+        if (n.tagName === 'IMG' && n.closest('.tr-row')) continue;
         maxB = Math.max(maxB, b.bottom);
         minT = Math.min(minT, b.top);
         maxR = Math.max(maxR, b.right);

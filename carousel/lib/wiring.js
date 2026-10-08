@@ -38,6 +38,9 @@ const COUNTRIES = [
   // tower for Angeloktisti in Kiti, and Göbeklitepe for Choirokoitia. The
   // last also writes the country as "Türkiye", which "turkey" never matches.
   'turkiye', 'türkiye',
+  // multi-country decks (tt-trio, 8.10): every country a trio row can name
+  'austria', 'slovakia', 'germany', 'monaco', 'slovenia', 'switzerland',
+  'belgium', 'czech republic', 'bosnia', 'montenegro',
 ];
 
 /** Towns and regions that give away a country the description never names. */
@@ -70,19 +73,23 @@ const PLACES = {
  * @returns {string[]} photos whose description names a different country
  */
 export function checkCountry(spec) {
-  if (!spec.country) return [];
-  const want = String(spec.country).toLowerCase();
   const problems = [];
   (spec.slides || []).forEach((slide, i) => {
     for (const e of [slide.image, ...(slide.images || [])]) {
       if (!e || !e.alt || e.anyCountry) continue;
+      // A multi-country deck names the country per photo (e.country); a
+      // single-country deck inherits spec.country. Neither set: nothing to check.
+      const want = String(e.country || spec.country || '').toLowerCase();
+      if (!want) continue;
       const text = String(e.alt).toLowerCase();
       const named = COUNTRIES.filter((c) => new RegExp(`\\b${c}\\b`, 'i').test(e.alt));
       // A town name gives the country away just as well, and is far commoner
       // in a stock description than the country itself.
       const towns = [];
       for (const [town, country] of Object.entries(PLACES)) {
-        if (text.includes(town)) {
+        // Whole words only: "promenade" contains "rome", and a plain substring
+        // test sent a Nice photo to Italy (8.10).
+        if (new RegExp(`(^|[^a-z])${town}([^a-z]|$)`).test(text)) {
           towns.push(country);
           if (!named.includes(country)) named.push(country);
         }
@@ -94,7 +101,7 @@ export function checkCountry(spec) {
       if (townSaysElsewhere || (named.length && !named.includes(want))) {
         const where = townSaysElsewhere ? [...new Set(towns)] : named;
         problems.push(`slide ${i}: the photo for "${e.for || 'the backdrop'}" is in `
-          + `${where.join('/')}, not ${spec.country} — set anyCountry:true to accept it`);
+          + `${where.join('/')}, not ${e.country || spec.country} — set anyCountry:true to accept it`);
       }
     }
   });
@@ -121,18 +128,20 @@ export function checkWiring(spec) {
     const images = slide.images || [];
     if (!items.length || images.length < 2) return;
     const label = `slide ${i}${slide.title ? ` (${slide.title})` : ''}`;
+    // tt-trio has no backdrop: one photo per row and nothing else.
+    const off = slide.layout === 'tt-trio' ? 0 : 1;
 
     // One backdrop plus one photo per row. A mismatch here means the rows and
     // the queries are no longer aligned at all, and every `for` below would be
     // comparing the wrong pair.
-    if (images.length !== items.length + 1) {
+    if (images.length !== items.length + off) {
       problems.push(`${label}: ${items.length} items but ${images.length} photo `
-        + `queries — expected ${items.length + 1} (one backdrop + one per row)`);
+        + `queries — expected ${items.length + off} (${off ? 'one backdrop + ' : ''}one per row)`);
       return;
     }
 
     items.forEach((it, k) => {
-      const e = images[k + 1];
+      const e = images[k + off];
       if (e.for === undefined) {
         problems.push(`${label}: the query for "${it.name}" has no \`for\` — `
           + 'add it so a rename cannot leave the photo behind');

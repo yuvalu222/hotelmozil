@@ -22,7 +22,7 @@ const his = b64('assets/own-close/branded-card.orig.jpg', 'image/jpeg');
 const bg = b64('cache/closer/pexels-14574527.jpg', 'image/jpeg');
 const icon = b64('../../HotelMozil/assets/images/icon.png', 'image/png');
 const gp = b64('assets/badges/google-play.png', 'image/png');
-const OUT = 'assets/own-close/branded-card.jpg'; // replaces the blurred fit; the 3:4 original stays as .orig.jpg
+const OUT = 'assets/own-close/branded-card-916.jpg'; // owner kept his own closer (8.10); this one is not wired into any deck
 
 // Layout box: his 1500x2000 frame scaled by K and centred, so the content
 // (78..1970 with the second badge) sits inside TikTok's safe band 240..1590.

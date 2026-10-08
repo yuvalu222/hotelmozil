@@ -1,0 +1,43 @@
+{
+ "_": "Travel times on the 3-countries deck (8.10). Each is the direct service as its operator or seat61 states it, rounded the way the source deck writes them.",
+ "וינה-ברטיסלבה": {
+  "shown": "שעה ברכבת",
+  "value": "56 min REX (since electrification, Oct 2025)",
+  "source": "https://www.seat61.com/trains-and-routes/vienna-to-bratislava-by-train.htm"
+ },
+ "ברטיסלבה-בודפשט": {
+  "shown": "2:40 שעות ברכבת",
+  "value": "2h41 EuroCity, every ~2h",
+  "source": "https://www.bratislava-slovakia.eu/travel/budapest-bratislava/budapest-train"
+ },
+ "מינכן-אינסברוק": {
+  "shown": "2 שעות ברכבת",
+  "value": "railjet 1h53-2h03",
+  "source": "https://www.raileurope.com/en-us/destinations/munich-innsbruck-train"
+ },
+ "אינסברוק-ורונה": {
+  "shown": "3:30 שעות ברכבת",
+  "value": "direct EC via Brenner 3h31-3h35 (EC 81 09:24-12:59)",
+  "source": "https://showmethejourney.com/train-travel-info/journeys/from-innsbruck-to-verona-by-train/"
+ },
+ "ניס-מונקו": {
+  "shown": "25 דקות ברכבת",
+  "value": "TER 20-25 min",
+  "source": "https://www.portpalace.com/en/actualites/train-nice-monaco-guide"
+ },
+ "מונקו-סן רמו": {
+  "shown": "שעה ברכבת",
+  "value": "54 min fastest, change at Ventimiglia (27 + 17 min)",
+  "source": "https://www.thetrainline.com/en-us/train-times/monaco-monte-carlo-to-sanremo"
+ },
+ "ונציה-ליובליאנה": {
+  "shown": "2:10 שעות באוטובוס",
+  "value": "FlixBus direct, 2h10 fastest",
+  "source": "https://global.flixbus.com/bus-routes/bus-venice-ljubljana"
+ },
+ "ליובליאנה-זאגרב": {
+  "shown": "2:30 שעות ברכבת",
+  "value": "direct 2h09-2h40 (14:45-17:15)",
+  "source": "https://everyrail.com/blog/ljubljana-to-zagreb-train/"
+ }
+}

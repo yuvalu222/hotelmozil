@@ -530,6 +530,26 @@ const SKINS = {
       </div>`;
   },
 
+  // @miba_app "3 מדינות, בטיול אחד" (owner, 8.10: "a great idea and it really
+  // goes"). Each slide is one route: three photos stacked in equal thirds, a
+  // white label "City, Country + flag" on each, and a black pill with the
+  // travel time sitting on the seam between two photos. Measured off
+  // harvest/own/miba_app-post-7693888469180976404/02.jpg; the two numbers that
+  // are ours, not the source's, are the label inset (the source runs it under
+  // TikTok's like rail) and the first label's top (the source puts it under
+  // the header). Item shape: { name: 'וינה, אוסטריה', flag: '🇦🇹', to?: 'שעה ברכבת' }
+  'tt-trio'(s, photos) {
+    const items = (s.items || []).slice(0, 3);
+    const rows = items.map((it, i) => `
+      <div class="tr-row" style="top:${i * 640}px">
+        ${img(photos[i] || photos[0])}
+        <div class="tr-chip${i === 0 ? ' first' : ''}">${esc(it.name)}${it.flag ? ` ${esc(it.flag)}` : ''}</div>
+      </div>`).join('');
+    const pills = items.slice(0, -1).map((it, i) => (it.to
+      ? `<div class="tr-to" style="top:${(i + 1) * 640}px">${esc(it.to)}</div>` : '')).join('');
+    return `<div class="trio">${rows}${pills}</div>`;
+  },
+
   // Closing placeholder, shown whole in a phone frame on a flat ground.
   'screenshot'(s, photos) {
     return `<div class="shot">${img(photos[0])}</div>`;

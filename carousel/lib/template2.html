@@ -543,6 +543,20 @@
   .rt:not(.boxed) .rt-fact span { background:none; color:#fff;
       -webkit-text-stroke:3px #000; paint-order:stroke fill; padding:0; }
 
+  /* ===== tt-trio — @miba_app, three stacked photos per route (8.10).
+     Source slide 1534x2730 read at 1124 wide, scaled x0.961 to 1080:
+     rows are equal thirds; label 81px tall, glyph 43px; pill 71px tall,
+     digits 37px, centred on the seam. */
+  .trio { position:absolute; inset:0; background:#000; }
+  .tr-row { position:absolute; left:0; right:0; height:640px; overflow:hidden; }
+  .tr-row > img { width:100%; height:100%; object-fit:cover; display:block; }
+  .tr-chip { position:absolute; top:130px; right:160px; direction:rtl; white-space:nowrap;
+             background:#fff; color:#111; border-radius:16px; padding:8px 28px 10px;
+             font:500 60px/1.1 'Heebo'; }
+  .tr-chip.first { top:270px; }
+  .tr-to { position:absolute; left:50%; transform:translate(-50%,-50%); direction:rtl;
+           white-space:nowrap; background:#111; color:#fff; border-radius:14px;
+           padding:6px 30px 8px; font:700 52px/1.15 'Heebo'; z-index:2; }
   .guide { display:none; position:absolute; inset:0; pointer-events:none; }
   .guide.on { display:block; }
   .guide .ig { position:absolute; top:285px; height:1350px; left:0; right:0; outline:3px dashed rgba(255,80,220,.8); }

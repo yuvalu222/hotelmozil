@@ -1,0 +1,587 @@
+{
+  "id": "tt-30-3-countries",
+  "platform": "tiktok",
+  "skin": "clone",
+  "clonedUrl": "https://www.tiktok.com/@miba_app/photo/7693888469180976404",
+  "clonedAccount": "miba_app",
+  "demonstrates": "העתק של @miba_app: שער עם שורה אחת, ואז מסלול של 3 מדינות בכל שקופית, שלוש תמונות אחת מעל השנייה עם זמן הנסיעה ביניהן. זמני הנסיעה מהמפעילים (ÖBB, SNCF/TER, FlixBus) ומ-seat61, research/3-countries-times.json.",
+  "caption": "🌍 4 מסלולים של 3 מדינות בטיול אחד, עם זמן הנסיעה בין כל עיר.\n\nוינה 🇦🇹 ברטיסלבה 🇸🇰 בודפשט 🇭🇺: שעה ואז 2:40 שעות ברכבת\nמינכן 🇩🇪 אינסברוק 🇦🇹 ורונה 🇮🇹: שעתיים ואז 3:30 שעות ברכבת\nניס 🇫🇷 מונקו 🇲🇨 סן רמו 🇮🇹: 25 דקות ואז שעה ברכבת\nונציה 🇮🇹 ליובליאנה 🇸🇮 זאגרב 🇭🇷: 2:10 שעות באוטובוס ואז 2:30 ברכבת\n\nשמרו לטיול הבא 📍 רוצים חלק 2 עם עוד מסלולים של 3 מדינות?",
+  "hashtags": [
+    "אירופה",
+    "טיול",
+    "טיולגדול",
+    "המלצות",
+    "חופשה"
+  ],
+  "sound": "בחר סאונד טרנדי ביום ההעלאה.",
+  "ownClose": [
+    "assets/own-close/tease.jpg",
+    "assets/own-close/branded-card.jpg"
+  ],
+  "place": "3 מדינות",
+  "slides": [
+    {
+      "layout": "tt-tiny",
+      "titleCaps": "3 מדינות, בטיול אחד 🌎",
+      "titlePx": 75,
+      "top": 40,
+      "alt": "ונציה",
+      "image": {
+        "query": "venice grand canal sunset",
+        "must": [
+          "venice"
+        ],
+        "country": "italy",
+        "id": "pexels-6916831",
+        "source": "pexels",
+        "url": "https://images.pexels.com/photos/6916831/pexels-photo-6916831.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+        "width": 1080,
+        "height": 1920,
+        "credit": {
+          "name": null,
+          "url": null,
+          "page": "https://www.pexels.com/photo/photo-of-buildings-on-the-waterfront-6916831/"
+        },
+        "alt": "Free Stunning view of Venice's iconic canal and architecture during sunset. Stock Photo",
+        "altRaw": "Free Stunning view of Venice's iconic canal and architecture during sunset. Stock Photo",
+        "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-6916831.jpg",
+        "m": {
+          "sat": 0.3071,
+          "satHigh": 0.2189,
+          "chroma": 48.21,
+          "contrast": 53.79,
+          "warm": 0.2,
+          "vivid": 0.2531,
+          "dark": 0.1469,
+          "blown": 0.0003,
+          "busy": 0.0871,
+          "lum": 123.1
+        },
+        "dud": null,
+        "score": 0.866,
+        "coverFactor": 1.25,
+        "coverWhy": [
+          "light as an event"
+        ],
+        "coverScore": 1.0825,
+        "keep": true
+      },
+      "credit": null
+    },
+    {
+      "layout": "tt-trio",
+      "items": [
+        {
+          "name": "וינה, אוסטריה",
+          "flag": "🇦🇹",
+          "to": "שעה ברכבת"
+        },
+        {
+          "name": "ברטיסלבה, סלובקיה",
+          "flag": "🇸🇰",
+          "to": "2:40 שעות ברכבת"
+        },
+        {
+          "name": "בודפשט, הונגריה",
+          "flag": "🇭🇺"
+        }
+      ],
+      "images": [
+        {
+          "query": "vienna austria city",
+          "for": "וינה, אוסטריה",
+          "mustAll": [
+            "vienna"
+          ],
+          "country": "austria",
+          "keep": true,
+          "id": "pexels-27928324",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/27928324/pexels-photo-27928324/free-photo-of-a-view-of-a-city-street-from-a-balcony.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-view-of-a-city-street-from-a-balcony-27928324/"
+          },
+          "alt": "Free Charming architectural scene of a historic street in Vienna, Austria. Stock Photo",
+          "altRaw": "Free Charming architectural scene of a historic street in Vienna, Austria. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-27928324.jpg",
+          "m": {
+            "sat": 0.2213,
+            "satHigh": 0.1324,
+            "chroma": 22.97,
+            "contrast": 78.5,
+            "warm": 0.2923,
+            "vivid": 0.2936,
+            "dark": 0.1292,
+            "blown": 0.015,
+            "busy": 0.1172,
+            "lum": 147.7
+          },
+          "dud": null,
+          "score": 0.878
+        },
+        {
+          "query": "bratislava castle",
+          "for": "ברטיסלבה, סלובקיה",
+          "mustAll": [
+            "bratislava",
+            "aerial",
+            "castle"
+          ],
+          "country": "slovakia",
+          "id": "pexels-14582579",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14582579/pexels-photo-14582579.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/buildings-in-cityscape-under-cloudy-sky-14582579/"
+          },
+          "alt": "Free Scenic aerial view of Bratislava Castle and cityscape under a cloudy sky, showcasing Slovakia's architectural beauty. Stock Photo",
+          "altRaw": "Free Scenic aerial view of Bratislava Castle and cityscape under a cloudy sky, showcasing Slovakia's architectural beauty. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14582579.jpg",
+          "m": {
+            "sat": 0.1025,
+            "satHigh": 0.0512,
+            "chroma": 12.68,
+            "contrast": 79.45,
+            "warm": 0.0355,
+            "vivid": 0.0356,
+            "dark": 0.1953,
+            "blown": 0,
+            "busy": 0.0409,
+            "lum": 151.2
+          }
+        },
+        {
+          "query": "budapest parliament danube",
+          "for": "בודפשט, הונגריה",
+          "mustAll": [
+            "budapest"
+          ],
+          "country": "hungary",
+          "keep": true,
+          "id": "pexels-26855402",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/26855402/pexels-photo-26855402/free-photo-of-aerial-view-of-the-danube-and-the-hungarian-parliament-building.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-the-danube-and-the-hungarian-parliament-building-26855402/"
+          },
+          "alt": "Free Aerial view of the Hungarian Parliament Building by the Danube River, a famous landmark in Budapest. Stock Photo",
+          "altRaw": "Free Aerial view of the Hungarian Parliament Building by the Danube River, a famous landmark in Budapest. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26855402.jpg",
+          "m": {
+            "sat": 0.1041,
+            "satHigh": 0.0037,
+            "chroma": 20.91,
+            "contrast": 35.03,
+            "warm": 0.0028,
+            "vivid": 0.0057,
+            "dark": 0.0069,
+            "blown": 0.0005,
+            "busy": 0.141,
+            "lum": 179.2
+          },
+          "dud": null,
+          "score": 0.5
+        }
+      ]
+    },
+    {
+      "layout": "tt-trio",
+      "items": [
+        {
+          "name": "מינכן, גרמניה",
+          "flag": "🇩🇪",
+          "to": "2 שעות ברכבת"
+        },
+        {
+          "name": "אינסברוק, אוסטריה",
+          "flag": "🇦🇹",
+          "to": "3:30 שעות ברכבת"
+        },
+        {
+          "name": "ורונה, איטליה",
+          "flag": "🇮🇹"
+        }
+      ],
+      "images": [
+        {
+          "query": "munich marienplatz town hall",
+          "for": "מינכן, גרמניה",
+          "mustAll": [
+            "munich"
+          ],
+          "country": "germany",
+          "keep": true,
+          "id": "pexels-29299620",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/29299620/pexels-photo-29299620/free-photo-of-gothic-clock-tower-at-evening-in-munich.png?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/gothic-clock-tower-at-evening-in-munich-29299620/"
+          },
+          "alt": "Free Majestic view of the New Town Hall's gothic clock tower in Munich at dusk. Stock Photo",
+          "altRaw": "Free Majestic view of the New Town Hall's gothic clock tower in Munich at dusk. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-29299620.jpg",
+          "m": {
+            "sat": 0.6212,
+            "satHigh": 0.8703,
+            "chroma": 114.76,
+            "contrast": 56.13,
+            "warm": 0.2766,
+            "vivid": 0.79,
+            "dark": 0.2148,
+            "blown": 0,
+            "busy": 0.2087,
+            "lum": 115
+          },
+          "dud": null,
+          "score": 0.9
+        },
+        {
+          "query": "innsbruck colorful houses inn river mountains",
+          "for": "אינסברוק, אוסטריה",
+          "mustAll": [
+            "innsbruck"
+          ],
+          "country": "austria",
+          "keep": true,
+          "id": "pexels-10640058",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/10640058/pexels-photo-10640058.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/colorful-apartment-buildings-on-riverside-10640058/"
+          },
+          "alt": "Free Vibrant buildings line the waterfront with scenic mountain backdrop in Innsbruck, Austria. Stock Photo",
+          "altRaw": "Free Vibrant buildings line the waterfront with scenic mountain backdrop in Innsbruck, Austria. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-10640058.jpg",
+          "m": {
+            "sat": 0.4463,
+            "satHigh": 0.4081,
+            "chroma": 76.18,
+            "contrast": 42.59,
+            "warm": 0.0622,
+            "vivid": 0.5778,
+            "dark": 0.0658,
+            "blown": 0.0009,
+            "busy": 0.0927,
+            "lum": 117.9
+          },
+          "dud": null,
+          "score": 0.84
+        },
+        {
+          "query": "verona italy city",
+          "for": "ורונה, איטליה",
+          "mustAll": [
+            "verona"
+          ],
+          "country": "italy",
+          "keep": true,
+          "id": "pexels-19158705",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/19158705/pexels-photo-19158705/free-photo-of-a-river-in-a-town.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/a-river-in-a-town-19158705/"
+          },
+          "alt": "Free Picturesque view of colorful buildings along the Adige River in Verona, Italy, under a clouded sky. Stock Photo",
+          "altRaw": "Free Picturesque view of colorful buildings along the Adige River in Verona, Italy, under a clouded sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-19158705.jpg",
+          "m": {
+            "sat": 0.2066,
+            "satHigh": 0.1041,
+            "chroma": 32.13,
+            "contrast": 68.52,
+            "warm": 0.08,
+            "vivid": 0.0827,
+            "dark": 0.0655,
+            "blown": 0.0026,
+            "busy": 0.1366,
+            "lum": 165.2
+          },
+          "dud": null,
+          "score": 0.786
+        }
+      ]
+    },
+    {
+      "layout": "tt-trio",
+      "items": [
+        {
+          "name": "ניס, צרפת",
+          "flag": "🇫🇷",
+          "to": "25 דקות ברכבת"
+        },
+        {
+          "name": "מונקו",
+          "flag": "🇲🇨",
+          "to": "שעה ברכבת"
+        },
+        {
+          "name": "סן רמו, איטליה",
+          "flag": "🇮🇹"
+        }
+      ],
+      "images": [
+        {
+          "query": "nice france promenade des anglais",
+          "for": "ניס, צרפת",
+          "mustAll": [
+            "nice",
+            "france"
+          ],
+          "country": "france",
+          "keep": true,
+          "id": "pexels-14504325",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14504325/pexels-photo-14504325.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/aerial-view-of-the-azure-coast-france-14504325/"
+          },
+          "alt": "Free Discover the picturesque Promenade des Anglais along Nice's azure coastline in France. Stock Photo",
+          "altRaw": "Free Discover the picturesque Promenade des Anglais along Nice's azure coastline in France. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14504325.jpg",
+          "m": {
+            "sat": 0.4694,
+            "satHigh": 0.5211,
+            "chroma": 85.04,
+            "contrast": 36.18,
+            "warm": 0.0471,
+            "vivid": 0.5462,
+            "dark": 0.0889,
+            "blown": 0,
+            "busy": 0.1147,
+            "lum": 106.3
+          },
+          "dud": null,
+          "score": 0.77
+        },
+        {
+          "query": "monaco monte carlo harbour",
+          "for": "מונקו",
+          "mustAll": [
+            "monaco"
+          ],
+          "country": "monaco",
+          "keep": true,
+          "id": "pexels-2231298",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/2231298/pexels-photo-2231298.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/parked-boats-2231298/"
+          },
+          "alt": "Free Scenic view of a marina with luxury yachts anchored in Monte Carlo, Monaco under a bright blue sky. Stock Photo",
+          "altRaw": "Free Scenic view of a marina with luxury yachts anchored in Monte Carlo, Monaco under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-2231298.jpg",
+          "m": {
+            "sat": 0.3135,
+            "satHigh": 0.2133,
+            "chroma": 45.28,
+            "contrast": 69.69,
+            "warm": 0.0483,
+            "vivid": 0.3486,
+            "dark": 0.1898,
+            "blown": 0,
+            "busy": 0.1308,
+            "lum": 137.2
+          },
+          "dud": null,
+          "score": 0.956
+        },
+        {
+          "query": "sanremo old town pigna",
+          "for": "סן רמו, איטליה",
+          "mustAll": [
+            "sanremo",
+            "alleyway"
+          ],
+          "country": "italy",
+          "keep": true,
+          "id": "pexels-28211323",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/28211323/pexels-photo-28211323/free-photo-of-historical-alley-in-sanremo-italy-s-liguria.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/historical-alley-in-sanremo-italy-s-liguria-28211323/"
+          },
+          "alt": "Free Colorful buildings in a narrow alleyway of Sanremo, showcasing Ligurian architecture under a bright blue sky. Stock Photo",
+          "altRaw": "Free Colorful buildings in a narrow alleyway of Sanremo, showcasing Ligurian architecture under a bright blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-28211323.jpg",
+          "m": {
+            "sat": 0.5037,
+            "satHigh": 0.6028,
+            "chroma": 84.73,
+            "contrast": 55.61,
+            "warm": 0.5646,
+            "vivid": 0.6772,
+            "dark": 0.1495,
+            "blown": 0.0164,
+            "busy": 0.2621,
+            "lum": 110.7
+          }
+        }
+      ]
+    },
+    {
+      "layout": "tt-trio",
+      "items": [
+        {
+          "name": "ונציה, איטליה",
+          "flag": "🇮🇹",
+          "to": "2:10 שעות באוטובוס"
+        },
+        {
+          "name": "ליובליאנה, סלובניה",
+          "flag": "🇸🇮",
+          "to": "2:30 שעות ברכבת"
+        },
+        {
+          "name": "זאגרב, קרואטיה",
+          "flag": "🇭🇷"
+        }
+      ],
+      "images": [
+        {
+          "query": "venice gondola canal",
+          "for": "ונציה, איטליה",
+          "mustAll": [
+            "venice"
+          ],
+          "country": "italy",
+          "keep": true,
+          "id": "pexels-14719449",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/14719449/pexels-photo-14719449.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/gondolas-and-boats-on-canal-in-venice-14719449/"
+          },
+          "alt": "Free Picturesque view of gondolas navigating Venice's iconic canals under a sunny sky, capturing the city's charm. Stock Photo",
+          "altRaw": "Free Picturesque view of gondolas navigating Venice's iconic canals under a sunny sky, capturing the city's charm. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-14719449.jpg",
+          "m": {
+            "sat": 0.2232,
+            "satHigh": 0.0823,
+            "chroma": 27.08,
+            "contrast": 51.26,
+            "warm": 0.1996,
+            "vivid": 0.1996,
+            "dark": 0.0903,
+            "blown": 0,
+            "busy": 0.1633,
+            "lum": 135.9
+          },
+          "dud": null,
+          "score": 0.5
+        },
+        {
+          "query": "ljubljana slovenia river",
+          "for": "ליובליאנה, סלובניה",
+          "mustAll": [
+            "ljubljana"
+          ],
+          "country": "slovenia",
+          "keep": true,
+          "id": "pexels-38723049",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/38723049/pexels-photo-38723049/free-photo-of-ljubljana-cityscape-with-franciscan-church.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/ljubljana-cityscape-with-franciscan-church-38723049/"
+          },
+          "alt": "Free Scenic view of Ljubljana with the iconic Franciscan Church by the river under a clear blue sky. Stock Photo",
+          "altRaw": "Free Scenic view of Ljubljana with the iconic Franciscan Church by the river under a clear blue sky. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-38723049.jpg",
+          "m": {
+            "sat": 0.4281,
+            "satHigh": 0.4777,
+            "chroma": 49.88,
+            "contrast": 44.81,
+            "warm": 0.1065,
+            "vivid": 0.5359,
+            "dark": 0.3374,
+            "blown": 0,
+            "busy": 0.0921,
+            "lum": 72.5
+          },
+          "dud": null,
+          "score": 0.723
+        },
+        {
+          "query": "zagreb croatia",
+          "for": "זאגרב, קרואטיה",
+          "mustAll": [
+            "zagreb"
+          ],
+          "country": "croatia",
+          "keep": true,
+          "id": "pexels-26978108",
+          "source": "pexels",
+          "url": "https://images.pexels.com/photos/26978108/pexels-photo-26978108/free-photo-of-church-of-st-mark.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1080&h=1920",
+          "width": 1080,
+          "height": 1920,
+          "credit": {
+            "name": null,
+            "url": null,
+            "page": "https://www.pexels.com/photo/church-of-st-mark-26978108/"
+          },
+          "alt": "Free St. Mark's Church with its iconic colorful roof set against a vibrant blue sky in Zagreb, Croatia. Stock Photo",
+          "altRaw": "Free St. Mark's Church with its iconic colorful roof set against a vibrant blue sky in Zagreb, Croatia. Stock Photo",
+          "file": "C:\\Users\\Yuval\\Desktop\\hotelmozil-site\\carousel\\cache\\pexels-26978108.jpg",
+          "m": {
+            "sat": 0.268,
+            "satHigh": 0.1351,
+            "chroma": 49.84,
+            "contrast": 49.91,
+            "warm": 0.1074,
+            "vivid": 0.2209,
+            "dark": 0.0504,
+            "blown": 0,
+            "busy": 0.1553,
+            "lum": 145
+          },
+          "dud": null,
+          "score": 0.791
+        }
+      ]
+    }
+  ]
+}
