@@ -1,0 +1,158 @@
+[
+ {
+  "name": "underrated / hidden / niche",
+  "covers": 19,
+  "creators": 10,
+  "endorse": 7,
+  "winRate": 0.631578947368421,
+  "median": 0.08362431135139925,
+  "best": {
+   "text": "underrated destinations for your / 2026 euro summer / part 4",
+   "creator": "ellastraveldiaries0",
+   "x": 17.54677625322416
+  }
+ },
+ {
+  "name": "best / recommendations",
+  "covers": 37,
+  "creators": 11,
+  "endorse": 4,
+  "winRate": 0.5405405405405406,
+  "median": 0.053884316791371845,
+  "best": {
+   "text": "TOP Hurghada hotels / 2026",
+   "creator": "maryamontour",
+   "x": 39.46050001269715
+  }
+ },
+ {
+  "name": "mistakes / what not to do",
+  "covers": 21,
+  "creators": 10,
+  "endorse": 4,
+  "winRate": 0.42857142857142855,
+  "median": -0.008743467806079153,
+  "best": {
+   "text": "What NOT to do / on your 1st trip / to Japan",
+   "creator": "itsjustinjapan",
+   "x": 8.247422680412384
+  }
+ },
+ {
+  "name": "N things / places to do in X",
+  "covers": 62,
+  "creators": 15,
+  "endorse": 3,
+  "winRate": 0.41935483870967744,
+  "median": -0.018438696187848658,
+  "best": {
+   "text": "Places to visit / NEWYORK",
+   "creator": "maryamontour",
+   "x": 20.156912338455477
+  }
+ },
+ {
+  "name": "itinerary / route / N days",
+  "covers": 23,
+  "creators": 9,
+  "endorse": 3,
+  "winRate": 0.4782608695652174,
+  "median": -0.08362431135139925,
+  "best": {
+   "text": "7 day itinerary / HURGHADA EGYPT",
+   "creator": "maryamontour",
+   "x": 44.326756881592004
+  }
+ },
+ {
+  "name": "guide / ultimate / everything",
+  "covers": 10,
+  "creators": 5,
+  "endorse": 2,
+  "winRate": 0.6,
+  "median": 0.37924485549079145,
+  "best": {
+   "text": "13 Areas in Tokyo / You Need to / Know!!!",
+   "creator": "itsjustinjapan",
+   "x": 6.338144329896912
+  }
+ },
+ {
+  "name": "how to plan (first-timers)",
+  "covers": 12,
+  "creators": 3,
+  "endorse": 2,
+  "winRate": 0.6666666666666666,
+  "median": 0.18794649854595624,
+  "best": {
+   "text": "What NOT to do / on your 1st trip / to Japan",
+   "creator": "itsjustinjapan",
+   "x": 8.247422680412384
+  }
+ },
+ {
+  "name": "shopping (apps/brands/stores)",
+  "covers": 26,
+  "creators": 6,
+  "endorse": 2,
+  "winRate": 0.5,
+  "median": 0.01968845080309234,
+  "best": {
+   "text": "whimsical stores to / check out in Tokyo",
+   "creator": "itsjustinjapan",
+   "x": 12.37113402061858
+  }
+ },
+ {
+  "name": "what it costs",
+  "covers": 15,
+  "creators": 6,
+  "endorse": 2,
+  "winRate": 0.3333333333333333,
+  "median": -0.009127737120151913,
+  "best": {
+   "text": "Budget-saving / tips / in Japan / Part 1",
+   "creator": "izzy_travels_",
+   "x": 134.1018766756032
+  }
+ },
+ {
+  "name": "going to X? here's where",
+  "covers": 24,
+  "creators": 2,
+  "endorse": 0,
+  "winRate": 0.5,
+  "median": 0.04370151266562461,
+  "best": {
+   "text": "Puglia, Italy? / Here's where to go!!",
+   "creator": "houseofhela_",
+   "x": 8.030726256983236
+  }
+ },
+ {
+  "name": "I wish I knew (quote)",
+  "covers": 4,
+  "creators": 2,
+  "endorse": 0,
+  "winRate": 0.25,
+  "median": -0.05851660219000232,
+  "best": {
+   "text": "\"I wish I knew / about / these apps / before my / trip to Japan\"",
+   "creator": "itsjustinjapan",
+   "x": 3.474226804123715
+  }
+ },
+ {
+  "name": "hard truth / dark side",
+  "covers": 9,
+  "creators": 3,
+  "endorse": 0,
+  "winRate": 0.2222222222222222,
+  "median": -0.19295547403448055,
+  "best": {
+   "text": "The DARK side of living in / Japan no one talks about...",
+   "creator": "corpus:holisticjess",
+   "x": 2.1980353634577567
+  }
+ }
+]
