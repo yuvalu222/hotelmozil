@@ -1,11 +1,11 @@
 [
  {
   "name": "N things / places to do in X",
-  "covers": 131,
-  "creators": 34,
-  "endorse": 18,
-  "winRate": 0.5419847328244275,
-  "median": 0.11262084625684832,
+  "covers": 135,
+  "creators": 35,
+  "endorse": 19,
+  "winRate": 0.5481481481481482,
+  "median": 0.050078864343317875,
   "best": {
    "text": "Top 10 Places to Visit in / Bali",
    "creator": "downtoearthtravel25",
@@ -27,11 +27,11 @@
  },
  {
   "name": "underrated / hidden / niche",
-  "covers": 37,
-  "creators": 19,
+  "covers": 40,
+  "creators": 20,
   "endorse": 14,
-  "winRate": 0.7567567567567568,
-  "median": 0.30805377919094346,
+  "winRate": 0.7,
+  "median": 0.2682438661672477,
   "best": {
    "text": "Welcome to the underrated / tropical side of Japan",
    "creator": "soft.nrt",
