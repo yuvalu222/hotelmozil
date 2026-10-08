@@ -1,11 +1,11 @@
 [
  {
   "name": "N things / places to do in X",
-  "covers": 135,
-  "creators": 35,
-  "endorse": 19,
-  "winRate": 0.5481481481481482,
-  "median": 0.050078864343317875,
+  "covers": 136,
+  "creators": 36,
+  "endorse": 20,
+  "winRate": 0.5514705882352942,
+  "median": 0.0813498553000831,
   "best": {
    "text": "Top 10 Places to Visit in / Bali",
    "creator": "downtoearthtravel25",
@@ -14,11 +14,11 @@
  },
  {
   "name": "best / recommendations",
-  "covers": 109,
-  "creators": 35,
-  "endorse": 17,
-  "winRate": 0.5871559633027523,
-  "median": 0.19577793540793742,
+  "covers": 133,
+  "creators": 36,
+  "endorse": 18,
+  "winRate": 0.5939849624060151,
+  "median": 0.1727589256152422,
   "best": {
    "text": "WHERE TO TRAVEL: / BEST COUNTRIES TO VISIT / BY MONTH",
    "creator": "travel_guide_g",
