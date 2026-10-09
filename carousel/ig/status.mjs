@@ -69,15 +69,15 @@ pre{white-space:pre-wrap;font:inherit;background:var(--bg);padding:10px;border-r
 .tt{height:200px;border-radius:6px}.ig{height:200px;border-radius:6px;outline:2px solid #3a7}
 </style>
 <h1>טיקטוק → אינסטגרם</h1>
-<p class="top">${tok ? `מחובר לאינסטגרם @${esc(tok.username)} · החיבור בתוקף עד ${esc((tok.expiresAt || '').slice(0, 10)) || 'לא ידוע'}` : 'אינסטגרם עוד לא מחובר: קרוסלות מוכנות מחכות לחיבור'}
+<p class="top">${tok ? `מחובר לאינסטגרם <bdi>@${esc(tok.username)}</bdi> · החיבור בתוקף עד ${esc((tok.expiresAt || '').slice(0, 10)) || 'לא ידוע'}` : 'אינסטגרם עוד לא מחובר: קרוסלות מוכנות מחכות לחיבור'}
  · מעקב מ-${state ? new Date(state.cutoff * 1000).toLocaleDateString('he-IL') : 'עוד לא רץ'}
  · בכל זוג: מימין טיקטוק, משמאל במסגרת ירוקה מה שעולה לאינסטגרם (4:5)</p>
 ${tok ? '' : `<section class="connect">
   <h2>חיבור חד-פעמי לאינסטגרם</h2>
   <ol>
-    <li>באפליקציית אינסטגרם, בחשבון <b>@hotelmozil</b>: הגדרות ← סוג חשבון וכלים ← מעבר לחשבון מקצועי ← <b>יוצר</b>. אם החשבון כבר מקצועי, מדלגים.</li>
+    <li>באפליקציית אינסטגרם, בחשבון <b><bdi>@hotelmozil</bdi></b>: הגדרות ← סוג חשבון וכלים ← מעבר לחשבון מקצועי ← <b>יוצר</b>. אם החשבון כבר מקצועי, מדלגים.</li>
     <li>ב-<a href="https://developers.facebook.com/apps">developers.facebook.com/apps</a>: <b>Create app</b> ← בשימוש (use case) לבחור <b>Manage messaging &amp; content on Instagram</b> ← ליצור.</li>
-    <li>באפליקציה שנוצרה: <b>Instagram</b> ← <b>API setup with Instagram business login</b> ← <b>Add account</b> / <b>Generate token</b> ← להתחבר עם @hotelmozil ← <b>Copy</b>.</li>
+    <li>באפליקציה שנוצרה: <b>Instagram</b> ← <b>API setup with Instagram business login</b> ← <b>Add account</b> / <b>Generate token</b> ← להתחבר עם <bdi>@hotelmozil</bdi> ← <b>Copy</b>.</li>
     <li>לחיצה כפולה על <b>חיבור אינסטגרם</b> בשולחן העבודה. זה קורא את הטוקן שהועתק, בודק אותו, ופותח את הדף הזה מחדש.</li>
   </ol>
   <p class="meta">הטוקן תקף 60 יום והמערכת מחדשת אותו לבד כל שבוע, כך שזה קורה פעם אחת.</p>
