@@ -1,4 +1,4 @@
-// TikTok -> Instagram carousel mirror. Runs every 30 minutes (ig-mirror.cmd).
+// TikTok -> Instagram carousel mirror. Runs every 30 minutes (scheduled task HotelMozil-IgMirror).
 //
 // Every photo carousel he publishes on TikTok @hotelmozil is published again
 // on Instagram @hotelmozil: the same slides in the same order, fitted to 4:5,
@@ -174,7 +174,16 @@ async function main() {
     ctx = r.ctx;
     for (const tp of r.posts) {
       if (state.posts[tp.id] || !tp.createTime || tp.createTime < state.cutoff) continue;
-      if (tp.kind !== 'photo') { log(`skip ${tp.id}: video`); state.posts[tp.id] = { id: tp.id, status: 'skipped-video', createTime: tp.createTime }; continue; }
+      if (tp.kind === 'video') { log(`skip ${tp.id}: video`); state.posts[tp.id] = { id: tp.id, status: 'skipped-video', createTime: tp.createTime }; continue; }
+      if (tp.kind === 'unknown') {
+        // Not marked seen: once the reader is fixed, the post is still picked up.
+        log(`unknown post shape ${tp.id}: no images and no video`);
+        if (!state.notified.unknownShape) {
+          state.notified.unknownShape = new Date().toISOString();
+          await toast('אינסטגרם: טיקטוק שינה משהו', 'פוסט חדש בלי שקופיות ובלי וידאו. המראה לא יעלה אותו עד שהקוד יתוקן.');
+        }
+        continue;
+      }
       state.posts[tp.id] = { id: tp.id, createTime: tp.createTime, status: 'new', tiktok: tp, seenAt: new Date().toISOString(), attempts: 0 };
       log(`new TikTok carousel ${tp.id}: ${tp.images.length} slides`);
     }

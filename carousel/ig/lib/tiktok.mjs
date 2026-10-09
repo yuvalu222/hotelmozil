@@ -41,7 +41,9 @@ export function toPost(it) {
     desc: it.desc || '',
     music: it.music ? `${it.music.title || ''} - ${it.music.authorName || ''}`.trim() : null,
     pinned: !!it.isPinnedItem,
-    kind: images.length ? 'photo' : 'video',
+    // 'unknown' when neither shape is there: a renamed field must not turn
+    // every new carousel into a skipped "video" (big-picture check, 9.10).
+    kind: images.length ? 'photo' : (it.video?.duration > 0 ? 'video' : 'unknown'),
     images,
   };
 }

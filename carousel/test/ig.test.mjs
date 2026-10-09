@@ -41,7 +41,9 @@ test('a repeated tag counts once', () => {
 // ---- tiktok ----------------------------------------------------------------
 
 test('a video post is recognised as one', () => {
-  assert.strictEqual(toPost({ id: '1', createTime: 5, desc: '' }).kind, 'video');
+  assert.strictEqual(toPost({ id: '1', createTime: 5, desc: '', video: { duration: 12 } }).kind, 'video');
+  // Neither shape: a field TikTok renamed. Must not be filed away as a video.
+  assert.strictEqual(toPost({ id: '1', createTime: 5, desc: '' }).kind, 'unknown');
   assert.strictEqual(toPost({ id: '1', createTime: 5, imagePost: { images: [{ imageURL: { urlList: ['u'] } }] } }).kind, 'photo');
 });
 

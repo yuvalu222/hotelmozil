@@ -7,7 +7,9 @@ caption with its 5 hashtags. Built 9.10.2026.
 ## How it runs
 
 Scheduled task **HotelMozil-IgMirror**, every 30 minutes while the computer is
-on (on battery too). Each run:
+on (on battery too). The task runs `launch.cmd` in the state folder, not a file in
+the repo, so switching branches in hotelmozil-site cannot silently stop it. A
+missing `mirror.mjs` raises a toast. Each run:
 
 1. Reads the TikTok profile once. The page's own `/api/post/item_list/`
    response carries every post's slides, caption and song, so nothing is read
@@ -66,8 +68,9 @@ touched, and neither is the working tree.
 | `mirror.mjs` | the run (`--dry` prepare only · `--now` skip the waits · `--since <date>` first run) |
 | `connect.mjs` | one-time: store the Instagram token (reads it from the clipboard) |
 | `status.mjs` | page: every post, TikTok next to Instagram, status. Opens in Chrome |
-| `install-task.mjs` | registers the scheduled task |
+| `install-task.mjs` | writes the launcher into the state folder and registers the task (`--since` on first install) |
 | `calibrate.mjs` | fitter contact sheet over his real slides |
+| `connect.cmd` | what the desktop shortcut "חיבור אינסטגרם" runs |
 | `lib/` | `tiktok` · `fit` · `caption` · `graph` · `host` · `store` |
 | `../test/ig.test.mjs` | caption, API call order against a fake Graph, fitter on synthetic slides |
 
