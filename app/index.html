@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HotelMozil - הורדת האפליקציה</title>
+<meta name="description" content="מוזיל מלונות. הורידו את HotelMozil לאייפון או לאנדרואיד.">
+<meta property="og:title" content="HotelMozil">
+<meta property="og:description" content="הורידו את האפליקציה לאייפון או לאנדרואיד">
+<meta property="og:image" content="https://yuvalu222.github.io/hotelmozil/app/icon.png">
+<meta name="apple-itunes-app" content="app-id=6796429398">
+<script>
+  // One link for both stores. iPadOS reports itself as a Mac, so a touch
+  // screen on "Macintosh" is treated as an iPad.
+  (function () {
+    var IOS = 'https://apps.apple.com/il/app/hotelmozil/id6796429398';
+    var ANDROID = 'https://play.google.com/store/apps/details?id=com.hotelmozil.app';
+    var ua = navigator.userAgent || '';
+    var isIOS = /iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
+    var isAndroid = /Android/i.test(ua);
+    if (isIOS) location.replace(IOS);
+    else if (isAndroid) location.replace(ANDROID);
+  })();
+</script>
+<style>
+  :root { --bg:#0f1220; --fg:#fff; --muted:#aab; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--fg); font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+         min-height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center;
+         gap:20px; padding:32px 16px; text-align:center; }
+  img.icon { width:112px; height:112px; border-radius:26px; }
+  h1 { font-size:28px; }
+  p { color:var(--muted); font-size:17px; }
+  .btns { display:flex; flex-direction:column; gap:12px; width:100%; max-width:300px; }
+  a.btn { display:block; background:#000; color:#fff; text-decoration:none; border:1px solid #556;
+          border-radius:12px; padding:14px 18px; font-size:18px; font-weight:600; }
+</style>
+</head>
+<body>
+  <img class="icon" src="icon.png" alt="HotelMozil">
+  <h1>HotelMozil</h1>
+  <p>מוזיל מלונות. בחרו את החנות שלכם:</p>
+  <div class="btns">
+    <a class="btn" href="https://apps.apple.com/il/app/hotelmozil/id6796429398">App Store (אייפון)</a>
+    <a class="btn" href="https://play.google.com/store/apps/details?id=com.hotelmozil.app">Google Play (אנדרואיד)</a>
+  </div>
+</body>
+</html>
