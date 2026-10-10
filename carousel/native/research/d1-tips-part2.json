@@ -1,0 +1,228 @@
+{
+ "deck": "d1-tips-part2",
+ "cover": {
+  "lines": [
+   "10",
+   "טיפים והמלצות לתאילנד",
+   "שהלוואי וידענו",
+   "לפני שטסנו 🇹🇭",
+   "חלק 2"
+  ],
+  "photo": "Portrait, iPhone look: the sun sitting just above a calm sea horizon, the sky graded from deep orange to pink to violet, a glowing path of light on the water leading to the camera, a silhouetted longtail boat or a small karst island off to one side, wet sand with a thin wave edge in the foreground. Keep the upper half clean sky for the title."
+ },
+ "slides": [
+  {
+   "n": 1,
+   "heading": "רק 30 יום בלי ויזה!",
+   "body": [
+    "מ-15 בספטמבר 2026 זה ירד מ-60 ל-30",
+    "רוצים יותר? אפשר לבקש הארכה",
+    "של עוד 30 יום מההגירה בתאילנד"
+   ],
+   "photo": "Portrait, iPhone look: wooden longtail boats with colourful ribbons on their bows, anchored in glassy turquoise water, towering limestone cliffs behind them, soft morning light, a few clouds.",
+   "sources": [
+    {
+     "url": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/",
+     "quote": "Under the new framework, holders of passports or travel documents from 60 countries and territories will be eligible for visa exemption for tourism, with a permitted stay of up to 30 days",
+     "note": "Israel appears in the Royal Gazette list on this page."
+    },
+    {
+     "url": "https://www.khaosodenglish.com/politics/2026/09/01/thailand-reduces-visa-free-stay-from-60-to-30-days/",
+     "quote": "The new rules will take effect on 15 September 2026, 15 days after their publication in the Royal Gazette."
+    },
+    {
+     "url": "https://www.ynetnews.com/travel/article/bkffij400gg",
+     "quote": "Even after the new regulations take effect, travelers will still be able to request an additional 30-day extension, subject to approval by Thai immigration authorities."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "heading": "TDAC - טופס כניסה חובה!",
+   "body": [
+    "ממלאים אונליין עד 3 ימים לפני הנחיתה",
+    "וזה בחינם!!! אתר שמבקש כסף = הונאה"
+   ],
+   "photo": "Portrait, iPhone shot through an airplane window: the wing tip over a string of green islands ringed by turquoise shallows and white sand, golden late-afternoon light, a little haze on the horizon.",
+   "sources": [
+    {
+     "url": "https://seoul.thaiembassy.org/en/publicservice/important-announcement-on-thailand-digital-arrival",
+     "quote": "From 1 May 2025 onwards, Thailand will require all foreigners to complete a digital arrival card, Thailand Digital Arrival Card (TDAC), online within 3 days before arrival in Thailand"
+    },
+    {
+     "url": "https://www.mots.go.th/mots_en/news/3764",
+     "quote": "TDAC registration, an electronic system for foreign visitors entering Thailand, is completely free of charge. Tourists can only submit their information through the official Immigration Bureau website at https://tdac.immigration.go.th."
+    },
+    {
+     "url": "https://www.mots.go.th/mots_en/news/3764",
+     "quote": "The websites requesting payment are not official Thai government sites, but scams exploiting the influx of travelers to Thailand for illegal gain."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "heading": "כל משיכה מכספומט = 220 באט",
+   "body": [
+    "העמלה קבועה, לא משנה כמה מושכים",
+    "ותמיד תבחרו חיוב בבאט - לא בשקלים!"
+   ],
+   "photo": "Portrait, iPhone look: a busy Bangkok night market from slightly above, rows of glowing stalls and string lights, warm orange and neon tones, motion of people softly blurred, sky deep blue just after sunset.",
+   "sources": [
+    {
+     "url": "https://www.thailandstarterkit.com/money/atm-thailand/",
+     "quote": "If you have a foreign bank account, you have to pay a fixed fee of 220 baht per withdrawal, regardless of the amount you take out."
+    },
+    {
+     "url": "https://www.thailandstarterkit.com/money/atm-thailand/",
+     "quote": "Always choose the local currency (Thai baht) option, not your home currency. Selecting your home currency triggers Dynamic Currency Conversion, which gives you a worse rate and extra fees."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "heading": "קטנוע? רק עם רישיון מתאים!",
+   "body": [
+    "צריך גם רישיון בינלאומי מהארץ",
+    "בלי רישיון מתאים הביטוח לא יכסה תאונה",
+    "וזה יכול להגיע לעשרות אלפי דולרים!"
+   ],
+   "photo": "Portrait, iPhone look: a scooter parked on an empty coastal road lined with coconut palms, the sea glowing below at sunset, shot from behind and slightly low, warm golden light, no visible faces.",
+   "sources": [
+    {
+     "url": "https://cars.walla.co.il/item/3836732",
+     "quote": "נהיגה באופנוע או קטנוע מותרת בתאילנד רק לבעלי רישיון נהיגה מתאים ולצידו רישיון בין-לאומי שניתן להנפיק בקלות בישראל.",
+     "note": "Statement of the Thailand tourism office in Israel, quoted in the article (updated 10.5.2026)."
+    },
+    {
+     "url": "https://cars.walla.co.il/item/3836732",
+     "quote": "רכיבה על אופנוע בחו\"ל ללא רישיון נהיגה בתוקף מובילה לשלילה של הכיסוי הביטוחי. גם אם חברת ההשכרה המקומית לא בדקה את הרישיון, חברת ביטוח הנסיעות רשאית במקרה כזה לדחות את התביעה בגין נזקי גוף, אשפוז ופינוי רפואי, ולהותיר את הרוכב עם הוצאות שעלולות להגיע לעשרות אלפי דולרים"
+    },
+    {
+     "url": "https://www.funder.co.il/article/181592",
+     "quote": "במקרה של תאונה שהתרחשה בעת נהיגה ללא רישיון מתאים, אין כיסוי על הוצאות הטיפול הרפואי בביטוחי הנסיעות לחו\"ל ככלל."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "If you drive a car or ride a motorcycle in Thailand without a valid licence, it could invalidate your travel insurance and you’ll be unable to claim if you have an accident or injury."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "heading": "לא משאירים דרכון כפיקדון!",
+   "body": [
+    "לא על קטנוע ולא על אופנוע ים -",
+    "יש שמחזיקים אותו עד שתשלמו על נזק",
+    "ותסתובבו עם צילום של הדרכון"
+   ],
+   "photo": "Portrait, iPhone look from above (drone-like but natural): a single jet ski carving a white wake across deep turquoise water next to a limestone island, bright midday sun, crystal-clear shallows.",
+   "sources": [
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Do not hand your passport over as a guarantee, for example to motorcycle or jet-ski rental businesses. Companies may hold on to passports against claimed damage."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Police may ask to check your passport. If you do not have it with you, you could be asked to produce it within 24 hours at a police station. Usually, a copy of the photo page of your passport will be sufficient."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "heading": "קנאביס? רק עם מרשם!",
+   "body": [
+    "מאז יוני 2025 אסור לקנות או להחזיק",
+    "בלי מרשם מרופא בתאילנד",
+    "וזה חל גם על תיירים!"
+   ],
+   "photo": "Portrait, iPhone look: misty green mountains of northern Thailand at sunrise, layers of ridges fading into fog, a small wooden viewpoint or bamboo hut in the foreground, soft pink-gold light.",
+   "sources": [
+    {
+     "url": "https://www.tatnews.org/2025/06/cannabis-flower-now-strictly-regulated-in-thailand-important-notice-for-tourists/",
+     "quote": "Tourists are strictly prohibited from using, buying, carrying, or transporting cannabis flowers unless they have a valid prescription issued in Thailand by a licensed medical professional in Thai traditional medicine, Chinese medicine, or dentistry."
+    },
+    {
+     "url": "https://www.tatnews.org/2025/06/cannabis-flower-now-strictly-regulated-in-thailand-important-notice-for-tourists/",
+     "quote": "A new regulation effective 23 June 2025 reinforces the ban on recreational use and strengthens control over cannabis flower, with active enforcement now underway."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "heading": "דגל אדום = לא נכנסים למים!",
+   "body": [
+    "אנשים טבעו שם בזרמים חזקים",
+    "ומאי עד אוקטובר יש גם מדוזות",
+    "שהעקיצה שלהן יכולה להרוג"
+   ],
+   "photo": "Portrait, iPhone look: a wide empty tropical beach under a dramatic stormy sunset, big rolling waves breaking white, a red warning flag on a pole in the foreground snapping in the wind, palms on the edge of the frame.",
+   "sources": [
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Take care when swimming off coastal areas, especially during monsoon season. People have drowned in strong riptides. Thailand has lifeguards on duty at designated beaches and operates a flag system for safe swimming. Follow all warning signs, especially red flags."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Jellyfish can swim close to the shore, particularly during the rainy season from May to October. Jellyfish stings can be fatal."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "heading": "כלב או קוף נשך? ישר לרופא!",
+   "body": [
+    "יש בתאילנד כלבים נשאי כלבת",
+    "שוטפים מיד במים וסבון",
+    "החיסון זמין כמעט בכל הארץ - לא מחכים!"
+   ],
+   "photo": "Portrait, iPhone look: a macaque sitting on a rock at the edge of a turquoise bay, limestone cliffs and a longtail boat behind it, bright sun, sharp detail on the monkey's fur.",
+   "sources": [
+    {
+     "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/thailand",
+     "quote": "Dogs infected with rabies are sometimes found in Thailand. If rabies exposures occur while in Thailand, rabies vaccines are typically available throughout most of the country."
+    },
+    {
+     "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/thailand",
+     "quote": "All animals can pose a threat, but be extra careful around dogs, bats, monkeys, sea animals such as jellyfish, and snakes. If you are bitten or scratched by an animal, immediately: Wash the wound with soap and clean water. Go to a doctor right away."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "heading": "לא יותר מ-2 חפיסות קלפים!",
+   "body": [
+    "לפי חוק מ-1943 אסור להחזיק",
+    "יותר מ-120 קלפים בתאילנד",
+    "אז יניב - עד 2 חפיסות!"
+   ],
+   "photo": "Portrait, iPhone look: a wooden beach-bungalow porch with a hammock, looking out over a calm sea at golden hour, a coconut drink on the railing, warm glow, palms framing the view.",
+   "sources": [
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Thailand has strict laws on gambling. Under the Playing Cards Act (1943) it is illegal to carry over one hundred and twenty playing cards. Violation of the Act could lead to prosecution, a fine, or even imprisonment."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "heading": "שמרו בטלפון: 1155",
+   "body": [
+    "משטרת התיירות של תאילנד",
+    "עונה 24 שעות ביממה, ב-8 שפות"
+   ],
+   "photo": "Portrait, iPhone look: Wat Arun lit up at blue hour, seen across the Chao Phraya river, reflections shimmering on the water, a passing boat with lights, deep blue sky.",
+   "sources": [
+    {
+     "url": "https://www.touristpolice.go.th/post/tpbnews2025110903",
+     "quote": "Available 24 hours a day — with service in 8 languages",
+     "note": "Same post: \"don’t hesitate to call the Tourist Police Hotline 1155\"."
+    }
+   ]
+  }
+ ],
+ "notes": "Researched 10.10.2026; every quote was checked against the downloaded page text. (1) Visa: 30 days for Israelis has applied since 15.9.2026. Anyone who entered before keeps the 60 days. The 30-day extension needs approval, and its fee was NOT verified, so it is not on the slide. The TAT quote leaves out the list itself; Israel appears in the list on that page and in the Khaosod list. (2) ATM: 220 baht is the fee at most Thai banks (Thailand Starter Kit, verified September 2026). The same page says some machines show a different amount, depending on the card network or the bank, and AEON charges 150 baht. So the heading's 220 is the common figure, not a law. Its source is an independent guide; no bank fee sheet was found. (3) Scooter: the deck d3-forbidden already has a helmet slide, so this slide covers only the licence and insurance. The international-licence requirement comes from the Thailand tourism office in Israel, quoted in Walla. Insurers' exact terms vary; PassportCard says there is generally no cover. (4) Playing cards: the law is real (FCDO), but enforcement against tourists is rare. Deck math: 2 decks = 104-108 cards, under 120; 3 decks = 156, over. (5) Tourist police: the 24 hours and 8 languages come from the Tourist Police's own post (November 2025). The post does not say whether English is one of the languages, so the slide does not mention English. (6) The deck mentions neither Agoda nor Booking."
+}

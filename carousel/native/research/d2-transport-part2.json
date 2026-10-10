@@ -1,0 +1,465 @@
+{
+ "deck": "d2-transport-part2",
+ "cover": {
+  "lines": [
+   "איך עוברים ממקום למקום",
+   "בתאילנד?",
+   "חלק 2",
+   "🌅🌺🐬🏝️🥥"
+  ],
+  "photo": "Huge orange-pink sunset sinking into a calm open sea, sun disk touching the horizon, silhouette of a longtail boat (or a person standing knee-deep) in the foreground, wet sand reflecting the sky, warm saturated iPhone look, portrait 9:16 with clean sky space in the upper third for the title, no text."
+ },
+ "slides": [
+  {
+   "origin": "קו לנטה",
+   "heading": "🌅קו לנטה🌅",
+   "sub": null,
+   "rows": [
+    {
+     "dest": "קופיפי",
+     "emoji": "🏝️",
+     "mode": "מעבורת ישירה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/koh-phi-phi?date=2026-12-15&people=1",
+       "quote": "45m / Koh Lanta Saladan Pier / Koh Phi Phi Ton Sai Pier / --:-- / Koh Lanta Saladan Pier / 45m / | Bundhaya Speed Boat / | / Ferry"
+      }
+     ]
+    },
+    {
+     "dest": "פוקט",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/phuket?date=2026-12-15&people=1",
+       "quote": "1h 30m / Koh Lanta Saladan Pier / Phuket Rassada Pier / --:-- / Koh Lanta Saladan Pier / 1h 30m / | Bundhaya Speed Boat / | / Ferry"
+      }
+     ]
+    },
+    {
+     "dest": "קראבי",
+     "emoji": "🏝️",
+     "mode": "ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/krabi",
+       "quote": "2h / Koh Lanta Transfer / Krabi Town Transfer / --:-- / Koh Lanta Transfer / 2h / | At Lanta Vacation / | / Van"
+      }
+     ]
+    },
+    {
+     "dest": "קאו לאק",
+     "emoji": "🏝️",
+     "mode": "ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/khao-lak",
+       "quote": "6h 30m / Koh Lanta Transfer / Khao Lak Mcdonald / 08:00 / Koh Lanta Transfer / 6h 30m / | At Lanta Vacation / | / Van"
+      }
+     ]
+    },
+    {
+     "dest": "קוסמוי",
+     "emoji": "🏝️",
+     "mode": "ואן + מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/koh-samui",
+       "quote": "10h 30m Ferry+Van. All connections guaranteed"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/koh-samui",
+       "quote": "14 by Ferry+Van from Koh Lanta to Koh Samui starting from 07:00 Koh Lanta Transfer until 08:00 Lanta Transport Office"
+      }
+     ]
+    },
+    {
+     "dest": "קופנגן",
+     "emoji": "🏝️",
+     "mode": "ואן + מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/koh-phangan",
+       "quote": "9h 30m Van+Ferry. All connections guaranteed / 4.1 / 16:30 / Thong Sala Pier Koh Phangan / 4.1 / Van + Ferry | Van"
+      }
+     ]
+    },
+    {
+     "dest": "קוטאו",
+     "emoji": "🏝️",
+     "mode": "ואן + מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/koh-tao",
+       "quote": "10h 45m Van+Ferry. All connections guaranteed / 4.1 / 17:45 / Mae Haad Pier Koh Tao / 4.1 / Van + Speedboat | Van"
+      }
+     ]
+    },
+    {
+     "dest": "בנגקוק",
+     "emoji": "🏝️",
+     "mode": "ואן + טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/bangkok",
+       "quote": "Heading back from Koh Lanta to Bangkok the easiest and most sensible way is to get to the mainland either by van/ferry or by boat first and then proceed to the capital by plane or by bus. If you want to travel by train, your best bet is Suratthani or Chumphon, but you will need to reach either of them by bus first. If you do not want to plan your trip to Bangkok all by yourself, there are a lot of tour agencies in Ban Saladan on Koh Lanta ready to offer you package tours to Bangkok, but as prices, travel times and means of transport included into such packages vary greatly, always check the itinerary in advance to avoid any possible disappointment of spending much more in terms of money and time than you have expected (e.g. if going via Koh Phi Phi, for instance)."
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-lanta/bangkok",
+       "quote": "is probably a more convenient stop on your way to Bangkok from Koh Lanta as it is the closest to Koh Lanta large town on the firm land and can be reached not only by boat but by van+ferry as well. Vans drive through to Koh Lanta Noi which is now connected to Koh Lanta Yai by a new bridge and then take a car ferry from Koh Lanta Noi to the mainland (7 minutes; but you may need to queue for a fair amount of time, especially during high season). Shop around to find deals under THB600 per person for a van ride from Koh Lanta to Krabi airport. The distance your van has to cover is around 75 km, and it takes under two hours to get from Koh Lanta to Krabi airport."
+      }
+     ]
+    }
+   ],
+   "photo": "Aerial drone shot straight down over a long empty golden beach with turquoise-to-emerald gradient water and a row of palm trees, a single longtail boat with colourful ribbons on its bow resting in the shallows; late-afternoon warm light, iPhone-like natural colours, portrait 4:5/9:16, no text, no people facing camera."
+  },
+  {
+   "origin": "קו ליפה",
+   "heading": "🌺קו ליפה🌺",
+   "sub": "בעונה (נובמבר-אפריל):",
+   "rows": [
+    {
+     "dest": "לנקאווי",
+     "emoji": "🏝️",
+     "mode": "מעבורת ישירה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/langkawi?date=2026-12-15&people=1",
+       "quote": "1h 30m / Bundhaya Pier 1 to Langawi, Koh Lipe / Langkawi Island Kuah Jetty Pier / --:-- / Bundhaya Pier 1 to Langawi, Koh Lipe / 1h 30m / | Bundhaya Speed Boat / | / Ferry"
+      },
+      {
+       "url": "https://www.go-ferry.com/carriers/bundhaya-speed-boat",
+       "quote": "Langkawi (Malaysia) - Koh Lipe: 1.5 hour (Oct – May)"
+      }
+     ]
+    },
+    {
+     "dest": "קו לנטה",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/koh-lanta?date=2026-12-15&people=1",
+       "quote": "3h / Bundhaya Pier 1 Koh Lipe / Koh Lanta Saladan Pier / --:-- / Bundhaya Pier 1 Koh Lipe / 3h / | Bundhaya Speed Boat / | / Ferry"
+      },
+      {
+       "url": "https://www.go-ferry.com/carriers/bundhaya-speed-boat",
+       "quote": "Koh Lanta - Koh Lipe: 3 hours (Oct – May)"
+      }
+     ]
+    },
+    {
+     "dest": "קופיפי",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/koh-phi-phi?date=2026-12-15&people=1",
+       "quote": "4h 30m / Bundhaya Pier 1 Koh Lipe / Koh Phi Phi Ton Sai Pier / --:-- / Bundhaya Pier 1 Koh Lipe / 4h 30m / | Bundhaya Speed Boat / | / Ferry"
+      }
+     ]
+    },
+    {
+     "dest": "פוקט",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/phuket?date=2026-12-15&people=1",
+       "quote": "5h 30m / Bundhaya Pier 1 Koh Lipe / Phuket Rassada Pier / --:-- / Bundhaya Pier 1 Koh Lipe / 5h 30m / | Bundhaya Speed Boat / | / Ferry"
+      }
+     ]
+    },
+    {
+     "dest": "קראבי",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/ao-nang?date=2026-12-15&people=1",
+       "quote": "5h 40m / Bundhaya Pier 1 Koh Lipe / Railay East Pier, Ao Nang / --:-- / Bundhaya Pier 1 Koh Lipe / 5h 40m / | Bundhaya Speed Boat / | / Ferry"
+      }
+     ]
+    },
+    {
+     "dest": "קו נגאי",
+     "emoji": "🏝️",
+     "mode": "מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/koh-ngai?date=2026-12-15&people=1",
+       "quote": "2h 30m / Bundhaya Pier 1 Koh Lipe / Koh Ngai Resort / --:-- / Bundhaya Pier 1 Koh Lipe / 2h 30m / | Bundhaya Speed Boat / | / Ferry"
+      },
+      {
+       "url": "https://www.tigerlineferry.com/",
+       "quote": "Phuket-Phi Phi-Yao Noi-Yao Yai-Lanta-Jum-Ngai-Kradan-Mook-Libong-Laoliang-Sukorn-Bulone-Langkawi (Malaysia)-Lipe-Tarutao-Kai-Phangan-Samui-Tao"
+      }
+     ]
+    },
+    {
+     "dest": "האט יאי",
+     "emoji": "🏝️",
+     "mode": "מעבורת + ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/hat-yai",
+       "quote": "3h 30m / Pattaya Beach Koh Lipe / All connections guaranteed | Ferry+Van / Hat Yai Airport / --:--"
+      }
+     ]
+    },
+    {
+     "dest": "קוסמוי",
+     "emoji": "🏝️",
+     "mode": "מעבורת + ואן + מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/koh-samui",
+       "quote": "9h / Bundhaya Pier 1., Koh Lipe / Nathon Pier Koh Samui / 09:30 / Bundhaya Pier 1., Koh Lipe / 9h / | Thubthim Siam Travel / | / Ferry / | / Speed Boat +van + Ferry / 4.5 / 18:30 / Nathon Pier Koh Samui"
+      }
+     ]
+    },
+    {
+     "dest": "בנגקוק",
+     "emoji": "🏝️",
+     "mode": "מעבורת + ואן + טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-lipe/bangkok?date=2026-12-15&people=1",
+       "quote": "7h 45m / Pattaya Beach Koh Lipe / Self-connect / Ferry+Van+Flight / DMK Don Mueang Airport"
+      }
+     ]
+    }
+   ],
+   "photo": "Crystal-clear glassy shallow water so transparent the boats look like they are floating, several wooden longtail boats lined up on white sand, small green island in the background, bright midday sun, saturated aqua, shot from the water at knee height on an iPhone, portrait, no text."
+  },
+  {
+   "origin": "קו צ'אנג",
+   "heading": "😍קו צ'אנג😍",
+   "sub": null,
+   "rows": [
+    {
+     "dest": "בנגקוק",
+     "emoji": "🏝️",
+     "mode": "מעבורת + אוטובוס",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/bangkok",
+       "quote": "To get to Bangkok from Koh Chang you need to take a ferry to the mainland first and then hop onto a van or a bus heading to the capital. There are combo deals which include pick-up at your hotel in Koh Chang, a ferry ride and a bus ride or just a ferry and a bus ride alone. You can as well take a ferry from the pier on Koh Chang (tickets cost THB80; departures every hour) all by yourself and then look for transport at the mainland pier or in Trat (to get there from any pier, take a songthaew for THB50-60). Normally, combo deals cost more or less the same as separate tickets but save you a good deal of time."
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/bangkok",
+       "quote": "7h 30m Ferry+Bus. All connections guaranteed"
+      }
+     ]
+    },
+    {
+     "dest": "פטאיה",
+     "emoji": "🏝️",
+     "mode": "מעבורת + ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/pattaya",
+       "quote": "20 by Ferry+Van from Koh Chang to Pattaya starting from 09:30 Bangbao Beach until 10:30 White Sand Beach"
+      }
+     ]
+    },
+    {
+     "dest": "קו קוד",
+     "emoji": "🏝️",
+     "mode": "מעבורת ישירה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-kood?date=2026-12-15&people=1",
+       "quote": "1h 30m / Koh Chang Bang Bao Pier Catamaran / Ao Salad Pier Koh Kood / --:-- / Koh Chang Bang Bao Pier Catamaran / 1h 30m / | Boonsiri High Speed Ferries / | / Ferry / 4.5 / --:-- / Ao Salad Pier Koh Kood"
+      }
+     ]
+    },
+    {
+     "dest": "קו מאק",
+     "emoji": "🏝️",
+     "mode": "מעבורת ישירה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-mak?date=2026-12-15&people=1",
+       "quote": "1h / Koh Chang Bang Bao Pier Catamaran / Koh Mak Catamaran / --:-- / Koh Chang Bang Bao Pier Catamaran / 1h / | Boonsiri High Speed Ferries / | / Ferry / 4.5 / --:-- / Koh Mak Catamaran"
+      }
+     ]
+    },
+    {
+     "dest": "קו סמט",
+     "emoji": "🏝️",
+     "mode": "ואן + מעבורת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-samet",
+       "quote": "Luxury VIP Van + Private Speedboat 9pax | Taxi"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-samet",
+       "quote": "2 by Ferry+Van from Koh Chang to Koh Samet starting from 09:40 Bangbao Beach until 11:30 Ao Thammachat Pier"
+      }
+     ]
+    },
+    {
+     "dest": "קוסמוי",
+     "emoji": "🏝️",
+     "mode": "מעבורת + טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-samui?date=2026-12-15&people=1",
+       "quote": "Flights / 20 / From $259"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-samui?date=2026-12-15&people=1",
+       "quote": "Departure station / TDX Trat Airport / 20"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/koh-samui?date=2026-12-15&people=1",
+       "quote": "Arrival station / USM Koh Samui Airport / 20"
+      }
+     ]
+    },
+    {
+     "dest": "פוקט",
+     "emoji": "🏝️",
+     "mode": "מעבורת + טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/phuket?date=2026-12-15&people=1",
+       "quote": "If you’re looking for a quick trip, it’s recommended that you use Flight. However, if you’d rather take your time with a slower, more affordable travel option, you can book a Bus+van ticket."
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/phuket?date=2026-12-15&people=1",
+       "quote": ". From Koh Chang to Phuket  starting from 09:40 Trat Airport until 17:45 Trat Airport"
+      }
+     ]
+    },
+    {
+     "dest": "צ'יאנג מאי",
+     "emoji": "🏝️",
+     "mode": "מעבורת + טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/chiang-mai",
+       "quote": "4 by flight from Koh Chang to Chiang Mai starting from 09:45 Trat Airport until 17:50 Trat Airport"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-chang/chiang-mai?date=2026-12-15&people=1",
+       "quote": "12h 5m Bus+Flight."
+      }
+     ]
+    }
+   ],
+   "photo": "Wooden jetty stretching into calm turquoise sea with lush jungle-covered mountains rising behind the bay, a swing or hammock on a leaning palm in the foreground, soft golden-hour light, iPhone portrait look, no text."
+  },
+  {
+   "origin": "צ'יאנג ראי",
+   "heading": "🏙️צ'יאנג ראי🏙️",
+   "sub": null,
+   "rows": [
+    {
+     "dest": "צ'יאנג מאי",
+     "emoji": "🏝️",
+     "mode": "אוטובוס",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/chiang-mai",
+       "quote": "3h 45m / Chiang Rai Bus Terminal 1 / Chiang Mai Bus Terminal 3 / --:-- / Chiang Rai Bus Terminal 1 / 3h 45m / | GreenBus / | / Bus"
+      }
+     ]
+    },
+    {
+     "dest": "פאי",
+     "emoji": "🏝️",
+     "mode": "ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/pai",
+       "quote": "6h Van+Taxi. All connections guaranteed / 4.2 / --:-- / Waykeeper Pai Office"
+      }
+     ]
+    },
+    {
+     "dest": "בנגקוק",
+     "emoji": "🏝️",
+     "mode": "טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/bangkok",
+       "quote": "10:20 / CEI Chiang Rai Airport / 1h 20m / Economy | Thai AirAsia / 11:40 / DMK Don Mueang Airport"
+      }
+     ]
+    },
+    {
+     "dest": "פוקט",
+     "emoji": "🏝️",
+     "mode": "טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/phuket?date=2026-12-15&people=1",
+       "quote": "4h 15m Flight+Flight. / Self-connect / 4.5 / 13:00 / HKT Phuket Airport / 4.5"
+      }
+     ]
+    },
+    {
+     "dest": "קראבי",
+     "emoji": "🏝️",
+     "mode": "טיסה",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/krabi?date=2026-12-15&people=1",
+       "quote": "4h 40m Flight+Flight. / Self-connect / 4.5 / 15:55 / KBV Krabi Airport / 4.5"
+      }
+     ]
+    },
+    {
+     "dest": "משולש הזהב",
+     "emoji": "🏝️",
+     "mode": "רכב",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/golden-triangle",
+       "quote": "Chiang Rai to Golden Triangle by taxi from THB 850 -  Oct 2026 ✅"
+      },
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/golden-triangle",
+       "quote": "Arrival station / Mae Sai Town Transfer / 14 / Chiang Saen, Chiang Rai / 8 / Golden Triangle, Chiang Rai / 5"
+      }
+     ]
+    },
+    {
+     "dest": "צ'יאנג קונג",
+     "emoji": "🏝️",
+     "mode": "ואן",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/chiang-khong",
+       "quote": "2h / K Buddy Bike, Chiang Rai / Chiang Khong Transfer / 13:30 / K Buddy Bike, Chiang Rai / 2h / | Yortdoy Travel / | / Van"
+      }
+     ]
+    },
+    {
+     "dest": "לואנג פרבאנג",
+     "emoji": "🏝️",
+     "mode": "ואן + רכבת",
+     "sources": [
+      {
+       "url": "https://12go.asia/en/travel/chiang-rai/luang-prabang",
+       "quote": "11h 30m Van+Train. All connections guaranteed / 4.1 / 16:30 / Luang Prabang Railway Station"
+      }
+     ]
+    }
+   ],
+   "photo": "The brilliant white, mirror-studded White Temple style architecture reflected in a still pond under a deep blue sky, OR misty green tea-plantation hills at sunrise with layered mountains; crisp iPhone colours, portrait, no text. (Beach alternative if the deck must stay beachy: infinity pool facing a tropical sunset.)"
+  }
+ ],
+ "last": {
+  "lines": [
+   "וטיפ אחרון:",
+   "יש אפליקציה שעזרה לי להוריד מחירים של מלא מלונות בתאילנד בחינם😍"
+  ],
+  "photo": "Dreamy overwater villa or beachfront bungalow at blue hour with warm lights on, turquoise lagoon below, palm silhouettes, inviting 'I want to be there' feeling, iPhone portrait, no logos, no text."
+ },
+ "notes": "Method: 12Go.asia route pages were rendered in headless Chrome (WebFetch is blocked by the 12Go WAF) on 10.10.2026. Default pages show trips for Tue 13.10.2026 (low season); pages with ?date=2026-12-15 show the high-season timetable. Each quote is verbatim rendered text; ' / ' separates consecutive text nodes on the page (e.g. a trip card: duration / from / to / operator / type). | SEASONAL (important): the direct speedboats Koh Lipe <-> Koh Lanta / Phi Phi / Phuket / Krabi(Railay-Ao Nang) / Koh Ngai / Langkawi were verified on the 15.12.2026 timetable (Bundhaya Speed Boat, Satun Pakbara Speed Boat Club). On the 13.10.2026 page Lanta->Lipe shows only Van+Ferry via the mainland (7h). go-ferry lists Lanta-Lipe and Langkawi-Lipe as 'Oct – May'. If the post should be season-proof, consider a sub-line under the Koh Lipe heading such as 'בעונה (נובמבר-אפריל):' - not added because his format rarely has it. | Koh Lanta -> Phi Phi and -> Phuket (Bundhaya, Saladan -> Ton Sai / Rassada) run on both the October and December pages. | 'קראבי' from Koh Lipe = the Bundhaya speedboat to Railay East Pier, Ao Nang (Krabi province), 5h40. From Koh Lanta 'קראבי' = shared van to Krabi Town (2h, At Lanta Vacation). | Koh Lanta -> Bangkok: no single ticket; 12Go's own guide says get to the mainland by van/ferry or boat and then fly (Krabi or Phuket airport). Mode written as 'ואן + טיסה'. | Koh Chang -> Samui / Phuket / Chiang Mai: flights leave from Trat Airport (TDX) on the mainland, so the realistic chain is ferry off the island + flight; 12Go lists Bangkok Airways flights from TDX (20 to USM on 15.12). Whether TDX-USM is non-stop was not verified - irrelevant to the mode wording. | Koh Chang -> Koh Samet: 12Go sells Van + Speedboat transfers and Ferry+Van combos; written as 'ואן + מעבורת' (the car ferry off Koh Chang is part of the van leg). | Chiang Rai -> Phuket / Krabi: 12Go shows connecting flights (Flight+Flight, self-connect). A Thai Vietjet non-stop CEI-HKT was reported for 2026 but not seen on 12Go - wording 'טיסה' is correct either way. | Chiang Rai -> Luang Prabang: 12Go's bestseller is Van+Train (11h30, via the Laos-China railway); the classic 2-day slow boat (Van+Ferry) also exists - swap to 'ואן + סירה' only if he prefers the iconic option. | Chiang Rai -> Golden Triangle: 12Go sells only private car/taxi transfers (55m-1h) - written 'רכב'. | Dropped (could not verify a sensible traveller option or slide full): Chiang Rai -> Koh Samui (12Go shows only a 22h taxi), Koh Chang -> Siem Reap, Koh Lipe -> Penang (verified Ferry+Van 8h13 but left out for space), Koh Lanta -> Koh Ngai (verified 30m speedboat in December, left out for space). | Destination emoji copies his slide exactly: 🏝️ on every row, including cities."
+}

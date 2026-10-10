@@ -13,3 +13,6 @@ tt-covers/
 tt-sheets/
 igv-decks/
 *.out
+native/pool/
+native/out/
+harvest/own-full/

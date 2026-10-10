@@ -1,0 +1,136 @@
+{
+ "d1-tips-part2": {
+  "cover": {
+   "id": "uQDRDqpYJHI"
+  },
+  "slides": [
+   {
+    "id": "a5I6TBRTeNY"
+   },
+   {
+    "id": "wKGMZzF8_w8"
+   },
+   {
+    "id": "PzL0QmhblCQ"
+   },
+   {
+    "id": "0PJO1DlfPt4"
+   },
+   {
+    "id": "7NbM8Hwjdog"
+   },
+   {
+    "id": "WSe5GGEeRpg"
+   },
+   {
+    "id": "Ik86UrLux58"
+   },
+   {
+    "id": "nxkuJEyguL8"
+   },
+   {
+    "id": "xNFSNKqDuHI"
+   },
+   {
+    "id": "te4N6ZwU7cA"
+   }
+  ],
+  "folder": "must"
+ },
+ "d3-forbidden": {
+  "cover": {
+   "id": "PJjCSGD05nI"
+  },
+  "slides": [
+   {
+    "id": "tmq_mR7VFfw"
+   },
+   {
+    "id": "j0a0i-LN3ws"
+   },
+   {
+    "id": "8Sg3AkYGQuc"
+   },
+   {
+    "id": "LUu-K5PiqMk"
+   }
+  ],
+  "last": {
+   "id": "G7Ch00h8Ong"
+  },
+  "folder": "personal"
+ },
+ "d4-route-andaman": {
+  "cover": {
+   "id": "taW64zw6HWU"
+  },
+  "slides": [
+   {
+    "id": "Uh5C2TYdlU4"
+   },
+   {
+    "id": "BdQ3UA423oc"
+   },
+   {
+    "id": "C5KEHA107wg"
+   },
+   {
+    "id": "DEWxOMkNimM"
+   }
+  ],
+  "last": {
+   "id": "CSs8aiN_LkI"
+  },
+  "folder": "tip"
+ },
+ "d5-places": {
+  "cover": {
+   "id": "6xoELr8eXe4"
+  },
+  "slides": [
+   {
+    "id": "HcnLqYMgc0Y"
+   },
+   {
+    "id": "Hnygcnq9mh8"
+   },
+   {
+    "id": "xiRM7d8nQ2Q"
+   },
+   {
+    "id": "NWtTjvTr6ms"
+   }
+  ],
+  "extra": {
+   "id": "b8bqPf6w0BQ"
+  },
+  "extraAfter": 1,
+  "last": {
+   "id": "9lTccfI_KJ4"
+  },
+  "folder": "must"
+ },
+ "d2-transport-part2": {
+  "cover": {
+   "id": "1zDMIZrinm8"
+  },
+  "slides": [
+   {
+    "id": "8Sg3AkYGQuc"
+   },
+   {
+    "id": "GCl32Lc1yzc"
+   },
+   {
+    "id": "TGAmQWzm_-A"
+   },
+   {
+    "id": "6SNI8A7vVaY"
+   }
+  ],
+  "last": {
+   "id": "_DAepNJnORY"
+  },
+  "folder": "this"
+ }
+}

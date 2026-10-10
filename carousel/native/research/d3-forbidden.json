@@ -1,0 +1,113 @@
+{
+ "deck": "d3-forbidden",
+ "cover": {
+  "lines": [
+   "5 דברים",
+   "שאסור",
+   "לעשות בתאילנד"
+  ],
+  "red": "שאסור",
+  "bottom": "תשמרו אם אתם טסים בקרוב!",
+  "photo": "Portrait, iPhone look: a wooden longtail boat with colourful ribbons on its bow, beached in shallow turquoise water on white sand, limestone cliffs behind it, warm late-afternoon sun, clear sky in the upper third for the title."
+ },
+ "slides": [
+  {
+   "heading": "לא לדבר רע על המלך!",
+   "body": [
+    "העלבת המלך היא עבירה",
+    "פלילית בתאילנד",
+    "3 עד 15 שנות מאסר, גם לזרים",
+    "וזה כולל גם פוסטים ברשתות!"
+   ],
+   "photo": "Portrait: golden spires of a Bangkok royal temple / Grand Palace glowing at sunset, deep orange sky, shot from low angle, crisp iPhone HDR look, no people in focus.",
+   "sources": [
+    {
+     "url": "https://www.jurist.org/news/2026/05/thailand-criminal-court-acquits-political-leader-of-lese-majeste-charges/",
+     "quote": "Section 112, or the lèse-majesté law, criminalizes insults and threats towards the king, queen, and heirs to the Thai throne with sentences ranging from three to fifteen years in prison."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "Criticising the Thai monarchy ('lèse-majesté') is illegal. The law can be interpreted broadly and carries a long prison sentence."
+    },
+    {
+     "url": "https://globalvoices.org/2025/04/21/thailand-based-us-scholar-faces-prison-term-and-deportation-for-alleged-royal-insult-and-cybercrime-violations/",
+     "quote": "immigration authorities revoked his visa. (US scholar Paul Chambers, charged under Section 112 and the Cybercrime Act over an online post, April 2025)"
+    }
+   ]
+  },
+  {
+   "heading": "לא לקחת חול, אבנים או אלמוגים!",
+   "body": [
+    "בפארקים לאומיים, כמו איי פי פי",
+    "זו עבירה לפי חוק",
+    "הפארקים הלאומיים",
+    "עד 5 שנות מאסר או 500,000 באט!"
+   ],
+   "photo": "Portrait: crystal-clear turquoise lagoon framed by tall limestone cliffs (Phi Phi style), seen from above or from the water, white sand and visible coral heads under the surface, bright midday sun.",
+   "sources": [
+    {
+     "url": "https://data.opendevelopmentmekong.net/dataset/f767fe1d-0a6e-464a-8521-bb98e61f5b90/resource/8cb1fcd0-625e-436a-97b0-4f087a00164d/download/national-park-act-b.e.-2562-2019.pdf",
+     "quote": "Section 42. Any person who collects, takes away or acts in any manner endangering or deteriorating wood, soil, rocks, gravels, sand, minerals, petroleum or other natural resources or carries out any other act affecting the ecosystem, biological diversity or natural resources and the environment in a national park, forest park, botanic garden or arboretum, which is a violation of section 19 (2), shall be liable to imprisonment for a term not exceeding five years or to a fine not exceeding five hundred thousand Baht or to both."
+    },
+    {
+     "url": "https://www.pattayamail.com/thailandnews/national-park-authority-tracks-down-tourists-for-feeding-monkeys-at-phi-phi-islands-set-to-enforce-penalties-499876",
+     "quote": "The park authority reminds the public that all violations are subject to legal penalties under the National Parks Act of 2019. (Phi Phi Islands national park, 6 May 2025)"
+    }
+   ]
+  },
+  {
+   "heading": "לא לרכוב על קטנוע בלי קסדה!",
+   "body": [
+    "קנס עד 2,000 באט, גם לנהג",
+    "וגם למי מאחור",
+    "ואם מי שמאחור בלי קסדה,",
+    "הנהג משלם כפול!"
+   ],
+   "photo": "Portrait: a scooter parked on an empty palm-lined coastal road above a turquoise bay at golden hour, helmet hanging on the mirror, sea and islands in the background.",
+   "sources": [
+    {
+     "url": "https://www.sanook.com/auto/98807/",
+     "quote": "ผู้ขับขี่ หรือ คนซ้อนที่ไม่สวมหมวกกันน็อก มีโทษปรับไม่เกิน 2,000 บาทต่อคน (เดิม 500 บาท) ... ยินยอมให้คนโดยสารไม่สวมหมวกนิรภัย ซึ่งต้องระวางโทษปรับเป็น 2 เท่า ของอัตราโทษที่กำหนด (สูงสุดไม่เกิน 4,000 บาท)"
+    },
+    {
+     "url": "https://www.pattayamail.com/news/pattaya-police-enforce-hefty-fines-for-helmet-violations-as-thailand-aims-to-slash-motorcycle-deaths-506502",
+     "quote": "Since June 1, 2025, the police have been empowered to strictly fine riders and passengers who fail to wear helmets, with penalties reaching up to 2,000 baht per violation. If a passenger is caught without a helmet, the driver will be responsible for paying double the fine."
+    },
+    {
+     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+     "quote": "By law, you must wear a helmet when riding a motorcycle."
+    }
+   ]
+  },
+  {
+   "heading": "לא להישאר אפילו יום מעבר לויזה!",
+   "body": [
+    "קנס של 500 באט",
+    "על כל יום, עד 20,000",
+    "נתפסתם? איסור כניסה",
+    "לתאילנד ל-5 שנים!"
+   ],
+   "photo": "Portrait: view from an airplane window over turquoise water and small tropical islands, wing tip in frame, soft afternoon light.",
+   "sources": [
+    {
+     "url": "https://hochiminh.thaiembassy.org/en/publicservice/64058-thailand-overstay-measures",
+     "quote": "you must pay a fine of 500/day, but not exceeding 20,000 baht ... (arrested, overstay of less than one year) banned from re-entering the country for 5 year ... starting from the departure date."
+    },
+    {
+     "url": "https://bucharest.thaiembassy.org/en/content/86413-advice-on-thailand-visa-overstay-regulations",
+     "quote": "The minimum charge is 500 Baht per day. This goes to a maximum of 20,000 Baht for overstays of 40 days or longer."
+    }
+   ]
+  }
+ ],
+ "last": {
+  "lines": [
+   "והכי חשוב!",
+   "לא לסגור מלונות בלי לבדוק",
+   "את המחיר באפליקציה",
+   "של הוטל מוזיל!!!"
+  ],
+  "photo": "Portrait: infinity pool of a beachfront hotel melting into a turquoise sea at sunset, palm silhouettes, warm pink-orange sky, the WOW resort shot."
+ },
+ "notes": "All 4 items verified on pages opened 10.10.2026. Slide 1: Section 112 still enforced in 2026 (Jurist 30.5.2026; Khaosod reported a 21.4.2026 conviction for a Facebook post, but that page returned 403 so it is not cited). 'גם לזרים' rests on the Paul Chambers case (US citizen, charged April 2025, visa revoked; charges later dropped). Slide 2: National Parks Act B.E. 2562 s.19(2)+s.42, unofficial English translation by the Office of the Council of State (tentative version); the Act names sand/rocks/'other natural resources' explicitly; coral is covered as a natural resource but is not named in the text; it applies only inside national parks (Phi Phi is one, per Pattaya Mail). Slide 3: helmet fine from Thai news (sanook, Pattaya Mail), not a government page; the PRD.go.th announcement pages found in search returned 404. Slide 4: Royal Thai Embassy pages (primary); bans for surrendering at the airport start only above 90 days, so the 5-year line is specifically for being caught/arrested. REJECTED: beach smoking ban (DMCR order 1064/2560 was published with a 2-year validity, Feb 2018-Feb 2020; no renewal found, so not safe to claim it is in force); Buddha image export (7 years/700,000 baht figure found only on a non-authoritative site); cannabis (re-regulated June 2025, status in flux); feeding monkeys (penalty amount not verifiable on an opened source)."
+}
