@@ -1,0 +1,406 @@
+{
+ "deck": "e3-hotel",
+ "hotel": "lebua at State Tower",
+ "location": "Silom (Bang Rak), Bangkok, Thailand - top floors of State Tower on Charoen Krung Road, by the Chao Phraya River",
+ "format_source": "@architinerary 7626837497342954774 (827.4K plays): cover 'The only hotel you need in greece' over the hotel's most striking photo, 5 one-line feature slides, last slide 'Hotel Cavo Tagoo Mykonos' + flag",
+ "cover": {
+  "line": "המלון היחיד שאתם צריכים בבנגקוק 🇹🇭",
+  "photo_id": "XiyPpwCsWcI",
+  "photo_url": "https://unsplash.com/photos/XiyPpwCsWcI",
+  "photo_what": "portrait, State Tower against a teal storm sky, the golden dome lit orange on top (asadsnapper, 3876x5814, free)",
+  "alt_photo_id": "Q2gcswjLhS8",
+  "alt_photo_what": "landscape, night view of the Chao Phraya bend and lit skyline; uploader caption: 'shot from the location where they filmed The Hangover movie' (jarvisphoto, 5760x3840, free)",
+  "lines": [
+   "המלון היחיד שאתם צריכים בבנגקוק 🇹🇭"
+  ]
+ },
+ "selection": [
+  {
+   "hotel": "lebua at State Tower (Bangkok) - PICKED",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "World's Best Awards 2026 ... No.94 Lebua at State Tower / BANGKOK, THAILAND"
+    },
+    {
+     "url": "https://lebua.com/hotels/lebua-at-state-tower/",
+     "quote": "T+L \"World's Best Award\" Top 100 Favorite Hotels in the World of 2025 (72nd place) ... T+L \"World's Best Awards\" Top 5 Favorite Hotels in Bangkok of 2025 (03rd place) ... the top 4 Hotel in Bangkok by the Condé Nast Traveller Readers' Choice Awards in 2021 (hotel's own page; the 2025 and CNT claims not independently re-verified)"
+    }
+   ],
+   "unsplash_free_photos": [
+    {
+     "id": "XiyPpwCsWcI",
+     "url": "https://unsplash.com/photos/XiyPpwCsWcI",
+     "what": "PORTRAIT 3876x5814 - State Tower with lit golden dome, moody teal sky (asadsnapper)"
+    },
+    {
+     "id": "PMOlLHCbsUg",
+     "url": "https://unsplash.com/photos/PMOlLHCbsUg",
+     "what": "PORTRAIT 4000x6000 - Sky Bar: the round lit bar on the open-air ledge, the tower's scalloped balconies rising beside it (antonioaaaraujo)"
+    },
+    {
+     "id": "sCUhMI28c6k",
+     "url": "https://unsplash.com/photos/sCUhMI28c6k",
+     "what": "PORTRAIT 3708x5562 - the golden dome with Sirocco's white-cloth tables on the terrace below (antonioaaaraujo)"
+    },
+    {
+     "id": "Qbgf3XwN6Hw",
+     "url": "https://unsplash.com/photos/Qbgf3XwN6Hw",
+     "what": "PORTRAIT 3439x5160 - State Tower with gold dome, blue sky and clouds, daytime (saif71)"
+    },
+    {
+     "id": "yLvPiw6WEVk",
+     "url": "https://unsplash.com/photos/yLvPiw6WEVk",
+     "what": "PORTRAIT 3024x4032 - dusk skyline, location-tagged 'lebua at State Tower' (basitzain); weaker"
+    },
+    {
+     "id": "Blu5Vku7NCU",
+     "url": "https://unsplash.com/photos/Blu5Vku7NCU",
+     "what": "landscape 5437x3624 - tower and gold dome on clear blue sky, location-tagged lebua (jay_5)"
+    },
+    {
+     "id": "UF1CUcuTutE",
+     "url": "https://unsplash.com/photos/UF1CUcuTutE",
+     "what": "landscape 5782x3855 - Sky Bar ledge and the stacked round balconies of the tower, daytime (antonioaaaraujo)"
+    },
+    {
+     "id": "X35j61o3Cb0",
+     "url": "https://unsplash.com/photos/X35j61o3Cb0",
+     "what": "landscape 5776x3851 - man on the rooftop deck beside a lebua-branded plinth, river towers behind (antonioaaaraujo)"
+    },
+    {
+     "id": "Q2gcswjLhS8",
+     "url": "https://unsplash.com/photos/Q2gcswjLhS8",
+     "what": "landscape 5760x3840 - night river bend and skyline from the Hangover filming spot (jarvisphoto)"
+    },
+    {
+     "id": "STV6FrUMQDE",
+     "url": "https://unsplash.com/photos/STV6FrUMQDE",
+     "what": "landscape 6385x4257 - sunset over the river and skyline, captioned 'Bangkok view from Lebua Hotel' (veraley)"
+    },
+    {
+     "id": "N1N3w1_FiZk",
+     "url": "https://unsplash.com/photos/N1N3w1_FiZk",
+     "what": "landscape 6720x4480 - pink dusk over the river, 'Bangkok view from Lebua Hotel' (veraley)"
+    },
+    {
+     "id": "nNAbKJyyXMM",
+     "url": "https://unsplash.com/photos/nNAbKJyyXMM",
+     "what": "landscape 7360x4912 - night city grid, 'View from Lebua Sky Bar' (allphotobangkok)"
+    },
+    {
+     "id": "pRlE3IY7quQ",
+     "url": "https://unsplash.com/photos/pRlE3IY7quQ",
+     "what": "landscape 7360x4912 - night road light-trails, 'View from Lebua Sky Bar' (allphotobangkok)"
+    }
+   ]
+  },
+  {
+   "hotel": "Capella Bangkok",
+   "lists": [
+    {
+     "url": "https://www.the50.com/hotels/best-in-the-world/list/1-50",
+     "quote": "The 50 Best Hotels 2026 ... 2 Capella Bangkok Bangkok"
+    },
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.80 Capella Bangkok ... NO. 14 CITY HOTEL IN ASIA · NO. 5 CITY HOTEL IN BANGKOK"
+    },
+    {
+     "url": "https://guide.michelin.com/en/hotels-stays/thailand?distinction=all-keys",
+     "quote": "Capella Bangkok / Bangkok, Thailand (MICHELIN Keys selection, 71 Thai hotels)"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "Four Seasons Hotel Bangkok at Chao Phraya River",
+   "lists": [
+    {
+     "url": "https://www.the50.com/hotels/best-in-the-world/list/1-50",
+     "quote": "3 Four Seasons Bangkok at Chao Phraya River Bangkok"
+    },
+    {
+     "url": "https://guide.michelin.com/en/hotels-stays/thailand/page/2?distinction=all-keys",
+     "quote": "Four Seasons Hotel Bangkok at Chao Phraya River (MICHELIN Keys selection)"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "Mandarin Oriental Bangkok",
+   "lists": [
+    {
+     "url": "https://www.the50.com/hotels/best-in-the-world/list/1-50",
+     "quote": "10 Mandarin Oriental Bangkok Bangkok"
+    },
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.11 Mandarin Oriental, Bangkok ... NO. 2 CITY HOTEL IN ASIA · NO. 1 CITY HOTEL IN BANGKOK"
+    }
+   ],
+   "unsplash_free_photos": [
+    {
+     "id": "P3Lht_zN3AQ",
+     "url": "https://unsplash.com/photos/P3Lht_zN3AQ",
+     "what": "landscape - The Authors' Lounge interior (only tagged photo found)"
+    }
+   ]
+  },
+  {
+   "hotel": "Six Senses Yao Noi",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.21 Six Senses Yao Noi / YAO NOI, THAILAND / NO. 10 RESORT IN ASIA · NO. 1 RESORT IN THAILAND"
+    },
+    {
+     "url": "https://guide.michelin.com/en/hotels-stays/thailand?distinction=all-keys",
+     "quote": "Six Senses Yao Noi (MICHELIN Keys selection)"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "Anantara Golden Triangle Elephant Camp & Resort",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.37 Anantara Golden Triangle Elephant Camp & Resort / CHIANG RAI, THAILAND / NO. 13 RESORT IN ASIA · NO. 2 RESORT IN THAILAND"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "Rosewood Bangkok",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.39 Rosewood Bangkok ... NO. 7 CITY HOTEL IN ASIA · NO. 2 CITY HOTEL IN BANGKOK"
+    },
+    {
+     "url": "https://www.the50.com/hotels/best-in-the-world/list/51-100",
+     "quote": "70 Rosewood Bangkok Bangkok"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "The Nai Harn (Phuket)",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.41 The Nai Harn / PHUKET, THAILAND / NO. 3 RESORT IN THAILAND"
+    }
+   ],
+   "unsplash_free_photos": [
+    {
+     "id": "8_tSzaxZCag",
+     "url": "https://unsplash.com/photos/8_tSzaxZCag",
+     "what": "landscape, location-tagged The Nai Harn (only one found)"
+    }
+   ]
+  },
+  {
+   "hotel": "Anantara Layan Phuket Resort",
+   "lists": [
+    {
+     "url": "https://www.travelandleisure.com/worlds-best-awards-top-100-hotels-in-the-world-11952519",
+     "quote": "No.81 Anantara Layan Phuket Resort / PHUKET, THAILAND / NO. 4 RESORT IN THAILAND"
+    }
+   ],
+   "unsplash_free_photos": []
+  },
+  {
+   "hotel": "Beach resorts in the MICHELIN Keys selection (Amanpuri, Trisara, Rosewood Phuket, Keemala, Rayavadee, Six Senses Samui, Kimpton Kitalay, Banyan Tree Samui)",
+   "lists": [
+    {
+     "url": "https://guide.michelin.com/en/hotels-stays/thailand?distinction=all-keys",
+     "quote": "Trisara; Rosewood Phuket; Keemala; Rayavadee; Six Senses Samui; Amanpuri ... (Thailand: 1-48 of 71 hotels)"
+    }
+   ],
+   "unsplash_free_photos": [
+    {
+     "id": "7ODd6UoohNI",
+     "url": "https://unsplash.com/photos/7ODd6UoohNI",
+     "what": "Keemala - one landscape photo, the only one found"
+    },
+    {
+     "id": "mLtc_D77kDU",
+     "url": "https://unsplash.com/photos/mLtc_D77kDU",
+     "what": "Banyan Tree Samui - one small landscape photo, the only one found"
+    }
+   ]
+  },
+  {
+   "hotel": "Andaz Pattaya Jomtien Beach (rejected)",
+   "lists": [
+    {
+     "url": "https://guide.michelin.com/en/hotels-stays/thailand/page/2?distinction=all-keys",
+     "quote": "Andaz Pattaya Jomtien Beach (MICHELIN Keys selection)"
+    }
+   ],
+   "unsplash_free_photos": [
+    {
+     "id": "_P1_c51XnB4",
+     "url": "https://unsplash.com/photos/_P1_c51XnB4",
+     "what": "portrait - small red villa in jungle garden (nspehler; 9 free photos, 5 portrait, but 5 of the 9 are flower/moon/palm details)"
+    },
+    {
+     "id": "CkzsWIRo844",
+     "url": "https://unsplash.com/photos/CkzsWIRo844",
+     "what": "portrait - red house in green garden"
+    },
+    {
+     "id": "oPc-qOuSNxQ",
+     "url": "https://unsplash.com/photos/oPc-qOuSNxQ",
+     "what": "portrait - red house at night"
+    },
+    {
+     "id": "yZtuVRrQZIg",
+     "url": "https://unsplash.com/photos/yZtuVRrQZIg",
+     "what": "landscape - lit building at night"
+    }
+   ]
+  },
+  {
+   "hotel": "Conrad Koh Samui (rejected: no list evidence found)",
+   "lists": [],
+   "unsplash_free_photos": [
+    {
+     "id": "WVvTkZRgWC0",
+     "url": "https://unsplash.com/photos/WVvTkZRgWC0",
+     "what": "landscape 4:3 - pool framed by blue curtains and a bare tree (frugalflyer; all 12 Conrad photos are his, all 4064x3056 landscape, mostly overcast)"
+    },
+    {
+     "id": "xSt8FqjOaoc",
+     "url": "https://unsplash.com/photos/xSt8FqjOaoc",
+     "what": "landscape - infinity pool with red umbrellas"
+    },
+    {
+     "id": "CkUJpX0LojA",
+     "url": "https://unsplash.com/photos/CkUJpX0LojA",
+     "what": "landscape - main pool and hillside"
+    },
+    {
+     "id": "y_-bKeBkB20",
+     "url": "https://unsplash.com/photos/y_-bKeBkB20",
+     "what": "landscape - villas on the hill, grey sky"
+    },
+    {
+     "id": "BCM8nlXQiYo",
+     "url": "https://unsplash.com/photos/BCM8nlXQiYo",
+     "what": "landscape - sun over the sea from a private pool"
+    },
+    {
+     "id": "D2I1aBCxhTw",
+     "url": "https://unsplash.com/photos/D2I1aBCxhTw",
+     "what": "landscape - deck with two chairs under a pergola"
+    }
+   ]
+  },
+  {
+   "hotel": "W Koh Samui (rejected: no list evidence found)",
+   "lists": [],
+   "unsplash_free_photos": [
+    {
+     "id": "nClPTSb9c3g",
+     "url": "https://unsplash.com/photos/nClPTSb9c3g",
+     "what": "landscape 4:3 - infinity pool with round sunken lounges (frugalflyer; 10 photos, all landscape)"
+    },
+    {
+     "id": "qXAHxu9DuYc",
+     "url": "https://unsplash.com/photos/qXAHxu9DuYc",
+     "what": "landscape - W letter on the beach"
+    }
+   ]
+  }
+ ],
+ "slides": [
+  {
+   "line": "הבר מהסרט הנגאובר 2 🍸",
+   "photo_id": "PMOlLHCbsUg",
+   "photo_url": "https://unsplash.com/photos/PMOlLHCbsUg",
+   "sources": [
+    {
+     "url": "https://lebua.com/lebua-bangkok-luxury-travel-guide/",
+     "quote": "The property is best known internationally as the filming location of The Hangover Part II"
+    },
+    {
+     "url": "https://lebua.com/restaurants/sky/",
+     "quote": "Sky Bar by lebua is also home to the Hangovertini, the signature cocktail created for the cast of The Hangover Part II"
+    }
+   ]
+  },
+  {
+   "line": "ארוחת ערב מתחת לכיפת הזהב ✨",
+   "photo_id": "sCUhMI28c6k",
+   "photo_url": "https://unsplash.com/photos/sCUhMI28c6k",
+   "sources": [
+    {
+     "url": "https://lebua.com/restaurants/sirocco/",
+     "quote": "Beneath lebua's golden dome and high above the lights of Bangkok, every evening unfolds with elegance"
+    },
+    {
+     "url": "https://lebua.com/restaurants/sirocco/",
+     "quote": "Sirocco presents refined Mediterranean cuisine in an open-air setting high above Bangkok"
+    }
+   ]
+  },
+  {
+   "line": "בכל סוויטה מרפסת משלכם 🤍",
+   "photo_id": "UF1CUcuTutE",
+   "photo_url": "https://unsplash.com/photos/UF1CUcuTutE",
+   "photo_note": "landscape; crop 3:4 on the right half (the stacked round balconies)",
+   "sources": [
+    {
+     "url": "https://lebua.com/hotels/lebua-at-state-tower/",
+     "quote": "Every room is a private world, featuring a separate bedroom, living area, and balcony where the city unfolds in silence."
+    },
+    {
+     "url": "https://lebua.com/hotels/lebua-at-state-tower/",
+     "quote": "An elegant suite, a private balcony, and all the space you need"
+    }
+   ]
+  },
+  {
+   "line": "הנוף מהקומה ה64 🌃",
+   "photo_id": "Q2gcswjLhS8",
+   "photo_url": "https://unsplash.com/photos/Q2gcswjLhS8",
+   "photo_note": "landscape night view; crop 3:4 on the river bend. Alternatives captioned 'View from Lebua Sky Bar': nNAbKJyyXMM, pRlE3IY7quQ",
+   "sources": [
+    {
+     "url": "https://lebua.com/restaurants/sky/",
+     "quote": "Set 247 metres above Bangkok on the 64th floor of The Dome at lebua"
+    },
+    {
+     "url": "https://lebua.com/hotels/tower-club-at-lebua/",
+     "quote": "sweeping floor-to-ceiling views frame the city and the Chao Phraya River in unforgettable detail"
+    }
+   ]
+  },
+  {
+   "line": "שקיעה מעל הנהר מישהו? 🌅",
+   "photo_id": "STV6FrUMQDE",
+   "photo_url": "https://unsplash.com/photos/STV6FrUMQDE",
+   "photo_note": "landscape sunset, uploader caption 'Bangkok view from Lebua Hotel'; alt N1N3w1_FiZk (pink dusk, same uploader)",
+   "sources": [
+    {
+     "url": "https://lebua.com/restaurants/sirocco/",
+     "quote": "The golden light of sunset gives way to the glittering skyline. The soft evening breeze moves across the terrace."
+    },
+    {
+     "url": "https://lebua.com/restaurants/sky/",
+     "quote": "an open-air destination where cinematic views, crafted cocktails, and the city's changing light come together in an atmosphere that moves effortlessly from golden hour to the glow of night"
+    }
+   ]
+  }
+ ],
+ "last": {
+  "line": "lebua at State Tower Bangkok 🇹🇭",
+  "photo_id": "Qbgf3XwN6Hw",
+  "photo_url": "https://unsplash.com/photos/Qbgf3XwN6Hw",
+  "photo_note": "portrait daytime tower + dome; landscape alt Blu5Vku7NCU (location-tagged lebua)"
+ },
+ "notes": "METHOD. Lists read 10.10.2026 in a real browser: The 50 Best Hotels 2026 (the50.com, ranks 1-100), Travel + Leisure World's Best Awards 2026 Top 100 (published July 7, 2026), MICHELIN Keys Thailand (71 hotels, both pages). UNVERIFIED: Condé Nast Readers' Choice and Tripadvisor pages could not be loaded (404 / blocked) and the web-search budget for this turn was exhausted, so those two appear only as quoted on lebua's own site. Unsplash: /napi/search/photos inside a real Chrome page for ~90 hotel/brand queries, each result's /napi/photos/{id} location read, plus the full portfolios of uploaders who had hotel-tagged Thai photos (frugalflyer 577, nspehler, antonioaaaraujo 834, setsj 1170, others). Unsplash search is fuzzy, so a photo counted only when its location tag or uploader caption named the hotel, or it plainly shows it (State Tower's golden dome). Contact sheets checked by eye. FINDING. No hotel on the 50 Best list or among the T+L top Thai resorts (Capella, Four Seasons Bangkok, Mandarin Oriental, Six Senses Yao Noi, Anantara Golden Triangle, Rosewood Bangkok, The Nai Harn, Anantara Layan) has more than one free identifiable Unsplash photo; neither does any Phuket/Krabi/Samui MICHELIN Keys resort. The only hotel with list evidence AND 5+ good free photos is lebua at State Tower: T+L World's Best 2026 No.94 (and, per its own site, T+L 2025 No.72 and No.3 in Bangkok), with 13 identifiable free photos from 9 uploaders, 4 of them strong portraits. Conrad Koh Samui (12) and W Koh Samui (10) have more photos, but all from one hotel blogger, all 4:3 landscape, mostly overcast, and neither is on any list checked. Andaz Pattaya has a MICHELIN Key and 9 free photos, but they are mostly flower/moon details. COMPROMISE: lebua is a city tower hotel, not a beach resort like Cavo Tagoo; it is the pick because it is the only one that passes both gates, and its rooftop/Hangover story is the visual hook. Slides 3-5 photos are landscape and need a 3:4 crop (all 5000+ px wide, enough for 1080x1440). The view/sunset shots are tied to the hotel by uploader caption ('Bangkok view from Lebua Hotel', 'View from Lebua Sky Bar', Hangover filming spot), not by a visible hotel element; X35j61o3Cb0's exact terrace (Sky Bar vs Alfresco 64) is unverified, so it is not used. VOICE. Lines follow 04-hebrew-voice.md: short, no periods, emoji at line end from the creator set, אתם/שלכם, no ביותר, no price or superlative claims (the hotel's own 'world's highest' claims were deliberately left out). Slide 5 mirrors the source's 'Sunset dinner anyone?'. 'הקומה ה64' keeps the digit glued the way a phone types (rule 17); lebua.com puts Sky Bar on the 64th floor (older guides say 63). The Israeli release title of the film was not verified, so the line uses 'הנגאובר 2'. The last slide keeps the English hotel name, as the source does. No VPN/proxy/browser/AI words, no Agoda/Booking, no agoda.com/booking.com page was loaded."
+}

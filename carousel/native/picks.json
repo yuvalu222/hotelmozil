@@ -288,5 +288,39 @@
    }
   ],
   "folder": "must"
+ },
+ "e3-hotel": {
+  "cover": {
+   "id": "XiyPpwCsWcI"
+  },
+  "slides": [
+   {
+    "id": "PMOlLHCbsUg",
+    "focus": [
+     0.3,
+     0.5
+    ]
+   },
+   {
+    "id": "sCUhMI28c6k"
+   },
+   {
+    "id": "UF1CUcuTutE",
+    "focus": [
+     1.0,
+     0.5
+    ]
+   },
+   {
+    "id": "Q2gcswjLhS8"
+   },
+   {
+    "id": "STV6FrUMQDE"
+   }
+  ],
+  "last": {
+   "id": "Qbgf3XwN6Hw"
+  },
+  "folder": "must"
  }
 }
