@@ -2,12 +2,13 @@
  "deck": "d3-forbidden",
  "cover": {
   "lines": [
-   "5 דברים",
-   "שאסור",
-   "לעשות בתאילנד"
+   "טסים לתאילנד?",
+   "הנה 4 דברים שאתם חייבים",
+   "להיזהר מהם ‼️"
   ],
-  "red": "שאסור",
-  "bottom": "תשמרו אם אתם טסים בקרוב!",
+  "red": null,
+  "bottom": null,
+  "evidence": "H0535 verbatim template \"טסים לתאילנד? / הנה 3 דברים שאתם חייבים / להזהר מהם ‼️\" 371,000 plays / 2,557 followers; Hebrew \"טסים ל...\" median x2.97, 67% above median (n=36)",
   "photo": "Portrait, iPhone look: a wooden longtail boat with colourful ribbons on its bow, beached in shallow turquoise water on white sand, limestone cliffs behind it, warm late-afternoon sun, clear sky in the upper third for the title."
  },
  "slides": [
@@ -109,5 +110,15 @@
   ],
   "photo": "Portrait: infinity pool of a beachfront hotel melting into a turquoise sea at sunset, palm silhouettes, warm pink-orange sky, the WOW resort shot."
  },
- "notes": "All 4 items verified on pages opened 10.10.2026. Slide 1: Section 112 still enforced in 2026 (Jurist 30.5.2026; Khaosod reported a 21.4.2026 conviction for a Facebook post, but that page returned 403 so it is not cited). 'גם לזרים' rests on the Paul Chambers case (US citizen, charged April 2025, visa revoked; charges later dropped). Slide 2: National Parks Act B.E. 2562 s.19(2)+s.42, unofficial English translation by the Office of the Council of State (tentative version); the Act names sand/rocks/'other natural resources' explicitly; coral is covered as a natural resource but is not named in the text; it applies only inside national parks (Phi Phi is one, per Pattaya Mail). Slide 3: helmet fine from Thai news (sanook, Pattaya Mail), not a government page; the PRD.go.th announcement pages found in search returned 404. Slide 4: Royal Thai Embassy pages (primary); bans for surrendering at the airport start only above 90 days, so the 5-year line is specifically for being caught/arrested. REJECTED: beach smoking ban (DMCR order 1064/2560 was published with a 2-year validity, Feb 2018-Feb 2020; no renewal found, so not safe to claim it is in force); Buddha image export (7 years/700,000 baht figure found only on a non-authoritative site); cannabis (re-regulated June 2025, status in flux); feeding monkeys (penalty amount not verifiable on an opened source)."
+ "notes": "All 4 items verified on pages opened 10.10.2026. Slide 1: Section 112 still enforced in 2026 (Jurist 30.5.2026; Khaosod reported a 21.4.2026 conviction for a Facebook post, but that page returned 403 so it is not cited). 'גם לזרים' rests on the Paul Chambers case (US citizen, charged April 2025, visa revoked; charges later dropped). Slide 2: National Parks Act B.E. 2562 s.19(2)+s.42, unofficial English translation by the Office of the Council of State (tentative version); the Act names sand/rocks/'other natural resources' explicitly; coral is covered as a natural resource but is not named in the text; it applies only inside national parks (Phi Phi is one, per Pattaya Mail). Slide 3: helmet fine from Thai news (sanook, Pattaya Mail), not a government page; the PRD.go.th announcement pages found in search returned 404. Slide 4: Royal Thai Embassy pages (primary); bans for surrendering at the airport start only above 90 days, so the 5-year line is specifically for being caught/arrested. REJECTED: beach smoking ban (DMCR order 1064/2560 was published with a 2-year validity, Feb 2018-Feb 2020; no renewal found, so not safe to claim it is in force); Buddha image export (7 years/700,000 baht figure found only on a non-authoritative site); cannabis (re-regulated June 2025, status in flux); feeding monkeys (penalty amount not verifiable on an opened source).",
+ "cover_previous": {
+  "lines": [
+   "5 דברים",
+   "שאסור",
+   "לעשות בתאילנד"
+  ],
+  "red": "שאסור",
+  "bottom": "תשמרו אם אתם טסים בקרוב!",
+  "photo": "Portrait, iPhone look: a wooden longtail boat with colourful ribbons on its bow, beached in shallow turquoise water on white sand, limestone cliffs behind it, warm late-afternoon sun, clear sky in the upper third for the title."
+ }
 }

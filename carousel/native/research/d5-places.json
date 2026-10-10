@@ -2,11 +2,12 @@
  "deck": "d5-places",
  "cover": {
   "lines": [
-   "4 המקומות שאסור",
-   "לפספס בתאילנד"
+   "4 מקומות בתאילנד",
+   "שאתם בטוח לא מכירים 🤫"
   ],
-  "red": "שאסור",
-  "bottom": "(ככה חסכתי כסף)",
+  "red": "בטוח",
+  "bottom": null,
+  "evidence": "H0700 \"זה המלון שאתם בטוח לא מכירים\" 901,100 / 553 followers (strongest Hebrew travel cover); secret EN x2.93; replaces his \"...שאסור לכם לפספס...(ככה חסכתי כסף)\" pattern which is in his bottom 3 (632-1,989)",
   "photo": "Portrait, iPhone look, eye-level from the waterline: white-sand Andaman beach with 2-3 colourful wooden longtail boats (garlands on the bow) moored in shallow turquoise water, jungle-covered headland behind, golden late-afternoon light, a few soft clouds. Reference place: Sunrise Beach, Ko Lipe (longtails line this beach). Keep the top third calm sky/sea for the headline."
  },
  "slides": [
@@ -216,5 +217,14 @@
   ],
   "photo": "Portrait, iPhone look: a calm infinity-pool or beachfront view at golden hour overlooking a turquoise Thai bay with longtail boats below (e.g. a hillside resort view over a Ko Lipe or Similan-style bay) - aspirational 'hotel' feeling without any visible brand, logo or signage."
  },
- "notes": "Selection: 4 places that each appear on 2+ reputable 'best of Thailand' lists (Nomadasaurus 27 places, Oyster 10 best islands, The Broke Backpacker 23 beautiful places, Rough Guides best places, Travelness top waterfalls, World's 50 Best Beaches 2026 via Pattaya Mail/VietnamPlus, TAT News on Lonely Planet Traveller awards) and none is on the excluded list. Chosen for water scenery: sea islands (Similan, Ko Lipe), lake (Cheow Lan), turquoise waterfall (Erawan). 'Israelis commonly skip' could NOT be measured with data - it was applied only as 'not one of the excluded mainstream spots'; Khao Sok in particular is reasonably known among Israeli backpackers. Ko Kood was considered and dropped: it lies inside the 50 km border alert zone after the Thai-Cambodian clashes of 2025 (Khaosod English, Dec 2025), so recommending it without a safety caveat is risky. Timing: Similan opens 15 Oct and the Langkawi-Lipe ferry runs mid-Oct to mid-May, so the deck fits the season starting now. TAT's own pages (tourismthailand.org) returned 403 to every fetch; the TAT-database mirror lovethailand.org, Thai national parks guide, Wikipedia and TAT News were used instead. Wikipedia quotes were checked against the raw article text; other quotes came through a page-fetch summarizer and may differ in punctuation. Heading spellings: איי סימילן, קאו סוק, מפלי אראוואן, קו ליפה. No slide numbers, no brand names, no forbidden words."
+ "notes": "Selection: 4 places that each appear on 2+ reputable 'best of Thailand' lists (Nomadasaurus 27 places, Oyster 10 best islands, The Broke Backpacker 23 beautiful places, Rough Guides best places, Travelness top waterfalls, World's 50 Best Beaches 2026 via Pattaya Mail/VietnamPlus, TAT News on Lonely Planet Traveller awards) and none is on the excluded list. Chosen for water scenery: sea islands (Similan, Ko Lipe), lake (Cheow Lan), turquoise waterfall (Erawan). 'Israelis commonly skip' could NOT be measured with data - it was applied only as 'not one of the excluded mainstream spots'; Khao Sok in particular is reasonably known among Israeli backpackers. Ko Kood was considered and dropped: it lies inside the 50 km border alert zone after the Thai-Cambodian clashes of 2025 (Khaosod English, Dec 2025), so recommending it without a safety caveat is risky. Timing: Similan opens 15 Oct and the Langkawi-Lipe ferry runs mid-Oct to mid-May, so the deck fits the season starting now. TAT's own pages (tourismthailand.org) returned 403 to every fetch; the TAT-database mirror lovethailand.org, Thai national parks guide, Wikipedia and TAT News were used instead. Wikipedia quotes were checked against the raw article text; other quotes came through a page-fetch summarizer and may differ in punctuation. Heading spellings: איי סימילן, קאו סוק, מפלי אראוואן, קו ליפה. No slide numbers, no brand names, no forbidden words.",
+ "cover_previous": {
+  "lines": [
+   "4 המקומות שאסור",
+   "לפספס בתאילנד"
+  ],
+  "red": "שאסור",
+  "bottom": "(ככה חסכתי כסף)",
+  "photo": "Portrait, iPhone look, eye-level from the waterline: white-sand Andaman beach with 2-3 colourful wooden longtail boats (garlands on the bow) moored in shallow turquoise water, jungle-covered headland behind, golden late-afternoon light, a few soft clouds. Reference place: Sunrise Beach, Ko Lipe (longtails line this beach). Keep the top third calm sky/sea for the headline."
+ }
 }

@@ -1,129 +1,277 @@
 {
-  "deck": "d4-route-andaman",
-  "cover": {
-    "lines": ["הנה המסלול המושלם", "לאיים בדרום תאילנד", "🏝️🛶🐠🥥🌅"],
-    "red": "המושלם",
-    "photo": "Girl from behind, standing knee-deep in glassy turquoise water on a white-sand beach, long hair, straw hat or bikini, limestone karst islands on the horizon; golden late-afternoon light, shot on iPhone, portrait 9:16, slight lens flare, water so clear the sand shows through. Alternative: same girl silhouetted at a pink-orange sunset on the sand with a longtail boat in the water."
-  },
-  "slides": [
+ "deck": "d4-route-andaman",
+ "cover": {
+  "lines": [
+   "קבלו מסלול מושלם ל-12 לילות",
+   "באיים של תאילנד 🏝️",
+   "שלא כולם מכירים 🤫"
+  ],
+  "red": "מושלם",
+  "evidence": "H0013 \"קבלו מסלול מושלם לחודש / בתאילנד\" 292,000 / 1,195 followers + H0074 \"כולל כאלה שלא כולם מכירים 🤫\" 416,700 / 983 followers; secret EN x2.93 [1.31,7.34] 13/19",
+  "photo": "Girl from behind, standing knee-deep in glassy turquoise water on a white-sand beach, long hair, straw hat or bikini, limestone karst islands on the horizon; golden late-afternoon light, shot on iPhone, portrait 9:16, slight lens flare, water so clear the sand shows through. Alternative: same girl silhouetted at a pink-orange sunset on the sand with a longtail boat in the water."
+ },
+ "slides": [
+  {
+   "place": "Koh Yao Noi",
+   "heading": "קו יאו נוי: 3 לילות🌅🛶",
+   "lines": [
+    "טיול סירה לאיי הונג",
+    "קיאקים סביב ג'יימס בונד איילנד",
+    "חוף פאסאי עם נוף לאיים",
+    "בשפל הולכים ברגל לאי מול טה קאו😍",
+    "סיבוב בקטנוע סביב האי",
+    "לקום לזריחה מעל המפרץ",
+    "אי מוסלמי - להתלבש צנוע"
+   ],
+   "transfer_from_previous": "Start of route. Reached from Phuket: taxi to Bang Rong pier, then speedboat/longtail to Manoh pier, 30-45 min (koyao.com).",
+   "photo": "Wooden longtail boat with colourful ribbons on the bow, moored in calm emerald water at sunrise, dozens of tall limestone karst towers of Phang Nga Bay across the water, soft pink sky, mirror-still sea; iPhone portrait 9:16, warm and dreamy.",
+   "sources": [
     {
-      "place": "Koh Yao Noi",
-      "heading": "קו יאו נוי: 3 לילות🌅🛶",
-      "lines": [
-        "טיול סירה לאיי הונג",
-        "קיאקים סביב ג'יימס בונד איילנד",
-        "חוף פאסאי עם נוף לאיים",
-        "בשפל הולכים ברגל לאי מול טה קאו😍",
-        "סיבוב בקטנוע סביב האי",
-        "לקום לזריחה מעל המפרץ",
-        "אי מוסלמי - להתלבש צנוע"
-      ],
-      "transfer_from_previous": "Start of route. Reached from Phuket: taxi to Bang Rong pier, then speedboat/longtail to Manoh pier, 30-45 min (koyao.com).",
-      "photo": "Wooden longtail boat with colourful ribbons on the bow, moored in calm emerald water at sunrise, dozens of tall limestone karst towers of Phang Nga Bay across the water, soft pink sky, mirror-still sea; iPhone portrait 9:16, warm and dreamy.",
-      "sources": [
-        {"url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/", "quote": "The first stop is Koh Hong, or Hong Island, home to a sensational crescent-shaped beach and a 360-degree viewpoint which gives you great views."},
-        {"url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/", "quote": "Joining one of these tours allows you to go kayaking out and around James Bond Island, as well as stopping off and explore caves, beautiful lagoons and surreal isolated beaches and bays."},
-        {"url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/", "quote": "You can rent a scooter starting at 200 Thai Baht for the day."},
-        {"url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/", "quote": "One of the best ways to start your day when you visit Koh Yao Noi is to wake up early and watch the sunrise."},
-        {"url": "https://www.lovethailand.org/travel/en/68-Phang-Nga/4099-เกาะยาว.html", "quote": "Pasai Beach is one of the best-known beaches on Koh Yao Noi. Located about 7 kilometers from the district office area, it has clean white sand, shady trees, and open views across the sea toward nearby islands."},
-        {"url": "https://www.lovethailand.org/travel/en/68-Phang-Nga/4130-Tha-Khao-Beach.html", "quote": "a sandbank or shallow tidal flat appears between the beach and the small offshore island"},
-        {"url": "https://amazingthailand.com.au/attraction/ko-yao-islands/", "quote": "Note that the islanders are mostly Muslim, so it's recommended to respect the local culture by dressing modestly and refraining from drinking alcohol outside the restaurants or resorts."},
-        {"url": "https://asocialnomad.com/?p=37350", "quote": "Take a Boat Trip from Koh Yao Noi"}
-      ]
+     "url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/",
+     "quote": "The first stop is Koh Hong, or Hong Island, home to a sensational crescent-shaped beach and a 360-degree viewpoint which gives you great views."
     },
     {
-      "place": "Koh Lanta",
-      "heading": "קו לנטה: 3 לילות🏝️🌅",
-      "lines": [
-        "שנורקל בקו רוק🐠",
-        "המגדלור בפארק הלאומי",
-        "העיר העתיקה - בתים על כלונסאות",
-        "חוף קאנטיאנג ביי",
-        "שקיעה בלונג ביץ'",
-        "לישון באיזור לונג ביץ'",
-        "אין גראב - שוכרים קטנוע"
-      ],
-      "transfer_from_previous": "Koh Yao Noi (Manoh Pier) to Koh Lanta (Saladan Pier) by speedboat, ~1h50-2h10, ~17 weekly sailings, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com).",
-      "photo": "Wide sunset over a long, empty golden-sand beach lined with casuarina and palm trees, low tide reflections on wet sand, a lone swing or beach bar bean-bags in the foreground, sky burning orange-pink; iPhone portrait 9:16. Alternative: aerial-style shot from the cliff of the Mu Ko Lanta lighthouse point with two coves of turquoise water below.",
-      "sources": [
-        {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "Koh Rok is like the Beyoncé of snorkeling spots—top of the charts and absolutely fabulous!"},
-        {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "The real stunner is the view: a cliff overlooking the open sea with two beaches below on either side."},
-        {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "Kantiang Bay is one of the most beautiful beaches on Koh Lanta."},
-        {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "Long Beach, and Phra Ae Beach at its southern end, is more my style and the best beach on Koh Lanta."},
-        {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "There's no Grab on Koh Lanta, but there is the local taxi mafia!"},
-        {"url": "https://www.neverendingvoyage.com/koh-lanta-guide/", "quote": "a village of teak stilted houses overlooking the sea"},
-        {"url": "https://www.neverendingvoyage.com/koh-lanta-guide/", "quote": "We love walking here at sunset"},
-        {"url": "https://www.neverendingvoyage.com/koh-lanta-guide/", "quote": "Koh Lanta is quite a large island (27 km long) so having your own transport makes it easy to explore."},
-        {"url": "https://www.neverendingvoyage.com/koh-lanta-guide/", "quote": "Khlong Dao or Long Beach"},
-        {"url": "https://therestlessbeans.com/south-thailand-itinerary/", "quote": "Klong Dao Beach, Long Beach (Phra Ae Beach) and Klong Khong"}
-      ]
+     "url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/",
+     "quote": "Joining one of these tours allows you to go kayaking out and around James Bond Island, as well as stopping off and explore caves, beautiful lagoons and surreal isolated beaches and bays."
     },
     {
-      "place": "Koh Muk (Koh Mook)",
-      "heading": "קו מוק: 3 לילות💚🛶",
-      "lines": [
-        "לשחות 80 מטר למערת האמרלד",
-        "לגונה סודית בסוף המערה😍",
-        "שקיעה בצ'רלי ביץ'",
-        "קיאקים מצ'רלי ביץ'",
-        "שנורקל באי קראדן🐠",
-        "טרק לתצפית באמצע האי",
-        "בספטמבר המערה סגורה"
-      ],
-      "transfer_from_previous": "Koh Lanta (Saladan Pier) to Koh Mook by speedboat, ~1 hour, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com). No pier for high-speed boats on Koh Muk; longtail shuttle to shore.",
-      "photo": "Hidden lagoon inside the Emerald Cave: ring of sheer jungle-covered limestone cliffs open to the sky, small white-sand beach, emerald-green water, a swimmer in a life jacket floating in the foreground for scale; iPhone portrait 9:16. Alternative: Charlie (Farang) Beach at sunset with longtail boats and karst cliffs.",
-      "sources": [
-        {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "Swim 80 meters through the dark cave system with a head torch. On the other side there you'll arrive at what can only be described as Thailand's prettiest bay."},
-        {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "Rent a kayak at Charlie Beach(100 Baht) Grab a fresh coconut(60 Baht) and sit in the sand."},
-        {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "Koh Kradan has some of the nicest snorkelling in all of Thailand. The marine life and corals here are thriving."},
-        {"url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html", "quote": "a hidden white-sand beach surrounded by high limestone cliffs"},
-        {"url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html", "quote": "one of the island's best-known sunset areas"},
-        {"url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html", "quote": "Koh Mook is closed from 1 August to 30 September, and Emerald Cave is closed from 1 to 30 September."},
-        {"url": "https://therestlessbeans.com/south-thailand-itinerary/", "quote": "a sunset at Charlie/Garnet Beach, on the western side"},
-        {"url": "https://therestlessbeans.com/south-thailand-itinerary/", "quote": "hike inland to a viewpoint"}
-      ]
+     "url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/",
+     "quote": "You can rent a scooter starting at 200 Thai Baht for the day."
     },
     {
-      "place": "Koh Lipe",
-      "heading": "קו ליפה: 3 לילות🐠🌴",
-      "lines": [
-        "מדרחוב הווקינג סטריט",
-        "שנורקל מול סאנרייז ביץ'",
-        "שקיעה בסאנסט ביץ'",
-        "טרק לצוק צ'אדו בקו אדאנג",
-        "סירת זנב לאיים מסביב",
-        "לישון באיזור סאנרייז ביץ'",
-        "לא לקחת אבנים מקו הין נגאם!"
-      ],
-      "transfer_from_previous": "Koh Mook to Koh Lipe (Pattaya Beach) by speedboat, ~2h-2h10, ~19 weekly sailings, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com; backpackbob.com).",
-      "photo": "Crystal-clear shallow turquoise water so clear the longtail boats look like they float in air, white-sand beach, small green island behind, bright midday sun; iPhone portrait 9:16. Alternative: view from Chado Cliff on Koh Adang down to the turquoise channel and Koh Lipe.",
-      "sources": [
-        {"url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/", "quote": "It's essentially the 'town' of Koh Lipe and has pretty much everything you need - ATMs, 7elevens, massage parlours, restaurants, bars, shops etc."},
-        {"url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/", "quote": "The best snorkelling is around 2 tiny islands by Sunrise beach; Koh Kra, in front of the school, and Koh Usen, in front of Idyllic Resort."},
-        {"url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/", "quote": "Visiting some of the bigger, more well-known islands like Jabang, Him Ngam, Koh Yang and the spectacular Koh Adang."},
-        {"url": "https://21sensations.com/koh-lipe-travel-guide-things-to-do-in-koh-lipe/", "quote": "As the name suggests, this beach offers stunning sunset views."},
-        {"url": "https://21sensations.com/koh-lipe-travel-guide-things-to-do-in-koh-lipe/", "quote": "The trek to Chado Cliff is popular, providing panoramic views of Koh Lipe and the surrounding sea."},
-        {"url": "https://www.geckoroutes.com/thailand/koh-lipe/", "quote": "Sunrise beach on the eastern side of Koh Lipe is recommended by many as the best area to stay."},
-        {"url": "https://www.lovethailand.org/travel/en/72-Satun/4379-Koh-Hin-Ngam.html", "quote": "The Chao Pho Tarutao curse story that warns visitors not to take stones away."},
-        {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "The speedboat takes around two hours and runs directly between the two islands."}
-      ]
+     "url": "https://www.nomadasaurus.com/koh-yao-noi-thailand/",
+     "quote": "One of the best ways to start your day when you visit Koh Yao Noi is to wake up early and watch the sunrise."
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/68-Phang-Nga/4099-เกาะยาว.html",
+     "quote": "Pasai Beach is one of the best-known beaches on Koh Yao Noi. Located about 7 kilometers from the district office area, it has clean white sand, shady trees, and open views across the sea toward nearby islands."
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/68-Phang-Nga/4130-Tha-Khao-Beach.html",
+     "quote": "a sandbank or shallow tidal flat appears between the beach and the small offshore island"
+    },
+    {
+     "url": "https://amazingthailand.com.au/attraction/ko-yao-islands/",
+     "quote": "Note that the islanders are mostly Muslim, so it's recommended to respect the local culture by dressing modestly and refraining from drinking alcohol outside the restaurants or resorts."
+    },
+    {
+     "url": "https://asocialnomad.com/?p=37350",
+     "quote": "Take a Boat Trip from Koh Yao Noi"
     }
-  ],
-  "last": {
-    "lines": ["והדרך שמצאתי כדי לחסוך כסף על מלונות?"],
-    "photo": "Girl lying on a sun lounger or in a hammock on a white-sand beach, phone in hand, turquoise sea and a longtail boat behind her, relaxed vacation mood, warm afternoon light; iPhone portrait 9:16 (face away or partly turned so the phone screen is not legible)."
+   ]
   },
-  "nights_sources": [
-    {"url": "https://koyao.com/journal/koh-yao-noi-travel-guide", "quote": "Three to four nights is a comfortable stay."},
-    {"url": "https://www.voyagetips.com/en/koh-yao-noi/", "quote": "To visit Koh Yao Noi, you must have a minimum of 3 days"},
-    {"url": "https://therestlessbeans.com/south-thailand-itinerary/", "quote": "Koh Yao Noi: Days 2-4 / Koh Lanta: Days 11-14 / Koh Mook: Days 15-18 / Koh Lipe: Days 19-22 (section headings)"},
-    {"url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/", "quote": "3–5 days depending on how much beach time you crave."},
-    {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "Koh Mook: Night 1 of 3 ... Koh Mook: Night 3 of 3 (day headings)"},
-    {"url": "https://backpackbob.com/thailand-two-week-itinerary", "quote": "Day Ten Koh Lipe: Night 1 of 3 ... Day Twelve Lipe: Night 3 of 3 (day headings)"},
-    {"url": "https://fullsuitcase.com/?p=9216", "quote": "We planned 3 nights/ 2 full days on Koh Lipe in our itinerary and we felt that it was enough."},
-    {"url": "https://www.directferries.com/koh_yao_noi_manoh_pier_koh_lanta_ferry.htm", "quote": "There are approximately 17 weekly sailings from Koh Yao Noi (Manoh Pier) to Koh Lanta (Saladan Pier) operated by Bundhaya Speed Boat & Satun Pakbara Speed Boat Club. Timetables may vary seasonally."},
-    {"url": "https://www.directferries.com/koh_mook_koh_mook_pier_koh_lanta_ferry.htm", "quote": "The Koh Mook (Koh Mook Pier) Koh Lanta (Saladan Pier) ferry trip can take around 1 hour."},
-    {"url": "https://www.directferries.com/koh_mook_koh_mook_pier_koh_lipe_pattaya_beach_ferry.htm", "quote": "There are approximately 19 weekly sailings from Koh Mook (Koh Mook Pier) to Koh Lipe (Pattaya Beach) operated by Bundhaya Speed Boat & Satun Pakbara Speed Boat Club. Timetables may vary seasonally."}
+  {
+   "place": "Koh Lanta",
+   "heading": "קו לנטה: 3 לילות🏝️🌅",
+   "lines": [
+    "שנורקל בקו רוק🐠",
+    "המגדלור בפארק הלאומי",
+    "העיר העתיקה - בתים על כלונסאות",
+    "חוף קאנטיאנג ביי",
+    "שקיעה בלונג ביץ'",
+    "לישון באיזור לונג ביץ'",
+    "אין גראב - שוכרים קטנוע"
+   ],
+   "transfer_from_previous": "Koh Yao Noi (Manoh Pier) to Koh Lanta (Saladan Pier) by speedboat, ~1h50-2h10, ~17 weekly sailings, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com).",
+   "photo": "Wide sunset over a long, empty golden-sand beach lined with casuarina and palm trees, low tide reflections on wet sand, a lone swing or beach bar bean-bags in the foreground, sky burning orange-pink; iPhone portrait 9:16. Alternative: aerial-style shot from the cliff of the Mu Ko Lanta lighthouse point with two coves of turquoise water below.",
+   "sources": [
+    {
+     "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+     "quote": "Koh Rok is like the Beyoncé of snorkeling spots—top of the charts and absolutely fabulous!"
+    },
+    {
+     "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+     "quote": "The real stunner is the view: a cliff overlooking the open sea with two beaches below on either side."
+    },
+    {
+     "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+     "quote": "Kantiang Bay is one of the most beautiful beaches on Koh Lanta."
+    },
+    {
+     "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+     "quote": "Long Beach, and Phra Ae Beach at its southern end, is more my style and the best beach on Koh Lanta."
+    },
+    {
+     "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+     "quote": "There's no Grab on Koh Lanta, but there is the local taxi mafia!"
+    },
+    {
+     "url": "https://www.neverendingvoyage.com/koh-lanta-guide/",
+     "quote": "a village of teak stilted houses overlooking the sea"
+    },
+    {
+     "url": "https://www.neverendingvoyage.com/koh-lanta-guide/",
+     "quote": "We love walking here at sunset"
+    },
+    {
+     "url": "https://www.neverendingvoyage.com/koh-lanta-guide/",
+     "quote": "Koh Lanta is quite a large island (27 km long) so having your own transport makes it easy to explore."
+    },
+    {
+     "url": "https://www.neverendingvoyage.com/koh-lanta-guide/",
+     "quote": "Khlong Dao or Long Beach"
+    },
+    {
+     "url": "https://therestlessbeans.com/south-thailand-itinerary/",
+     "quote": "Klong Dao Beach, Long Beach (Phra Ae Beach) and Klong Khong"
+    }
+   ]
+  },
+  {
+   "place": "Koh Muk (Koh Mook)",
+   "heading": "קו מוק: 3 לילות💚🛶",
+   "lines": [
+    "לשחות 80 מטר למערת האמרלד",
+    "לגונה סודית בסוף המערה😍",
+    "שקיעה בצ'רלי ביץ'",
+    "קיאקים מצ'רלי ביץ'",
+    "שנורקל באי קראדן🐠",
+    "טרק לתצפית באמצע האי",
+    "בספטמבר המערה סגורה"
+   ],
+   "transfer_from_previous": "Koh Lanta (Saladan Pier) to Koh Mook by speedboat, ~1 hour, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com). No pier for high-speed boats on Koh Muk; longtail shuttle to shore.",
+   "photo": "Hidden lagoon inside the Emerald Cave: ring of sheer jungle-covered limestone cliffs open to the sky, small white-sand beach, emerald-green water, a swimmer in a life jacket floating in the foreground for scale; iPhone portrait 9:16. Alternative: Charlie (Farang) Beach at sunset with longtail boats and karst cliffs.",
+   "sources": [
+    {
+     "url": "https://backpackbob.com/thailand-two-week-itinerary",
+     "quote": "Swim 80 meters through the dark cave system with a head torch. On the other side there you'll arrive at what can only be described as Thailand's prettiest bay."
+    },
+    {
+     "url": "https://backpackbob.com/thailand-two-week-itinerary",
+     "quote": "Rent a kayak at Charlie Beach(100 Baht) Grab a fresh coconut(60 Baht) and sit in the sand."
+    },
+    {
+     "url": "https://backpackbob.com/thailand-two-week-itinerary",
+     "quote": "Koh Kradan has some of the nicest snorkelling in all of Thailand. The marine life and corals here are thriving."
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html",
+     "quote": "a hidden white-sand beach surrounded by high limestone cliffs"
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html",
+     "quote": "one of the island's best-known sunset areas"
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/75-Trang/4522-Koh-Muk-and-Tham-Morakot-%28Emerald-Cave%29.html",
+     "quote": "Koh Mook is closed from 1 August to 30 September, and Emerald Cave is closed from 1 to 30 September."
+    },
+    {
+     "url": "https://therestlessbeans.com/south-thailand-itinerary/",
+     "quote": "a sunset at Charlie/Garnet Beach, on the western side"
+    },
+    {
+     "url": "https://therestlessbeans.com/south-thailand-itinerary/",
+     "quote": "hike inland to a viewpoint"
+    }
+   ]
+  },
+  {
+   "place": "Koh Lipe",
+   "heading": "קו ליפה: 3 לילות🐠🌴",
+   "lines": [
+    "מדרחוב הווקינג סטריט",
+    "שנורקל מול סאנרייז ביץ'",
+    "שקיעה בסאנסט ביץ'",
+    "טרק לצוק צ'אדו בקו אדאנג",
+    "סירת זנב לאיים מסביב",
+    "לישון באיזור סאנרייז ביץ'",
+    "לא לקחת אבנים מקו הין נגאם!"
+   ],
+   "transfer_from_previous": "Koh Mook to Koh Lipe (Pattaya Beach) by speedboat, ~2h-2h10, ~19 weekly sailings, Bundhaya Speed Boat & Satun Pakbara Speed Boat Club (directferries.com; backpackbob.com).",
+   "photo": "Crystal-clear shallow turquoise water so clear the longtail boats look like they float in air, white-sand beach, small green island behind, bright midday sun; iPhone portrait 9:16. Alternative: view from Chado Cliff on Koh Adang down to the turquoise channel and Koh Lipe.",
+   "sources": [
+    {
+     "url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/",
+     "quote": "It's essentially the 'town' of Koh Lipe and has pretty much everything you need - ATMs, 7elevens, massage parlours, restaurants, bars, shops etc."
+    },
+    {
+     "url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/",
+     "quote": "The best snorkelling is around 2 tiny islands by Sunrise beach; Koh Kra, in front of the school, and Koh Usen, in front of Idyllic Resort."
+    },
+    {
+     "url": "https://www.geckoroutes.com/thailand/things-to-do-in-koh-lipe-thailand/",
+     "quote": "Visiting some of the bigger, more well-known islands like Jabang, Him Ngam, Koh Yang and the spectacular Koh Adang."
+    },
+    {
+     "url": "https://21sensations.com/koh-lipe-travel-guide-things-to-do-in-koh-lipe/",
+     "quote": "As the name suggests, this beach offers stunning sunset views."
+    },
+    {
+     "url": "https://21sensations.com/koh-lipe-travel-guide-things-to-do-in-koh-lipe/",
+     "quote": "The trek to Chado Cliff is popular, providing panoramic views of Koh Lipe and the surrounding sea."
+    },
+    {
+     "url": "https://www.geckoroutes.com/thailand/koh-lipe/",
+     "quote": "Sunrise beach on the eastern side of Koh Lipe is recommended by many as the best area to stay."
+    },
+    {
+     "url": "https://www.lovethailand.org/travel/en/72-Satun/4379-Koh-Hin-Ngam.html",
+     "quote": "The Chao Pho Tarutao curse story that warns visitors not to take stones away."
+    },
+    {
+     "url": "https://backpackbob.com/thailand-two-week-itinerary",
+     "quote": "The speedboat takes around two hours and runs directly between the two islands."
+    }
+   ]
+  }
+ ],
+ "last": {
+  "lines": [
+   "והדרך שמצאתי כדי לחסוך כסף על מלונות?"
   ],
-  "notes": "Route north to south: Koh Yao Noi (Phang Nga Bay) -> Koh Lanta (Krabi) -> Koh Muk (Trang) -> Koh Lipe (Satun); 12 nights total, all island-to-island by speedboat with no mainland return. Nights: Yao Noi 3 (koyao 3-4, voyagetips min 3, restlessbeans 3 days); Lanta 3 (nextleveloftravel 3-5 days, restlessbeans 4 days, fullsuitcase 2 nights); Muk 3 (backpackbob 3, restlessbeans 4); Lipe 3 (backpackbob 3, fullsuitcase 3, restlessbeans 4). Season caveat: the island-hopping speedboats are high-season services (timetables vary seasonally) and the Emerald Cave closes in September (TAT/lovethailand says 1-30 Sep 2026; another guide says June-Sept) - the 'בספטמבר המערה סגורה' line is true under both. Koh Lipe is inside Tarutao National Park; Koh Hin Ngam stone removal is prohibited (TAT). Deliberately NOT mentioned: the Lipe-Langkawi (Malaysia) crossing, since Malaysia generally does not admit Israeli passport holders. Koh Kradan is presented as a snorkel day trip from Koh Muk (backpackbob), not as its own stop. Quotes marked '(section headings)'/'(day headings)' are assembled from page headings, not a single sentence. Some quotes were extracted through a summarising fetch tool and could differ in punctuation from the live page."
+  "photo": "Girl lying on a sun lounger or in a hammock on a white-sand beach, phone in hand, turquoise sea and a longtail boat behind her, relaxed vacation mood, warm afternoon light; iPhone portrait 9:16 (face away or partly turned so the phone screen is not legible)."
+ },
+ "nights_sources": [
+  {
+   "url": "https://koyao.com/journal/koh-yao-noi-travel-guide",
+   "quote": "Three to four nights is a comfortable stay."
+  },
+  {
+   "url": "https://www.voyagetips.com/en/koh-yao-noi/",
+   "quote": "To visit Koh Yao Noi, you must have a minimum of 3 days"
+  },
+  {
+   "url": "https://therestlessbeans.com/south-thailand-itinerary/",
+   "quote": "Koh Yao Noi: Days 2-4 / Koh Lanta: Days 11-14 / Koh Mook: Days 15-18 / Koh Lipe: Days 19-22 (section headings)"
+  },
+  {
+   "url": "https://www.nextleveloftravel.com/thailand/koh-lanta-itinerary-and-travel-guide/",
+   "quote": "3–5 days depending on how much beach time you crave."
+  },
+  {
+   "url": "https://backpackbob.com/thailand-two-week-itinerary",
+   "quote": "Koh Mook: Night 1 of 3 ... Koh Mook: Night 3 of 3 (day headings)"
+  },
+  {
+   "url": "https://backpackbob.com/thailand-two-week-itinerary",
+   "quote": "Day Ten Koh Lipe: Night 1 of 3 ... Day Twelve Lipe: Night 3 of 3 (day headings)"
+  },
+  {
+   "url": "https://fullsuitcase.com/?p=9216",
+   "quote": "We planned 3 nights/ 2 full days on Koh Lipe in our itinerary and we felt that it was enough."
+  },
+  {
+   "url": "https://www.directferries.com/koh_yao_noi_manoh_pier_koh_lanta_ferry.htm",
+   "quote": "There are approximately 17 weekly sailings from Koh Yao Noi (Manoh Pier) to Koh Lanta (Saladan Pier) operated by Bundhaya Speed Boat & Satun Pakbara Speed Boat Club. Timetables may vary seasonally."
+  },
+  {
+   "url": "https://www.directferries.com/koh_mook_koh_mook_pier_koh_lanta_ferry.htm",
+   "quote": "The Koh Mook (Koh Mook Pier) Koh Lanta (Saladan Pier) ferry trip can take around 1 hour."
+  },
+  {
+   "url": "https://www.directferries.com/koh_mook_koh_mook_pier_koh_lipe_pattaya_beach_ferry.htm",
+   "quote": "There are approximately 19 weekly sailings from Koh Mook (Koh Mook Pier) to Koh Lipe (Pattaya Beach) operated by Bundhaya Speed Boat & Satun Pakbara Speed Boat Club. Timetables may vary seasonally."
+  }
+ ],
+ "notes": "Route north to south: Koh Yao Noi (Phang Nga Bay) -> Koh Lanta (Krabi) -> Koh Muk (Trang) -> Koh Lipe (Satun); 12 nights total, all island-to-island by speedboat with no mainland return. Nights: Yao Noi 3 (koyao 3-4, voyagetips min 3, restlessbeans 3 days); Lanta 3 (nextleveloftravel 3-5 days, restlessbeans 4 days, fullsuitcase 2 nights); Muk 3 (backpackbob 3, restlessbeans 4); Lipe 3 (backpackbob 3, fullsuitcase 3, restlessbeans 4). Season caveat: the island-hopping speedboats are high-season services (timetables vary seasonally) and the Emerald Cave closes in September (TAT/lovethailand says 1-30 Sep 2026; another guide says June-Sept) - the 'בספטמבר המערה סגורה' line is true under both. Koh Lipe is inside Tarutao National Park; Koh Hin Ngam stone removal is prohibited (TAT). Deliberately NOT mentioned: the Lipe-Langkawi (Malaysia) crossing, since Malaysia generally does not admit Israeli passport holders. Koh Kradan is presented as a snorkel day trip from Koh Muk (backpackbob), not as its own stop. Quotes marked '(section headings)'/'(day headings)' are assembled from page headings, not a single sentence. Some quotes were extracted through a summarising fetch tool and could differ in punctuation from the live page.",
+ "cover_previous": {
+  "lines": [
+   "הנה המסלול המושלם",
+   "לאיים בדרום תאילנד",
+   "🏝️🛶🐠🥥🌅"
+  ],
+  "red": "המושלם",
+  "photo": "Girl from behind, standing knee-deep in glassy turquoise water on a white-sand beach, long hair, straw hat or bikini, limestone karst islands on the horizon; golden late-afternoon light, shot on iPhone, portrait 9:16, slight lens flare, water so clear the sand shows through. Alternative: same girl silhouetted at a pink-orange sunset on the sand with a longtail boat in the water."
+ }
 }

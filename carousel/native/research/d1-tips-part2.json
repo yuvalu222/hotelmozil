@@ -2,12 +2,11 @@
  "deck": "d1-tips-part2",
  "cover": {
   "lines": [
-   "10",
-   "טיפים והמלצות לתאילנד",
+   "10 דברים",
    "שהלוואי וידענו",
-   "לפני שטסנו 🇹🇭",
-   "חלק 2"
+   "לפני שטסנו לתאילנד 🇹🇭"
   ],
+  "evidence": "H0606 \"דברים שהלוואי שהייתי יודעת לפני שטסתי לתאילנד\" 873,500 plays / 3,264 followers; his own #1 \"...שהלוואי וידענו לפני שטסנו\" 62,400; EN \"wish I knew/before you go\" x1.59 [1.14,2.74] 9/11 creators",
   "photo": "Portrait, iPhone look: the sun sitting just above a calm sea horizon, the sky graded from deep orange to pink to violet, a glowing path of light on the water leading to the camera, a silhouetted longtail boat or a small karst island off to one side, wet sand with a thin wave edge in the foreground. Keep the upper half clean sky for the title."
  },
  "slides": [
@@ -224,5 +223,15 @@
    ]
   }
  ],
- "notes": "Researched 10.10.2026; every quote was checked against the downloaded page text. (1) Visa: 30 days for Israelis has applied since 15.9.2026. Anyone who entered before keeps the 60 days. The 30-day extension needs approval, and its fee was NOT verified, so it is not on the slide. The TAT quote leaves out the list itself; Israel appears in the list on that page and in the Khaosod list. (2) ATM: 220 baht is the fee at most Thai banks (Thailand Starter Kit, verified September 2026). The same page says some machines show a different amount, depending on the card network or the bank, and AEON charges 150 baht. So the heading's 220 is the common figure, not a law. Its source is an independent guide; no bank fee sheet was found. (3) Scooter: the deck d3-forbidden already has a helmet slide, so this slide covers only the licence and insurance. The international-licence requirement comes from the Thailand tourism office in Israel, quoted in Walla. Insurers' exact terms vary; PassportCard says there is generally no cover. (4) Playing cards: the law is real (FCDO), but enforcement against tourists is rare. Deck math: 2 decks = 104-108 cards, under 120; 3 decks = 156, over. (5) Tourist police: the 24 hours and 8 languages come from the Tourist Police's own post (November 2025). The post does not say whether English is one of the languages, so the slide does not mention English. (6) The deck mentions neither Agoda nor Booking."
+ "notes": "Researched 10.10.2026; every quote was checked against the downloaded page text. (1) Visa: 30 days for Israelis has applied since 15.9.2026. Anyone who entered before keeps the 60 days. The 30-day extension needs approval, and its fee was NOT verified, so it is not on the slide. The TAT quote leaves out the list itself; Israel appears in the list on that page and in the Khaosod list. (2) ATM: 220 baht is the fee at most Thai banks (Thailand Starter Kit, verified September 2026). The same page says some machines show a different amount, depending on the card network or the bank, and AEON charges 150 baht. So the heading's 220 is the common figure, not a law. Its source is an independent guide; no bank fee sheet was found. (3) Scooter: the deck d3-forbidden already has a helmet slide, so this slide covers only the licence and insurance. The international-licence requirement comes from the Thailand tourism office in Israel, quoted in Walla. Insurers' exact terms vary; PassportCard says there is generally no cover. (4) Playing cards: the law is real (FCDO), but enforcement against tourists is rare. Deck math: 2 decks = 104-108 cards, under 120; 3 decks = 156, over. (5) Tourist police: the 24 hours and 8 languages come from the Tourist Police's own post (November 2025). The post does not say whether English is one of the languages, so the slide does not mention English. (6) The deck mentions neither Agoda nor Booking.",
+ "cover_previous": {
+  "lines": [
+   "10",
+   "טיפים והמלצות לתאילנד",
+   "שהלוואי וידענו",
+   "לפני שטסנו 🇹🇭",
+   "חלק 2"
+  ],
+  "photo": "Portrait, iPhone look: the sun sitting just above a calm sea horizon, the sky graded from deep orange to pink to violet, a glowing path of light on the water leading to the camera, a silhouetted longtail boat or a small karst island off to one side, wet sand with a thin wave edge in the foreground. Keep the upper half clean sky for the title."
+ }
 }

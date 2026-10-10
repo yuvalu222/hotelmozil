@@ -160,7 +160,9 @@ for (let b = 0; b < handles.length; b += BATCH) {
       console.log(`  @${h}: error ${String(e.message).split('\n')[0]}`);
     }
     await page.close();
-    await sleep(jitter(5000, 9000));
+    // GRID_GAP=25000 slows the pace after TikTok starts refusing (10.10: refused after 6 at the default).
+    const gap = Number(process.env.GRID_GAP || 5000);
+    await sleep(jitter(gap, gap * 1.6));
   }
   await ctx.close();
   try { fs.rmSync(dir, { recursive: true, force: true }); } catch { /* best effort */ }

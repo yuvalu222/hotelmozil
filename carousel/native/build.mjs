@@ -55,8 +55,8 @@ if (deck.startsWith('d1')) {
   slides.push({ copy: FOLDER[picks.folder || 'this'] });
 } else if (deck.startsWith('d3')) {
   slides.push({ ...photo(picks.cover), blocks: [
-    { top: 0.16, lines: [L(c.lines[0], 'xl', { w: 700 }), gap(0.04), L(red(c.lines[1], c.red), 'xl', { w: 700 }), gap(0.04), L(c.lines[2], 'xl', { w: 700 })] },
-    { top: 0.84, lines: [L(c.bottom, 'xs')] },
+    { top: 0.16, lines: c.lines.map((t) => L(red(t, c.red), 'l', { w: 700 })) },
+    ...(c.bottom ? [{ top: 0.84, lines: [L(c.bottom, 'xs')] }] : []),
   ] });
   research.slides.forEach((s, i) => slides.push({
     ...photo(picks.slides[i]), top: 0.07, width: 0.86,
@@ -65,7 +65,7 @@ if (deck.startsWith('d1')) {
   slides.push({ ...photo(picks.last), top: 0.07, width: 0.86, lines: research.last.lines.map((t) => L(t, 's', { w: 700, lh: 1.18 })) });
   slides.push({ copy: FOLDER[picks.folder || 'personal'] });
 } else if (deck.startsWith('d4')) {
-  slides.push({ ...photo(picks.cover), top: 0.2, lines: [L(red(c.lines[0], c.red), 'm'), L(c.lines[1], 'm'), gap(0.01), L(c.lines[2], 'm')] });
+  slides.push({ ...photo(picks.cover), top: 0.2, lines: c.lines.map((t) => L(red(t, c.red), 'm')) });
   research.slides.forEach((s, i) => slides.push({
     ...photo(picks.slides[i]), top: 0.19,
     lines: [L(s.heading, 'm'), gap(0.1), ...s.lines.map((t) => L(t, 's', { lh: 1.25 }))],
@@ -74,8 +74,8 @@ if (deck.startsWith('d1')) {
   slides.push({ copy: FOLDER[picks.folder || 'tip'] });
 } else if (deck.startsWith('d5')) {
   slides.push({ ...photo(picks.cover), blocks: [
-    { top: 0.22, lines: c.lines.map((t) => L(red(t, c.red), 'l')) },
-    { top: 0.8, lines: [L(c.bottom, 'xs')] },
+    { top: 0.22, lines: c.lines.map((t) => L(red(t, c.red), 'xl')) },
+    ...(c.bottom ? [{ top: 0.8, lines: [L(c.bottom, 'xs')] }] : []),
   ] });
   research.slides.forEach((s, i) => {
     slides.push({ ...photo(picks.slides[i]), top: 0.17, lines: [L(s.heading, 'xl'), gap(0.035), ...s.lines.map((t) => L(t, 'm'))] });
