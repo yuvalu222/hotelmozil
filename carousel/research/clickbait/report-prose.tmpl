@@ -1,0 +1,262 @@
+# Cover census: what the first slide says on viral travel carousels (10.10)
+
+Question: which hook formulas on the cover (first slide) of travel photo
+carousels go with more reach, and how sure can we be? Three sources:
+1,375 English covers measured against each creator's own median (section 1),
+613 Hebrew covers from TikTok search (section 2), and published viral
+examples from the web (section 3). Section 4 is the noise floor, section 5 the
+ranked answer.
+
+Everything in sections 1-2 is computed by `cover_census.py` in this folder
+(regexes on the transcribed text, never hand-assigned; rerun it to reproduce).
+`census-tables.md` and `census.json` are its raw output. This page is built
+by `build_report.py` from `report-prose.tmpl` + `web-findings.tmpl` + the
+generated tables.
+
+## How to read the numbers
+
+* **Multiplier (x)**: plays relative to the creator's own median (English)
+  or relative to the median plays-per-follower of the whole Hebrew set.
+  x2.0 = twice the typical post.
+* **% beat median**: share of covers in the formula above their baseline.
+  50% = coin flip.
+* **creators beat (sign p)**: for each creator who used the formula, does
+  that creator's median cover in it sit above baseline? k/m creators, with a
+  two-sided sign test. **This is the main evidence-strength column**: a formula
+  that works for 17 of 19 creators is a pattern; one that rests on one viral
+  post is not.
+* **within-creator contrast**: inside each creator, average lift of covers
+  WITH the formula minus covers WITHOUT, pooled across creators (weighted by
+  n1*n0/(n1+n0)), 95% interval by resampling whole creators. If the interval
+  excludes x1.00, the effect survives the creator-level noise.
+* **in top 150 (over-rep.)**: how many of the formula's covers made the top
+  150 list, and that share divided by the formula's share of the whole base.
+  Over 1 = over-represented among the winners. **Read this column last**: it
+  is exactly the "survivorship" view that viral-post articles use, and section
+  1 shows where it misleads.
+* A cover can sit in several formulas ("Top 10 hidden gems in Wales" is list +
+  superlative + secret). Clusters overlap; they are not exclusive.
+
+---
+
+## 1. English: 1,375 covers, 56 creators, within-creator
+
+{{EN-BASE}}
+
+Source: `research/scroll-stop/cover-rows.json`, lift = log10(plays / that
+creator's median plays). Base for the cluster statistics = every cover from
+the 56 creators with 8 or more measured covers. The top-150 list is drawn, as
+asked, from covers with plays >= 50,000 in that base. (Cluster statistics use
+the full base, not the top 150, because inside the top 150 every cover beats
+its median by construction.)
+
+### 1.1 The cluster table
+
+{{EN-CLUSTERS}}
+
+What it says, strongest first:
+
+* **Secret / hidden / underrated is the one formula that wins almost
+  everywhere**: 17 of 19 creators who used it beat their median with it
+  (p=0.001), within-creator contrast x4.3 [x2.0, x10.6], 78% of its covers
+  above median. The single word "underrated" won for 6 of 6 creators (90% of
+  covers). This reproduces the earlier FINDINGS result (14 of 19 creators) on
+  a regex-built cluster, not a hand-coded one.
+* **The plain recommendation ("things to do in X", "places to visit in X")
+  beats creators' medians for 22 of 29 creators** (p=0.008), contrast x1.9
+  [x1.3, x2.9]. The boring evergreen format outperforms most clever hooks.
+* **Superlative (best/top/most/only)** and **list of N** both carry a
+  within-creator contrast whose interval excludes 1 (x1.8 and x1.7), but they
+  win for only 30/48 and 19-23/40 creators: real on average, not reliable per
+  creator.
+* **Hotel** wins for 15 of 20 creators (p=0.04), contrast x1.5 with an
+  interval that includes 1. Directional, and agrees with Hebrew (section 2).
+* **Comparison / vs / instead** (TOURIST TRAPS VS ALTERNATIVES, "you travel
+  to Japan, not Japan"): all 5 creators won, contrast x7.9 [x1.9, x22], but
+  only 8 covers. The most promising thin result; worth testing, not trusting.
+* **Losers, consistently:** first person (I/my/we) x0.60 [x0.43, x0.83],
+  lost for 35 of 47 creators (p=0.001), the strongest negative in the data.
+  Question mark x0.56, season/month x0.68, bare place name x0.74, no text
+  x0.66, ranking/rated x0.73 (lost for 13 of 17 by contrast).
+* **The outlier trap, in one row: the objection quote** ("But London is so
+  expensive", 6.0M plays, x358). It is 3x over-represented in the top 150,
+  yet its typical cover sits at x0.37 and only 3 of 8 creators win with it.
+  @travel_guide_g owns the three wins; @routes__app ("But South of France is
+  so expensive" x0.14, "But Korea is so expensive" x0.13) and
+  @travelfreegems ("But New York is so expensive" x0.03) used the identical
+  formula and sank. Confession ("insane truths", "the real reason I moved")
+  is the same story: 70 covers but most of them from one creator
+  (@thejapancodes); 3 of 9 creators win.
+
+### 1.2 Narrow phrases (exact wording, English)
+
+{{EN-NARROW}}
+
+### 1.3 Three verbatim examples per formula (best cover per creator, three different creators)
+
+{{EN-EXAMPLES}}
+
+### 1.4 Top 150 by lift (plays >= 50,000; creators with >= 8 covers), verbatim
+
+Text exactly as transcribed; " / " marks a line break on the slide. The
+formula column is the regex output for that cover.
+
+{{EN-TOP150}}
+
+---
+
+## 2. Hebrew: 613 travel covers, 411 creators, search cross-section
+
+{{HE-BASE}}
+
+Source: `harvest/he-search/` (hits.json + codes.json + coded/*.jsonl), kind =
+travel, language he or mixed, followers >= 200. Measure = ln(plays /
+followers) minus the set median; x2.0 = twice the typical plays-per-follower
+of the set. **Weaker design than English**: 411 creators for 613 covers means
+most creators appear once, so "creators beat" compares a creator to the whole
+set, not to their own baseline, and the within-creator contrast rests on the
+few creators who appear several times (the last column, usually 5-40
+creators). Search results also favour posts that already did well. Clusters
+adapted to Hebrew: "המלצות ל<place>" (the dominant Hebrew format), "טסים
+ל...?", "כמה עלה לנו", "אסור לכם לפספס" (FOMO, separated from real
+warnings), save call-to-action. Hebrew phrases often break across slide
+lines, so matching is done on the text with line breaks joined.
+
+### 2.1 The cluster table
+
+{{HE-CLUSTERS}}
+
+What it says:
+
+* **Hotel** is the only Hebrew formula whose creator count clears p<0.05
+  (29 of 44, x1.46), the same direction as English (15 of 20). Two
+  independent samples agree.
+* **"המלצות ל<place>"** (plain recommendations): 96 of 167 creators above
+  the set median (p=0.06), x1.33. The plain format again, as in English.
+* **Identity call-out ("טסים ל...?", "כל מי שטס ל...")**: x2.97 median, 62%
+  above, 43 of 73 creators, within-creator contrast x1.63 [x0.98, x2.98].
+  Directional in both languages; never quite clears the bar in either.
+* **Cost reveal**: within-creator contrast x1.67 [x1.07, x2.58], the only
+  Hebrew contrast whose interval excludes 1; the narrow phrase "כמה עלה/עלו
+  לנו" sits at x5.3 with 7 of 9 creators above. Strong per post, small n.
+* **Secret ("לא כולם מכירים", "בטוח לא מכירים")**: x1.43, 15 of 23, but the
+  within-creator contrast is flat (4 of 9). The English signal does not
+  replicate cleanly in Hebrew; the #1 Hebrew cover is a secret hook (x137)
+  and pulls the median.
+* **High medians on tiny clusters**: comparison (x19, n=7), credential
+  "אחרי 3 פעמים ברומא" (x5.1, n=13), confession "תגובתי הכנה" (x4.2, n=14),
+  ranking "מדרגת" (x2.6, n=19). All small, all inside the noise band of
+  section 4.
+* **Flat or negative**: superlative "הכי" x0.78 (35 of 75), itinerary x0.65,
+  season x0.43, bare place name x0.34, save call-to-action x0.87, warning
+  proper ("אל תטוסו", "טעויות") x0.88. Note the split: FOMO "אסור לכם
+  לפספס" x1.97 vs real warning x0.76 (narrow table). "הלוואי שידעתי" is
+  x9.7 but on 6 covers from 6 creators, 4 above: the earlier x13.8 claim in
+  COVERS-HE.md rests on n=6 and should be read that way.
+
+### 2.2 Narrow phrases (Hebrew)
+
+{{HE-NARROW}}
+
+### 2.3 Robustness: plays/followers favours small accounts
+
+The ratio measure assumes plays scale 1:1 with followers. They do not here:
+
+{{HE-ROBUST}}
+
+With a slope of 0.23, an account with 10x the followers gets only ~1.7x the
+plays, so the ratio rewards small accounts. The residual measure (plays
+relative to what that account size predicts) keeps the direction of call-out,
+secret, hotel, plain recommendations, cost, POV and comparison, and removes
+most of the edge of ranking (x2.6 to x1.1), credential (x5.1 to x2.3) and
+"חלק N" (x1.95 to x1.08): those were partly small-account effects.
+
+### 2.4 Three verbatim examples per formula
+
+{{HE-EXAMPLES}}
+
+### 2.5 Top 150 Hebrew travel covers by plays/followers, verbatim
+
+{{HE-TOP150}}
+
+---
+
+## 3. The web: published viral travel carousels with numbers
+
+{{WEB}}
+
+---
+
+## 4. The noise floor, and what it does to every number above
+
+FINDINGS.md (scroll-stop) documents the cleanest natural experiment we have:
+@travelnova.app posted "3 countries you can visit in 1 trip" 25 times with
+only the photo changed, and the same image with the same text three times
+came out x21.98, x0.61 and x0.25 (958,500 vs 11,100 plays). Identical inputs,
+~90x apart. @thejapancodes (one destination, one template, one layout, 48
+posts) spans x0.36 to x49, with a 10th-90th percentile band of x0.44 to
+x2.86.
+
+Measured again on this census's base (same creator, identical cover text,
+posted 2+ times; the photo may differ):
+
+{{NOISE}}
+
+**What it implies for the clusters:**
+
+1. **The cover text explains a small part of reach.** Covers with identical
+   text still vary with 82% of the variance that the whole base has. Text,
+   photo, destination and timing together share the remaining fifth. Any
+   statement of the form "formula X gets Nx" is a statement about averages
+   across many posts, never about the next post.
+2. **One viral post proves nothing about its formula.** At this noise, a
+   x100 post is roughly a 1-in-100 draw from an ordinary formula. That is why
+   the objection quote ("But London is so expensive", 6M plays) and the bare
+   place name ("THAILAND", 1.1M) lead the top-150 list yet sit at or below
+   median across creators.
+3. **Required sample size.** With a per-cover SD of ~0.7 log10, detecting a
+   true x1.5 effect at two standard errors needs ~60 covers spread across
+   many creators, and more once creator-to-creator variation is counted.
+   Clusters below ~30 covers or ~10 creators (comparison, credential,
+   confession in Hebrew, POV in Hebrew, "הלוואי", "כמה עלה") are hypotheses,
+   whatever their multiplier.
+4. **Trust the creator count over the multiplier.** A formula that wins for
+   17 of 19 creators survived 19 independent draws of that noise; a x19
+   median on 7 covers survived none. The ranking in section 5 is built on
+   that rule.
+5. **Practical corollary already in FINDINGS:** since the same cover can land
+   anywhere in a ~6x band, re-posting a cover that is believed to work is a
+   legitimate tactic, and no single post of ours should be read as a verdict
+   on its wording.
+
+---
+
+## 5. Formulas ranked by evidence strength
+
+Ranking rule: (1) number of creators for whom it beats their median, with a
+sign test; (2) whether the within-creator interval excludes x1.00; (3)
+agreement between English and Hebrew; (4) whether it recurs in published
+viral examples (section 3). A big multiplier from few creators ranks low.
+
+| rank | formula | English (within-creator) | Hebrew (cross-section) | web recurrence | verdict |
+|---|---|---|---|---|---|
+| 1 | **Secret / hidden / underrated** | 17/19 creators (p=0.001), x4.3 [2.0, 10.6] | 15/23, x1.43; contrast flat | not measured | **Use.** The only formula that is both large and consistent. |
+| 2 | **Plain recommendation: "things to do / places to visit in <place>", "המלצות ל<place>"** | 22/29 (p=0.008), x1.9 [1.3, 2.9] | 96/167 (p=0.06), x1.33 | not measured | **Use as the default.** Unglamorous, reliable. |
+| 3 | **Hotel / where to stay** | 15/20 (p=0.04), x1.5 [0.7, 3.3] | 29/44 (p=0.049), x1.46 | not measured | **Use.** Two samples agree; directly on our subject. |
+| 4 | **Superlative (best / top / only)** | 30/48 (p=0.11), x1.8 [1.2, 2.7] | 35/75, x0.78 | not measured | Use in English; no Hebrew support ("הכי" is flat). |
+| 5 | **List of N / Top N** | 23/40 by contrast, x1.7 [1.1, 2.7] | 60/121, x0.98 | not measured | Average lift in English, not reliable per creator; neutral in Hebrew. |
+| 6 | **Identity call-out ("Going to X?", "טסים ל...?")** | 11/20, x1.8 [0.8, 3.4] | 43/73, x2.97, contrast x1.6 [0.98, 3.0] | not measured | Directional in both languages; good bet, not proven. |
+| 7 | **Cost reveal ("how much it cost", "כמה עלה לנו")** | 14/29, x1.4 [0.8, 2.5] | contrast x1.7 [1.1, 2.6]; "כמה עלה" 7/9 | not measured | Hebrew-specific lean; small n. |
+| 8 | **Must / need to / "אסור לכם לפספס"** | 23/38, x1.4 [0.95, 2.0] | x1.39; FOMO phrase x1.97 | not measured | Mild lean. |
+| 9 | **Warning / mistake / what NOT to do** | 14/24, x1.7 [0.99, 2.9] | 14/31, x0.88 | not measured | Mixed: helps in English (Upworthy +5%, A-grade), not in Hebrew. |
+| 10 | **Wish I knew / need to know** | 14/23, x1.35 [0.9, 2.2] | 28/56, x0.90; "הלוואי" x9.7 on n=6 | not measured | Unproven; the Hebrew headline number rests on 6 covers. |
+| 11 | **Comparison / vs / instead** | 5/5, x7.9 [1.9, 22] on 8 covers | x19 on 7 covers | not measured | **Best candidate to test**: large in both, thin in both. |
+| 12 | POV / scenario, credential, confession, ranking, "part N", bucket list, local vs tourist, photo spots | coin flip or one-creator clusters | small n, partly small-account effects | not measured | No evidence either way. |
+| - | **Avoid:** first person (I/my/we), question mark, season/month, bare place name, no text, objection quote | first person 12/47 (p=0.001), x0.60 [0.43, 0.83]; question x0.56; place-only x0.74; objection 3/8, median x0.37 | place-only x0.34; season x0.43; superlative and itinerary below 1 | not measured | Consistent losers, or (objection quote) a one-creator outlier mistaken for a formula. |
+
+**Bottom line for HotelMozil covers:** the strongest-supported cover is a
+plain "where to go / where to stay in <place>" line with a secret/underrated
+angle ("the underrated side of <place>", "מקומות שלא כולם מכירים ב<place>"),
+optionally a hotel angle and a call-out to people flying there; no first
+person, no question mark. Everything beyond that is inside the noise of
+section 4 and should be tested by posting, more than once.

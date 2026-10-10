@@ -1,0 +1,243 @@
+{
+ "deck": "e4-not-tourist",
+ "format_source": "@italianinspo 7436610520557440287 'Small ways I avoided looking like a \"tourist\" in Italy...' (4.6M plays) and @holisticjess 7437878660633414958 'Small ways I avoided being the \"annoying\" foreigner in Japan...' (1.9M). Cover = one first-person sentence over a person shot; each slide = short heading + 1 emoji at its end, then 2-4 lines in first person with one concrete detail; last slide = soft follow CTA ('follow to stay on Italy/travel tok').",
+ "cover": {
+  "lines": [
+   "דברים קטנים שעשיתי",
+   "כדי לא להיראות תייר בתאילנד 🇹🇭"
+  ],
+  "photo_queries": [
+   "woman walking Bangkok street market portrait",
+   "traveler eating street food Thailand night market",
+   "girl tuk tuk Bangkok street portrait"
+  ]
+ },
+ "slides": [
+  {
+   "heading": "מתי עושים וואי 🙏",
+   "lines": [
+    "בסבן אילבן הקופאית עושה לי וואי",
+    "ואני רק מחייך ומהנהן",
+    "אבל מבוגר שעושה לי וואי?",
+    "אני תמיד מחזיר אחד"
+   ],
+   "photo_queries": [
+    "Thai woman wai greeting portrait",
+    "Thai greeting hands together smile",
+    "Bangkok 7-Eleven night street"
+   ],
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Wai_(gesture)",
+     "quote": "Foreign tourists and other visitors unaccustomed to the intricacies of Thai language and culture should not wai someone younger than them except in return for their wai. However, one should always return a wai that is offered as a sign of respect. Corporate wais, such as those performed by convenience store cashiers, generally are reciprocated with a smile or a nod."
+    },
+    {
+     "url": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-thailand",
+     "quote": "a respectful dip of the head with the hands held palms together in front of the chest. Don’t shake hands unless the other person initiates the handshake."
+    }
+   ]
+  },
+  {
+   "heading": "לא נוגעים בראש ✋",
+   "lines": [
+    "הראש הכי קדוש בגוף אצלם",
+    "אז בלי ליטוף לילד חמוד בשוק",
+    "ובלי טפיחה ידידותית לחבר",
+    "גם כשזה ממש מתבקש"
+   ],
+   "photo_queries": [
+    "Thai child smiling market portrait",
+    "Chiang Mai street market people",
+    "Thai kids temple portrait"
+   ],
+   "sources": [
+    {
+     "url": "https://www.globelink.co.uk/articles/country-information/travelling-to-thailand/dos-and-donts-in-thailand.html",
+     "quote": "Thai's consider the head as the highest part of the body, both literally and figuratively. As a result they don't approve of touching anyone on the head, even as a friendly gesture."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Culture_of_Thailand",
+     "quote": "A notable social norm holds that the head is the highest and most respected part of the body, while the feet are considered the lowest and dirtiest. As a result, touching someone's head or pointing/touching something with the feet is rude."
+    }
+   ]
+  },
+  {
+   "heading": "הרגליים נשארות למטה 🦶",
+   "lines": [
+    "יושב על הרצפה? הרגליים לצד",
+    "וכפות הרגליים לא מול אף אחד",
+    "ומטבע שמתגלגל לא עוצרים ברגל",
+    "יש עליו את המלך 👑"
+   ],
+   "photo_queries": [
+    "people sitting floor Thai restaurant cushions",
+    "Thai coins baht close up",
+    "barefoot wooden floor Thai house"
+   ],
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Culture_of_Thailand",
+     "quote": "When sitting on the ground, Thais point their feet away from others or tuck them to the side/behind them."
+    },
+    {
+     "url": "https://www.globelink.co.uk/articles/country-information/travelling-to-thailand/dos-and-donts-in-thailand.html",
+     "quote": "It is considered rude to point the sole of your foot at another person, so try to avoid doing so when sitting opposite someone, and following the concept that the foot is the lowest limb, don't point your foot to show anything to anyone."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Etiquette_in_Asia",
+     "quote": "Most especially, these items are never trod upon as it is a sign of utmost disrespect to place one’s foot above the head of the king. Money or other items dropped accidentally should immediately be picked up and reverently brushed, not trodden on to stop from rolling away."
+    }
+   ]
+  },
+  {
+   "heading": "כפית ומזלג 🥄",
+   "lines": [
+    "אין פה סכין וגם לא צריך",
+    "המזלג ביד שמאל רק דוחף לכפית",
+    "ואוכלים מהכפית",
+    "צ'ופסטיקס? בעיקר למרק נודלס 🍜"
+   ],
+   "photo_queries": [
+    "Thai street food table spoon fork",
+    "pad thai plate overhead Bangkok",
+    "boat noodle soup Bangkok bowl"
+   ],
+   "sources": [
+    {
+     "url": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-thailand",
+     "quote": "Thailand abandoned chopsticks in the 19th century. You’ll get a spoon and fork but no knife – but most dishes come as bite-sized morsels, so you won’t need one."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Thai_cuisine",
+     "quote": "The food is pushed by the fork, held in the left hand, into the spoon held in the right hand, which is then brought to the mouth."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Thai_cuisine",
+     "quote": "Chopsticks are mainly used in Thailand for eating Chinese-style noodle soups, or at Chinese, Japanese, or Korean restaurants."
+    }
+   ]
+  },
+  {
+   "heading": "בשש בערב נעצרים 🇹🇭",
+   "lines": [
+    "בשמונה ובשש מתנגן ההמנון",
+    "ומי שברחוב פשוט קופא במקום",
+    "ובקולנוע קמים לפני הסרט",
+    "אז גם אני עומד בשקט"
+   ],
+   "photo_queries": [
+    "Bangkok park sunset skyline people",
+    "Lumpini park Bangkok evening",
+    "Thai flag Bangkok street sunset"
+   ],
+   "sources": [
+    {
+     "url": "https://www.bangkokpost.com/opinion/opinion/864200/flagging-up-respect-for-the-nation",
+     "quote": "Whenever we hear the national anthem in public places, especially outdoors, we stop walking or doing other things and stand still to show our respect."
+    },
+    {
+     "url": "https://www.bangkokpost.com/opinion/opinion/864200/flagging-up-respect-for-the-nation",
+     "quote": "To Thais, before the national anthem is played on the radio and TV at 8am and 6pm every day, we usually hear an announcement: \"Please stand and respect the national flag to show our pride in national independence and Thai ancestors' sacrifices.\""
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Culture_of_Thailand",
+     "quote": "Thailand has a daily national anthem played by all media outlets at 08:00 and 18:00, during which Thais pay homage to the flag by standing at attention. ... The royal anthem of the King of Thailand is also played before movies, concerts, and sporting events, and everyone is expected to stand."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Sansoen_Phra_Barami",
+     "quote": "In addition, the royal anthem is still played before the beginning of each film in movie theatres, as well as before the commencement of the first act in plays, musicals, concerts, and most other live performances of music or theatre in Thailand."
+    }
+   ]
+  },
+  {
+   "heading": "לא מרימים את הקול 🤫",
+   "lines": [
+    "להתעצבן על המלצר? לא פה",
+    "את הכל פותרים עם חיוך",
+    "ואם משהו השתבש אומרים",
+    "מאי פן ראי, שזה בערך לא נורא"
+   ],
+   "photo_queries": [
+    "Thai waitress smiling street food stall",
+    "Bangkok night market vendor smile",
+    "Thai street restaurant evening lights"
+   ],
+   "sources": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Culture_of_Thailand",
+     "quote": "Thai culture values serenity and avoids conflict and sudden displays of anger. Visitors should take care not to create conflict and handle disagreements with a smile, without assigning blame."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Culture_of_Thailand",
+     "quote": "Thais tend to use the ubiquitous phrase mai pen rai (meaning it doesn't matter) to minimize disagreements, mistakes, or misfortunes and avoid conflict. A smile and mai pen rai indicate that the incident is unimportant, and no conflict or shame is involved."
+    }
+   ]
+  }
+ ],
+ "last": {
+  "lines": [
+   "תעקבו לעוד דברים קטנים",
+   "שלמדתי בתאילנד ✈️"
+  ],
+  "photo_queries": [
+   "longtail boat Krabi sunset portrait",
+   "Thailand beach sunset palm silhouette",
+   "Phi Phi viewpoint sunset"
+  ]
+ },
+ "alternates": [
+  {
+   "heading": "מצביעים עם כל היד 👋",
+   "lines": [
+    "להצביע עם אצבע זה לא מנומס",
+    "אז אני מושיט יד, כף למעלה",
+    "ומצביע עם ארבע אצבעות"
+   ],
+   "sources": [
+    {
+     "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+     "quote": "Similarly, pointing the Western way is considered inappropriate in Thailand and thus if you want to point out something, hold out your hand palm upward and point with the four fingers facing forward."
+    }
+   ]
+  },
+  {
+   "heading": "נזירים 🧡",
+   "lines": [
+    "בנות לא נוגעות בנזיר או בגלימה",
+    "רוצות לתת לו משהו? דרך גבר",
+    "או מניחות לידו",
+    "ובאוטובוס לא מתיישבים לידו"
+   ],
+   "sources": [
+    {
+     "url": "https://www.tatnews.org/2018/08/observing-temple-and-sacred-site-etiquette-while-in-thailand/",
+     "quote": "Women aren’t allowed to touch a monk or his robes. In the case a female wants to pass something to a monk, she can give it to a male to give to the monk, or put the item down and allow the monk to pick it up."
+    },
+    {
+     "url": "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-thailand",
+     "quote": "Give way to monks when walking on footpaths, and don’t sit next to them on public transport. It is also taboo for a woman to touch a monk or their belongings."
+    }
+   ]
+  },
+  {
+   "heading": "בירה לפני 11? לא 🍺",
+   "lines": [
+    "בסבן אילבן לא מוכרים אלכוהול",
+    "לפני 11 בבוקר",
+    "ובחגים בודהיסטים גדולים",
+    "בכלל לא כל היום"
+   ],
+   "sources": [
+    {
+     "url": "https://theo-courant.com/en/thailand-alcohol-sales-hours-11am-midnight/",
+     "quote": "Convenience stores such as 7-Eleven can now sell alcohol continuously from 11am until midnight. ... Thailand still prohibits alcohol sales during major Buddhist holidays"
+    },
+    {
+     "url": "https://asianews.network/new-alcohol-sale-hours-take-effect-in-thailand",
+     "quote": "11am–2pm, 2pm–5pm, and 5pm–midnight ... on a trial basis for 180 days"
+    }
+   ]
+  }
+ ],
+ "notes": "Written 10.10.2026; every quote copied from a page opened that day (Wikipedia via action=raw wikitext, the rest from the live HTML). VOICE: first person masculine singular (owner), plain spoken register per 04-hebrew-voice.md: no line-final periods, no em/en dash, no slang, emoji only at line ends, 'סבן אילבן' spelled as the owner writes it. Headings 12-21 chars, lines 14-31 chars, max 4 lines. COVER: a direct port of 'Small ways I avoided looking like a tourist'; alternative if he wants the quoted word like the source: 'דברים קטנים שעשיתי / כדי לא להיראות כמו \"תייר\" בתאילנד 🇹🇭'. SOURCING LIMITS: (1) tourismthailand.org returns 403 and thailand.go.th's Do's and Don'ts page is a JS shell, so the TAT booklet is quoted via Globelink, which reproduces extracts of it; the only TAT page quoted directly is tatnews.org (temple etiquette, used in the alternates). (2) Slides 1, 3 (coin), 4 (fork push), 5 (cinema) and 6 rest on Wikipedia text; slide 4's no-knife line also on Lonely Planet, slide 5's 8am/6pm on the Bangkok Post. The Culture of Thailand monk/footwear paragraph is tagged 'citation needed' on Wikipedia, so it is not used. (3) Slide 5: the 8am/6pm anthem is the national anthem (Flag Act 1979: up to 1 year and/or 2,000 baht, per Bangkok Post, though the same writer says she has never seen anyone arrested); the cinema one is the royal anthem, a different song. Since 2020-21 a growing number of Thais stay seated in cinemas (Bloomberg/Isaan Record headlines seen in search, not opened), so the line says 'קמים' and not 'כולם קמים'. 'פשוט קופא במקום' is a paraphrase of the Bangkok Post 'stop walking ... and stand still'; whether a given street/park/station has loudspeakers is not sourced, so no place is named. (4) Slide 2: the source says 'anyone ... even as a friendly gesture'; the child-in-the-market example is my illustration of 'anyone', not a quoted case. (5) Slide 6: 'מאי פן ראי' = 'it doesn't matter' per the source; 'לא נורא' is my Hebrew equivalent. WHY THESE SIX: each is a moment a visitor visibly stands out in a 1-second scene (returning a cashier's wai, patting a head, feet toward people / stopping a coin with a shoe, asking for a knife, staying seated at 18:00 or in the cinema, raising the voice at a waiter), and none overlaps e-cigarettes, temple dress code, drones, helmets, visa overstay, the lese-majeste law, cannabis, cards, dogs or ATM fees. The coin line touches the king but as etiquette, not the law slide in d3. ALTERNATES (verified, in 'alternates'): pointing with four fingers (TAT), monks: women don't touch / don't sit next to them on transport (TAT + Lonely Planet), no alcohol at 7-Eleven before 11am and none on major Buddhist holidays (news sources only: theo-courant 29.5.2026 and Asia News Network/The Nation 4.12.2025; the 2-5pm window was a 180-day trial from Dec 2025 that the May 2026 Royal Gazette notice made continuous 11am-midnight; I did not open the Royal Gazette itself, so treat it as news-level). REJECTED: tipping and how to call a waiter (no reputable page found within the web-search budget, which ran out mid-task), left hand (no source opened that states a Thai left-hand taboo; the Thai-cuisine article actually puts the fork in the left hand)."
+}

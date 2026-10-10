@@ -132,5 +132,161 @@
    "id": "_DAepNJnORY"
   },
   "folder": "this"
+ },
+ "e1-traps": {
+  "cover": {
+   "id": "pexels-35126768"
+  },
+  "pairs": [
+   [
+    {
+     "id": "pexels-32339105"
+    },
+    {
+     "id": "pexels-4616841"
+    }
+   ],
+   [
+    {
+     "id": "Bt9-NDuH-WU"
+    },
+    {
+     "id": "pexels-39534280"
+    }
+   ],
+   [
+    {
+     "id": "JxzKNDf5CcE"
+    },
+    {
+     "id": "pexels-36687408"
+    }
+   ],
+   [
+    {
+     "id": "Wf6K4YvZYcc"
+    },
+    {
+     "id": "pexels-35381221"
+    }
+   ],
+   [
+    {
+     "id": "YU5BqWCJM9k"
+    },
+    {
+     "id": "BQr8jrx4krw"
+    }
+   ]
+  ],
+  "folder": "must"
+ },
+ "e2-islands": {
+  "cover": {
+   "id": "4GNBd5Fxz7o"
+  },
+  "slides": [
+   {
+    "id": "pexels-12002196"
+   },
+   {
+    "id": "NZ0-sx1-HwQ"
+   },
+   {
+    "id": "pexels-10895144"
+   },
+   {
+    "id": "pexels-39534280"
+   },
+   {
+    "id": "8LGxoc9B5N0"
+   },
+   {
+    "id": "pexels-17357134"
+   },
+   {
+    "id": "pexels-3434615"
+   },
+   {
+    "id": "pexels-36148830"
+   },
+   {
+    "id": "pexels-11082596"
+   },
+   {
+    "id": "pexels-19160369"
+   },
+   {
+    "id": "dV2kD-wDl0Y"
+   }
+  ],
+  "folder": "this"
+ },
+ "e4-not-tourist": {
+  "cover": {
+   "id": "pexels-32686157"
+  },
+  "slides": [
+   {
+    "id": "pexels-13119677"
+   },
+   {
+    "id": "pexels-3698978"
+   },
+   {
+    "id": "pexels-30848579"
+   },
+   {
+    "id": "FXD2AES0y5A"
+   },
+   {
+    "id": "pexels-2304896"
+   },
+   {
+    "id": "URihfzXq8O4"
+   }
+  ],
+  "last": {
+   "id": "1HIg7MUEFto"
+  },
+  "folder": "personal"
+ },
+ "e5-photospots": {
+  "cover": {
+   "id": "1QUUFuOsRk4"
+  },
+  "slides": [
+   {
+    "id": "xyq3A_LTUTY"
+   },
+   {
+    "id": "jWKk-0ZBUyg"
+   },
+   {
+    "id": "id2QaXt-4Kg"
+   },
+   {
+    "id": "j0a0i-LN3ws"
+   },
+   {
+    "id": "BU6lABNbTpA"
+   },
+   {
+    "id": "SI-5fjXoYtE"
+   },
+   {
+    "id": "pyqGyDzbUUw"
+   },
+   {
+    "id": "stPBOwuRfnI"
+   },
+   {
+    "id": "i3DGLeSL5tw"
+   },
+   {
+    "id": "ER8UoM6t-q0"
+   }
+  ],
+  "folder": "must"
  }
 }

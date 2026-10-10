@@ -12,7 +12,8 @@ walk(picks);
 for (const id of ids) {
   const f = path.join(out, `${id}.jpg`);
   if (fs.existsSync(f)) continue;
-  const r = await fetch(`${pool[id].raw}&w=1440&fm=jpg&q=90`);
+  const src = pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=1440` : `${pool[id].raw}&w=1440&fm=jpg&q=90`;
+  const r = await fetch(src, { headers: { 'User-Agent': 'Mozilla/5.0 Chrome/152.0' } });
   if (!r.ok) { console.log(id, r.status); continue; }
   fs.writeFileSync(f, Buffer.from(await r.arrayBuffer()));
 }

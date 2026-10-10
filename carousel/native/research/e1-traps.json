@@ -1,0 +1,276 @@
+{
+ "deck": "e1-traps",
+ "format_source": "@travel.destinations7 TOURIST TRAPS VS ALTERNATIVES ~Croatia edition~ (harvest/sources/travel.destinations7-7536621547851631904): cover, then 5 pairs TRAP/ALTERNATIVE, each slide = label word + place name only, 2x2 photo grid of that exact place",
+ "cover": {
+  "lines": [
+   "מלכודות תיירים בתאילנד",
+   "ולאן הולכים במקום 🇹🇭"
+  ],
+  "note": "suggestion only; copies the source cover (topic + 'vs alternatives'), plural address, no punctuation"
+ },
+ "labels": {
+  "trap": "מלכודת תיירים",
+  "alt": "במקום זה"
+ },
+ "pairs": [
+  {
+   "trap": {
+    "place": "מאיה ביי",
+    "place_en": "Maya Bay, Ko Phi Phi Le, Krabi",
+    "line": "שעה אחת ואסור לשחות",
+    "photo_queries": [
+     "Maya Bay",
+     "Maya Bay Phi Phi",
+     "Maya Bay Thailand"
+    ],
+    "sources": [
+     {
+      "url": "https://www.bangladeshmonitor.com.bd/bn/iconic-maya-bay-reopens",
+      "quote": "numbers will be capped at 4,125 visits per day"
+     },
+     {
+      "url": "https://www.bangladeshmonitor.com.bd/bn/iconic-maya-bay-reopens",
+      "quote": "visits will be limited to 1 hour"
+     },
+     {
+      "url": "https://www.bangladeshmonitor.com.bd/bn/iconic-maya-bay-reopens",
+      "quote": "no swimming will be permitted within the bay itself"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Maya_Bay",
+      "quote": "about 5,000 tourists a day crowd onto Maya beach, which is just 250 metres long and 15 metres wide."
+     },
+     {
+      "url": "https://www.nbcnews.com/news/world/thai-beach-made-famous-leonardo-dicaprio-s-beach-will-stay-n1004186",
+      "quote": "In recent years, it had seen around 5,000 tourists daily."
+     }
+    ]
+   },
+   "alt": {
+    "place": "קו קרדן",
+    "place_en": "Ko Kradan, Trang (Hat Chao Mai National Park)",
+    "line": "חוף של 2 קילומטר בלי ההמונים",
+    "photo_queries": [
+     "Koh Kradan",
+     "Koh Kradan beach Trang",
+     "Ko Kradan Thailand"
+    ],
+    "sources": [
+     {
+      "url": "https://www.thaiholidayguide.com/visit/koh-kradan/",
+      "quote": "This small island off Thailand's Deep South coast represents the quieter side of tropical island life, attracting travelers seeking clean beaches without the crowds of more famous destinations."
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/visit/koh-kradan/",
+      "quote": "The crystal-clear waters surrounding the island create ideal conditions for snorkeling, with good visibility and healthy coral reefs just offshore."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Ko_Kradan",
+      "quote": "Ko Kradan Beach is located on the east of the island. The beach is about 2 kilometers long."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Ko_Kradan",
+      "quote": "Most of Ko Kradan is controlled by Hat Chao Mai National Park."
+     }
+    ]
+   }
+  },
+  {
+   "trap": {
+    "place": "האי של ג'יימס בונד",
+    "place_en": "James Bond Island (Khao Phing Kan / Ko Tapu), Phang Nga Bay",
+    "line": "עשרות סירות בלי הפסקה",
+    "photo_queries": [
+     "James Bond Island",
+     "Khao Phing Kan",
+     "Ko Tapu Phang Nga"
+    ],
+    "sources": [
+     {
+      "url": "https://www.phuket101.net/phang-nga-bay/",
+      "quote": "James Bond Island is still impressive, but expect crowds."
+     },
+     {
+      "url": "https://www.phuket101.net/phang-nga-bay/",
+      "quote": "dozens of longtail boats permanently disembark hordes of tourists for the usual and unavoidable 'James Bond Island' photo."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Khao_Phing_Kan",
+      "quote": "The increased popularity of Khao Phing Kan, however, brought challenges, including a notable increase in litter and environmental impact."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Khao_Phing_Kan",
+      "quote": "It includes various souvenir shops selling items such as coral, shells, and plastic-encased natural specimens."
+     }
+    ]
+   },
+   "alt": {
+    "place": "קו יאו נוי",
+    "place_en": "Ko Yao Noi, Phang Nga Bay",
+    "line": "אותם צוקים בלי ההמונים",
+    "photo_queries": [
+     "Koh Yao Noi",
+     "Koh Yao Noi Thailand",
+     "Ko Yao Noi Phang Nga"
+    ],
+    "sources": [
+     {
+      "url": "https://www.thaiholidayguide.com/visit/koh-yao-noi/",
+      "quote": "the island sees fewer visitors than the bigger resort names"
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/visit/koh-yao-noi/",
+      "quote": "an authentic Thai island experience without the crowds that swarm its famous neighbors"
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/visit/koh-yao-noi/",
+      "quote": "the limestone karsts and hidden lagoons around Koh Yao Noi rival anything you'll see on the more famous island-hopping tours"
+     }
+    ]
+   }
+  },
+  {
+   "trap": {
+    "place": "פאטונג",
+    "place_en": "Patong Beach, Phuket",
+    "line": "רוכלים ואופנועי ים בכל החוף",
+    "photo_queries": [
+     "Patong Beach",
+     "Patong Beach Phuket",
+     "Patong Phuket aerial"
+    ],
+    "sources": [
+     {
+      "url": "https://phuket101.net/kata-beach-vs-patong-beach",
+      "quote": "With all the sun-baked sunbathers and beach-strolling touts to contend with, beach life in Patong is certainly not peaceful."
+     },
+     {
+      "url": "https://phuket101.net/kata-beach-vs-patong-beach",
+      "quote": "Crowded and noisy, especially in peak season and along Bangla Road"
+     },
+     {
+      "url": "https://phuket101.net/kata-beach-vs-patong-beach",
+      "quote": "Beach activities can be overwhelming, with frequent touts and jet skis."
+     }
+    ]
+   },
+   "alt": {
+    "place": "קטה נוי",
+    "place_en": "Kata Noi Beach, Phuket",
+    "line": "פחות דוכנים ופחות ברים על החול",
+    "photo_queries": [
+     "Kata Noi Beach",
+     "Kata Noi Phuket",
+     "Kata Noi beach aerial"
+    ],
+    "sources": [
+     {
+      "url": "https://www.thaiholidayguide.com/visit/kata-noi/",
+      "quote": "Kata Noi is the smaller bay immediately south of Kata Beach, separated by a headland. It is usually quieter, with fewer shops and bars on the sand."
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/visit/kata-noi/",
+      "quote": "If Kata feels lively enough and Patong feels like too much, Kata Noi is the usual step down in volume without leaving southern Phuket's infrastructure behind."
+     }
+    ]
+   }
+  },
+  {
+   "trap": {
+    "place": "השוק הצף דמנון סדואק",
+    "place_en": "Damnoen Saduak Floating Market, Ratchaburi",
+    "line": "המחירים מנופחים לתיירים",
+    "photo_queries": [
+     "Damnoen Saduak floating market",
+     "Damnoen Saduak",
+     "Damnoen Saduak boats"
+    ],
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Damnoen_Saduak_Floating_Market",
+      "quote": "The floating market is crowded with tourists and is considered a tourist trap."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Damnoen_Saduak_Floating_Market",
+      "quote": "As such, the wares tend to be overpriced."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Damnoen_Saduak_Floating_Market",
+      "quote": "The floating market also has been noted to lack cultural authenticity, although it remains a popular destination for both foreign and domestic tourists."
+     }
+    ]
+   },
+   "alt": {
+    "place": "השוק הצף אמפאווה",
+    "place_en": "Amphawa Floating Market, Samut Songkhram",
+    "line": "בעיקר תאילנדים",
+    "photo_queries": [
+     "Amphawa floating market",
+     "Amphawa",
+     "Amphawa canal Samut Songkhram"
+    ],
+    "sources": [
+     {
+      "url": "https://www.chiangmaicitylife.com/clg/our-city/nostalgic-thai-tourists-head-to-amphawa/",
+      "quote": "The majority of tourists in Amphawa are Thai and there are very few foreigners."
+     },
+     {
+      "url": "https://www.chiangmaicitylife.com/clg/our-city/nostalgic-thai-tourists-head-to-amphawa/",
+      "quote": "The market runs every Friday, Saturday and Sunday from 12 to 8 p.m."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Amphawa_floating_market",
+      "quote": "Food is the main reason people from Bangkok visit the Amphawa floating market"
+     }
+    ]
+   }
+  },
+  {
+   "trap": {
+    "place": "דוי סוטפ",
+    "place_en": "Wat Phra That Doi Suthep, Chiang Mai",
+    "line": "120 אלף מבקרים בחודש",
+    "photo_queries": [
+     "Wat Phra That Doi Suthep",
+     "Doi Suthep temple",
+     "Doi Suthep Chiang Mai"
+    ],
+    "sources": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Suthep",
+      "quote": "The wat can get 120,000 visitors per month, with the numbers being higher during holidays like Songkhan"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Suthep",
+      "quote": "From the car park at the temple's base visitors can climb 309 steps to reach the pagodas or take a tram."
+     }
+    ]
+   },
+   "alt": {
+    "place": "ואט פא לאט",
+    "place_en": "Wat Pha Lat, Doi Suthep mountainside, Chiang Mai",
+    "line": "בלי תורים ובלי דוכנים",
+    "photo_queries": [
+     "Wat Pha Lat",
+     "Wat Pha Lat Chiang Mai",
+     "Wat Pha Lat temple waterfall"
+    ],
+    "sources": [
+     {
+      "url": "https://www.thaipbsworld.com/travel-tourism/tranquility-on-the-trail",
+      "quote": "There are no monks calling out for donations, no lines forming, no vendors, no sense of urgency pressing from behind."
+     },
+     {
+      "url": "https://www.thaipbsworld.com/travel-tourism/tranquility-on-the-trail",
+      "quote": "Pilgrims on their way to Wat Phra That Doi Suthep would stop here to rest and gather strength then continue upward."
+     },
+     {
+      "url": "https://www.timeout.com/chiang-mai/attractions/wat-pha-lat",
+      "quote": "an easy forest path that begins near Chiang Mai University and takes around 45 minutes to an hour."
+     }
+    ]
+   }
+  }
+ ],
+ "notes": "Order chosen to open with the strongest-evidence pair (Maya Bay: official 1-hour, no-swimming rules) and alternate sea/land. Hebrew lines are optional per the source format (the Croatia original has no lines at all); every line maps to a quoted source above: Maya = 1-hour visit + swim ban (current rules since 2022 reopening; the 5,000/day figure is pre-2018 so it was NOT used as a line); Kradan = 2 km beach (Wikipedia) + 'without the crowds' (thaiholidayguide); James Bond = 'dozens of longtail boats' (phuket101); Yao Noi = karsts that 'rival' the famous tours + 'without the crowds'; Patong = touts + jet skis; Kata Noi = fewer shops and bars on the sand; Damnoen Saduak = 'overpriced' (Wikipedia); Amphawa = 'majority Thai, very few foreigners'; Doi Suthep = 120,000 visitors/month (Wikipedia); Wat Pha Lat = 'no lines, no vendors' (Thai PBS). Labels suggested: 'מלכודת תיירים' / 'במקום זה'. Hebrew spellings: מאיה ביי, קו קרדן, האי של ג'יימס בונד, קו יאו נוי, פאטונג, קטה נוי, דמנון סדואק, אמפאווה, דוי סוטפ, ואט פא לאט ('קמ' in the Kradan line is written without geresh/quotes on purpose, per the no-punctuation voice; switch to ק\"מ if the designer prefers). Dropped candidates: Koh Hong lagoon (phuket101 lists Koh Hong itself among the places to avoid if you do not want crowds), Koh Rok (no source found that compares its crowds; it is a standard Lanta speedboat day trip), Khao San / Big Buddha / Tiger Kingdom (no sourced comparison gathered before the web-search budget ran out). Caveats: (1) the web-search quota for the turn ran out midway, so the Doi Suthep pair has no source that literally calls it a trap; its case rests on 120K visitors/month (Wikipedia) vs Wat Pha Lat's no-lines description; Doi Suthep is a sacred, worthwhile temple and the slide may read as disrespectful to some viewers. (2) Amphawa is weekend-only (Fri-Sun); hours conflict between sources (Chiang Mai CityLife 12-8pm vs Wikipedia 15:00-22:00), so no hours were put on the slide. (3) Amphawa CityLife article date not checked; Amphawa has grown more popular with foreigners since, so 'כמעט רק תאילנדים' may be dated; a softer line would be 'בעיקר תאילנדים'. (4) Ko Kradan gets day-trippers from Koh Muk/Ngai in Mar-Apr per the same guide. (5) Quotes from thaiholidayguide, phuket101, Thai PBS, Time Out, Chiang Mai CityLife, NBC and bangladeshmonitor came through a page-fetch summarizer and may differ slightly in punctuation from the live page; Wikipedia quotes were also fetched that way. (6) Koh Yao Noi and Wat Pha Lat may have few Unsplash photos; if the exact place is missing, do not substitute a look-alike without flagging it. No brand names, no forbidden words, no bidi control characters."
+}

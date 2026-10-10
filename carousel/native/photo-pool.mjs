@@ -31,7 +31,7 @@ export const QUERIES = EXTRA.length ? EXTRA : [
 const poolFile = path.join(OUT, 'pool.json');
 const pool = fs.existsSync(poolFile) ? JSON.parse(fs.readFileSync(poolFile, 'utf8')) : {};
 
-const ctx = await openBrowser(path.join(process.env.TEMP, 'hm-unsplash-pool'));
+const ctx = await openBrowser(path.join(process.env.TEMP, 'hm-unsplash-pool-' + process.pid));
 const page = await ctx.newPage();
 await page.goto('https://unsplash.com/s/photos/beach?orientation=portrait', { waitUntil: 'domcontentloaded', timeout: 90000 });
 await page.waitForTimeout(3000);
@@ -50,7 +50,7 @@ for (const q of QUERIES) {
   let added = 0;
   for (const x of res) {
     if (x.premium || x.plus || pool[x.id]) continue;
-    if (x.h < 3000 || x.h / x.w < 1.25) continue; // tall enough to crop 3:4 at 1440 wide
+    if (x.h < 2400 || x.h / x.w < 1.0) continue; // portrait-ish; landscape crops lose too much // tall enough to crop 3:4 at 1440 wide
     pool[x.id] = { ...x, query: q };
     added++;
   }
