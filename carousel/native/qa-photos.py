@@ -53,7 +53,23 @@ def run(deck):
         print('   slide', *f)
     return fails
 
+def duplicates(decks):
+    # 13.10: the same photo twice in one deck, or across decks, is a gate failure
+    from collections import defaultdict
+    seen = defaultdict(list)
+    for d in decks:
+        for i, s in enumerate(json.load(open(os.path.join(HERE, 'decks', f'{d}.json'), encoding='utf-8'))['slides'], 1):
+            if 'photo' in s: seen[os.path.basename(s['photo'])].append(f'{d}#{i}')
+    dup = {k: v for k, v in seen.items() if len(v) > 1}
+    # 13.10: a photo smaller than the slide gets upscaled = blurry
+    for k, v in seen.items():
+        w, h = Image.open(os.path.join(HERE, 'pool', 'full', k)).size if os.path.exists(os.path.join(HERE, 'pool', 'full', k)) else (9999, 9999)
+        if max(1440 / w, 1920 / h) > 1.02: print('TOO SMALL (blurry)', k, f'{w}x{h}', v)
+    for k, v in dup.items(): print('DUPLICATE', k, v)
+    return dup
+
 if __name__ == '__main__':
     decks = sys.argv[1:] or [d for d in SOURCES if os.path.exists(os.path.join(HERE, 'decks', f'{d}.json'))]
     for d in decks:
         run(d)
+    duplicates(decks)

@@ -11,8 +11,12 @@ const walk = (v) => { if (Array.isArray(v)) v.forEach(walk); else if (v && typeo
 walk(picks);
 for (const id of ids) {
   const f = path.join(out, `${id}.jpg`);
-  if (fs.existsSync(f)) continue;
-  const src = pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=1440` : `${pool[id].raw}&w=1440&fm=jpg&q=90`;
+  if (fs.existsSync(f) && !process.argv.includes('--refresh')) continue;
+  // 13.10: a fixed w=1440 left wide photos short of 1920 tall, so the slide
+  // upscaled them (blurry). Ask for the width that covers 1440x1920.
+  const ar = pool[id].w && pool[id].h ? pool[id].w / pool[id].h : 0.75;
+  const W = Math.min(4000, Math.max(1440, Math.ceil(1920 * ar * 1.02)));
+  const src = pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=${W}` : `${pool[id].raw}&w=${W}&fm=jpg&q=90`;
   const r = await fetch(src, { headers: { 'User-Agent': 'Mozilla/5.0 Chrome/152.0' } });
   if (!r.ok) { console.log(id, r.status); continue; }
   fs.writeFileSync(f, Buffer.from(await r.arrayBuffer()));

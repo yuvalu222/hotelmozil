@@ -39,9 +39,15 @@ const cache = new Map();
 const hex = (s) => [...s].map((c) => c.codePointAt(0).toString(16)).join('-');
 
 /** The dataset's filename for one emoji sequence, or null. */
+// 13.10: 160 px Apple artwork (native/emoji-hires.py) wins over the 64 px
+// dataset, which came out blurry once scaled to slide size.
+const HI = path.join(HERE, '..', 'native', 'emoji160');
+
 function fileFor(seq) {
   const full = hex(seq);
   const bare = hex([...seq].filter((c) => c !== '️' && c !== '︎').join(''));
+  const hi = path.join(HI, `${bare}.png`);
+  if (fs.existsSync(hi)) return hi;
   for (const name of [full, bare, `${bare}-fe0f`]) {
     const p = path.join(DIR, `${name}.png`);
     if (fs.existsSync(p)) return p;
