@@ -24,13 +24,16 @@ missing `mirror.mjs` raises a toast. Each run:
 Mirroring started from **9.10.2026** (`cutoff` in state). Older posts are never
 touched.
 
+## More than 10 slides
+
+The API caps a carousel at 10 ("Carousels are limited to 10 images, videos, or a mix of the two"). Owner's rule, 13.10: upload the first 9 slides plus the last one (his app closer).
+
 ## Decisions it does not make
 
 Held with a toast, never guessed:
 
 | case | why |
 | --- | --- |
-| more than 10 slides | the API caps a carousel at 10 ("Carousels are limited to 10 images, videos, or a mix of the two") |
 | one slide | not a carousel |
 | a video | out of scope |
 

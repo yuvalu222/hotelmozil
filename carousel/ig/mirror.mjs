@@ -17,8 +17,8 @@
 //   5. publish the oldest "ready" post, at most one per run and MIN_GAP
 //      after the previous one, so a backlog never lands as a burst
 //
-// Held, never guessed: more than 10 slides (the API cap), a single slide, a
-// video. Those get a toast and wait for him.
+// More than 10 slides (the API cap): trimmed to the first 9 + the last
+// (owner, 13.10). Held with a toast: a single slide, a video.
 //
 //   node ig/mirror.mjs                    normal run
 //   node ig/mirror.mjs --dry              read + prepare only, publish nothing
@@ -195,9 +195,16 @@ async function main() {
     for (const p of Object.values(state.posts).filter((x) => x.status === 'new')) {
       if (!NOW && now() - p.createTime < MIN_AGE_MIN * 60) { log(`wait ${p.id}: younger than ${MIN_AGE_MIN} min`); continue; }
       const n = p.tiktok.images.length;
-      if (n > MAX_ITEMS || n < 2) {
+      if (n > MAX_ITEMS) {
+        // Owner, 13.10: "upload only up to 10". Keep the first 9 (cover and
+        // the deck's opening) plus the LAST slide, which is his app closer.
+        p.trimmedFrom = n;
+        p.tiktok.images = [...p.tiktok.images.slice(0, MAX_ITEMS - 1), p.tiktok.images[n - 1]];
+        log(`trim ${p.id}: ${n} -> ${MAX_ITEMS} slides (first ${MAX_ITEMS - 1} + last)`);
+      }
+      if (n < 2) {
         p.status = 'held';
-        p.held = n > MAX_ITEMS ? `${n} שקופיות, ובאינסטגרם דרך ה-API מותר עד ${MAX_ITEMS}` : 'שקופית אחת, זו לא קרוסלה';
+        p.held = 'שקופית אחת, זו לא קרוסלה';
         await toast('קרוסלה לא הועלתה לאינסטגרם', p.held);
         saveState(state);
         continue;

@@ -2,7 +2,7 @@
  "deck": "d1-tips-part2",
  "cover": {
   "lines": [
-   "10 דברים",
+   "8 דברים",
    "שהלוואי וידענו",
    "לפני שטסנו לתאילנד 🇹🇭"
   ],
@@ -60,25 +60,6 @@
   },
   {
    "n": 3,
-   "heading": "כל משיכה מכספומט = 220 באט",
-   "body": [
-    "העמלה קבועה, לא משנה כמה מושכים",
-    "ותמיד תבחרו חיוב בבאט - לא בשקלים!"
-   ],
-   "photo": "Portrait, iPhone look: a busy Bangkok night market from slightly above, rows of glowing stalls and string lights, warm orange and neon tones, motion of people softly blurred, sky deep blue just after sunset.",
-   "sources": [
-    {
-     "url": "https://www.thailandstarterkit.com/money/atm-thailand/",
-     "quote": "If you have a foreign bank account, you have to pay a fixed fee of 220 baht per withdrawal, regardless of the amount you take out."
-    },
-    {
-     "url": "https://www.thailandstarterkit.com/money/atm-thailand/",
-     "quote": "Always choose the local currency (Thai baht) option, not your home currency. Selecting your home currency triggers Dynamic Currency Conversion, which gives you a worse rate and extra fees."
-    }
-   ]
-  },
-  {
-   "n": 4,
    "heading": "קטנוע? רק עם רישיון מתאים!",
    "body": [
     "צריך גם רישיון בינלאומי מהארץ",
@@ -107,7 +88,7 @@
    ]
   },
   {
-   "n": 5,
+   "n": 4,
    "heading": "לא משאירים דרכון כפיקדון!",
    "body": [
     "לא על קטנוע ולא על אופנוע ים -",
@@ -127,7 +108,7 @@
    ]
   },
   {
-   "n": 6,
+   "n": 5,
    "heading": "קנאביס? רק עם מרשם!",
    "body": [
     "מאז יוני 2025 אסור לקנות או להחזיק",
@@ -151,7 +132,7 @@
    ]
   },
   {
-   "n": 7,
+   "n": 6,
    "heading": "דגל אדום = לא נכנסים למים!",
    "body": [
     "אנשים טבעו שם בזרמים חזקים",
@@ -171,7 +152,7 @@
    ]
   },
   {
-   "n": 8,
+   "n": 7,
    "heading": "כלב או קוף נשך? ישר לרופא!",
    "body": [
     "יש בתאילנד כלבים נשאי כלבת",
@@ -191,23 +172,7 @@
    ]
   },
   {
-   "n": 9,
-   "heading": "לא יותר מ-2 חפיסות קלפים!",
-   "body": [
-    "לפי חוק מ-1943 אסור להחזיק",
-    "יותר מ-120 קלפים בתאילנד",
-    "אז יניב - עד 2 חפיסות!"
-   ],
-   "photo": "Portrait, iPhone look: a wooden beach-bungalow porch with a hammock, looking out over a calm sea at golden hour, a coconut drink on the railing, warm glow, palms framing the view.",
-   "sources": [
-    {
-     "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
-     "quote": "Thailand has strict laws on gambling. Under the Playing Cards Act (1943) it is illegal to carry over one hundred and twenty playing cards. Violation of the Act could lead to prosecution, a fine, or even imprisonment."
-    }
-   ]
-  },
-  {
-   "n": 10,
+   "n": 8,
    "heading": "שמרו בטלפון: 1155",
    "body": [
     "משטרת התיירות של תאילנד",
