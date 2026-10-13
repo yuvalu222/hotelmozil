@@ -3,8 +3,9 @@
  "format_source": "@travel.destinations7 TOURIST TRAPS VS ALTERNATIVES ~Croatia edition~ (harvest/sources/travel.destinations7-7536621547851631904): cover, then 5 pairs TRAP/ALTERNATIVE, each slide = label word + place name only, 2x2 photo grid of that exact place",
  "cover": {
   "lines": [
-   "מלכודות תיירים בתאילנד",
-   "ולאן הולכים במקום 🇹🇭"
+   "טסים לתאילנד?",
+   "4 מלכודות תיירים",
+   "ולאן הולכים במקום 🤫"
   ],
   "note": "suggestion only; copies the source cover (topic + 'vs alternatives'), plural address, no punctuation"
  },
@@ -17,7 +18,7 @@
    "trap": {
     "place": "מאיה ביי",
     "place_en": "Maya Bay, Ko Phi Phi Le, Krabi",
-    "line": "שעה אחת ואסור לשחות",
+    "line": "שעה אחת ואסור לשחות 😕",
     "photo_queries": [
      "Maya Bay",
      "Maya Bay Phi Phi",
@@ -49,7 +50,7 @@
    "alt": {
     "place": "קו קרדן",
     "place_en": "Ko Kradan, Trang (Hat Chao Mai National Park)",
-    "line": "חוף של 2 קילומטר בלי ההמונים",
+    "line": "2 קילומטר של חוף בלי ההמונים 🥹",
     "photo_queries": [
      "Koh Kradan",
      "Koh Kradan beach Trang",
@@ -79,7 +80,7 @@
    "trap": {
     "place": "האי של ג'יימס בונד",
     "place_en": "James Bond Island (Khao Phing Kan / Ko Tapu), Phang Nga Bay",
-    "line": "עשרות סירות בלי הפסקה",
+    "line": "עשרות סירות בלי הפסקה 🙄",
     "photo_queries": [
      "James Bond Island",
      "Khao Phing Kan",
@@ -107,7 +108,7 @@
    "alt": {
     "place": "קו יאו נוי",
     "place_en": "Ko Yao Noi, Phang Nga Bay",
-    "line": "אותם צוקים בלי ההמונים",
+    "line": "אותם צוקים בלי ההמונים 😍",
     "photo_queries": [
      "Koh Yao Noi",
      "Koh Yao Noi Thailand",
@@ -133,7 +134,7 @@
    "trap": {
     "place": "פאטונג",
     "place_en": "Patong Beach, Phuket",
-    "line": "רוכלים ואופנועי ים בכל החוף",
+    "line": "רוכלים ואופנועי ים בכל מקום 😵‍💫",
     "photo_queries": [
      "Patong Beach",
      "Patong Beach Phuket",
@@ -157,7 +158,7 @@
    "alt": {
     "place": "קטה נוי",
     "place_en": "Kata Noi Beach, Phuket",
-    "line": "פחות דוכנים ופחות ברים על החול",
+    "line": "רגוע, פחות דוכנים ופחות ברים 🌴",
     "photo_queries": [
      "Kata Noi Beach",
      "Kata Noi Phuket",
@@ -179,7 +180,7 @@
    "trap": {
     "place": "השוק הצף דמנון סדואק",
     "place_en": "Damnoen Saduak Floating Market, Ratchaburi",
-    "line": "המחירים מנופחים לתיירים",
+    "line": "מחירים מנופחים לתיירים 💸",
     "photo_queries": [
      "Damnoen Saduak floating market",
      "Damnoen Saduak",
@@ -203,7 +204,7 @@
    "alt": {
     "place": "השוק הצף אמפאווה",
     "place_en": "Amphawa Floating Market, Samut Songkhram",
-    "line": "בעיקר תאילנדים",
+    "line": "בעיקר תאילנדים, ככה זה צריך להיות 🥹",
     "photo_queries": [
      "Amphawa floating market",
      "Amphawa",

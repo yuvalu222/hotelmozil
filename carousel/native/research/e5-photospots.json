@@ -1,15 +1,15 @@
 {
  "deck": "e5-photospots",
  "area": "Krabi + Koh Phi Phi",
- "area_he": "קראבי ופיפי",
+ "area_he": "קראבי וקופיפי",
  "cover": {
   "lines": [
-   "המקומות הכי שווים לתמונות",
-   "בקראבי ופיפי 🇹🇭"
+   "טסים לקראבי וקופיפי?",
+   "המקומות הכי שווים לתמונות 📸"
   ],
   "alternatives": [
    "טסים לקראבי בקרוב? / ככה תצאו עם התמונות הכי יפות 📸",
-   "איפה מצטלמים בקראבי ופיפי / תשמרו לפני שאתם טסים 🏝️"
+   "איפה מצטלמים בקראבי וקופיפי / תשמרו לפני שאתם טסים 🏝️"
   ],
   "photo_hint": "Cover must be sunset/sea/person: Ao Nang sunset zYOamdtD44g (woman in a hat, portrait) or Dragon Crest pyqGyDzbUUw (person on the ledge at sunset)"
  },
@@ -57,7 +57,8 @@
      "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
      "quote": "נמצא חצי האי הכי יפה באזור- גן העדן הזה מפורסם במיוחד בזכות צוקי הגיר המרשימים שלו, שיחד עם ים הטורקיז, עצי הדקל הגבוהים והחופים הלבנים, נראים כמו גלויה."
     }
-   ]
+   ],
+   "line": "צוקים מכל הצדדים ומגיעים רק בסירה 😍"
   },
   {
    "pin": "📍 חוף פרה נאנג",
@@ -94,7 +95,8 @@
      "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
      "quote": "Phra Nang Beach is super remote with more famous limestone cliffs and caves."
     }
-   ]
+   ],
+   "line": "פעם נבחר לאחד מ-10 החופים הכי יפים בעולם 🤯"
   },
   {
    "pin": "📍 מאיה ביי",
@@ -139,7 +141,8 @@
      "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
      "quote": "טיול בין האיים בסירה פרטית- ~180 באט ל־3 שעות לגונה Phi leh bay, מאיה ביי ועצירה באי הקופים"
     }
-   ]
+   ],
+   "line": "החוף מהסרט ”The Beach” 11/10 🤩🤩🤩"
   },
   {
    "pin": "📍 Pileh Lagoon",
@@ -176,7 +179,8 @@
      "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
      "quote": "לגונה Phi leh bay"
     }
-   ]
+   ],
+   "line": "לגונה ירוקה מוקפת צוקים, אין מילים 🥹"
   },
   {
    "pin": "📍 Dragon Crest",
@@ -201,7 +205,8 @@
      "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
      "quote": "It will take you through the jungle and up to a peak with a fantastic view over Ao Nang and more."
     }
-   ]
+   ],
+   "line": "4 קילומטר עלייה ובחינם, ותראו את הנוף 😵‍💫"
   },
   {
    "pin": "📍 אי פודה",
@@ -246,7 +251,8 @@
      "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
      "quote": "The main beach at Ao Nang is the departure point for boats to a number of places, including the nearby resort of Rai Leh, which cannot be accessed by road, Poda Island and Chicken Island."
     }
-   ]
+   ],
+   "line": "עוצרים פה בטיול 4 האיים 😍"
   },
   {
    "pin": "📍 תצפית אי הונג",
@@ -283,7 +289,8 @@
      "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
      "quote": "Koh Hong is another secluded beach reachable by boat from Ao Nang."
     }
-   ]
+   ],
+   "line": "420 מדרגות ושווה כל אחת 🥵"
   },
   {
    "pin": "📍 חוף או נאנג",
@@ -328,7 +335,8 @@
      "url": "https://www.goatsontheroad.com/places-to-visit-in-thailand/",
      "quote": "Ao Nang is the perfect place to stay before heading to the more scenic Railay/Tonsai area"
     }
-   ]
+   ],
+   "line": "שקיעה מאחורי האיים כל ערב 🌅❤️"
   }
  ],
  "caption_pins": [
@@ -343,5 +351,5 @@
   "📍 תצפית אי הונג",
   "📍 חוף או נאנג"
  ],
- "notes": "Area choice: Krabi + Phi Phi over Bangkok, Phuket and Chiang Mai. Bangkok had the deepest Unsplash coverage (Wat Arun, Wat Pho, Grand Palace, Yaowarat and Mahanakhon are all location-tagged, in portrait). But its shots are temples and streets. Krabi + Phi Phi puts sea, cliffs or a sunset on every slide, which fits the WOW and cover-photo rules. Each of its 10 spots has at least one free (not Plus) Unsplash photo whose location tag or caption names that exact spot, and I checked every chosen photo by eye on a contact sheet.\nSuggested order after the cover (strongest first): Maya Bay, Pileh Lagoon, Railay, Phra Nang, Koh Poda, Dragon Crest, Koh Hong viewpoint, Phi Phi Viewpoint, Tiger Cave, Ao Nang sunset.\nPin script: Hebrew where Israeli creators write the name in Hebrew in our corpus (ריילי ביץ' x3, מאיה ביי x3, או נאנג x8, פרה נאנג, פודה, אי הונג). English where they write the English name (Phi Phi Viewpoint, Tiger Cave, Phi leh bay -> Pileh Lagoon). Dragon Crest has no Hebrew spelling in the corpus, so it stays in English. Each pin uses one script only, to avoid mixed-direction rendering. Note the corpus spells the island פיפי (17) rather than פי פי. The reference decks also put a small area line under the pin (e.g. Positano). If wanted: ריילי / פיפי / קראבי / או נאנג.\nCaption: the pins, then 3-5 tags in the owner's style, e.g. #קראבי #פיפי #תאילנד #המלצותתאילנד.\nLandscape-only: Phi Phi Viewpoint (4 query variants found no free portrait) and the Phra Nang alternate jWKk-0ZBUyg. All are 4400-6000 px wide. A 3:4 centre crop of the 4608x3456 kt24cuBdcoo gives 2592x3456. BU6lABNbTpA (5760x3840) gives 2880x3840.\nDragon Crest has one free Unsplash photo only: pyqGyDzbUUw, captioned \"dragon crest mountain krabi thailand hike at sunset\" but location-tagged only \"Krabi, Thailand\".\nKoh Hong: i3DGLeSL5tw is tagged \"Hong Island Viewpoint, Nong Thale, Mueang Krabi\" and shows the island beach from above. The Israeli caption confirms the viewpoint is on the island (420 steps). e2cpr8KOLnw is tagged \"Ko Hong, Mueang Krabi\". I excluded PjYvvsCl7A0 and lrFZaJStZmE: that is a different Hong Island, in Phang Nga.\nRejected: Bamboo Island (weak free photos); Emerald Pool and Chicken Island (zero free Unsplash results); Thale Waek/Tup (no photo tagged to it; guNIjIuUcgY shows a sandbar but is tagged only \"Ao Nang\").\nSources: every quote was string-matched against the fetched page text or the TikTok caption in harvest/he-search/hits.json, with bidi controls stripped. The sources describe these spots as scenic, famous or viewpoints. Only Nomadasaurus (Dragon Crest) and the two Israeli captions talk about photos or postcards explicitly. I fetched no dedicated \"Krabi photo spots\" listicle: this turn's web-search budget was used up, so I reached pages by direct URL only.\nUnverified, from memory, not in any fetched source: Maya Bay closes for part of every year (about Aug-Sep). Check this before posting in those months."
+ "notes": "Area choice: Krabi + Phi Phi over Bangkok, Phuket and Chiang Mai. Bangkok had the deepest Unsplash coverage (Wat Arun, Wat Pho, Grand Palace, Yaowarat and Mahanakhon are all location-tagged, in portrait). But its shots are temples and streets. Krabi + Phi Phi puts sea, cliffs or a sunset on every slide, which fits the WOW and cover-photo rules. Each of its 10 spots has at least one free (not Plus) Unsplash photo whose location tag or caption names that exact spot, and I checked every chosen photo by eye on a contact sheet.\nSuggested order after the cover (strongest first): Maya Bay, Pileh Lagoon, Railay, Phra Nang, Koh Poda, Dragon Crest, Koh Hong viewpoint, Phi Phi Viewpoint, Tiger Cave, Ao Nang sunset.\nPin script: Hebrew where Israeli creators write the name in Hebrew in our corpus (ריילי ביץ' x3, מאיה ביי x3, או נאנג x8, פרה נאנג, פודה, אי הונג). English where they write the English name (Phi Phi Viewpoint, Tiger Cave, Phi leh bay -> Pileh Lagoon). Dragon Crest has no Hebrew spelling in the corpus, so it stays in English. Each pin uses one script only, to avoid mixed-direction rendering. Note the corpus spells the island קופיפי (17) rather than קופיפי. The reference decks also put a small area line under the pin (e.g. Positano). If wanted: ריילי / קופיפי / קראבי / או נאנג.\nCaption: the pins, then 3-5 tags in the owner's style, e.g. #קראבי #קופיפי #תאילנד #המלצותתאילנד.\nLandscape-only: Phi Phi Viewpoint (4 query variants found no free portrait) and the Phra Nang alternate jWKk-0ZBUyg. All are 4400-6000 px wide. A 3:4 centre crop of the 4608x3456 kt24cuBdcoo gives 2592x3456. BU6lABNbTpA (5760x3840) gives 2880x3840.\nDragon Crest has one free Unsplash photo only: pyqGyDzbUUw, captioned \"dragon crest mountain krabi thailand hike at sunset\" but location-tagged only \"Krabi, Thailand\".\nKoh Hong: i3DGLeSL5tw is tagged \"Hong Island Viewpoint, Nong Thale, Mueang Krabi\" and shows the island beach from above. The Israeli caption confirms the viewpoint is on the island (420 steps). e2cpr8KOLnw is tagged \"Ko Hong, Mueang Krabi\". I excluded PjYvvsCl7A0 and lrFZaJStZmE: that is a different Hong Island, in Phang Nga.\nRejected: Bamboo Island (weak free photos); Emerald Pool and Chicken Island (zero free Unsplash results); Thale Waek/Tup (no photo tagged to it; guNIjIuUcgY shows a sandbar but is tagged only \"Ao Nang\").\nSources: every quote was string-matched against the fetched page text or the TikTok caption in harvest/he-search/hits.json, with bidi controls stripped. The sources describe these spots as scenic, famous or viewpoints. Only Nomadasaurus (Dragon Crest) and the two Israeli captions talk about photos or postcards explicitly. I fetched no dedicated \"Krabi photo spots\" listicle: this turn's web-search budget was used up, so I reached pages by direct URL only.\nUnverified, from memory, not in any fetched source: Maya Bay closes for part of every year (about Aug-Sep). Check this before posting in those months."
 }

@@ -1,0 +1,662 @@
+{
+ "deck": "d4-route-main",
+ "cover": {
+  "lines": [
+   "קבלו מסלול מושלם לשבועיים",
+   "בתאילנד",
+   "🏝️✨🌅🐠🍍"
+  ],
+  "red": "מושלם"
+ },
+ "slides": [
+  {
+   "place": "בנגקוק",
+   "heading": "בנגקוק: 3 לילות🛍️😍",
+   "lines": [
+    "ארמון המלך ווואט פו",
+    "שקיעה מול וואט ארון 🌅",
+    "אוכל רחוב בצ'יינה טאון 🤤",
+    "הסקיי בר מהנגאובר 2 🍸",
+    "שוק צ'אטוצ'ק (רק בסופש!)",
+    "לישון בסוקומוויט"
+   ],
+   "research": {
+    "place_en": "Bangkok",
+    "place_he": "בנגקוק",
+    "nights": 3,
+    "nights_sources": [
+     {
+      "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+      "quote": "We recommend spending at least 3 days in Bangkok, though 4 or 5 days is better if you can manage it."
+     },
+     {
+      "url": "https://shippedaway.com/two-week-thailand-itinerary/",
+      "quote": "In two weeks in Thailand, you should be able to visit: Bangkok (3 nights), Chiang Mai (3 nights), Chiang Rai (0-1 nights), Koh Tao/Koh Phangan/Koh Samui (3 nights), Khao Sok (2 nights), and Phuket/Krabi (3 nights)."
+     },
+     {
+      "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+      "quote": "Three days give you enough time to visit the Grand Palace complex, the main temples, a rooftop bar, and the best of Chinatown and Talat Noi."
+     }
+    ],
+    "do": [
+     {
+      "what": "Grand Palace + Temple of the Emerald Buddha (Wat Phra Kaew) - go at opening, book online",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "The highlight is the Temple of the Emerald Buddha, which sits at the heart of the complex."
+      }
+     },
+     {
+      "what": "Wat Pho - the 46 m gilded Reclining Buddha (plus Thai massage at the temple school)",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "It is most famous for the Reclining Buddha: a 46-metre gilded figure that fills an entire building."
+      }
+     },
+     {
+      "what": "Wat Arun (Temple of Dawn) across the river - via Chao Phraya Express Boat",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "Wat Arun is on the western bank of the river, and it’s one of Bangkok’s most photogenic landmarks."
+      }
+     },
+     {
+      "what": "Chinatown / Yaowarat Road street-food dinner (stalls from ~6 pm)",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "Yaowarat Road, the main artery, is a riot of gold shops, seafood restaurants, herbal medicine vendors, and neon signs."
+      }
+     },
+     {
+      "what": "Sky Bar at Lebua - the Hangover II rooftop bar over the river (Silom)",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "Sky Bar at Lebua — Bangkok’s most famous rooftop bar, partly due to its appearance in The Hangover Part II."
+      }
+     },
+     {
+      "what": "Chatuchak Weekend Market (Sat-Sun only)",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "Chatuchak itself is one of the largest markets in the world."
+      }
+     },
+     {
+      "what": "Khao San Road night out",
+      "source": {
+       "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+       "quote": "But Khao San Road is also genuinely entertaining, and it is hard not to get swept up in it."
+      }
+     },
+     {
+      "what": "Day trip: Maeklong Railway Market (market on an active train track) + Damnoen Saduak Floating Market",
+      "source": {
+       "url": "https://shippedaway.com/two-week-thailand-itinerary/",
+       "quote": "On the second day in Thailand, we suggest taking the classical Maeklong Railway Market and Damnoen Saduak Floating Market day trip from Bangkok."
+      }
+     }
+    ],
+    "sleep": {
+     "area": "Sukhumvit (shopping, nightlife, BTS/MRT) or Rattanakosin/Banglamphu near Khao San Road (temples, old city)",
+     "source": {
+      "url": "https://anywhereweroam.com/3-days-in-bangkok/",
+      "quote": "The best area to stay depends on what you want to do. For temples and markets, the Rattanakosin/Banglamphu area (near Khao San Road) is convenient. For shopping, nightlife, and easy transport, Sukhumvit is the best base."
+     }
+    },
+    "next": {
+     "to": "Krabi (Ao Nang)",
+     "how": "Domestic flight Bangkok (BKK/DMK) -> Krabi International Airport (KBV), ~1h20 (Thai AirAsia, Thai Airways, Bangkok Airways, Thai Vietjet listed); then ~30-40 min road transfer or airport bus (~1 h) to Ao Nang.",
+     "source": {
+      "url": "https://12go.asia/en/travel/bangkok/krabi",
+      "quote": "Traveling by plane is the fastest way to get from Bangkok to Krabi."
+     },
+     "more_sources": [
+      {
+       "url": "https://12go.asia/en/travel/bangkok/krabi",
+       "quote": "Fastest Transport 1h 20m"
+      },
+      {
+       "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+       "quote": "Krabi International Airport is about 40 minutes away by car."
+      },
+      {
+       "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+       "quote": "There is an air-conditioned bus service from the airport to Ao Nang and Nopparat Thara Beach (just after Ao Nang)."
+      }
+     ]
+    },
+    "photo_queries": [
+     "Wat Arun sunset Chao Phraya river",
+     "Bangkok skyline rooftop night",
+     "Grand Palace Bangkok golden spires"
+    ]
+   }
+  },
+  {
+   "place": "או נאנג",
+   "heading": "או נאנג: 3 לילות🌅🐠",
+   "lines": [
+    "ריילי ביץ' וחוף פרה נאנג 😍",
+    "טיול 4 האיים",
+    "טיול להונג איילנד",
+    "טייגר קייב - 1,237 מדרגות 🥵",
+    "שקיעה בחוף או נאנג",
+    "לישון באו נאנג"
+   ],
+   "research": {
+    "place_en": "Krabi - Ao Nang (with day trips to Railay)",
+    "place_he": "או נאנג",
+    "region_he": "קראבי",
+    "nights": 3,
+    "nights_sources": [
+     {
+      "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+      "quote": "Three days is the sweet spot."
+     },
+     {
+      "url": "https://kuoni.co.uk/inspiration/your-one-stop-guide-to-krabi",
+      "quote": "We suggest staying between three and seven days in Krabi."
+     },
+     {
+      "url": "https://shippedaway.com/two-week-thailand-itinerary/",
+      "quote": "Phuket/Krabi (3 nights)"
+     }
+    ],
+    "do": [
+     {
+      "what": "Railay Beach (Hebrew: ריילי) - car-free peninsula, longtail from Ao Nang; Railay West beach",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "Start at Railay Beach , easily one of the most photogenic stretches of coast in Thailand."
+      }
+     },
+     {
+      "what": "Phra Nang Cave Beach (next to Railay) - karst tower rising out of the sand, the postcard shot",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "Phra Nang is the postcard shot. Don’t skip it."
+      }
+     },
+     {
+      "what": "Railay viewpoint & hidden lagoon hike (steep, hand ropes)",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Rai_Leh",
+       "quote": "The climb to the top takes about 20-25 minutes and to the viewpoint another 10 minutes."
+      }
+     },
+     {
+      "what": "4 Islands longtail tour from Ao Nang beach (Poda Island, Chicken Island, Tup, Phra Nang) ~900-1,200 THB",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+       "quote": "The main beach at Ao Nang is the departure point for boats to a number of places, including the nearby resort of Rai Leh, which cannot be accessed by road, Poda Island and Chicken Island."
+      }
+     },
+     {
+      "what": "Hong Island tour - enclosed lagoon ringed by karst walls",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "Afternoon on the water again, but this time Hong Island — a smaller, quieter archipelago than Phi Phi with a stunning enclosed lagoon ringed by karst walls."
+      }
+     },
+     {
+      "what": "Tiger Cave Temple (Wat Tham Suea) - 1,237 steps to a 360-degree summit view, go at 7:30",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "The climb is 1,237 steps to the summit, and the Thai sun has zero mercy."
+      }
+     },
+     {
+      "what": "Emerald Pool + Klong Thom hot springs (go at opening)",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "It’s a jungle spring the color of green sea glass, and just a few minutes away sit the Klong Thom hot springs — natural warm-water pools cascading between rocks."
+      }
+     },
+     {
+      "what": "Sunset on Ao Nang beach behind the karst islands",
+      "source": {
+       "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+       "quote": "The sky lighting up orange behind the karst islands offshore is worth planting yourself at a beachfront table for a full hour."
+      }
+     }
+    ],
+    "sleep": {
+     "area": "Ao Nang (beach strip, walking distance to the boats; Railay is pricier - optional 1 night there)",
+     "source": {
+      "url": "https://lorenzigo.com/krabi-itinerary-1-2-3-days/",
+      "quote": "Ao Nang is the base we recommend — it’s walking distance to the pier where nearly every boat tour leaves from, dinner options are everywhere, and it’s cheaper than Railay by a wide margin."
+     },
+     "more_sources": [
+      {
+       "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+       "quote": "Ao Nang is filled with accommodation options , but if you want to get away from the crowds, consider spending a night on the isolated Railay Beach."
+      }
+     ]
+    },
+    "next": {
+     "to": "Koh Phi Phi",
+     "how": "Ferry (or speedboat) from Ao Nang's Nopparat Thara pier to Tonsai Pier, Phi Phi Don, ~1.5-2 h by ferry; hotel pickup usually included. Operators listed include Andaman Wave Master; ~21 van-transfer+boat departures a day on 12Go.",
+     "source": {
+      "url": "https://en.wikivoyage.org/wiki/Ko_Phi_Phi",
+      "quote": "From Ao Nang: 400 baht one way (including transfer from hotel to Noppharat Peir) 0930 and 1530."
+     },
+     "more_sources": [
+      {
+       "url": "https://12go.asia/en/travel/ao-nang/koh-phi-phi",
+       "quote": "The travel time from Ao Nang to Koh Phi Phi can vary depending on the mode of transportation you choose. All things considered, the whole journey should take from 1 to 4 hours."
+      },
+      {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Phi_Phi",
+       "quote": "Sailing time from Phuket or Krabi is 1.5-2 hours."
+      }
+     ]
+    },
+    "photo_queries": [
+     "Railay Beach longtail boat limestone cliffs",
+     "Phra Nang Cave Beach Krabi aerial",
+     "Ao Nang sunset karst islands"
+    ]
+   }
+  },
+  {
+   "place": "קופיפי",
+   "heading": "קופיפי: 2 לילות😍🌺",
+   "lines": [
+    "תצפית קופיפי בשקיעה 🤩",
+    "טיול איים למאיה ביי",
+    "פילה לגון",
+    "קיאקים בלו דלום",
+    "מסיבות על החוף בלילה 🔥",
+    "לישון בטונסאי"
+   ],
+   "research": {
+    "place_en": "Koh Phi Phi (Phi Phi Don)",
+    "place_he": "קופיפי",
+    "nights": 2,
+    "nights_sources": [
+     {
+      "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+      "quote": "Koh Phi Phi – 2 days"
+     },
+     {
+      "url": "https://hanoivoyage.com/en/blog/koh-phi-phi-2-day-itinerary.html",
+      "quote": "If you’re short on time, a well-planned Koh Phi Phi 2-day itinerary is more than enough to enjoy the island’s highlights."
+     },
+     {
+      "url": "https://www.phuket101.net/phi-phi-islands",
+      "quote": "Day trip or 1 to 2 nights on Phi Phi Don"
+     }
+    ],
+    "do": [
+     {
+      "what": "Phi Phi Viewpoint hike (186 m) - sunrise/sunset view of the twin bays",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Phi_Phi",
+       "quote": "Walk up to the viewpoint, 186 m above sea level (a very steep walk of between 10–25 min, depending on your fitness), to get a breathtaking view of the entire island, particularly at dawn or sunset (bring a torch)."
+      }
+     },
+     {
+      "what": "Maya Bay on Phi Phi Leh ('The Beach' film) - boardwalk from Loh Samah, no swimming, closed Aug-Sep",
+      "source": {
+       "url": "https://www.phuket101.net/phi-phi-islands",
+       "quote": "Maya Bay reopened on 1 January 2022 with strict new rules."
+      }
+     },
+     {
+      "what": "Pi Leh Lagoon - cliff-ringed inlet on Phi Phi Leh (boat tour stop)",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Phi_Phi",
+       "quote": "Pi Ley is a large inlet on Koh Phi Phi Ley in-between Phaya Naak Cave and Loh Samah. The whole inlet is surrounded by vertical cliffs."
+      }
+     },
+     {
+      "what": "Longtail/speedboat island tour: Maya Bay, Viking Cave, Loh Dalum, Monkey Beach, Bamboo Island",
+      "source": {
+       "url": "https://www.phuket101.net/phi-phi-islands",
+       "quote": "Here are the usual places where boats will take you : Maya Bay (when open, which is not always predictable), Viking Cave (Used to be open to the public, but it’s now restricted), Loh Dalum Bay, Monkey Beach, Bamboo Island , and sometimes Mosquito Island next to it."
+      }
+     },
+     {
+      "what": "Bamboo Island - white sand, clear water, snorkelling",
+      "source": {
+       "url": "https://www.phuket101.net/phi-phi-islands",
+       "quote": "Bamboo Island is a small, uninhabited island about 8 km northeast of the main Phi Phi island. It has white sand beaches, clear water and good snorkelling."
+      }
+     },
+     {
+      "what": "Loh Dalum Bay by day: kayak (from ~200 THB), the postcard turquoise bay",
+      "source": {
+       "url": "https://hanoivoyage.com/en/blog/koh-phi-phi-2-day-itinerary.html",
+       "quote": "Rent a kayak from Loh Dalum Beach (starting from 200 baht) and paddle around the island’s calm, clear waters."
+      }
+     },
+     {
+      "what": "Loh Dalum beach bars at night - fire shows, buckets, bean bags",
+      "source": {
+       "url": "https://hanoivoyage.com/en/blog/koh-phi-phi-2-day-itinerary.html",
+       "quote": "At night, head to the beach bars around Loh Dalum Beach. The atmosphere turns lively with fire shows, cocktails, and music under the stars."
+      }
+     },
+     {
+      "what": "Long Beach - walkable from Tonsai, snorkelling at Shark Point (blacktip reef sharks)",
+      "source": {
+       "url": "https://hanoivoyage.com/en/blog/koh-phi-phi-2-day-itinerary.html",
+       "quote": "Spend a few hours relaxing or snorkeling at Shark Point near Long Beach. If you’re lucky, you might spot harmless blacktip reef sharks."
+      }
+     }
+    ],
+    "sleep": {
+     "area": "Tonsai Village / Loh Dalum (between the two bays; convenient but loud) - quieter: Long Beach",
+     "source": {
+      "url": "https://en.wikivoyage.org/wiki/Ko_Phi_Phi",
+      "quote": "Ao Ton Sai is where most of the action is, be it restaurants, bars, hotels, or guesthouses. Most tourists stay at Ton Sai Bay because of the convenience."
+     },
+     "more_sources": [
+      {
+       "url": "https://www.phuket101.net/phi-phi-islands",
+       "quote": "I stayed at PP Princess Resort, and the location is what makes it special. The hotel sits right between Loh Dalum Bay and Tonsai town, so you get both."
+      }
+     ]
+    },
+    "next": {
+     "to": "Koh Phangan",
+     "how": "Full travel day across to the Gulf: joint ticket from Tonsai Pier (departures ~08:45-10:30) = ferry to Krabi + van/bus to Don Sak/Surat Thani + ferry (e.g. Lomprayah) to Thong Sala; 7-16 h total. Faster alternative: ferry to Krabi or Phuket and fly Bangkok Airways to Koh Samui (daily Phuket-Samui flights), then 20-30 min ferry to Phangan.",
+     "source": {
+      "url": "https://12go.asia/en/travel/koh-phi-phi/koh-phangan",
+      "quote": "The travel time from Koh Phi Phi to Koh Phangan can vary depending on the mode of transportation you choose. All things considered, the whole journey should take from 7 to 16 hours."
+     },
+     "more_sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-phi-phi/koh-phangan",
+       "quote": "From Koh Phi Phi to Koh Phangan starting from 08:45 Ton Sai Pier Koh Phi Phi until 10:30 Ton Sai Pier Koh Phi Phi"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-phi-phi/koh-phangan",
+       "quote": "Koh Phi Phi to Koh Phangan, Ferry Express, Lomprayah"
+      },
+      {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Samui",
+       "quote": "There are also daily flights to/from Phuket"
+      }
+     ]
+    },
+    "photo_queries": [
+     "Phi Phi viewpoint twin bays aerial",
+     "Maya Bay Phi Phi Leh turquoise",
+     "Pileh Lagoon kayak limestone"
+    ]
+   }
+  },
+  {
+   "place": "קופנגן",
+   "heading": "קופנגן: 3 לילות🏝️🌙",
+   "lines": [
+    "פול מון? תבדקו תאריכים!",
+    "בוטל ביץ' בסירת זנב",
+    "שקיעה בזן ביץ'",
+    "הולכים ברגל לקו מא בשפל 😍",
+    "שוק אוכל בתונג סלה",
+    "לישון בהאד רין או בסריתנו"
+   ],
+   "research": {
+    "place_en": "Koh Phangan",
+    "place_he": "קופנגן",
+    "nights": 3,
+    "nights_sources": [
+     {
+      "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+      "quote": "Koh Phangan – 3 days"
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+      "quote": "Three days for the beaches and a snorkelling trip."
+     },
+     {
+      "url": "https://shippedaway.com/two-week-thailand-itinerary/",
+      "quote": "Once you’ve made your choice, we recommend spending at least 3 nights there, so you can properly enjoy the breathtaking beaches, snorkeling, diving, boat trips, fantastic food, and everything in between that these islands offer."
+     }
+    ],
+    "do": [
+     {
+      "what": "Full Moon Party at Haad Rin Sunrise Beach (one night a month - plan dates; also Half Moon Party)",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Pha-ngan",
+       "quote": "If you're after party heaven you can't do better than Haad Rin, an expanded village of beach bars, cheap chicken burgers, and low cut figure-hugging outfits. It is most popular one night a month, the night of the Full Moon Party."
+      }
+     },
+     {
+      "what": "Haad Rin - party beach (Haad Rin Nok, sunrise) vs. quieter Haad Rin Nai (sunset)",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Two sides: Haad Rin Nok (the party beach, east-facing, sunrise) and Haad Rin Nai (west-facing, quieter, sunset)."
+      }
+     },
+     {
+      "what": "Bottle Beach (Haad Khuat) - by longtail from Chaloklum or hiking trail",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Best beach: Bottle Beach: reached by boat, hiking trail, or a rough road transfer"
+      }
+     },
+     {
+      "what": "Thong Nai Pan Yai/Noi - sheltered bay, calm water",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Best for swimming: Thong Nai Pan Yai : sheltered bay, calm water, good restaurants"
+      }
+     },
+     {
+      "what": "Than Sadet National Park waterfall hike",
+      "source": {
+       "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+       "quote": "For the nature-loving, head to Than Sadet National Park to hike up a waterfall."
+      }
+     },
+     {
+      "what": "Zen Beach sunset (west coast, Srithanu area)",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Best sunset: Zen Beach : rocky headland on the west coast, meditation-friendly atmosphere"
+      }
+     },
+     {
+      "what": "Koh Ma - walk across the sandbar at low tide, snorkel with turtles/clownfish",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Koh Ma : a small island connected to the northwest tip by a sandbar. Shallow reef snorkelling (you can wade across at low tide)."
+      }
+     },
+     {
+      "what": "Thong Sala markets: Phantip food market + Saturday Walking Street",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Saturday Walking Street (Thong Sala): weekly market with crafts, clothing, live music, and food stalls"
+      }
+     }
+    ],
+    "sleep": {
+     "area": "Haad Rin (party / Full Moon) or Srithanu & Thong Nai Pan (quiet, beaches); Thong Sala = ferry pier, budget",
+     "source": {
+      "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+      "quote": "Haad Rin: Full Moon Party proximity. Quiet the rest of the month"
+     },
+     "more_sources": [
+      {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Thong Nai Pan: best beaches, slightly isolated, romantic"
+      },
+      {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+       "quote": "Srithanu: wellness crowd, yoga studios, vegan restaurants"
+      }
+     ]
+    },
+    "next": {
+     "to": "Koh Samui",
+     "how": "Ferry/speedboat Thong Sala -> Samui (Lomprayah, Seatran Discovery, Songserm, Haad Rin Queen from Haad Rin to Big Buddha pier); 20-30 min fastest, up to ~1 h on slower boats; ~92 departures a day listed.",
+     "source": {
+      "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-phangan/",
+      "quote": "The west coast faces Koh Samui across a narrow strait; ferries make the hop in as little as 30 minutes, and our 5-day Koh Samui and Koh Phangan itinerary covers both islands in one trip."
+     },
+     "more_sources": [
+      {
+       "url": "https://12go.asia/en/travel/koh-phangan/koh-samui",
+       "quote": "Fastest Transport 20m"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-phangan/koh-samui",
+       "quote": "Koh Phangan to Koh Samui, Ferry High Speed Ferry, Seatran Discovery"
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-phangan/koh-samui",
+       "quote": "Koh Phangan to Koh Samui, Ferry Express, Lomprayah"
+      }
+     ]
+    },
+    "photo_queries": [
+     "Bottle Beach Koh Phangan",
+     "Thong Nai Pan aerial turquoise",
+     "Koh Ma sandbar Koh Phangan drone"
+    ]
+   }
+  },
+  {
+   "place": "קוסמוי",
+   "heading": "קוסמוי: 3 לילות❤️🌴",
+   "lines": [
+    "הבודהה הגדול",
+    "שוק כפר הדייגים (רק בשישי)",
+    "טיול לאנג תונג 🤩",
+    "חוף צ'אוונג בלילה",
+    "מפלי נא מואנג",
+    "לישון בצ'אוונג או בבופוט"
+   ],
+   "research": {
+    "place_en": "Koh Samui",
+    "place_he": "קוסמוי",
+    "nights": 3,
+    "nights_sources": [
+     {
+      "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+      "quote": "Koh Samui – 3 days"
+     },
+     {
+      "url": "https://vagrantsoftheworld.com/ultimate-3-day-koh-samui-itinerary/",
+      "quote": "3 days in Koh Samui is enough time to experience the highlights."
+     },
+     {
+      "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+      "quote": "Three days covers the main beaches, Big Buddha, and a day trip."
+     }
+    ],
+    "do": [
+     {
+      "what": "Big Buddha (Wat Phra Yai) - 12 m golden Buddha, sunset spot",
+      "source": {
+       "url": "https://vagrantsoftheworld.com/ultimate-3-day-koh-samui-itinerary/",
+       "quote": "Big Buddha Temple (Wat Phra Yai) is a well-known free landmark and is impossible to miss with its 12 meter tall golden statue."
+      }
+     },
+     {
+      "what": "Wat Plai Laem - lakeside temple with the 18-armed Guanyin, next to Big Buddha",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "A colourful lakeside temple complex with an 18-armed Guanyin statue rising from the water. It is close to Big Buddha, making the two temples easy to combine."
+      }
+     },
+     {
+      "what": "Fisherman's Village, Bophut - Friday Walking Street night market",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "The Friday Walking Street is the island’s best market: live music, seafood grills, handmade goods, and a genuinely good atmosphere."
+      }
+     },
+     {
+      "what": "Ang Thong National Marine Park day tour - 42 islands, kayaking, snorkelling, Emerald Lake viewpoint (closed ~1 Nov-15 Dec)",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "Mu Ko Ang Thong contains 42 islands, with tours commonly combining kayaking, snorkelling, and the Emerald Lake viewpoint on Koh Mae Koh."
+      }
+     },
+     {
+      "what": "Chaweng Beach + Chaweng Night Market",
+      "source": {
+       "url": "https://vagrantsoftheworld.com/ultimate-3-day-koh-samui-itinerary/",
+       "quote": "Chaweng Beach is one of the most popular beaches with a vibrant atmosphere and a host of beach clubs offering delicious cocktails."
+      }
+     },
+     {
+      "what": "Lamai Beach + Hin Ta Hin Yai (Grandfather & Grandmother Rocks)",
+      "source": {
+       "url": "https://vagrantsoftheworld.com/ultimate-3-day-koh-samui-itinerary/",
+       "quote": "One must-see spot near Lamai Beach is the Hin Ta & Hin Ya Rocks , also known as the Grandfather & Grandmother Rocks."
+      }
+     },
+     {
+      "what": "Na Mueang (Na Muang) Waterfall 1 & 2",
+      "source": {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Samui",
+       "quote": "A walk of about 30 minutes ends up at the more scenic Na Mueang 2 Waterfall."
+      }
+     },
+     {
+      "what": "Chaweng nightlife: ARKbar beach fire shows, Soi Green Mango",
+      "source": {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "ARKbar currently advertises fire shows every evening from 20:00 to midnight, weather permitting."
+      }
+     }
+    ],
+    "sleep": {
+     "area": "Chaweng (busiest, most hotels, nightlife) or Bophut / Fisherman's Village (boutique, calmer); Lamai = mid-range value",
+     "source": {
+      "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+      "quote": "Chaweng: busiest, most hotels, nightlife access"
+     },
+     "more_sources": [
+      {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "Bophut: Fisherman’s Village charm, boutique hotels"
+      },
+      {
+       "url": "https://www.thaiholidayguide.com/things-to-do-in-koh-samui/",
+       "quote": "Lamai: quieter beach, good restaurants, mid-range value"
+      }
+     ]
+    },
+    "next": {
+     "to": "Bangkok (flight home)",
+     "how": "Fly from Samui Airport (USM) with Bangkok Airways (near-hourly to BKK, codeshare Thai Airways), ~1h15. Samui is placed last for exactly this reason. Note: Samui flights are comparatively expensive (3,000-5,000 THB per Wikivoyage); cheaper alternative is ferry to Surat Thani + flight/bus.",
+     "source": {
+      "url": "https://erikastravelventures.com/thailand-island-hopping-itinerary/",
+      "quote": "Koh Samui is last on this two-week Thailand island-hopping itinerary because it has a small airport from which you can fly back to Bangkok or Phuket."
+     },
+     "more_sources": [
+      {
+       "url": "https://en.wikivoyage.org/wiki/Ko_Samui",
+       "quote": "They have near-hourly departures to/from Bangkok (BKK), codesharing with Thai Airways for easy connections."
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-samui/bangkok",
+       "quote": "Traveling by plane is the fastest way to get from Koh Samui to Bangkok."
+      },
+      {
+       "url": "https://12go.asia/en/travel/koh-samui/bangkok",
+       "quote": "Fastest Transport 1h 15m"
+      }
+     ]
+    },
+    "photo_queries": [
+     "Koh Samui Big Buddha sunset",
+     "Ang Thong Marine Park Emerald Lake viewpoint",
+     "Chaweng Beach palm trees aerial"
+    ]
+   }
+  }
+ ],
+ "last": {
+  "lines": [
+   "והדרך שמצאתי כדי לחסוך כסף על מלונות?"
+  ]
+ }
+}

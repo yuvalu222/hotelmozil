@@ -64,7 +64,7 @@ if (deck.startsWith('d1')) {
   }));
   slides.push({ ...photo(picks.last), top: 0.07, width: 0.86, lines: research.last.lines.map((t) => L(t, 's', { w: 700, lh: 1.18 })) });
   slides.push({ copy: FOLDER[picks.folder || 'personal'] });
-} else if (deck.startsWith('d4')) {
+} else if (deck.startsWith('d4')) { // d4-route-main replaced the niche Andaman route (13.10: audience size first)
   slides.push({ ...photo(picks.cover), top: 0.2, lines: c.lines.map((t) => L(red(t, c.red), 'm')) });
   research.slides.forEach((s, i) => slides.push({
     ...photo(picks.slides[i]), top: 0.19,

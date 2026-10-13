@@ -40,7 +40,7 @@ if (deck === 'e1-traps') {
   });
 } else if (deck === 'e2-islands') {
   slides.push({ ...photo(P.cover), top: 0.3, lines: [L(R.cover.line, 's'), L(R.cover.title, 'xl')] });
-  R.islands.forEach((is, i) => slides.push({ ...photo(P.slides[i]), top: 0.3, lines: [L(is.label, 's'), L(is.place, 'xl')] }));
+  R.islands.forEach((is, i) => slides.push({ ...photo(P.slides[i]), top: 0.26, width: 0.84, lines: [L(is.label, 's'), L(is.place, 'xl'), ...(is.line ? [gap(0.012), L(is.line, 's')] : [])] }));
 } else if (deck === 'e3-hotel') {
   slides.push({ ...photo(P.cover), top: 0.62, lines: R.cover.lines.map((t) => L(t, 'l')) });
   R.slides.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: 0.62, lines: [L(s.line, 'm')] }));
@@ -51,7 +51,7 @@ if (deck === 'e1-traps') {
   slides.push({ ...photo(P.last), top: 0.4, lines: R.last.lines.map((t) => L(t, 'm')) });
 } else if (deck === 'e5-photospots') {
   slides.push({ ...photo(P.cover), top: 0.12, lines: R.cover.lines.map((t, i) => L(t, i ? 'm' : 'xl')) });
-  R.spots.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.12, lines: [L(s.pin, 'm')] }));
+  R.spots.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.12, width: 0.84, lines: [L(s.pin, 'm'), ...(s.line ? [gap(0.01), L(s.line, 's')] : [])] }));
 }
 slides.push({ copy: FOLDER[P.folder || 'must'] });
 

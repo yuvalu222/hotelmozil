@@ -2,7 +2,7 @@
  "deck": "e2-islands",
  "format_source": "@berigold 7536886752477285654 (1.1M plays, 55K saves): cover = small line + big title, then 11 islands, one per slide, tiny label line above the island name, ordered from least touristy to the famous all-rounder",
  "cover": {
-  "line": "מהכי פחות תיירותי להכי אנדרייטד",
+  "line": "מהכי פחות תיירותי להכי מפורסם",
   "title": "האיים של תאילנד 🇹🇭",
   "photo_queries": [
    "Thailand island longtail boat turquoise",
@@ -33,10 +33,11 @@
      "url": "https://www.travelfish.org/location/thailand/southern_thailand/trang/ko_libong",
      "quote": "Ko Libong is the largest island in Trang province, but also one of the least developed."
     }
-   ]
+   ],
+   "line": "האי הכי גדול בטראנג וכמעט אף אחד לא מגיע 🥹"
   },
   {
-   "label": "הכי אנדרייטד",
+   "label": "הכי פחות מוכר",
    "place": "קו קוד",
    "place_en": "Koh Kood",
    "photo_queries": [
@@ -57,7 +58,8 @@
      "url": "https://www.roughguides.com/thailand/best-islands/",
      "quote": "The fourth-largest island in Thailand, forested Koh Kood (sometimes spelt Koh Kut or Koh Kud) is still a wild and largely uncommercialised place."
     }
-   ]
+   ],
+   "line": "האי ה-4 בגודלו ורק 1,500 תושבים 🤯"
   },
   {
    "label": "הכי מגוון",
@@ -77,7 +79,8 @@
      "url": "https://www.roughguides.com/thailand/best-islands/",
      "quote": "the island of Koh Yao Noi enjoys magnificent maritime views from almost every angle and makes a refreshingly tranquil getaway."
     }
-   ]
+   ],
+   "line": "מנגרובים, שדות ונוף לאיים מכל פינה 😍"
   },
   {
    "label": "הכי רומנטי",
@@ -101,7 +104,8 @@
      "url": "https://www.travelfish.org/location/thailand/southern_thailand/trang/ko_kradan",
      "quote": "anyone from solo gap-year backpackers to honeymooning couples and flashpacking families can enjoy a quiet getaway in a sublime setting on Kradan."
     }
-   ]
+   ],
+   "line": "מים צלולים ברמות, מושלם לזוגות 💕"
   },
   {
    "label": "הכי שווה ללמוד לצלול",
@@ -129,7 +133,8 @@
      "url": "https://www.roughguides.com/thailand/best-islands/",
      "quote": "Koh Tao Best for cheap diving and laid-back vibe."
     }
-   ]
+   ],
+   "line": "המקום הכי פופולרי בתאילנד ללמוד לצלול 🐠"
   },
   {
    "label": "הכי שקט",
@@ -157,11 +162,12 @@
      "url": "https://www.travelfish.org/location/thailand/eastern_thailand/trat/ko_mak",
      "quote": "We wish more Thai islands would be like Ko Mak."
     }
-   ]
+   ],
+   "line": "קטן, איטי ושקט. בדיוק מה שצריך 🌴"
   },
   {
    "label": "החופים הכי יפים",
-   "place": "קו פי פי",
+   "place": "קופיפי",
    "place_en": "Koh Phi Phi",
    "photo_queries": [
     "Maya Bay Phi Phi",
@@ -181,11 +187,12 @@
      "url": "https://www.roughguides.com/thailand/best-islands/",
      "quote": "the island of Koh Phi Phi looks breathtakingly handsome as you approach from the sea, its classic arcs of pure white sand framed by dramatic cliffs and lapped by water that’s a mouthwatering shade of turquoise."
     }
-   ]
+   ],
+   "line": "צוקים, מים טורקיז ומסיבות בלילה 🤩"
   },
   {
    "label": "הכל במקום אחד",
-   "place": "קו סמוי",
+   "place": "קוסמוי",
    "place_en": "Koh Samui",
    "photo_queries": [
     "Koh Samui",
@@ -209,8 +216,9 @@
      "url": "https://www.roughguides.com/thailand/best-islands/",
      "quote": "the almost supernatural beauty of the Ang Thong National Marine Park, which comprises many of the eighty islands in the Samui archipelago."
     }
-   ]
+   ],
+   "line": "יותר מ-1,000 מלונות והריזורטים הכי מפנקים 😍"
   }
  ],
- "notes": "Order and label set mirror berigold (least touristy, underrated, unique, diverse, delicious, romantic, ..., peaceful, relaxing, beaches, everything-in-one). Two labels adapted: berigold's 'most colorful' became Koh Tao 'הכי שווה ללמוד לצלול' (no source calls any Thai island the most colourful; Tao's dive-school claim is sourced), and 'most spectacular beaches' is written 'החופים הכי יפים' because that is how it is said in Hebrew. 'הכל במקום אחד' has no הכי because 'הכי הכל במקום אחד' is not Hebrew. Phuket is in for 'הכי טעים' because it is the only island with an official food title (UNESCO City of Gastronomy, 2015, first in ASEAN); the UNESCO title is for Phuket City but UNESCO's own page describes the island. Koh Chang (Trat), Lanta, Lipe, Samet and Phangan were left out to keep 11. Every quote was checked as a verbatim substring of the page fetched on 10.10.2026 (curly apostrophes as on the page; the space before the period in 'Ko Chang .' is how the Rough Guides page renders a link). Caveats: travelfish calls Phi Phi overdeveloped in the next sentence and Samui 'not somewhere to come to glimpse a corner of the Thai kingdom untouched by mass tourism' - the quotes are positive excerpts, which is fine for 'beaches' and 'everything' but do not quote further. Koh Muk is called 'the busiest of Trang province's islands' by travelfish - so 'הכי מיוחד' rests on the Emerald Cave, not on quietness. Koh Libong vs Ko Sukorn: travelfish says Sukorn is even quieter, but Sukorn has almost no Unsplash photos and Libong is the one with sources saying 'least visited'. Kradan's Rough Guides entry also warns of a midday rush of day-trip boats. Spelling uncertain: קו פיאם (also seen as קו פאיאם), קו מוק (English sources split Muk/Mook),קו סמוי (Israelis also write קוסמוי as one word). Unsplash coverage is thin for Libong, Mak, Phayam and Kradan; if the island query returns nothing good, verify any look-alike photo is really that island before using it. Koh Nang Yuan (photo query for Tao) is a separate islet joined to Koh Tao by boat - it is the classic Koh Tao view but say 'קו טאו' only if the frame is acceptable to him."
+ "notes": "Order and label set mirror berigold (least touristy, underrated, unique, diverse, delicious, romantic, ..., peaceful, relaxing, beaches, everything-in-one). Two labels adapted: berigold's 'most colorful' became Koh Tao 'הכי שווה ללמוד לצלול' (no source calls any Thai island the most colourful; Tao's dive-school claim is sourced), and 'most spectacular beaches' is written 'החופים הכי יפים' because that is how it is said in Hebrew. 'הכל במקום אחד' has no הכי because 'הכי הכל במקום אחד' is not Hebrew. Phuket is in for 'הכי טעים' because it is the only island with an official food title (UNESCO City of Gastronomy, 2015, first in ASEAN); the UNESCO title is for Phuket City but UNESCO's own page describes the island. Koh Chang (Trat), Lanta, Lipe, Samet and Phangan were left out to keep 11. Every quote was checked as a verbatim substring of the page fetched on 10.10.2026 (curly apostrophes as on the page; the space before the period in 'Ko Chang .' is how the Rough Guides page renders a link). Caveats: travelfish calls Phi Phi overdeveloped in the next sentence and Samui 'not somewhere to come to glimpse a corner of the Thai kingdom untouched by mass tourism' - the quotes are positive excerpts, which is fine for 'beaches' and 'everything' but do not quote further. Koh Muk is called 'the busiest of Trang province's islands' by travelfish - so 'הכי מיוחד' rests on the Emerald Cave, not on quietness. Koh Libong vs Ko Sukorn: travelfish says Sukorn is even quieter, but Sukorn has almost no Unsplash photos and Libong is the one with sources saying 'least visited'. Kradan's Rough Guides entry also warns of a midday rush of day-trip boats. Spelling uncertain: קו פיאם (also seen as קו פאיאם), קו מוק (English sources split Muk/Mook),קוסמוי (Israelis also write קוסמוי as one word). Unsplash coverage is thin for Libong, Mak, Phayam and Kradan; if the island query returns nothing good, verify any look-alike photo is really that island before using it. Koh Nang Yuan (photo query for Tao) is a separate islet joined to Koh Tao by boat - it is the classic Koh Tao view but say 'קו טאו' only if the frame is acceptable to him."
 }
