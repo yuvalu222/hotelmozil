@@ -74,7 +74,7 @@ if (deck.startsWith('d1')) {
   slides.push({ copy: FOLDER[picks.folder || 'tip'] });
 } else if (deck.startsWith('d5')) {
   slides.push({ ...photo(picks.cover), blocks: [
-    { top: 0.22, lines: c.lines.map((t) => L(red(t, c.red), 'xl')) },
+    { top: c.top ?? 0.22, lines: c.lines.map((t) => L(red(t, c.red), 'xl')) },
     ...(c.bottom ? [{ top: 0.8, lines: [L(c.bottom, 'xs')] }] : []),
   ] });
   research.slides.forEach((s, i) => {
