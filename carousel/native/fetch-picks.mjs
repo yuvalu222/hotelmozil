@@ -4,7 +4,8 @@ import path from 'node:path';
 const HERE = import.meta.dirname;
 const pool = JSON.parse(fs.readFileSync(path.join(HERE, 'pool', 'pool.json'), 'utf8'));
 const picks = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'));
-const out = path.join(HERE, 'pool', 'full');
+const SCALE = Number(process.env.HM_SCALE || 1);
+const out = path.join(HERE, 'pool', SCALE > 1 ? 'full2x' : 'full');
 fs.mkdirSync(out, { recursive: true });
 const ids = new Set();
 const walk = (v) => { if (Array.isArray(v)) v.forEach(walk); else if (v && typeof v === 'object') { if (v.id) ids.add(v.id); else Object.values(v).forEach(walk); } };
@@ -15,7 +16,7 @@ for (const id of ids) {
   // 13.10: a fixed w=1440 left wide photos short of 1920 tall, so the slide
   // upscaled them (blurry). Ask for the width that covers 1440x1920.
   const ar = pool[id].w && pool[id].h ? pool[id].w / pool[id].h : 0.75;
-  const W = Math.min(4000, Math.max(1440, Math.ceil(1920 * ar * 1.02)));
+  const W = Math.min(4000 * SCALE, Math.max(1440 * SCALE, Math.ceil(1920 * SCALE * ar * 1.02)));
   const src = pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=${W}` : `${pool[id].raw}&w=${W}&fm=jpg&q=90`;
   const r = await fetch(src, { headers: { 'User-Agent': 'Mozilla/5.0 Chrome/152.0' } });
   if (!r.ok) { console.log(id, r.status); continue; }

@@ -29,6 +29,7 @@ const SIZE = { num: 0.093, xl: 0.083, l: 0.073, m: 0.064, s: 0.057, xs: 0.042 };
 // Hebrew, so iOS falls back to Apple's SF Hebrew Rounded (glyph overlay on his
 // "שהלוואי וידענו" matched letter for letter). Outline measured at ~0.05 of
 // the letter height; final values fitted by side-by-side on his tips slide: weight 580, CSS stroke 0.13em (half shows), sizes +15-19%.
+const SCALE = Number(process.env.HM_SCALE || 1);
 const STROKE = Number(process.env.HM_STROKE || 0.13);
 const WEIGHT = Number(process.env.HM_WEIGHT || 580);
 // 13.10 (owner: "not 1:1 iPhone"): TikTok's text tool sets text in TikTok
@@ -51,7 +52,9 @@ const lineHtml = (l) => {
 };
 
 export function slideHtml(slide, base) {
-  const img = 'data:image/jpeg;base64,' + fs.readFileSync(path.resolve(base, slide.photo)).toString('base64');
+  // HM_SCALE=2 (4K, 2880x3840): use the hi-res copy of the photo when there is one
+  const hi = SCALE > 1 ? path.resolve(base, slide.photo).replace(/[\\/]full[\\/]/, path.sep + 'full2x' + path.sep) : null;
+  const img = 'data:image/jpeg;base64,' + fs.readFileSync(hi && fs.existsSync(hi) ? hi : path.resolve(base, slide.photo)).toString('base64');
   const [fx, fy] = slide.focus || [0.5, 0.5];
   const width = (slide.width ?? 0.9) * W;
   const blocks = (slide.blocks || [{ top: slide.top ?? 0.18, lines: slide.lines }]).map((b) =>
@@ -74,17 +77,17 @@ html,body{margin:0;width:${W}px;height:${H}px;overflow:hidden;background:#000}
 export async function renderDeck(specPath) {
   const spec = JSON.parse(fs.readFileSync(specPath, 'utf8'));
   const base = path.join(import.meta.dirname, '..');
-  const out = path.join(import.meta.dirname, 'out', spec.name);
+  const out = path.join(import.meta.dirname, 'out', spec.name + (SCALE > 1 ? '-4k' : ''));
   fs.rmSync(out, { recursive: true, force: true });
   fs.mkdirSync(out, { recursive: true });
   const browser = await chromium.launch({ channel: 'chrome', headless: true });
-  const page = await browser.newPage({ viewport: { width: W, height: H } });
+  const page = await browser.newPage({ viewport: { width: W, height: H }, deviceScaleFactor: SCALE });
   for (const [i, s] of spec.slides.entries()) {
     const name = `${String(i + 1).padStart(2, '0')}.jpg`;
     if (s.copy) { fs.copyFileSync(path.resolve(base, s.copy), path.join(out, name)); continue; }
     await page.setContent(slideHtml(s, base), { waitUntil: 'networkidle' });
     await page.evaluate(() => document.fonts.ready);
-    await page.screenshot({ path: path.join(out, name), type: 'jpeg', quality: 92 });
+    await page.screenshot({ path: path.join(out, name), type: 'jpeg', quality: SCALE > 1 ? 96 : 92 });
   }
   await browser.close();
   console.log(`${spec.name}: ${spec.slides.length} slides -> ${out}`);
