@@ -8,16 +8,16 @@
     "id": "a5I6TBRTeNY"
    },
    {
-    "id": "wKGMZzF8_w8"
+    "id": "pin-e1_AfqPShx2N05FeZEWqvBM7eCgvcDp2pWJBmogQFRbq8mFxJlAYKgz"
    },
    {
-    "id": "DPTEcEK46m0"
+    "id": "pin-e1_AfqPShwFePEiZnoh232ATHhQg57q7MMmcWM6HmtYHrCb-WBkIh41"
    },
    {
     "id": "7NbM8Hwjdog"
    },
    {
-    "id": "1vZX-tMvehg"
+    "id": "pin-e1_AfqPShza_iKprbar0d75bMZIf0RtmwD37dXYa7NMtHxtgJgmZrZD"
    },
    {
     "id": "Ik86UrLux58"
@@ -26,7 +26,13 @@
     "id": "LVB4PUJQVfI"
    },
    {
-    "id": "9LWk7B8QMFc"
+    "id": "pin-e1_AfqPShwhV5KstnlSioLqgwwX9u_4w8Nub1uI5muDnW9oAqqEZUjj",
+    "bright": 1.32,
+    "focus": [
+     0.6,
+     0.0
+    ],
+    "zoom": 1.15
    }
   ],
   "folder": "must"
