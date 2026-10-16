@@ -22,7 +22,7 @@ const research = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}
 const picks = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
 if (!picks) throw new Error(`no photo picks for ${deck} in native/picks.json`);
 
-const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}) });
+const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.top !== undefined ? { _top: p.top } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
 const red = (line, word) => (word && line.includes(word) ? line.replace(word, `{red}${word}{/red}`) : line);
@@ -83,8 +83,17 @@ if (deck.startsWith('d1')) {
   });
   slides.push({ ...photo(picks.last), top: 0.4, width: 0.86, lines: research.last.lines.map((t) => L(t, 'm')) });
   slides.push({ copy: FOLDER[picks.folder || 'must'] });
+} else if (deck.startsWith('g1')) { // 7-Eleven products (15.10): product name big, then his short verdict lines
+  slides.push({ ...photo(picks.cover), top: 0.14, lines: c.lines.map((t) => L(t, 'l')) });
+  research.slides.forEach((s, i) => slides.push({
+    ...photo(picks.slides[i]), top: 0.1, width: 0.86,
+    lines: s.lines.map((t, j) => L(t, j ? 's' : 'l')),
+  }));
+  slides.push({ copy: FOLDER[picks.folder || 'tip'] });
 }
 
+// a pick's own "top" (picks.json) moves the text block off the landmark
+for (const s of slides) if (s._top !== undefined) { if (s.blocks) s.blocks[0].top = s._top; else s.top = s._top; delete s._top; }
 const spec = { name: deck, slides };
 fs.mkdirSync(path.join(HERE, 'decks'), { recursive: true });
 const specPath = path.join(HERE, 'decks', `${deck}.json`);

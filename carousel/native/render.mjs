@@ -87,6 +87,32 @@ export async function renderDeck(specPath) {
     if (s.copy) { fs.copyFileSync(path.resolve(base, s.copy), path.join(out, name)); continue; }
     await page.setContent(slideHtml(s, base), { waitUntil: 'networkidle' });
     await page.evaluate(() => document.fonts.ready);
+    // 16.10 safe zone (research/photos/02-caption-layout.md, gate qa-text.py):
+    // text must stay in x 70-1250, y 200-1700 or the app's header and right
+    // rail cover it (in Hebrew the rail hides the START of a line). Nudge each
+    // block just enough to fit; blocks already inside do not move.
+    await page.evaluate(({ W, H }) => {
+      const X0 = 70 + 14, X1 = 1250 - 14, Y0 = 200 + 12, Y1 = 1700 - 12;
+      const box = (b) => {
+        let l = 1e9, r = -1e9, t = 1e9, bt = -1e9;
+        for (const ln of b.querySelectorAll('.ln')) {
+          const rg = document.createRange(); rg.selectNodeContents(ln);
+          for (const q of rg.getClientRects()) { if (!q.width) continue; l = Math.min(l, q.left); r = Math.max(r, q.right); t = Math.min(t, q.top); bt = Math.max(bt, q.bottom); }
+        }
+        return [l, r, t, bt];
+      };
+      for (const b of document.querySelectorAll('.blk')) {
+        let [l, r, t, bt] = box(b);
+        if (r < l) continue;
+        // a line wider than the safe band: shrink the block a few percent (re-wrapping
+        // would leave a lone word or emoji on its own line)
+        const k = r - l > X1 - X0 ? (X1 - X0) / (r - l) : 1;
+        if (k < 1) { b.style.transformOrigin = '50% 0'; b.style.transform = `scale(${k})`; [l, r, t, bt] = box(b); }
+        const dx = r > X1 ? Math.max(X1 - r, X0 - l) : l < X0 ? Math.min(X0 - l, X1 - r) : 0;
+        const dy = t < Y0 ? Math.min(Y0 - t, Y1 - bt) : bt > Y1 ? Math.max(Y1 - bt, Y0 - t) : 0;
+        if (dx || dy) b.style.transform = `translate(${dx}px,${dy}px)` + (k < 1 ? ` scale(${k})` : '');
+      }
+    }, { W, H });
     await page.screenshot({ path: path.join(out, name), type: 'jpeg', quality: SCALE > 1 ? 96 : 92 });
   }
   await browser.close();
