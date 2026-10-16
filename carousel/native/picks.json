@@ -330,7 +330,47 @@
  },
  "g1-seven-eleven": {
   "cover": {
-   "id": "pexels-35125688"
-  }
+   "id": "pin-e1_AfqPShzFUfr5_rs2zdb4pcH3syUO0pOLxDkTuGfYDrzcmbynRhR7",
+   "top": 0.62
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShwzcdp8XBP2UU_r4kPsTepYq9l0ulj2oDzkxN-QjmsR-BOw",
+    "focus": [
+     0.5,
+     0.0
+    ],
+    "zoom": 1.4
+   },
+   {
+    "id": "pin-e1_AfqPShzsr3eq3042lJQ8PdtP2bMkJYalSeYMlDhtN0bOYwLMZZEYvA",
+    "top": 0.74
+   },
+   {
+    "id": "pin-e1_AfqPShxmB_GeKv4wjKVvd1YGujBmDm_Etg1euI68aVTf1Afusl9c",
+    "focus": [
+     0.5,
+     0.0
+    ],
+    "zoom": 1.3
+   },
+   {
+    "id": "pin-e1_AfqPShxOvC0dLuhynw_IGipUKp00rceSY3-aqtUtO72YgX9dQP-yUg",
+    "top": 0.04
+   },
+   {
+    "file": "native/pool/placeholders/g1-5.jpg"
+   },
+   {
+    "file": "native/pool/placeholders/g1-6.jpg"
+   },
+   {
+    "file": "native/pool/placeholders/g1-7.jpg"
+   },
+   {
+    "file": "native/pool/placeholders/g1-8.jpg"
+   }
+  ],
+  "folder": "tip"
  }
 }

@@ -22,7 +22,7 @@ const research = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}
 const picks = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
 if (!picks) throw new Error(`no photo picks for ${deck} in native/picks.json`);
 
-const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.top !== undefined ? { _top: p.top } : {}) });
+const photo = (p) => ({ photo: p.file || `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.top !== undefined ? { _top: p.top } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
 const red = (line, word) => (word && line.includes(word) ? line.replace(word, `{red}${word}{/red}`) : line);

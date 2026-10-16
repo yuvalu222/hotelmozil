@@ -25,6 +25,7 @@ SOURCES = {
     'e3-hotel': 'harvest/sources/architinerary-7626837497342954774',
     'e4-not-tourist': 'harvest/sources/italianinspo-7436610520557440287',
     'e5-photospots': 'harvest/sources/travellingcloset1-7533911575296527638',
+    'g1-seven-eleven': 'harvest/own-full/7682476408320380180',  # his own 7-Eleven post
 }
 
 def measure(path, bright=1):
