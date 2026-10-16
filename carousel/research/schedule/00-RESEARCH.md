@@ -22,3 +22,17 @@
 ## Decision
 - 5 posts a week on TikTok, one a day, never two: Saturday night 20:30, Sunday-Wednesday 19:00. No Thursday, no Friday.
 - Instagram gets the same post at the same time (4:5 set, at most 10 slides).
+
+## More than one a day (16.10, owner: "on autopilot there is no reason not to post more than one a day if it helps")
+- His own same-day pairs (TikTok): 15.8 10:11 29K + 21:43 49K; 22.8 10:48 8.9K + 17:39 22.6K; 2.9 09:07 1.4K + 12:30 24.7K;
+  9.9 12:58 26 + 16:52 8.9K. The second post of the day did not collapse; on 3 of 4 days it beat the first.
+- Buffer's top bucket (11+ a week, which means more than one a day) had the highest views per post (+34% vs 1/week).
+  Median stays flat, so extra posts buy more chances at a breakout, not a better typical post.
+- "Cannibalization" claims for 2-3 a day come from blogs with no data; the only number given is 4-5+ a day as the risk zone.
+- Instagram: Mosseri in an AMA (reported by thesocialtea, July 2026, no primary link) said a carousel and a reel the same day
+  won't hurt reach; Buffer's 10+/week bucket had +24% reach per post and the fastest follower growth.
+- Limit is production, not the platforms: every deck must pass the WOW photo bar.
+
+## Proposal
+- 11 a week: Sat night 20:30 + 22:00, Sun-Wed 19:00 + 21:30, Thu 19:00, Fri none. Same on Instagram.
+- Ramp: start at one a day while the stock of ready decks covers it, go to two a day once production keeps up, and check views per post in Studio each week.
