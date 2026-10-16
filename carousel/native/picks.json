@@ -221,30 +221,33 @@
  },
  "e4-not-tourist": {
   "cover": {
-   "id": "pexels-32686157"
+   "id": "pin-e1_AfqPShxrF3hrumssjo3N7kiGr8sXyhfWT83l6AcPOgMrYN32CTBD",
+   "top": 0.1
   },
   "slides": [
    {
-    "id": "pexels-13119677"
-   },
-   {
-    "id": "pexels-3698978"
-   },
-   {
     "id": "pexels-30848579"
+   },
+   {
+    "id": "pin-e1_AfqPShyJgt-0ZWRmHYEH4r5t-f8E9-nnlFfyliGKDNgN967rEHH5"
+   },
+   {
+    "id": "pin-e1_AfqPShwL3Bdm_YseafQD7eECiI7yc1tz6OS9dCaSZu8BRMOguOeOhA",
+    "bright": 1.28
    },
    {
     "id": "FXD2AES0y5A"
    },
    {
-    "id": "pexels-33446376"
+    "id": "pin-e1_AfqPShylP1uUJ4tZfu5GHMN__os2HnbR6Y02HTf2dy3TNEaPKbH8",
+    "bright": 1.25
    },
    {
     "id": "URihfzXq8O4"
    }
   ],
   "last": {
-   "id": "JXusE0sCSaw"
+   "id": "pin-e1_AfqPShy0IG4-QIHBPv8xa-sne6Vz6uZdxr-oo72b27XG2PI6yFlS"
   },
   "folder": "personal"
  },

@@ -16,7 +16,7 @@ const HERE = import.meta.dirname;
 const deck = process.argv[2];
 const R = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}.json`), 'utf8'));
 const P = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
-const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.sat ? { sat: p.sat } : {}) });
+const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.sat ? { sat: p.sat } : {}), ...(p.top !== undefined ? { _top: p.top } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
 const FOLDER = {
@@ -55,6 +55,8 @@ if (deck === 'e1-traps') {
 }
 slides.push({ copy: FOLDER[P.folder || 'must'] });
 
+// a pick's own "top" moves the text block off the subject (e2/e5 already read it themselves)
+for (const s of slides) if (s._top !== undefined) { s.top = s._top; delete s._top; }
 const spec = { name: deck, slides };
 const specPath = path.join(HERE, 'decks', `${deck}.json`);
 fs.writeFileSync(specPath, JSON.stringify(spec, null, 1));
