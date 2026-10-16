@@ -14,6 +14,8 @@ const ctx = await chromium.launchPersistentContext(PROFILE, {
 });
 const tt = ctx.pages()[0] || await ctx.newPage();
 await tt.goto('https://www.tiktok.com/login/qrcode');
+const cc = await ctx.newPage();
+await cc.goto('https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en');
 const ig = await ctx.newPage();
 await ig.goto('https://www.instagram.com/accounts/login/');
 const has = async (domain) => (await ctx.cookies()).some((c) => c.name === 'sessionid' && c.domain.includes(domain) && c.value);
