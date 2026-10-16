@@ -28,10 +28,12 @@ SOURCES = {
     'g1-seven-eleven': 'harvest/own-full/7682476408320380180',  # his own 7-Eleven post
 }
 
-def measure(path, bright=1):
+def measure(path, bright=1, sat=1):
     im = Image.open(path).convert('RGB'); im.thumbnail((400, 400))
     if bright != 1:
         im = ImageEnhance.Brightness(im).enhance(bright)  # the slide's own exposure lift (render.mjs)
+    if sat != 1:
+        im = ImageEnhance.Color(im).enhance(sat)  # the slide's own saturation lift (render.mjs, CSS saturate)
     a = np.asarray(im).astype(float)
     hsv = np.asarray(im.convert('HSV')).astype(float) / 255
     rg = a[..., 0] - a[..., 1]; yb = 0.5 * (a[..., 0] + a[..., 1]) - a[..., 2]
@@ -47,7 +49,7 @@ def run(deck):
     for i, s in enumerate(spec['slides'], 1):
         if 'photo' not in s:
             continue
-        v, sat, c = measure(os.path.join(CAR, s['photo']), s.get('bright', 1))
+        v, sat, c = measure(os.path.join(CAR, s['photo']), s.get('bright', 1), s.get('sat', 1))
         bad = [n for n, x, l in (('bright', v, lo[0]), ('sat', sat, lo[1]), ('colour', c, lo[2])) if x < l]
         if bad:
             fails.append((i, os.path.basename(s['photo']), bad, round(v, 2), round(sat, 2), round(c, 2)))

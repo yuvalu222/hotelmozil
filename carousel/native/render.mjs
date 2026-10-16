@@ -64,7 +64,7 @@ export function slideHtml(slide, base) {
 ${SFHR ? `<style>@font-face{font-family:'SFHR';src:url(data:font/ttf;base64,${SFHR});font-weight:100 1000}</style>` : ''}
 <style>
 html,body{margin:0;width:${W}px;height:${H}px;overflow:hidden;background:#000}
-.ph{position:absolute;inset:0;width:${W}px;height:${H}px;object-fit:cover;object-position:${fx * 100}% ${fy * 100}%;transform:scale(${slide.zoom || 1});${slide.bright ? `filter:brightness(${slide.bright});` : ''}transform-origin:${fx * 100}% ${fy * 100}%}
+.ph{position:absolute;inset:0;width:${W}px;height:${H}px;object-fit:cover;object-position:${fx * 100}% ${fy * 100}%;transform:scale(${slide.zoom || 1});${slide.bright || slide.sat ? `filter:brightness(${slide.bright || 1}) saturate(${slide.sat || 1});` : ''}transform-origin:${fx * 100}% ${fy * 100}%}
 .blk{position:absolute;left:50%;text-align:center;direction:rtl}
 .ln{font-family:${SFHR ? "'SFHR'" : "'TikTok Sans',Arial"},sans-serif;font-weight:${SFHR ? WEIGHT : Number(process.env.HM_WEIGHT || 500)};color:#fff;-webkit-text-stroke-color:#000;paint-order:stroke fill;line-height:1.36;-webkit-text-stroke-linejoin:round;white-space:pre-wrap;word-break:normal}
 .red{color:#ee2b3b;-webkit-text-stroke-color:#fff}

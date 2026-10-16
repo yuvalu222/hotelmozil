@@ -16,7 +16,7 @@ const HERE = import.meta.dirname;
 const deck = process.argv[2];
 const R = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}.json`), 'utf8'));
 const P = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
-const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}) });
+const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.sat ? { sat: p.sat } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
 const FOLDER = {
