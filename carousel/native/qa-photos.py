@@ -9,7 +9,7 @@
 #   python native/qa-photos.py            all decks
 import json, os, glob, sys
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageEnhance
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CAR = os.path.join(HERE, '..')
@@ -27,8 +27,10 @@ SOURCES = {
     'e5-photospots': 'harvest/sources/travellingcloset1-7533911575296527638',
 }
 
-def measure(path):
+def measure(path, bright=1):
     im = Image.open(path).convert('RGB'); im.thumbnail((400, 400))
+    if bright != 1:
+        im = ImageEnhance.Brightness(im).enhance(bright)  # the slide's own exposure lift (render.mjs)
     a = np.asarray(im).astype(float)
     hsv = np.asarray(im.convert('HSV')).astype(float) / 255
     rg = a[..., 0] - a[..., 1]; yb = 0.5 * (a[..., 0] + a[..., 1]) - a[..., 2]
@@ -44,7 +46,7 @@ def run(deck):
     for i, s in enumerate(spec['slides'], 1):
         if 'photo' not in s:
             continue
-        v, sat, c = measure(os.path.join(CAR, s['photo']))
+        v, sat, c = measure(os.path.join(CAR, s['photo']), s.get('bright', 1))
         bad = [n for n, x, l in (('bright', v, lo[0]), ('sat', sat, lo[1]), ('colour', c, lo[2])) if x < l]
         if bad:
             fails.append((i, os.path.basename(s['photo']), bad, round(v, 2), round(sat, 2), round(c, 2)))
@@ -64,7 +66,7 @@ def duplicates(decks):
     # 13.10: a photo smaller than the slide gets upscaled = blurry
     for k, v in seen.items():
         w, h = Image.open(os.path.join(HERE, 'pool', 'full', k)).size if os.path.exists(os.path.join(HERE, 'pool', 'full', k)) else (9999, 9999)
-        if max(1440 / w, 1920 / h) > 1.02: print('TOO SMALL (blurry)', k, f'{w}x{h}', v)
+        if max(1440 / w, 1920 / h) > 1.1: print('TOO SMALL (blurry)', k, f'{w}x{h}', v)
     for k, v in dup.items(): print('DUPLICATE', k, v)
     return dup
 

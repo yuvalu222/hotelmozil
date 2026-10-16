@@ -86,13 +86,13 @@
     "id": "pexels-18398867"
    },
    {
-    "id": "Hnygcnq9mh8"
+    "id": "pin-e1_AfqPShx9y8Wg3gQqMgwPXM6BBgOP3mMR0DVx3IvOv5masJgOyrUGxw"
    },
    {
     "id": "xiRM7d8nQ2Q"
    },
    {
-    "id": "NWtTjvTr6ms"
+    "id": "pin-e1_AfqPShzFNA6_aVp9rGAhQkaE1jnpD648mWktAJ6yWw60RARwJqzJuA"
    }
   ],
   "extra": {
@@ -169,32 +169,34 @@
  },
  "e2-islands": {
   "cover": {
-   "id": "pexels-38374405"
+   "id": "pin-e1_AfqPShzs9caVYKBNysSKX5IADOJy7aM84D6PC-OHdaC9UEL8_USY"
   },
   "slides": [
    {
-    "id": "pexels-12002196"
+    "id": "pin-e1_AfqPShxM-C2fddNrTMuQZ87QGdfH7GfFUoytXuOsyEg7pDlJEMMr"
    },
    {
     "id": "NZ0-sx1-HwQ"
    },
    {
-    "id": "pexels-39534280"
+    "id": "pexels-39534280",
+    "top": 0.56
    },
    {
-    "id": "pexels-36148813"
+    "id": "pin-e1_AfqPShxhbqkSDFgv8ueP9gXsLQqPzR2gO_0_1fECX-aByncA4wwr"
    },
    {
-    "id": "pexels-8300151"
+    "id": "ExdDr5SdAsI",
+    "bright": 1.2
    },
    {
-    "id": "a6kCiT9RsJ4"
+    "id": "pin-e1_AfqPShyOboiv1Rshgz1NqbSbUzlpQntpdkD6bTxBsIZ5Zd_-_32d"
    },
    {
     "id": "pexels-31371755"
    },
    {
-    "id": "DNvK5t8_6nM"
+    "id": "pin-e1_AfqPShwHiVrl5k7NMWqAwFm_A-yihRLI-OHFz-D0RGU3EWrRftg4"
    }
   ],
   "folder": "this"

@@ -16,7 +16,7 @@ const HERE = import.meta.dirname;
 const deck = process.argv[2];
 const R = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}.json`), 'utf8'));
 const P = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
-const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5] });
+const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
 const FOLDER = {
@@ -40,7 +40,7 @@ if (deck === 'e1-traps') {
   });
 } else if (deck === 'e2-islands') {
   slides.push({ ...photo(P.cover), top: 0.3, lines: [L(R.cover.line, 's'), L(R.cover.title, 'xl')] });
-  R.islands.forEach((is, i) => slides.push({ ...photo(P.slides[i]), top: 0.26, width: 0.84, lines: [L(is.label, 's'), L(is.place, 'xl'), ...(is.line ? [gap(0.012), L(is.line, 's')] : [])] }));
+  R.islands.forEach((is, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.26, width: 0.74, lines: [L(is.label, 's'), L(is.place, 'xl'), ...(is.line ? [gap(0.012), L(is.line, 's')] : [])] }));
 } else if (deck === 'e3-hotel') {
   slides.push({ ...photo(P.cover), top: 0.62, lines: R.cover.lines.map((t) => L(t, 'l')) });
   R.slides.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: 0.62, lines: [L(s.line, 'm')] }));

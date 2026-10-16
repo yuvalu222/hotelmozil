@@ -1,6 +1,7 @@
 // Download every picked photo at 1440px wide (Unsplash's own resize), once.
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 const HERE = import.meta.dirname;
 const pool = JSON.parse(fs.readFileSync(path.join(HERE, 'pool', 'pool.json'), 'utf8'));
 const picks = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'));
@@ -22,4 +23,6 @@ for (const id of ids) {
   if (!r.ok) { console.log(id, r.status); continue; }
   fs.writeFileSync(f, Buffer.from(await r.arrayBuffer()));
 }
+// some Pinterest originals are HEIC under a .jpg name: convert them
+execFileSync('python', [path.join(HERE, 'heic2jpg.py')], { stdio: 'inherit' });
 console.log(ids.size, 'photos in', out);
