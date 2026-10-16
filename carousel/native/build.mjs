@@ -70,7 +70,7 @@ if (deck.startsWith('d1')) {
     ...photo(picks.slides[i]), top: 0.19,
     lines: [L(s.heading, 'm'), gap(0.1), ...s.lines.map((t) => L(t, 's', { lh: 1.25 }))],
   }));
-  slides.push({ ...photo(picks.last), top: 0.36, width: 0.8, lines: research.last.lines.map((t) => L(t, 's')) });
+  slides.push({ ...photo(picks.last), top: 0.36, width: 0.7, lines: research.last.lines.map((t) => L(t, 's')) });
   slides.push({ copy: FOLDER[picks.folder || 'tip'] });
 } else if (deck.startsWith('d5')) {
   slides.push({ ...photo(picks.cover), blocks: [

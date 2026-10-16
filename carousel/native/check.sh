@@ -3,3 +3,4 @@
 #   sh native/check.sh d1-tips-part2 d5-places ...
 python native/qa-photos.py "$@" && python native/spelling.py
 ls native/emoji160 | wc -l | xargs echo "emoji at 160px:"
+for d in "$@"; do python native/qa-text.py "native/out/$d" "native/out/$d-4k" 2>/dev/null | tail -1; done
