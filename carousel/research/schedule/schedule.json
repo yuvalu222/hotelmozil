@@ -1,0 +1,12 @@
+[
+ {"date": "2026-10-17", "time": "20:30", "deck": "n4-route-two-weeks", "status": "approved"},
+ {"date": "2026-10-18", "time": "19:00", "deck": "n7-islands-underrated", "status": "needs his look"},
+ {"date": "2026-10-19", "time": "19:00", "deck": "n5-places-not-to-miss", "status": "one photo left"},
+ {"date": "2026-10-20", "time": "19:00", "deck": "g1-seven-eleven", "status": "needs photos"},
+ {"date": "2026-10-21", "time": "19:00", "deck": "n6-tourist-traps", "status": "re-photo"},
+ {"date": "2026-10-24", "time": "20:30", "deck": "n10-photo-spots", "status": "re-photo"},
+ {"date": "2026-10-25", "time": "19:00", "deck": "n1-thailand-tips-part2", "status": "re-photo"},
+ {"date": "2026-10-26", "time": "19:00", "deck": "n3-forbidden-thailand", "status": "re-photo"},
+ {"date": "2026-10-27", "time": "19:00", "deck": "n9-not-a-tourist", "status": "re-photo"},
+ {"date": "2026-10-28", "time": "19:00", "deck": "new", "status": "to make"}
+]
