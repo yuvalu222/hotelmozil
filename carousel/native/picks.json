@@ -296,28 +296,38 @@
  },
  "d4-route-main": {
   "cover": {
-   "id": "jqs9kkmYimQ"
+   "id": "pin-e1_AfqPShyezGhk0MGPd8G2oxyH5Xd2nHnI8-ajhaJtOahnDin5s4uCtw"
   },
   "slides": [
    {
-    "id": "wcghi5PGJcI"
+    "id": "pin-e1_AfqPShx-l0Q4dH5hkc73QZDT0Rg0SIqAqZhH2hBU5GFjdtR4_pHe"
    },
    {
-    "id": "Z9Swq0JzH9U"
+    "id": "pin-e1_AfqPShxXdiUQs2nq8ksuYjfAaLQp7Hrvz394wXQQw0Hzy0xohR6BuA"
    },
    {
     "id": "NvOsXFPBhBg"
    },
    {
-    "id": "f7k8eqERzpM"
+    "id": "pin-e1_AfqPShxw5YghSIQgpRE6f1mr4Qj8FWKA1AKI32ILTD7WiOAtOm-6",
+    "focus": [
+     0.5,
+     0.0
+    ],
+    "zoom": 1.08
    },
    {
-    "id": "R2V9Ehf77cY"
+    "id": "pin-e1_AfqPShxdaOJPVPa8CTSCK4VWvspHDulJdPFERn6ozhWJ2XqEW3pR"
    }
   ],
   "last": {
-   "id": "VmRQHXHfygw"
+   "id": "pin-e1_AfqPShzRrP2f7U-iR-dCUaxgUHdy2KhlWLE4x4hSaviITCyuVwMq"
   },
   "folder": "tip"
+ },
+ "g1-seven-eleven": {
+  "cover": {
+   "id": "pexels-35125688"
+  }
  }
 }

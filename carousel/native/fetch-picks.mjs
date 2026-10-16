@@ -17,7 +17,7 @@ for (const id of ids) {
   // upscaled them (blurry). Ask for the width that covers 1440x1920.
   const ar = pool[id].w && pool[id].h ? pool[id].w / pool[id].h : 0.75;
   const W = Math.min(4000 * SCALE, Math.max(1440 * SCALE, Math.ceil(1920 * SCALE * ar * 1.02)));
-  const src = pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=${W}` : `${pool[id].raw}&w=${W}&fm=jpg&q=90`;
+  const src = pool[id].source === 'pinterest' ? pool[id].raw : pool[id].source === 'pexels' ? `${pool[id].raw}?auto=compress&cs=tinysrgb&w=${W}` : `${pool[id].raw}&w=${W}&fm=jpg&q=90`;
   const r = await fetch(src, { headers: { 'User-Agent': 'Mozilla/5.0 Chrome/152.0' } });
   if (!r.ok) { console.log(id, r.status); continue; }
   fs.writeFileSync(f, Buffer.from(await r.arrayBuffer()));
