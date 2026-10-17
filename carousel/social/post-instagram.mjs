@@ -12,6 +12,11 @@ const argv = process.argv.slice(2);
 const opt = (k) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : null; };
 const folder = argv[0], caption = opt('--caption') || '';
 const POST = argv.includes('--post');
+// IRON RULE (owner, 17.10): never a post without music. instagram.com has no
+// music option for feed posts or carousels (checked on the create flow and on
+// Edit), and the Graph API has none for carousels either. So this route may
+// never share: it stays a dry run until a route with music exists.
+if (POST) throw new Error('refused: Instagram web cannot add music, and no post goes up without music');
 const files = fs.readdirSync(folder).filter((f) => /^\d\d\.jpg$/.test(f)).sort().map((f) => path.join(folder, f));
 if (!files.length || files.length > 10) throw new Error('Instagram takes 1-10 slides, got ' + files.length);
 if (/[؀-ۿ]/.test(caption)) throw new Error('Arabic in caption');

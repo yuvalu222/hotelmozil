@@ -17,6 +17,8 @@ if (!files.length || files.length > 35) throw new Error('slides: ' + files.lengt
 if ([...tags.matchAll(/#\S+/g)].length !== 5) throw new Error('need exactly 5 hashtags');
 if (/[\u0600-\u06FF]/.test(tags + title)) throw new Error('Arabic in title/hashtags');
 if (title.length > 90) throw new Error('title over 90 chars');
+// IRON RULE (owner, 17.10): never a post without music
+if (!sound) throw new Error('refused: --sound is required, no post goes up without music');
 
 const PROFILE = path.join(process.env.LOCALAPPDATA, 'HotelMozil', 'social-profile');
 const ctx = await chromium.launchPersistentContext(PROFILE, {
@@ -89,6 +91,7 @@ try {
   const form = (await page.evaluate(() => document.body.innerText)).replace(/\s*\n+\s*/g, ' | ');
   console.log('FORM', form.slice(form.indexOf('פרטים'), form.indexOf('פרטים') + 700));
   if (POST) {
+    if (!/להחליף/.test(form.slice(form.indexOf('סאונד'), form.indexOf('סאונד') + 200))) throw new Error('refused: no sound is attached to the post');
     await page.getByRole('button', { name: 'לפרסם', exact: true }).click();
     await page.waitForTimeout(15000);
     await shot('posted');
