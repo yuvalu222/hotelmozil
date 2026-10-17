@@ -1,0 +1,190 @@
+{
+ "deck": "k3-phuket",
+ "out": "n14-phuket-must-do",
+ "format_source": "@mega_tours 7519772031026547976 '6 דברים שאסור לכם לפספס / כשאתם מגיעים לפוקט 🇹🇭' (219,000 plays) + @travelpop.my 7521681438006070546 'Things to do in Phuket' (155K likes, 127.6K saves): cover names Phuket, then one place per slide with its name and the best photos of it. Our slides: pinned name + one personal line (owner rule: every slide carries copy).",
+ "cover_evidence": "'טסים ל...?' x2.97 n=36; destination in cover x2.57; 'חייבים' among the words strong Hebrew covers use (COVERS-HE.md, 00-SUMMARY.md)",
+ "title": "טסים לפוקט? כל מה שאתם חייבים לעשות שם 🇹🇭",
+ "cover": {
+  "lines": [
+   [
+    "טסים לפוקט? 🇹🇭",
+    "l"
+   ],
+   [
+    "כל מה שאתם חייבים לעשות שם",
+    "m"
+   ],
+   [
+    "🌅🛕🏝️🪷",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "place": "Promthep Cape",
+   "lines": [
+    [
+     "📍 Promthep Cape",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "השקיעה הכי יפה בפוקט 🌅",
+     "s"
+    ],
+    [
+     "תגיעו שעה לפני, זה מתמלא",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Big Buddha Phuket",
+   "lines": [
+    [
+     "📍 Big Buddha",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בודהה ענק מעל כל האי 🤍",
+     "s"
+    ],
+    [
+     "והנוף מלמעלה פסיכי",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Phuket Old Town",
+   "lines": [
+    [
+     "📍 Phuket Old Town",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בתים צבעוניים וקפה מושלם ☕",
+     "s"
+    ],
+    [
+     "ביום ראשון יש שם שוק לילה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Freedom Beach",
+   "lines": [
+    [
+     "📍 Freedom Beach",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מגיעים רק בסירה 🚤",
+     "s"
+    ],
+    [
+     "והמים צלולים ברמותתת",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Karon Viewpoint",
+   "lines": [
+    [
+     "📍 Karon Viewpoint",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "שלושה חופים בתמונה אחת 😍",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בפוקט ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "Ma Doo Bua Cafe",
+   "lines": [
+    [
+     "📍 Ma Doo Bua",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בית קפה בתוך אגם לוטוסים 🪷",
+     "s"
+    ],
+    [
+     "הצטלמתי בסירה בין העלים 🛶",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Bangla Road",
+   "lines": [
+    [
+     "📍 Bangla Road",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בלילה כל פטונג יוצאת לפה 🎉",
+     "s"
+    ],
+    [
+     "משוגע, אבל חייבים פעם אחת",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "tip",
+ "tags": [
+  "פוקט",
+  "תאילנד",
+  "phuket",
+  "thailand",
+  "thailandtravel"
+ ],
+ "music": "You Got the Love (Club Mix) - Florence + The Machine (הסאונד של @travelpop.my)"
+}

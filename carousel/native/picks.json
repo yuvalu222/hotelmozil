@@ -569,5 +569,90 @@
    }
   ],
   "folder": "must"
+ },
+ "k4-bkk-hidden": {
+  "cover": {
+   "id": "pin-e1_AfqPShwYuqg_D3Y2jXbxVVGdEbOCI_ziiWT1tMfCwct6uFR7jmxOpg",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShyKLrVSUaZDfh4v6dT8l4kNX5c80ORME-pJv6Joio8Qe5ME",
+    "slot": "paknam"
+   },
+   {
+    "id": "pin-e1_AfqPShzrfithOojlpfJ2AEZFAXViWTthteV5NciDXjunxyeiKa86",
+    "slot": "talat-noi"
+   },
+   {
+    "id": "pin-e1_AfqPShzPlyeobVYlL18a0VdiRSZ3eN8URCtKVeqTFvmWaCf6Vnj8",
+    "slot": "erawan-museum"
+   },
+   {
+    "id": "pin-e1_AfqPShxNm4Ma_Pul1O-JQJTo03Fdb8LxHUQS64y0OOMN0R83Cjq6",
+    "slot": "marble-temple",
+    "zoom": 1.12,
+    "focus": [
+     0.5,
+     0.2
+    ]
+   },
+   {
+    "id": "pin-e1_AfqPShwj6UI1qqR6ZM92Vdu5kMrRubtQM_hGPlJWmWRE0I7F6dzX",
+    "slot": "golden-mount",
+    "zoom": 1.22,
+    "focus": [
+     0.62,
+     0.25
+    ]
+   },
+   {
+    "id": "pin-e1_AfqPShytuE03TiXELJW_i-iRG6iy4iXy2z5KFurha1v9DGG6nY6B",
+    "slot": "khlong"
+   }
+  ],
+  "folder": "personal"
+ },
+ "k3-phuket": {
+  "cover": {
+   "id": "pin-e1_AfqPShwiILazh9GzXkT1mvlEHHV5SgNjMkDV0HwVl0F5CW-bFH3B",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShy9BOiu8VGb_cVWXel6fqQY317nGceIY6UdzJUHUMDBhWsu",
+    "slot": "promthep"
+   },
+   {
+    "id": "pin-e1_AfqPShy7ZPGSSKjXGWOTV3OiIuQJjyNROfWQUXHOW3OevCZlu6cKPQ",
+    "slot": "big-buddha"
+   },
+   {
+    "id": "pin-e1_AfqPShxDKms2WsViWEp1WnXKyBPvf85GXI2bBweLIvuhIxrTtdX3",
+    "slot": "old-town"
+   },
+   {
+    "id": "pin-e1_AfqPShz-uF4C3ZfZGRE2MLjQky4RDs0PNC5F29RAqOyojj7EL-5_",
+    "slot": "freedom-beach"
+   },
+   {
+    "id": "pin-e1_AfqPShz_dDkRp8X6Qhv2qtZ5QJDj03mYBCCifufHX4R4PPgBHFPu",
+    "slot": "karon-viewpoint"
+   },
+   {
+    "id": "pin-e1_AfqPShzehZN9owNtiH2W92xzd2wKqzZxGr3I0SthxCfAmnRnZ8wV",
+    "slot": "madoobua",
+    "zoom": 1.25,
+    "focus": [
+     0.3,
+     0.2
+    ]
+   },
+   {
+    "id": "pin-e1_AfqPShxrwqyhxP4fleCJskxOE6XTbMnKDb-V08rkqNqiX06LAvG4",
+    "slot": "bangla"
+   }
+  ],
+  "folder": "tip"
  }
 }

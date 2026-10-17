@@ -1,0 +1,177 @@
+{
+ "deck": "k4-bkk-hidden",
+ "out": "n15-bangkok-hidden-side",
+ "format_source": "@maoravinoam 7601943338396192016 'כולם מכירים את בנגקוק של התיירים / הנה הצד שאף אחד לא מגלה לכם' (194,500 plays, 5,675 saves, 4,509 followers): cover = a person over the Bangkok skyline + the hook; each slide = a place the tourist route skips, named on the photo, with a personal line.",
+ "cover_evidence": "secret / 'לא מגלים' pattern = the strongest in both languages (00-SUMMARY.md: EN x4.3, 17/19 creators; HE x1.4); Bangkok named (destination x2.57)",
+ "title": "כולם מכירים את בנגקוק של התיירים, הנה הצד שאף אחד לא מגלה לכם 🤫",
+ "cover": {
+  "lines": [
+   [
+    "כולם מכירים את בנגקוק",
+    "l"
+   ],
+   [
+    "של התיירים",
+    "l"
+   ],
+   [
+    "הנה הצד שאף אחד",
+    "m"
+   ],
+   [
+    "לא מגלה לכם 🤫",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "place": "Wat Paknam Phasi Charoen",
+   "lines": [
+    [
+     "📍 Wat Paknam",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בקומה העליונה יש תקרה",
+     "s"
+    ],
+    [
+     "שנראית כמו גלקסיה 🤯🤯",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Talat Noi",
+   "lines": [
+    [
+     "📍 Talat Noi",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "סמטאות עם גרפיטי ובתי קפה",
+     "s"
+    ],
+    [
+     "כל פינה שם היא תמונה 📸",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Erawan Museum",
+   "lines": [
+    [
+     "📍 Erawan Museum",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מבחוץ פיל ענק עם שלושה ראשים",
+     "s"
+    ],
+    [
+     "ובפנים התקרה הזאת ✨",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בבנגקוק ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "Wat Benchamabophit (Marble Temple)",
+   "lines": [
+    [
+     "📍 Marble Temple",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מקדש שכולו שיש לבן 🤍",
+     "s"
+    ],
+    [
+     "והיינו שם כמעט לבד",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Golden Mount (Wat Saket)",
+   "lines": [
+    [
+     "📍 Golden Mount",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "עולים בשקיעה 🌇",
+     "s"
+    ],
+    [
+     "ורואים את כל בנגקוק מלמעלה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Bangkok khlongs (canals)",
+   "lines": [
+    [
+     "📍 התעלות של בנגקוק",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "שיט בסירה בין בתים על המים 🛶",
+     "s"
+    ],
+    [
+     "בנגקוק של פעם",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "personal",
+ "tags": [
+  "בנגקוק",
+  "תאילנד",
+  "bangkok",
+  "bangkokthailand",
+  "thailandtravel"
+ ],
+ "music": "Right Round (feat. Ke$ha) - Flo Rida (הסאונד של @maoravinoam)"
+}
