@@ -2,7 +2,10 @@
 // Off-screen, in the logged-in social profile. DRY RUN by default: uploads the
 // photos, fills title + hashtags + sound, screenshots, and closes WITHOUT
 // posting. --post clicks "לפרסם", only after the owner said go for this post.
-//   node social/post-tiktok.mjs <folder> --title "..." --tags "#a #b #c #d #e" --sound "<search>" --sound-match "<author>" [--post]
+// --at "YYYY-MM-DD HH:MM" (Israel time, minutes in steps of 5) schedules the
+// post in TikTok Studio instead of publishing now (18.10): TikTok keeps it on
+// its servers, so the PC does not have to be on at that time.
+//   node social/post-tiktok.mjs <folder> --title "..." --tags "#a #b #c #d #e" --sound "<search>" --sound-match "<author>" [--at "2026-10-18 17:00"] [--post]
 import { chromium } from 'playwright';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -11,6 +14,13 @@ const argv = process.argv.slice(2);
 const opt = (k) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : null; };
 const folder = argv[0], title = opt('--title'), tags = opt('--tags') || '', sound = opt('--sound'), soundMatch = opt('--sound-match') || sound;
 const POST = argv.includes('--post');
+const AT = opt('--at');
+if (AT) {
+  const m = AT.match(/^(\d{4}-\d\d-\d\d) (\d\d):(\d\d)$/);
+  if (!m || Number(m[3]) % 5) throw new Error('--at must be "YYYY-MM-DD HH:MM", minutes a multiple of 5');
+  const ms = new Date(`${m[1]}T${m[2]}:${m[3]}:00`).getTime() - Date.now();
+  if (ms < 20 * 60e3) throw new Error('--at is less than 20 minutes away: ' + AT);
+}
 const shots = path.join(folder, '_upload'); fs.mkdirSync(shots, { recursive: true });
 const files = fs.readdirSync(folder).filter((f) => /^\d\d\.jpg$/.test(f)).sort().map((f) => path.join(folder, f));
 if (!files.length || files.length > 35) throw new Error('slides: ' + files.length);
@@ -87,6 +97,7 @@ try {
     await use.asElement().click();
     await page.waitForTimeout(4000);
   }
+  if (AT) await schedule(AT);
   await shot('filled');
   const form = (await page.evaluate(() => document.body.innerText)).replace(/\s*\n+\s*/g, ' | ');
   console.log('FORM', form.slice(form.indexOf('פרטים'), form.indexOf('פרטים') + 700));
@@ -95,10 +106,66 @@ try {
     const at = form.indexOf('| סאונד |', form.indexOf('פרטים'));
     const end = form.indexOf('| תמונות', at);
     if (at < 0 || end < 0 || !/להחליף/.test(form.slice(at, end))) throw new Error('refused: no sound is attached to the post');
-    await page.getByRole('button', { name: 'לפרסם', exact: true }).click();
+    await page.getByRole('button', { name: AT ? /^(לפרסם|לתזמן|תזמון)$/ : 'לפרסם', exact: true }).first().click();
     await page.waitForTimeout(15000);
     await shot('posted');
     console.log('after post url', page.url());
     console.log((await page.evaluate(() => document.body.innerText)).replace(/\s*\n+\s*/g, ' | ').slice(0, 600));
   } else console.log('DRY RUN: not posted. Screenshots in', shots);
 } finally { await ctx.close(); }
+
+// Picks the date in the calendar and the time in the two-column picker, then
+// reads both inputs back; anything but an exact match stops the post.
+async function schedule(at) {
+  const [ymd, hm] = at.split(' ');
+  const [y, mo, d] = ymd.split('-').map(Number);
+  const [hh, mm] = hm.split(':');
+  const sc = page.locator('[data-e2e="schedule_container"]');
+  await sc.locator('label', { hasText: 'תזמון' }).first().click();
+  await page.waitForTimeout(2500);
+  // first time on an account TikTok asks to keep the media until the post time
+  await page.getByRole('button', { name: 'לאפשר', exact: true }).click({ timeout: 4000 }).catch(() => {});
+  await page.waitForTimeout(2500);
+  const inputs = sc.locator('input.TUXTextInputCore-input');
+  const field = (re) => inputs.evaluateAll((els, src) => els.findIndex((e) => new RegExp(src).test(e.value)), re.source);
+  const dateIn = inputs.nth(await field(/^\d{4}-\d\d-\d\d$/));
+  const timeIn = inputs.nth(await field(/^\d\d:\d\d$/));
+
+  const MONTHS = ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'];
+  await dateIn.click(); await page.waitForTimeout(1500);
+  const cal = page.locator('.calendar-wrapper').last();
+  // months from the target: negative = shown month is before it
+  const gap = async () => {
+    const shown = MONTHS.indexOf((await cal.locator('.month-title').innerText()).trim());
+    const year = Number((await cal.locator('.year-title').innerText()).trim());
+    return (year - y) * 12 + shown - (mo - 1);
+  };
+  // which of the two arrows goes forward is not assumed (the page is RTL): flip it if a click moved away
+  let fwd = 1;
+  for (let i = 0, g = await gap(); g !== 0; i++) {
+    if (i > 6) throw new Error('calendar did not reach ' + ymd);
+    await cal.locator('.arrow').nth(g < 0 ? fwd : 1 - fwd).click(); await page.waitForTimeout(800);
+    const g2 = await gap();
+    if (Math.abs(g2) > Math.abs(g)) fwd = 1 - fwd;
+    g = g2;
+  }
+  // days of the shown month sit between its first "1" and the next month's "1"
+  const days = await cal.locator('span.day').allInnerTexts();
+  const start = days.indexOf('1'), end = days.indexOf('1', start + 1);
+  const idx = days.findIndex((t, i) => i >= start && (end < 0 || i < end) && t.trim() === String(d));
+  if (idx < 0) throw new Error('day not in calendar: ' + ymd);
+  await cal.locator('span.day').nth(idx).click(); await page.waitForTimeout(1500);
+
+  await timeIn.click(); await page.waitForTimeout(1500);
+  for (const [side, val] of [['left', hh], ['right', mm]]) {
+    const opt = page.locator(`span.tiktok-timepicker-option-text.tiktok-timepicker-${side}`, { hasText: new RegExp(`^${val}$`) }).first();
+    await opt.scrollIntoViewIfNeeded(); await opt.click(); await page.waitForTimeout(800);
+  }
+  // close the time list: it stays open over the form after a pick
+  await page.keyboard.press('Escape').catch(() => {});
+  await page.getByText('פרטים', { exact: true }).first().click().catch(() => {});
+  await page.waitForTimeout(1000);
+  const got = [await dateIn.inputValue(), await timeIn.inputValue()];
+  console.log('scheduled fields', got.join(' '));
+  if (got[0] !== ymd || got[1] !== hm) throw new Error(`schedule not set: wanted ${at}, form shows ${got.join(' ')}`);
+}
