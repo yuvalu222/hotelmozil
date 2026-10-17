@@ -13,18 +13,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { renderDeck } from './render.mjs';
+import { CLOSER } from './closer.mjs';
 
 const HERE = import.meta.dirname;
 const deck = process.argv[2];
 const R = JSON.parse(fs.readFileSync(path.join(HERE, 'research', `${deck}.json`), 'utf8'));
 const P = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[deck];
 if (!P) throw new Error(`no photo picks for ${deck} in native/picks.json`);
-const FOLDER = {
-  must: 'harvest/own-full/7678361608925482261/07.jpg',
-  this: 'harvest/own-full/7681254316103027989/06.jpg',
-  personal: 'harvest/own-full/7676865634118110484/06.jpg',
-  tip: 'harvest/own-full/7682476408320380180/08.jpg',
-};
 const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5],
   ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.sat ? { sat: p.sat } : {}) });
 const L = ([t, s]) => (t === '' ? { t: '', h: s } : { t, s });
@@ -38,7 +33,7 @@ const one = (src, pick, defTop) => {
 };
 slides.push(one(R.cover, P.cover, 0.14));
 R.slides.forEach((s, i) => slides.push(one(s, P.slides[i], 0.12)));
-slides.push({ copy: FOLDER[P.folder || 'must'] });
+slides.push(CLOSER);
 
 const spec = { name: deck, slides };
 const specPath = path.join(HERE, 'decks', `${deck}.json`);

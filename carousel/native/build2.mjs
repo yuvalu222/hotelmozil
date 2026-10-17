@@ -11,6 +11,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { renderDeck } from './render.mjs';
+import { CLOSER } from './closer.mjs';
 
 const HERE = import.meta.dirname;
 const deck = process.argv[2];
@@ -19,12 +20,6 @@ const P = JSON.parse(fs.readFileSync(path.join(HERE, 'picks.json'), 'utf8'))[dec
 const photo = (p) => ({ photo: `native/pool/full/${p.id}.jpg`, focus: p.focus || [0.5, 0.5], ...(p.zoom ? { zoom: p.zoom } : {}), ...(p.bright ? { bright: p.bright } : {}), ...(p.sat ? { sat: p.sat } : {}), ...(p.top !== undefined ? { _top: p.top } : {}) });
 const L = (t, s, x = {}) => ({ t, s, ...x });
 const gap = (h) => ({ t: '', h });
-const FOLDER = {
-  must: 'harvest/own-full/7678361608925482261/07.jpg',
-  this: 'harvest/own-full/7681254316103027989/06.jpg',
-  personal: 'harvest/own-full/7676865634118110484/06.jpg',
-  tip: 'harvest/own-full/7682476408320380180/08.jpg',
-};
 const slides = [];
 
 if (deck === 'e1-traps') {
@@ -48,12 +43,12 @@ if (deck === 'e1-traps') {
 } else if (deck === 'e4-not-tourist') {
   slides.push({ ...photo(P.cover), top: 0.6, lines: R.cover.lines.map((t) => L(t, 'l')) });
   R.slides.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: 0.08, lines: [L(s.heading, 'l'), gap(0.02), ...s.lines.map((t) => L(t, 's'))] }));
-  slides.push({ ...photo(P.last), top: 0.4, lines: R.last.lines.map((t) => L(t, 'm')) });
+  // 17.10: no "follow for more" slide before the closer (owner: it reads as the end, people leave)
 } else if (deck === 'e5-photospots') {
   slides.push({ ...photo(P.cover), top: 0.12, lines: R.cover.lines.map((t, i) => L(t, i ? 'm' : 'xl')) });
   R.spots.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.12, width: 0.84, lines: [L(s.pin, 'm'), ...(s.line ? [gap(0.01), L(s.line, 's')] : [])] }));
 }
-slides.push({ copy: FOLDER[P.folder || 'must'] });
+slides.push(CLOSER);
 
 // a pick's own "top" moves the text block off the subject (e2/e5 already read it themselves)
 for (const s of slides) if (s._top !== undefined) { s.top = s._top; delete s._top; }
