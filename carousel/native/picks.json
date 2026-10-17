@@ -380,16 +380,37 @@
     "top": 0.04
    },
    {
-    "file": "native/pool/placeholders/g1-5.jpg"
+    "id": "pin-e1_AfqPShyE1seGHDKI2lgNS6xsnJ7G59ysYY_udT3zxysnDGTR8lCu",
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "top": 0.69
    },
    {
-    "file": "native/pool/placeholders/g1-6.jpg"
+    "id": "pin-e1_AfqPShy-3bv10heI2kVsuRMbRVsjV0qVks3m23NvYLkyfHN8xH9Q",
+    "focus": [
+     0.7,
+     1.0
+    ],
+    "zoom": 1.8
    },
    {
-    "file": "native/pool/placeholders/g1-7.jpg"
+    "id": "pin-e1_AfqPShxoUv5Swaen0KpDKP3ZI0ldUUe4Zao0cBw7hFJPpi4GKred",
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "top": 0.69
    },
    {
-    "file": "native/pool/placeholders/g1-8.jpg"
+    "id": "pin-e1_AfqPShzFG6MCmF1E-KnR0EJlwzPyFbJ-Du2YIdR6lLMSfZiYFQ10",
+    "focus": [
+     0.12,
+     0.85
+    ],
+    "zoom": 1.9,
+    "top": 0.62
    }
   ],
   "folder": "tip"

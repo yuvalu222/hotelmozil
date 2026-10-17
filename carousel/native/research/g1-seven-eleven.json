@@ -53,46 +53,93 @@
    "basis": "liisapihlak \"Locals use these constantly\"; mor_hagay \"מעוררת ופותחת את כל דרכי הנשימה\"; shannonince15 \"40 baht\""
   },
   {
-   "product": "Lerpang banana cupcake",
-   "creators": 3,
-   "lines": [
-    "מאפין בננה ב-1.3₪ 🍌",
-    "רך ברמות, ארוחת בוקר מושלמת",
-    "ויש עוד מלא טעמים 😍"
-   ],
-   "basis": "goravepassan \"Super Soft And Moist. So Many Other Flavour Varieties... 12 Baht\"; ellielee996 \"So tasty for breakfast\""
-  },
-  {
-   "product": "Rasyan clove toothpaste",
-   "creators": 3,
-   "lines": [
-    "משחת שיניים ציפורן 🦷",
-    "הרגשה של אחרי שיננית!!",
-    "רק לא כל יום 😬"
-   ],
-   "basis": "fulltimetrippin \"post-dentist, squeaky clean freshness... clove toothpaste\"; lifebypolina \"not to be used daily, can lead to heightened sensitivity\""
-  },
-  {
-   "product": "Soffell mosquito spray (pink)",
+   "product": "EZY Taste toastie (7-Eleven toasted sandwich)",
    "creators": 6,
    "lines": [
-    "ספריי היתושים הוורוד 🦟",
-    "מריח כמו בושם ועובד!!!",
-    "תקנו 2, נגמר מהמדפים 🙏🏼"
+    "הטוסט של הסבן 🥪",
+    "אכלתי אחד כל יום, באמת",
+    "מלא טעמים, בערך 3.5₪ 🤩"
    ],
-   "basis": "shannonince15 \"I use it as a perfume and repellent... 77 baht\"; nomap.needed \"the pink one is the best - buy 2 or 3 cause sometimes they're out of stock\""
+   "basis": "keeleydegay15 \"i literally have one every single day for a snack\"; fulltimetrippin \"Soooo many different flavors - you can't go wrong! (Cost = 32 THB)\"; goravepassan \"32 Baht\"",
+   "photo": "pin-e1_AfqPShyE1seGHDKI2lgNS6xsnJ7G59ysYY_udT3zxysnDGTR8lCu: hand holding the EZY Taste toasted sandwich bag (\"Only at 7-Eleven\") over a Bangkok rooftop pool, 4284x5712; text sits on the pool below the bag",
+   "swapped": {
+    "from": "Lerpang banana cupcake",
+    "from_rank": 16,
+    "from_creators": 3,
+    "from_plays": 2369700,
+    "to_rank": 3,
+    "to_creators": 6,
+    "to_plays": 4435900,
+    "reason": "No photo of a Lerpang cupcake at any size (English and Thai-script queries, เลอแปง): only home-baked banana muffins, other 7-Eleven bakery items (a Banoffee cup, Japanese 7-Eleven bread) and AI-looking cupcake art. The toastie is the highest-ranked item (tally.md section 1) not yet in the deck; food for food."
+   }
   },
   {
-   "product": "Baby Bright aloe & collagen eye roller",
+   "product": "Dove Intense Repair daily hair vitamin capsules",
    "creators": 4,
    "lines": [
-    "הרולר לעיניים\nשל בייבי ברייט 👀",
-    "אלוורה וקולגן, מעיר את העיניים",
-    "כולם עושים לזה הייפ ובצדק 🥹"
+    "קפסולות השיער\nשל Dove 💜",
+    "אחת על שיער לח וזהו",
+    "הצילו לי את השיער בחום",
+    "קטנות ונכנסות לכל תיק"
    ],
-   "basis": "starrose222 \"Everyone hypes these up so wanted to try! Brightens under eye\""
+   "basis": "ellielee996 \"These saved my hair from the water and heat over here. Just pop some in your damp hair\"; starrose222 \"come in small pods easy for one use ... Keeps your hair from drying out\"",
+   "photo": "pin-e1_AfqPShy-3bv10heI2kVsuRMbRVsjV0qVks3m23NvYLkyfHN8xH9Q: a real haul flat lay on a bed, cropped (zoom 1.8) to the Thai-label Dove 10X and Dove Intense Repair capsule cards, 3024x4032 (3 of the 4 creators showed Dove as a flat lay)",
+   "swapped": {
+    "from": "Rasyan clove toothpaste",
+    "from_rank": 12,
+    "from_creators": 3,
+    "from_plays": 4011500,
+    "to_rank": 11,
+    "to_creators": 4,
+    "to_plays": 2892700,
+    "reason": "Only packshots and promo graphics (Rasyan's own 2048x2048 promo, a 2000x2000 box shot on white, 1254x1254 promos); no photo of the clove toothpaste held or on a table. Dove is the next-ranked item with a real photo after the toastie, Rojukiss and Tiger Balm (#8 red-bow inhaler skipped: already inside the inhaler slide, which merges Hanuman + red bow); toiletries for toiletries. The only hand-held Dove photo found (1200x1500) is too small and its card text is garbled, so it was rejected as likely AI."
+   }
+  },
+  {
+   "product": "Tiger Balm ointment (red / white)",
+   "creators": 4,
+   "lines": [
+    "משחת טייגר 🐯",
+    "אדומה לשרירים, לבנה לכאב ראש",
+    "עושה פלאים, בערך 7₪"
+   ],
+   "basis": "mor_hagay \"משחת טייגר שעושה פלאים!!! / הלבנה- מקררת ומרגיעה את האיזור לסובלים ממיגרנות- מריחה על המצח האדומה- מחממת ומרגיעה כאבי שרירים\"; shannonince15 \"Relieves aches and pains of muscles and joints / 67 baht\"",
+   "photo": "pin-e1_AfqPShxoUv5Swaen0KpDKP3ZI0ldUUe4Zao0cBw7hFJPpi4GKred: hand holding a red Tiger Balm box (made by OLIC Thailand) in front of a wall of Tiger Balm boxes in a store, 1440x1800; three lines so the whole box stays clear above the text",
+   "swapped": {
+    "from": "Soffell mosquito spray (pink)",
+    "from_rank": 2,
+    "from_creators": 6,
+    "from_plays": 4996300,
+    "to_rank": 9,
+    "to_creators": 4,
+    "to_plays": 3175000,
+    "reason": "Real photos of the Thai pink spray exist only small (hand-held 868x1156, shelf shots 750x1000); a 1080x1920 hand-held one is an Indonesian Soffell lotion video frame with a Shopee watermark across the bottle; the only big one (1757x2467) is a Soffell lotion shelf in an Indonesian shop, the lotion, not the spray the creators show. Tiger Balm is the next-ranked item with a real photo; a Thai remedy in place of the repellent."
+   }
+  },
+  {
+   "product": "Rojukiss serum sheet masks (10X)",
+   "creators": 6,
+   "lines": [
+    "מסכות הפנים\nשל Rojukiss ✨",
+    "אחרי טיסה או יום בשמש",
+    "10 דקות והעור חוזר לחיים",
+    "יש מלא סוגים, קחו כמה 😍"
+   ],
+   "basis": "liisapihlak \"Long flight, bad sleep or too much sun - this mask sorts it out. 10 minutes and your skin genuinely looks more alive\"; starrose222 \"they have tons to choose from!\"; keeleydegay15 \"will definitely be buying again before I leave\"",
+   "photo": "pin-e1_AfqPShzFG6MCmF1E-KnR0EJlwzPyFbJ-Du2YIdR6lLMSfZiYFQ10: hand pulling a Rojukiss 10X mask off a rack of 10X HYA / BHA / Vit C masks, 3024x4032. Shot on a \"Taste of Thailand\" shelf abroad (a price sticker names a Kathmandu supermarket); zoom 1.9 keeps the hand and both packs; the text covers the lower shelf banner and the stickers stay too small to read.",
+   "swapped": {
+    "from": "Baby Bright aloe & collagen eye roller",
+    "from_rank": 10,
+    "from_creators": 4,
+    "from_plays": 2982900,
+    "to_rank": 5,
+    "to_creators": 6,
+    "to_plays": 4306200,
+    "reason": "Only Karmart / Baby Bright ads, packshots and model shots at a usable size; the one hand-held shot is a 1179x1400 TikTok screenshot with the app's buttons over it. Rojukiss is the next-ranked item with a real photo after the toastie; skincare for skincare."
+   }
   }
  ],
  "closer": "harvest/own-full/7682476408320380180/08.jpg (his own 7-Eleven folder screenshot: \"וטיפ אישי לחסוך כסף...\")",
- "photo_rule": "66% of 190 viral product slides are hand-held (47% in the store aisle); 0 packshots. Each product needs a hand-held photo in a Thai 7-Eleven."
+ "photo_rule": "66% of 190 viral product slides are hand-held (47% in the store aisle); 0 packshots. Each product needs a hand-held photo in a Thai 7-Eleven.",
+ "swapped_note": "17.10: slides 6-9 (Lerpang, Rasyan, Soffell, Baby Bright) had no real photo, so each was replaced by the next item in tally.md section 1 (distinct creators) that is not already in the deck and has a real photo: #3 toastie, #5 Rojukiss, #9 Tiger Balm, #11 Dove (#8 red-bow inhaler is already in the inhaler slide). Each kept the vacated slot of its own category. 17.10 re-search on top of the 16.10 round (~120 Pinterest queries): ~150 new logged-out Pinterest queries across the four products and their replacements (Thai-script names, brand + Thai name, \"7 eleven must buy thailand\", \"7 eleven thailand haul\", \"7/11 thailand viral products\", TikTok/IG-style haul pins), 9 Pexels queries (nothing relevant), Unsplash search API refused (bot wall, 401). Every candidate checked by eye, finalists at 100%."
 }
