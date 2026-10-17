@@ -27,6 +27,8 @@ for (const e of q) {
   const keep = log.split('\n').filter((l) => /scheduled fields|chosen sound|sound rows|Error|refused|after post|DRY RUN/.test(l));
   console.log(keep.join('\n'));
   if (r.status !== 0) { console.log(`FAILED ${e.deck}, left pending`); continue; }
+  // 18.10: a post that went through lands on the content list; staying on the upload page means it did not
+  if (POST && !/after post url \S*tiktokstudio\/content/.test(log)) { console.log(`NOT CONFIRMED ${e.deck} (still on the upload page), left pending`); continue; }
   if (POST) {
     e.status = 'scheduled'; e.scheduledAt = new Date().toISOString();
     fs.writeFileSync(QUEUE, JSON.stringify(q, null, 1));

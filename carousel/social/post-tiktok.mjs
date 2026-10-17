@@ -83,15 +83,17 @@ try {
       throw new Error('sound not found: ' + soundMatch);
     }
     // the innermost element holding the match and exactly one "Use" button is the row
-    const use = await page.evaluateHandle((m) => {
-      const els = [...document.querySelectorAll('[role=dialog] *')].filter((e) => e.innerText && e.innerText.includes(m));
+    const use = await page.evaluateHandle(([m, t]) => {
+      // 18.10: the row must carry the song title too (author alone picked "Taste" for "Espresso")
+      const has = (e, x) => e.innerText.toLowerCase().includes(x.toLowerCase());
+      const els = [...document.querySelectorAll('[role=dialog] *')].filter((e) => e.innerText && has(e, m) && has(e, t));
       const rowsOne = els.filter((e) => [...e.querySelectorAll('button, [role=button], div, span')].filter((b) => b.innerText?.trim() === 'Use').length >= 1)
         .filter((e) => [...e.querySelectorAll('*')].filter((b) => b.children.length === 0 && b.innerText?.trim() === 'Use').length === 1);
       rowsOne.sort((a, b) => a.innerText.length - b.innerText.length);
       const row = rowsOne[0]; if (!row) return null;
       window.__hmRow = row.innerText;
       return [...row.querySelectorAll('*')].find((b) => b.children.length === 0 && b.innerText?.trim() === 'Use');
-    }, soundMatch);
+    }, [soundMatch, sound]);
     console.log('chosen sound row:', (await page.evaluate(() => window.__hmRow || '')).replace(/\s*\n+\s*/g, ' | ').slice(0, 160));
     if (!(await use.asElement())) throw new Error('no Use button for ' + soundMatch);
     await use.asElement().click();

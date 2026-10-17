@@ -6,7 +6,8 @@
   "tags": "#תאילנד #מלונות #thailand #luxuryhotel #thailandtravel",
   "sound": "Sunset Lover",
   "soundMatch": "Petit Biscuit",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:15:25.224Z"
  },
  {
   "deck": "e5-photospots",
@@ -15,7 +16,8 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #krabi #thailandtravel",
   "sound": "Riptide",
   "soundMatch": "Vance Joy",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:17:28.349Z"
  },
  {
   "deck": "g1-seven-eleven",
@@ -24,7 +26,8 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #thailandfood #thailandtravel",
   "sound": "Espresso",
   "soundMatch": "Sabrina Carpenter",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:19:02.412Z"
  },
  {
   "deck": "k2-sign",
@@ -33,7 +36,8 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #thailandtravel #traveltiktok",
   "sound": "lovers rock",
   "soundMatch": "TV Girl",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:20:37.446Z"
  },
  {
   "deck": "k5-bkk-food",
@@ -42,7 +46,8 @@
   "tags": "#בנגקוק #תאילנד #bangkok #thailandfood #streetfood",
   "sound": "Sunflower",
   "soundMatch": "Post Malone",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:22:06.449Z"
  },
  {
   "deck": "d3-forbidden",
@@ -51,25 +56,28 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #thailandtravel #traveltiktok",
   "sound": "Paradise",
   "soundMatch": "Coldplay",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:23:34.835Z"
  },
  {
   "deck": "k3-phuket",
   "at": "2026-10-21 17:00",
   "title": "טסים לפוקט? כל מה שאתם חייבים לעשות שם 🇹🇭",
   "tags": "#פוקט #תאילנד #phuket #thailand #thailandtravel",
-  "sound": "You Got the Love",
+  "sound": "You've Got The Love",
   "soundMatch": "Florence",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:39:05.951Z"
  },
  {
   "deck": "e2-islands",
   "at": "2026-10-21 20:00",
   "title": "האיים של תאילנד, מהכי פחות תיירותי להכי מפורסם 🇹🇭 שמרו לטיול!",
   "tags": "#תאילנד #הטיולהגדול #thailand #islandhopping #thailandtravel",
-  "sound": "Waves",
-  "soundMatch": "Mr Probz",
-  "status": "pending"
+  "sound": "Kokomo",
+  "soundMatch": "Beach Boys",
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:26:03.405Z"
  },
  {
   "deck": "k9-honeymoon",
@@ -78,7 +86,8 @@
   "tags": "#ירחדבש #תאילנד #honeymoon #thailand #luxuryhotel",
   "sound": "Lover",
   "soundMatch": "Taylor Swift",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:27:32.203Z"
  },
  {
   "deck": "d1-tips-part2",
@@ -87,7 +96,8 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #thailandtravel #traveltiktok",
   "sound": "Good Days",
   "soundMatch": "SZA",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:29:05.768Z"
  },
  {
   "deck": "k6-samui",
@@ -96,7 +106,8 @@
   "tags": "#קוסמוי #תאילנד #kohsamui #thailand #thailandtravel",
   "sound": "Baianá",
   "soundMatch": "Bakermat",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:30:35.827Z"
  },
  {
   "deck": "k10-bkk-night",
@@ -105,7 +116,8 @@
   "tags": "#בנגקוק #תאילנד #bangkok #bangkoknightlife #thailandtravel",
   "sound": "Sunroof",
   "soundMatch": "Nicky Youre",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:32:06.597Z"
  },
  {
   "deck": "d5-places",
@@ -114,7 +126,8 @@
   "tags": "#תאילנד #הטיולהגדול #thailand #thailandtravel #traveltiktok",
   "sound": "Shotgun",
   "soundMatch": "George Ezra",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:33:35.784Z"
  },
  {
   "deck": "k7-north",
@@ -123,7 +136,8 @@
   "tags": "#תאילנד #הטיולהגדול #chiangmaithailand #thailand #thailandtravel",
   "sound": "Golden Hour",
   "soundMatch": "JVKE",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:40:45.645Z"
  },
  {
   "deck": "k8-cant-afford",
@@ -132,6 +146,7 @@
   "tags": "#תאילנד #חופשה #thailand #maldives #thailandtravel",
   "sound": "Island in the Sun",
   "soundMatch": "Weezer",
-  "status": "pending"
+  "status": "scheduled",
+  "scheduledAt": "2026-10-17T22:36:36.570Z"
  }
 ]
