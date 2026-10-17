@@ -91,7 +91,10 @@ try {
   const form = (await page.evaluate(() => document.body.innerText)).replace(/\s*\n+\s*/g, ' | ');
   console.log('FORM', form.slice(form.indexOf('פרטים'), form.indexOf('פרטים') + 700));
   if (POST) {
-    if (!/להחליף/.test(form.slice(form.indexOf('סאונד'), form.indexOf('סאונד') + 200))) throw new Error('refused: no sound is attached to the post');
+    // the form's own "סאונד" field (the sidebar also says "סאונדים ללא תמלוגים", which comes first in the page text)
+    const at = form.indexOf('| סאונד |', form.indexOf('פרטים'));
+    const end = form.indexOf('| תמונות', at);
+    if (at < 0 || end < 0 || !/להחליף/.test(form.slice(at, end))) throw new Error('refused: no sound is attached to the post');
     await page.getByRole('button', { name: 'לפרסם', exact: true }).click();
     await page.waitForTimeout(15000);
     await shot('posted');
