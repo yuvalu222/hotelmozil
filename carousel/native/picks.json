@@ -698,5 +698,49 @@
    }
   ],
   "folder": "tip"
+ },
+ "k2-sign": {
+  "cover": {
+   "id": "pin-e1_AfqPShw_Kcf6Nuf5N3o6b6tU9-yavgBtA_fEHMq-tEWRcqo_90Sp",
+   "slot": "cover",
+   "top": 0.5
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShxyzGkTA39VKbYYl70N6VrmeHgCuWSEGtSTueti47xXY-NR",
+    "slot": "beaches"
+   },
+   {
+    "id": "pin-e1_AfqPShx_6HYF2freulb6eAeriuDvMEkm8BN44zXBe0MmXrc60g6E",
+    "slot": "temples"
+   },
+   {
+    "id": "pin-e1_AfqPShxClXxayTbkZJy2viq-4BzcMmr3GlHsz6YnyGoqk36jRS6Z",
+    "slot": "food"
+   },
+   {
+    "id": "pin-e1_AfqPShym2VArIAIWIq3NwkiWKIKHmblQsqwEoBUONC8ZxVX5f1_VVQ",
+    "slot": "nature"
+   },
+   {
+    "id": "pin-e1_AfqPShw7m3nTsrdeuN1E88EGp8lhzVFPih-LUzRhhsR0LT8_qrtd",
+    "slot": "hotels"
+   },
+   {
+    "id": "pin-e1_AfqPShwRAU1nLpP3GKPLvYjGTIjKB5rm-PYxj-2J1gMO1Cej81MA",
+    "slot": "scooters"
+   },
+   {
+    "slot": "sunsets",
+    "id": "pin-e1_AfqPShzso0b3PkhUZak9VSPh8rEEPGuVjsEsgq6F7s1BiVBJwP5P"
+   },
+   {
+    "id": "pin-e1_AfqPShz27_UxeHJnpYAAvJuZAE1F3eAW9wji2bhU_5Er5JA41gu3",
+    "slot": "bangkok",
+    "bright": 1.2,
+    "sat": 1.25
+   }
+  ],
+  "folder": "this"
  }
 }
