@@ -1,6 +1,7 @@
 // 17.10 gate (owner): no slide may read like the end before the last one
-// ("תעקבו לעוד..." made people leave before the closer), and the last slide
-// is always closer.mjs, the one that explains what the app is.
+// ("תעקבו לעוד..." made people leave before the closer). 18.10: the last
+// slide is his own savings screenshot (closer.mjs) and every deck carries the
+// mid-deck app mention.
 //   node native/qa-closer.mjs <deck> ...
 import fs from 'node:fs';
 import path from 'node:path';
@@ -15,8 +16,9 @@ for (const deck of process.argv.slice(2)) {
   slides.forEach((s, i) => {
     if (ENDING.test(text(s))) { bad++; console.log(`${deck} slide ${i + 1}: reads like the end: ${text(s)}`); }
   });
-  if (JSON.stringify(slides.at(-1)) !== JSON.stringify(CLOSER)) { bad++; console.log(`${deck}: last slide is not the explaining closer (closer.mjs)`); }
-  if (slides.slice(0, -1).some((s) => s.copy || s.photo === CLOSER.photo)) { bad++; console.log(`${deck}: a closer before the last slide`); }
+  if (JSON.stringify(slides.at(-1)) !== JSON.stringify(CLOSER)) { bad++; console.log(`${deck}: last slide is not his savings screenshot (closer.mjs)`); }
+  if (slides.slice(0, -1).some((s) => s.copy)) { bad++; console.log(`${deck}: a closer before the last slide`); }
+  if (!slides.slice(1, -1).some((s) => text(s).includes('אפליקציית HotelMozil מוזילה'))) { bad++; console.log(`${deck}: no mid-deck app mention`); }
 }
 console.log(bad ? `closer gate: ${bad} problem(s)` : `closer gate: clean (${process.argv.length - 2} decks)`);
 process.exitCode = bad ? 1 : 0;

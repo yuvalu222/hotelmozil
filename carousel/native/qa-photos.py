@@ -10,7 +10,6 @@
 import json, os, glob, sys
 import numpy as np
 from PIL import Image, ImageEnhance
-CLOSER = 'native/assets/closer-base.jpg'  # closer.mjs, the same on every deck by design (17.10)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CAR = os.path.join(HERE, '..')
@@ -59,7 +58,7 @@ def run(deck):
     lo = ref.min(0)
     fails = []
     for i, s in enumerate(spec['slides'], 1):
-        if 'photo' not in s or s['photo'] == CLOSER:  # his folder screenshot, not a scenic photo
+        if 'photo' not in s:
             continue
         v, sat, c = measure(os.path.join(CAR, s['photo']), s.get('bright', 1), s.get('sat', 1))
         bad = [n for n, x, l in (('bright', v, lo[0]), ('sat', sat, lo[1]), ('colour', c, lo[2])) if x < l]
@@ -76,7 +75,7 @@ def duplicates(decks):
     seen = defaultdict(list)
     for d in decks:
         for i, s in enumerate(json.load(open(os.path.join(HERE, 'decks', f'{d}.json'), encoding='utf-8'))['slides'], 1):
-            if 'photo' in s and s['photo'] != CLOSER: seen[os.path.basename(s['photo'])].append(f'{d}#{i}')
+            if 'photo' in s: seen[os.path.basename(s['photo'])].append(f'{d}#{i}')
     dup = {k: v for k, v in seen.items() if len(v) > 1}
     # 13.10: a photo smaller than the slide gets upscaled = blurry
     for k, v in seen.items():

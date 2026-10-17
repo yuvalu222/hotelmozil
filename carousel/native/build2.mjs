@@ -11,7 +11,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { renderDeck } from './render.mjs';
-import { CLOSER } from './closer.mjs';
+import { CLOSER, addAppLine } from './closer.mjs';
 
 const HERE = import.meta.dirname;
 const deck = process.argv[2];
@@ -48,10 +48,12 @@ if (deck === 'e1-traps') {
   slides.push({ ...photo(P.cover), top: 0.12, lines: R.cover.lines.map((t, i) => L(t, i ? 'm' : 'xl')) });
   R.spots.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.12, width: 0.84, lines: [L(s.pin, 'm'), ...(s.line ? [gap(0.01), L(s.line, 's')] : [])] }));
 }
-slides.push(CLOSER);
 
 // a pick's own "top" moves the text block off the subject (e2/e5 already read it themselves)
 for (const s of slides) if (s._top !== undefined) { s.top = s._top; delete s._top; }
+// 18.10 (owner): the app mention mid-deck, and his own savings screenshot last
+addAppLine(slides, P.appWhere, P.appAt, P.appTop);
+slides.push(CLOSER);
 const spec = { name: deck, slides };
 const specPath = path.join(HERE, 'decks', `${deck}.json`);
 fs.writeFileSync(specPath, JSON.stringify(spec, null, 1));

@@ -1,26 +1,22 @@
-// The closing slide of every deck (17.10). Owner: the last slide explains what
-// the app is, not just "it saved me money". His own "Travel" folder screenshot
-// with the old line taken out (closer-base.py), and the explanation written
-// inside the folder in the same native text style as every other slide.
-// Wording follows the public site (hotelmozil.com): same room, price by the
-// place you book from, the booking opens through another region in the
-// official app. No VPN/proxy/browser, no figure, no AI.
-const L = (t, s) => ({ t, s, lh: 1.22 });
-const gap = (h) => ({ t: '', h });
+// How every deck carries the app (owner, 18.10):
+// - The last slide is one of HIS folder screenshots saying how much the app
+//   saved him, copied as is, never written by us. His pick: the 590 one
+//   (post 7692513891271593237, 3.10): "טיפ חובה! האפליקציה הזאת מוזילה
+//   מלונות וחסכה לי 590₪ על המלון!!!".
+// - Mid-deck, a two-line app mention under the slide text, the one he called
+//   amazing and wants in every deck (first used in the batch-3 decks).
+export const CLOSER = { copy: 'harvest/own-full/7692513891271593237/07.jpg' };
 
-export const CLOSER = {
-  photo: 'native/assets/closer-base.jpg',
-  focus: [0.5, 0.5],
-  width: 0.74,
-  blocks: [{ top: 0.472, lines: [
-    L('ככה זה עובד 👇', 'm'),
-    gap(0.02),
-    L('אותו חדר יכול לעלות אחרת', 's'),
-    L('לפי המקום שממנו מזמינים', 's'),
-    gap(0.02),
-    L('מדביקים בה קישור למלון', 's'),
-    L('וההזמנה נפתחת דרך אזור אחר', 's'),
-    gap(0.02),
-    L('חינם באפסטור ובגוגל פליי ❤️', 's'),
-  ] }],
-};
+export const appLine = (where = 'בתאילנד', top = 0.8) => ({ top, width: 0.9, lines: [
+  { t: 'אפליקציית HotelMozil מוזילה', s: 's' },
+  { t: `מלונות ${where} ובכל יעד אחר 🤫`, s: 's' },
+] });
+
+// Adds the mention to the middle slide of a deck (cover included, closer not
+// yet pushed), turning a single-block slide into blocks.
+export function addAppLine(slides, where, at, top) {
+  const s = slides[at ?? Math.floor(slides.length / 2)];
+  const blocks = s.blocks || [{ top: s.top ?? 0.18, lines: s.lines }];
+  delete s.top; delete s.lines;
+  s.blocks = [...blocks, appLine(where, top)];
+}

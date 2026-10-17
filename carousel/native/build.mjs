@@ -14,7 +14,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { renderDeck } from './render.mjs';
-import { CLOSER } from './closer.mjs';
+import { CLOSER, addAppLine } from './closer.mjs';
 
 const HERE = import.meta.dirname;
 const deck = process.argv[2];
@@ -37,7 +37,6 @@ if (deck.startsWith('d1')) {
     ...photo(picks.slides[i]), top: 0.085,
     lines: [L(String(s.n), 'num'), gap(0.075), L(s.heading, 'l'), gap(0.07), ...s.body.map((b) => L(b, 's'))],
   }));
-  slides.push(CLOSER);
 } else if (deck.startsWith('d2')) {
   slides.push({ ...photo(picks.cover), top: 0.36, lines: c.lines.map((t) => L(t, 's')) });
   research.slides.forEach((s, i) => slides.push({
@@ -45,7 +44,6 @@ if (deck.startsWith('d1')) {
     lines: [L(s.heading, 'l'), ...(s.sub ? [L(s.sub, 's')] : []), L('👇🏻', 's'), gap(0.03), ...s.rows.map((r) => L(`${r.dest}${r.emoji} - ${r.mode}`, 's', { lh: 1.28 }))],
   }));
   slides.push({ ...photo(picks.last), top: 0.13, width: 0.86, lines: [L(research.last.lines[0], 's'), gap(0.045), L(research.last.lines[1], 's')] });
-  slides.push(CLOSER);
 } else if (deck.startsWith('d3')) {
   slides.push({ ...photo(picks.cover), blocks: [
     { top: 0.16, lines: c.lines.map((t) => L(red(t, c.red), 'l', { w: 700 })) },
@@ -56,7 +54,6 @@ if (deck.startsWith('d1')) {
     lines: [s.heading, ...s.body].map((t) => L(t, 's', { w: 700, lh: 1.18 })),
   }));
   slides.push({ ...photo(picks.last), top: 0.07, width: 0.86, lines: research.last.lines.map((t) => L(t, 's', { w: 700, lh: 1.18 })) });
-  slides.push(CLOSER);
 } else if (deck.startsWith('d4')) { // d4-route-main replaced the niche Andaman route (13.10: audience size first)
   slides.push({ ...photo(picks.cover), top: 0.2, lines: c.lines.map((t) => L(red(t, c.red), 'm')) });
   research.slides.forEach((s, i) => slides.push({
@@ -64,7 +61,6 @@ if (deck.startsWith('d1')) {
     lines: [L(s.heading, 'm'), gap(0.1), ...s.lines.map((t) => L(t, 's', { lh: 1.25 }))],
   }));
   slides.push({ ...photo(picks.last), top: 0.36, width: 0.7, lines: research.last.lines.map((t) => L(t, 's')) });
-  slides.push(CLOSER);
 } else if (deck.startsWith('d5')) {
   slides.push({ ...photo(picks.cover), blocks: [
     { top: c.top ?? 0.22, lines: c.lines.map((t) => L(red(t, c.red), 'xl')) },
@@ -75,18 +71,19 @@ if (deck.startsWith('d1')) {
     if (research.extra && i === picks.extraAfter) slides.push({ ...photo(picks.extra), top: 0.11, lines: research.extra.lines.map((t) => L(t, 'm')) });
   });
   slides.push({ ...photo(picks.last), top: 0.4, width: 0.86, lines: research.last.lines.map((t) => L(t, 'm')) });
-  slides.push(CLOSER);
 } else if (deck.startsWith('g1')) { // 7-Eleven products (15.10): product name big, then his short verdict lines
   slides.push({ ...photo(picks.cover), top: 0.14, lines: c.lines.map((t) => L(t, 'l')) });
   research.slides.forEach((s, i) => slides.push({
     ...photo(picks.slides[i]), top: 0.1, width: 0.86,
     lines: s.lines.map((t, j) => L(t, j ? 's' : 'l')),
   }));
-  slides.push(CLOSER);
 }
 
 // a pick's own "top" (picks.json) moves the text block off the landmark
 for (const s of slides) if (s._top !== undefined) { if (s.blocks) s.blocks[0].top = s._top; else s.top = s._top; delete s._top; }
+// 18.10 (owner): the app mention mid-deck, and his own savings screenshot last
+addAppLine(slides, picks.appWhere, picks.appAt, picks.appTop);
+slides.push(CLOSER);
 const spec = { name: deck, slides };
 fs.mkdirSync(path.join(HERE, 'decks'), { recursive: true });
 const specPath = path.join(HERE, 'decks', `${deck}.json`);
