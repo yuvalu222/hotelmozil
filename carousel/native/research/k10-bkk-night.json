@@ -1,0 +1,194 @@
+{
+ "deck": "k10-bkk-night",
+ "out": "n21-bangkok-at-night",
+ "format_source": "@worktravelbalance 7639401221744348438 '7 cool things to do at night BARCELONA' (320,700 plays, 12.4K saves): cover = the city lit at night + the title; each slide = one night plan, pinned name + a short line, over its most striking night photo.",
+ "cover_evidence": "destination named x2.57; things-to-do-in lists stable in both languages (22/29 EN creators, 96/167 HE); the source 320.7K",
+ "title": "מה עושים בבנגקוק כשהשמש שוקעת? 🌇",
+ "cover": {
+  "lines": [
+   [
+    "מה עושים בבנגקוק",
+    "l"
+   ],
+   [
+    "כשהשמש שוקעת? 🌇",
+    "l"
+   ],
+   [
+    "🍸🎡🛺🥊",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "place": "a Bangkok rooftop bar at sunset",
+   "lines": [
+    [
+     "📍 רופטופ בשקיעה",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "די ג׳יי, קוקטייל והשמיים האלה 🍸",
+     "s"
+    ],
+    [
+     "הרגע הכי יפה בבנגקוק",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Vertigo & Moon Bar, Banyan Tree Bangkok (MOON sign in frame)",
+   "lines": [
+    [
+     "📍 Moon Bar",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בר על הגג בקומה ה-61 🌃",
+     "s"
+    ],
+    [
+     "והעיר כולה מתחתיך",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Chao Phraya river at blue hour",
+   "lines": [
+    [
+     "📍 Chao Phraya",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "הנהר בשעה הכחולה 💙",
+     "s"
+    ],
+    [
+     "שייט ערב עם ארוחה, חובה",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בבנגקוק ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "Asiatique The Riverfront",
+   "lines": [
+    [
+     "📍 Asiatique",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "גלגל ענק מואר על הנהר 🎡",
+     "s"
+    ],
+    [
+     "ושוק לילה ענק מסביב",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "ICONSIAM",
+   "lines": [
+    [
+     "📍 ICON SIAM",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מופע מזרקות על הנהר 💦",
+     "s"
+    ],
+    [
+     "ושופינג עד שנסגר",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Muay Thai at Rajadamnern",
+   "lines": [
+    [
+     "📍 קרב מואי תאי",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "קרב אגרוף תאילנדי אמיתי 🥊",
+     "s"
+    ],
+    [
+     "האווירה פסיכית",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "tuk-tuk at night",
+   "lines": [
+    [
+     "📍 צ׳יינה טאון בלילה",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "טוק טוק בין שלטי הניאון 🛺",
+     "s"
+    ],
+    [
+     "הכי כיף שיש",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "tip",
+ "tags": [
+  "בנגקוק",
+  "תאילנד",
+  "bangkok",
+  "bangkoknightlife",
+  "thailandtravel"
+ ],
+ "music": "original sound של @worktravelbalance (הסאונד של הדק שהפורמט מעתיק)"
+}

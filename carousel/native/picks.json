@@ -742,5 +742,49 @@
    }
   ],
   "folder": "this"
+ },
+ "k10-bkk-night": {
+  "cover": {
+   "id": "pin-e1_AfqPShxWs1kbVhkqZ3GOJp8I_LYeiVMZjcjazU7l3WexTipjZrE",
+   "slot": "cover",
+   "sat": 1.25
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShzOm_IwjUazaiXXzZR8tHsrvq-4kSo6ORATW0kIkXg_fexo",
+    "slot": "rooftop"
+   },
+   {
+    "id": "pin-e1_AfqPShzm7eUQQ5cyV6G6KcFbxqvuUntsbG8w9Y-D_nPIjCzh3ijZ",
+    "slot": "rooftop"
+   },
+   {
+    "slot": "cruise",
+    "id": "pin-e1_AfqPShxGIQB92M6MV6mbV7XeTBC25zS5d-7qt2p2tAy_OyQwTCdp",
+    "zoom": 1.12,
+    "focus": [
+     0.5,
+     0.0
+    ]
+   },
+   {
+    "id": "pin-e1_AfqPShxb-v-aYeZ_V-Ss0nqY1CWuHHon7-Smwp_e4QKfa8u-j9Qa",
+    "slot": "asiatique"
+   },
+   {
+    "id": "pin-e1_AfqPShxinL1t99-8gxeXR_bc5csRgCuPgHc987XWZ7PX9H5KxbPe",
+    "slot": "iconsiam"
+   },
+   {
+    "id": "pin-e1_AfqPShw1jZxxj6J1bi3cL1tEKYtJf1L7XzfIlltftq4VBjlyQPYTyw",
+    "slot": "muay-thai"
+   },
+   {
+    "id": "pin-e1_AfqPShy7uYnWAm82O_9qDcxQKo-TEva0p4UkZkh-lh-4f9HxyHQO",
+    "slot": "chinatown-neon",
+    "sat": 1.2
+   }
+  ],
+  "folder": "tip"
  }
 }
