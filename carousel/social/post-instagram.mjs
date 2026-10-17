@@ -25,6 +25,12 @@ const caption = opt('--caption') || '';
 const POST = argv.includes('--post');
 if (/[؀-ۿ]/.test(caption)) throw new Error('Arabic in caption');
 
+// Owner, 17.10, after the traps deck went up as a Reel video: "awful, you
+// uploaded it as a video, not as photos you can swipe through". A deck is
+// never posted as a video. Instagram posts are swipeable photo carousels with
+// music, and music on a carousel is added in the Instagram app only.
+if (video) throw new Error('refused: decks go up as swipeable photos, never as a video (owner, 17.10)');
+
 let files;
 if (video) {
   const info = JSON.parse(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'stream=codec_type,width,height', '-of', 'json', video], { encoding: 'utf8' }));
