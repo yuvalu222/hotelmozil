@@ -1,0 +1,156 @@
+{
+ "deck": "k8-cant-afford",
+ "out": "n19-cant-afford-go-thailand",
+ "format_source": "@escape.travel0 7637541962408545566 'Can't afford Maldives? Go to Bali / Can't afford Dubai? Go to Bangkok / ...' (2.3M plays, 196.2K likes, 90K saves): each slide pairs a dream destination with a cheaper look-alike. The source shows the two photos stacked; here each slide shows the Thai answer full-bleed (the one the viewer can actually go to), the question on top.",
+ "cover_evidence": "the source's own opening pair; destination named; question with content (neutral in Hebrew x1.02) carrying the curiosity gap of the format",
+ "title": "אין תקציב למלדיביים? תטוסו לתאילנד 🇹🇭",
+ "cover": {
+  "lines": [
+   [
+    "אין תקציב למלדיביים? 🥲",
+    "l"
+   ],
+   [
+    "תטוסו לתאילנד 🇹🇭",
+    "l"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "pair": "Maldives -> Koh Nang Yuan (Koh Tao)",
+   "lines": [
+    [
+     "אין תקציב למלדיביים?",
+     "m"
+    ],
+    [
+     "קו טאו 🇹🇭",
+     "xl"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "אותם מים טורקיז 😍",
+     "s"
+    ],
+    [
+     "בלי למכור כליה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "pair": "Bora Bora -> Koh Phi Phi",
+   "lines": [
+    [
+     "אין תקציב לבורה בורה?",
+     "m"
+    ],
+    [
+     "קופיפי 🇹🇭",
+     "xl"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "צוקים ולגונות כמו בגלויה 🥹",
+     "s"
+    ]
+   ]
+  },
+  {
+   "pair": "Dubai -> Bangkok",
+   "lines": [
+    [
+     "אין תקציב לדובאי?",
+     "m"
+    ],
+    [
+     "בנגקוק 🇹🇭",
+     "xl"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "גורדי שחקים, רופטופים ושופינג 🌃",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בתאילנד ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "pair": "Seychelles -> Similan Islands",
+   "lines": [
+    [
+     "אין תקציב לסיישל?",
+     "m"
+    ],
+    [
+     "איי סימילן 🇹🇭",
+     "xl"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "סלעי ענק ומים שקופים 🤯",
+     "s"
+    ]
+   ]
+  },
+  {
+   "pair": "Mykonos -> Koh Phangan",
+   "lines": [
+    [
+     "אין תקציב למיקונוס?",
+     "m"
+    ],
+    [
+     "קופנגן 🇹🇭",
+     "xl"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מסיבות על החוף עד הזריחה 🎉",
+     "s"
+    ],
+    [
+     "ושקיעות כאלה כל ערב 🌅",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "this",
+ "tags": [
+  "תאילנד",
+  "חופשה",
+  "thailand",
+  "maldives",
+  "thailandtravel"
+ ],
+ "music": "original sound של @escape.travel0 (הסאונד של הדק שהפורמט מעתיק)"
+}

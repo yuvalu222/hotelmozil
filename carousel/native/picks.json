@@ -786,5 +786,42 @@
    }
   ],
   "folder": "tip"
+ },
+ "k8-cant-afford": {
+  "cover": {
+   "id": "pin-e1_AfqPShywI4SE8ar-Md0wT57zv4AWoXWdTWkITxbUILpTffB4PU1Q",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShxtWGZ_DR1FkapR6bydgw0n4O-sKBoNAJ1GrK4R4roiNhe8",
+    "slot": "nang-yuan",
+    "sat": 1.1
+   },
+   {
+    "slot": "phi-phi",
+    "id": "pin-e1_AfqPShxIYLomY5lo_fDdr0jZNy1IsokzDjakFUWW-msXMdhUJeL1"
+   },
+   {
+    "slot": "bangkok-dubai",
+    "id": "pin-e1_AfqPShx--JMAhsWOoov_ThHZiVoiQ5sSvVqfeSDfjsYXQ8vSRZg5",
+    "sat": 1.1
+   },
+   {
+    "slot": "similan",
+    "id": "pin-e1_AfqPShxmCebjTBp76QFwO-V2s21GjkpDo4IrZ_265r87WiQWhduM",
+    "sat": 1.05
+   },
+   {
+    "id": "pin-e1_AfqPShwmsJIWlWIVE4ro7562Y65d4hoFn159mW72lKQdAV0VRShD",
+    "slot": "phangan",
+    "zoom": 1.08,
+    "focus": [
+     0.5,
+     0.0
+    ]
+   }
+  ],
+  "folder": "this"
  }
 }
