@@ -1,0 +1,191 @@
+{
+ "deck": "k5-bkk-food",
+ "out": "n16-bangkok-food",
+ "format_source": "@noam.travels 7511377007830142216 '8 מקומות מושלמים לאוכל בבנגקוק / תשמרו לכם לטיול הבא!' (215,900 plays, 5,745 saves): cover = a Bangkok street + the line; each slide = the dish on the table, phone photo, the place pinned + one line. Also @breaaad.pitt 7431578756709387527 Bangkok restaurant list (53K likes, 53.4K saves).",
+ "cover_evidence": "'המלצות ל<יעד>' / places-to-eat lists: stable in Hebrew (96/167 creators above their median); the source itself 215.9K on 12.2K followers",
+ "title": "מה הכי שווה לאכול בבנגקוק 🤤 תשמרו לטיול הבא",
+ "cover": {
+  "lines": [
+   [
+    "מה הכי שווה לאכול",
+    "l"
+   ],
+   [
+    "בבנגקוק 🤤🍜🥭",
+    "l"
+   ]
+  ],
+  "top": 0.115
+ },
+ "slides": [
+  {
+   "place": "Jay Fai (crab omelette)",
+   "lines": [
+    [
+     "📍 Jay Fai",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "חביתת הסרטנים עם כוכב מישלן 🦀",
+     "s"
+    ],
+    [
+     "חיכינו המון ולא מתחרטת לשנייה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "pad thai (Thipsamai query; restaurant not verified, so not pinned)",
+   "lines": [
+    [
+     "פאד תאי 🍜",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "עם קוקוס קר ליד",
+     "s"
+    ],
+    [
+     "הארוחה הכי מושלמת שיש 😍",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Yaowarat (sign in frame)",
+   "lines": [
+    [
+     "📍 Yaowarat",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "רחוב האוכל של צ׳יינה טאון 🏮",
+     "s"
+    ],
+    [
+     "העשן, הריחות, הכל",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "mango sticky rice",
+   "lines": [
+    [
+     "מנגו סטיקי רייס 🥭",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "הקינוח שהתמכרתי אליו",
+     "s"
+    ],
+    [
+     "אכלתי כל יום, בלי בושה",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בבנגקוק ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "boat noodles",
+   "lines": [
+    [
+     "נודלס סירה 🍜",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "קערות קטנות במרק עשיר",
+     "s"
+    ],
+    [
+     "אוכלים חמש ולא שמים לב",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "volcano ribs",
+   "lines": [
+    [
+     "צלעות הר געש 🌋",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "יוצאות מהאש ישר לשולחן",
+     "s"
+    ],
+    [
+     "המנה הכי ויראלית בשווקי הלילה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Thai fruit market",
+   "lines": [
+    [
+     "שוק פירות 🍉",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "פירות שלא ידעתי שקיימים",
+     "s"
+    ],
+    [
+     "וכל אחד יותר מתוק מהשני",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "tip",
+ "tags": [
+  "בנגקוק",
+  "תאילנד",
+  "bangkok",
+  "thailandfood",
+  "streetfood"
+ ],
+ "music": "original sound של @noam.travels (הסאונד של הדק שהפורמט מעתיק)"
+}

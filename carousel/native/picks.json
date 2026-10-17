@@ -654,5 +654,49 @@
    }
   ],
   "folder": "tip"
+ },
+ "k5-bkk-food": {
+  "cover": {
+   "slot": "cover",
+   "id": "pin-e1_AfqPShxqAdIMrArge-mZPs5z1S80gIkSR_dcGBIlBJqzLXaM1RT7",
+   "zoom": 1.06,
+   "focus": [
+    0.4,
+    0.5
+   ]
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShyKctGJp3P5rnI7wt9tAbN_CwWwQXV64vh-EJclh4PWqRbn",
+    "slot": "jay-fai",
+    "sat": 1.05
+   },
+   {
+    "id": "pin-e1_AfqPShy4Y1w8F5Mo756AGJFNhrio6DCWSPpXx3WOQYH565m3VNpV",
+    "slot": "thipsamai"
+   },
+   {
+    "id": "pin-e1_AfqPShyngNphhAxiCwmw6Gkw2D1-mlWmXRDETnxIO27gpkjXyXhN",
+    "slot": "yaowarat"
+   },
+   {
+    "id": "pin-e1_AfqPShw6jq5nGztwe-tOYgrI2MA_NG3L0iT8luFRi-r-v5gLVQ-_",
+    "slot": "mango"
+   },
+   {
+    "id": "pin-e1_AfqPShzd594krpKfNdO_xWAZdHKmvOVQ6axJEgx0oWYvcMlbflHn",
+    "slot": "boat-noodles",
+    "sat": 1.05
+   },
+   {
+    "id": "pin-e1_AfqPShwGzoQlFhXH463luEBBUi6AXi8fOWp_ITsQvJuz5xpAouUR",
+    "slot": "jodd-fairs"
+   },
+   {
+    "id": "pin-e1_AfqPShxSV7tf2Jki0K-RT6eUgt2FdXapX2hCWSZLlFyoJpG05-duqA",
+    "slot": "ortorkor"
+   }
+  ],
+  "folder": "tip"
  }
 }
