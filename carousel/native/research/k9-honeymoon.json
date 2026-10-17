@@ -1,0 +1,156 @@
+{
+ "deck": "k9-honeymoon",
+ "out": "n20-honeymoon-hotels-rated",
+ "format_source": "@romybenzeev 7569191474579918088 'שיקרתי למלונות בתאילנד / שבאנו לירח דבש / מדרגת מה הביאו לנו' (214,000 plays on 1,512 followers): cover = the couple at sunset + the confession; each slide = what one hotel left in the room, the city, a score out of 10 and one funny line.",
+ "cover_evidence": "the source itself: x141 plays per follower; hotel covers x1.46 HE; Thailand named x2.57",
+ "title": "שיקרתי למלונות בתאילנד שבאנו לירח דבש ומדרגת מה הביאו לנו 🤭",
+ "cover": {
+  "lines": [
+   [
+    "שיקרתי למלונות בתאילנד",
+    "l"
+   ],
+   [
+    "שבאנו לירח דבש 🤭",
+    "l"
+   ],
+   [
+    "ומדרגת מה הביאו לנו",
+    "m"
+   ],
+   [
+    "🌹🥂💍",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "what": "rose-petal pool at sunset",
+   "lines": [
+    [
+     "פוקט: 10/10 😍",
+     "l"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בריכה מלאה ורדים בשקיעה",
+     "s"
+    ],
+    [
+     "עמדתי שם בשוק",
+     "s"
+    ]
+   ]
+  },
+  {
+   "what": "flower bath in the jungle",
+   "lines": [
+    [
+     "צ׳יאנג מאי: 9/10 🌺",
+     "l"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "אמבטיה מלאה פרחים",
+     "s"
+    ],
+    [
+     "אני לא יוצאת מפה",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "ואת המלונות עצמם הוזלתי",
+      "s"
+     ],
+     [
+      "באפליקציית HotelMozil 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "what": "dessert at the window over the sea",
+   "lines": [
+    [
+     "קוסמוי: 8/10 🍰",
+     "l"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "קינוח מפנק מול הנוף הזה",
+     "s"
+    ],
+    [
+     "אכלנו אותו ברגשות אשם 😂",
+     "s"
+    ]
+   ]
+  },
+  {
+   "what": "floating breakfast",
+   "lines": [
+    [
+     "קו טאו: 10/10 🥐",
+     "l"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "ארוחת בוקר צפה בבריכה",
+     "s"
+    ],
+    [
+     "הרגשתי מפורסמת",
+     "s"
+    ]
+   ]
+  },
+  {
+   "what": "candle-lit dinner under a palm at sunset",
+   "lines": [
+    [
+     "קראבי: 11/10 🕯️",
+     "l"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "ארוחת ערב מול השקיעה",
+     "s"
+    ],
+    [
+     "טוב, את זה כבר שילמנו 😂",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "this",
+ "tags": [
+  "ירחדבש",
+  "תאילנד",
+  "honeymoon",
+  "thailand",
+  "luxuryhotel"
+ ],
+ "music": "Lover - Taylor Swift"
+}

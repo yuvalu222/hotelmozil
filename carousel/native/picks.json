@@ -414,5 +414,160 @@
    }
   ],
   "folder": "tip"
+ },
+ "k9-honeymoon": {
+  "cover": {
+   "id": "pin-e1_AfqPShyh84Hdnm95KPJlZInplaA_Qmzr9hMPKD0ANkeN2Rr6mxYGrA",
+   "slot": "cover",
+   "bright": 1.09
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShwV-SOJbjNUJM6lZq1Y0WvsEid7ED3qFBmUQriXY5_Spipz",
+    "slot": "petals-pool",
+    "bright": 1.2
+   },
+   {
+    "id": "pin-e1_AfqPShyRgrdbOEqh794LI7b2ivb2cNwBU2ASM9BuGWI2T7FOrA-R",
+    "slot": "bath"
+   },
+   {
+    "slot": "cake",
+    "id": "pin-e1_AfqPShzTm_DnkW8H_CBh7B4VOUpAEBYMkC0voM5OGDRSVOO9zqdh"
+   },
+   {
+    "slot": "champagne",
+    "id": "pin-e1_AfqPShxaxxfZgp6JGUHKI_1uPFe2mNw9JaL4B0JqWsoe2SiPEVVP"
+   },
+   {
+    "slot": "dinner",
+    "id": "pin-e1_AfqPShyZvPD_kTayypkhY24EXtPO4VZQvDrESB-AzqG8M2EIgO03",
+    "bright": 1.06
+   }
+  ],
+  "folder": "this"
+ },
+ "k6-samui": {
+  "cover": {
+   "id": "pin-e1_AfqPShz8lJghOp_pdKEpYKAE3SSfMlFHfARNbehdpNHoBDiCGKaB",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShxOwAyD6ducOm72PriDKjosru7OVW4MBHdPQKt88sJI0Un0",
+    "slot": "ang-thong"
+   },
+   {
+    "id": "pin-e1_AfqPShxypo0ubEZm0IE2vAMA0170MTR7pPP4qgmQRf2oxIG-1m9A",
+    "slot": "na-muang"
+   },
+   {
+    "slot": "coco-tams",
+    "id": "pin-e1_AfqPShyUGgQcxyU9W5LdC0UzO1LIm2siSSSOxHNTmPOrxsTYSrwD"
+   },
+   {
+    "slot": "big-buddha",
+    "id": "pin-e1_AfqPShyL08cPgaiDjzwObx9B9doTITLQASFD7MsIZvu06SCiOCEg"
+   },
+   {
+    "id": "pin-e1_AfqPShz7_zJjJ1v4FOUVkW35p7VzVrvZ61I6b73q8yQ7A1WLhJd_",
+    "slot": "silver-beach"
+   },
+   {
+    "id": "pin-e1_AfqPShyf73wMEPJ3EZEbEz45v1J4Cdfi8rQGTfYhcUAPl9w36INf",
+    "slot": "madsum"
+   }
+  ],
+  "folder": "must"
+ },
+ "k7-north": {
+  "cover": {
+   "id": "pin-e1_AfqPShz4ofMSAENu7cE9_6BgBOuYMddQNxBDwdLEIZsnw1PFm1qO",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShzWsghtp9sPon3IcykfCBaP5WTL-7DGNjIOYIHorVrHa2bC",
+    "slot": "yi-peng",
+    "zoom": 1.15,
+    "focus": [
+     0.5,
+     0.1
+    ]
+   },
+   {
+    "id": "pin-e1_AfqPShwXrjmeR7KpUywy3xVy4lQ5lGNCmzzTLFH7GIQS7Retn0Vj",
+    "slot": "inthanon"
+   },
+   {
+    "id": "STuUNnbq3CA",
+    "slot": "suthep"
+   },
+   {
+    "id": "pin-e1_AfqPShwtzewaWg-PTZsTAKuMhVWWw3XVnSY1H7lXezMEA7bByTH5",
+    "slot": "elephants",
+    "sat": 1.1
+   },
+   {
+    "slot": "sticky",
+    "id": "pin-e1_AfqPShyNb1RTsS9hNPfTiuKeOy0S25XxjT1wUSEzMJopTZax971J",
+    "bright": 0.9
+   },
+   {
+    "slot": "white-temple",
+    "id": "pin-e1_AfqPShwwiKFFSBC1dgBY_3yumNQ5jypVXzGhvHOtJrIKQk9k7Bwi",
+    "focus": [
+     0.35,
+     0.5
+    ],
+    "bright": 0.9
+   },
+   {
+    "id": "pin-e1_AfqPShxp1NyokweDQ0qL24hV5MuZvthWTSnZHL_Y8lJ4Fo1kx4fO",
+    "slot": "blue-temple"
+   }
+  ],
+  "folder": "this"
+ },
+ "k1-hotels": {
+  "cover": {
+   "id": "pin-e1_AfqPShyf3TRZgnTJfSDYVlEfTl7qbKrYtbXHcS53rRBWf82e7xBo",
+   "slot": "cover"
+  },
+  "slides": [
+   {
+    "id": "pin-e1_AfqPShwMugXby3j66swkJoeQKa-QClJ6zjtVzPUN6FY6SmM3fOXl",
+    "slot": "sri-panwa"
+   },
+   {
+    "slot": "keemala",
+    "id": "pin-e1_AfqPShw4P89UR4heqiF-T2yv3FIHnVgInG84iz1CrIkyB_xWg80P",
+    "bright": 1.15
+   },
+   {
+    "id": "pin-e1_AfqPShz460HT5XTC-ybuw7kQm088WV08YNrB-Or73Y5vuwZZNCK6",
+    "slot": "rayavadee"
+   },
+   {
+    "id": "pin-e1_AfqPShzlh2nIfaZlzFOjM7a9ZN4nz36rrd5Sjv91-csI-u3LaMNj",
+    "slot": "samet-nangshe",
+    "sat": 1.3
+   },
+   {
+    "id": "pin-e1_AfqPShyWSRRWKb2F3NYDZCXueJ2B1izp0ABrf77G6j4wEjfdEDev",
+    "slot": "banyan-samui"
+   },
+   {
+    "id": "pin-e1_AfqPShwFgKml7cpyW7nYAoYNpN0TOlck9kWLA_NTdsyojF82H4pK",
+    "slot": "panwaburi",
+    "sat": 1.05
+   },
+   {
+    "id": "pin-e1_AfqPShzO752tg2PWGmGw5kJlC1HRj4GtW27PvGpWUj6l77VzHdwG",
+    "slot": "bangkok-hotel",
+    "sat": 1.25
+   }
+  ],
+  "folder": "must"
  }
 }

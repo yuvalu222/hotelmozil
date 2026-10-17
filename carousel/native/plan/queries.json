@@ -1,0 +1,111 @@
+{
+ "k1-hotels": {
+  "cover": ["infinity pool sunset phuket woman", "sri panwa pool sunset", "woman infinity pool thailand sea view", "luxury resort thailand infinity pool girl", "phuket villa pool sunset couple", "thailand resort pool aesthetic golden hour"],
+  "sri-panwa": ["Sri Panwa Phuket", "Sri Panwa pool villa", "Sri Panwa infinity pool", "Baba Nest Phuket sunset", "Sri Panwa sunset"],
+  "keemala": ["Keemala Phuket", "Keemala resort pool villa", "Keemala bird nest villa", "Keemala Phuket aesthetic"],
+  "rayavadee": ["Rayavadee Krabi", "Rayavadee resort Railay", "Rayavadee pool", "Rayavadee pavilion"],
+  "samet-nangshe": ["Samet Nangshe Boutique", "Samet Nangshe boutique pool", "Samet Nangshe boutique infinity pool view", "Samet Nangshe hotel"],
+  "four-seasons-cm": ["Four Seasons Chiang Mai", "Four Seasons resort Chiang Mai rice fields", "Four Seasons Chiang Mai pool"],
+  "banyan-samui": ["Banyan Tree Samui", "Banyan Tree Samui pool villa", "Six Senses Samui", "Six Senses Samui pool", "Conrad Koh Samui pool", "Conrad Koh Samui villa"],
+  "panwaburi": ["Panwaburi Beachfront Resort", "Panwaburi Phuket pool", "Panwaburi resort lagoon pool"],
+  "bangkok-hotel": ["Capella Bangkok", "Mandarin Oriental Bangkok", "Bangkok hotel rooftop infinity pool", "Bangkok luxury hotel pool skyline", "Banyan Tree Bangkok rooftop"]
+ },
+ "k2-sign": {
+  "cover": ["girl longtail boat thailand turquoise", "woman thailand beach turquoise water aesthetic", "thailand island girl sea", "woman swimming turquoise water thailand", "thailand beach girl sunset", "phi phi girl boat"],
+  "beaches": ["thailand beach aerial turquoise", "thailand white sand beach turquoise water", "thailand beach paradise drone", "thai island beach crystal water", "koh phi phi beach turquoise"],
+  "temples": ["thailand temple sunset", "wat rong khun white temple", "thailand golden temple aesthetic", "chiang mai temple golden hour", "wat arun sunset"],
+  "food": ["thai food table spread", "thai street food aesthetic", "pad thai street", "mango sticky rice aesthetic", "thai food beach table"],
+  "nature": ["thailand jungle waterfall turquoise", "erawan waterfall", "thailand nature aesthetic", "khao sok lake", "thailand rainforest"],
+  "hotels": ["thailand pool villa sea view", "thailand villa private pool", "thailand resort infinity pool jungle", "koh samui villa pool sunset", "thailand luxury villa breakfast pool"],
+  "scooters": ["scooter thailand road palm trees", "girl scooter thailand", "motorbike thailand coast", "scooter island thailand sunset", "riding scooter koh phangan"],
+  "sunsets": ["thailand sunset longtail boat", "thailand pink sunset beach", "thailand sunset sea silhouette palm", "krabi sunset", "phuket sunset beach"],
+  "bangkok": ["bangkok skyline night", "bangkok aesthetic night", "bangkok rooftop view", "bangkok city lights", "bangkok skyline sunset"]
+ },
+ "k3-phuket": {
+  "cover": ["phuket girl beach sunset", "phuket woman sea", "phuket aesthetic beach girl", "phuket viewpoint girl", "phuket travel woman"],
+  "old-town": ["Phuket Old Town", "Phuket Old Town street", "Phuket Old Town aesthetic", "Phuket Old Town colorful houses", "Phuket town Soi Romanee"],
+  "big-buddha": ["Big Buddha Phuket", "Big Buddha Phuket sunset", "Phuket Big Buddha aerial", "Big Buddha Phuket view"],
+  "promthep": ["Promthep Cape sunset Phuket", "Promthep Cape", "Promthep Cape viewpoint", "Phuket Promthep sunset"],
+  "freedom-beach": ["Freedom Beach Phuket", "Freedom Beach Phuket aerial", "Freedom beach phuket turquoise"],
+  "karon-viewpoint": ["Karon viewpoint Phuket", "Kata Karon viewpoint", "Phuket three beaches viewpoint", "Kata beach phuket"],
+  "bangla": ["Bangla Road Phuket", "Bangla Road night", "Patong nightlife Bangla"],
+  "madoobua": ["Ma Doo Bua cafe Phuket", "Ma Doo Bua Phuket lotus", "Phuket lotus cafe"],
+  "banana-beach": ["Banana Beach Phuket", "Ao Sane beach Phuket", "Laem Krating Phuket", "Phuket hidden beach", "Ya Nui beach Phuket"]
+ },
+ "k4-bkk-hidden": {
+  "cover": ["bangkok girl aesthetic", "bangkok woman temple", "bangkok girl street aesthetic", "bangkok sunset river girl", "woman bangkok rooftop sunset"],
+  "paknam": ["Wat Paknam Bangkok", "Wat Paknam glass stupa", "Wat Paknam ceiling", "Wat Paknam Bhasicharoen"],
+  "talat-noi": ["Talat Noi Bangkok", "Talat Noi street art", "Talat Noi aesthetic"],
+  "lumpini": ["Lumpini Park Bangkok", "Lumpini park skyline", "Lumpini park lake sunset"],
+  "bang-krachao": ["Bang Krachao", "Bang Krachao bike", "Bangkok green lung"],
+  "erawan-museum": ["Erawan Museum", "Erawan Museum interior", "Erawan Museum Bangkok"],
+  "marble-temple": ["Wat Benchamabophit", "Marble temple Bangkok", "Wat Benchamabophit aesthetic"],
+  "golden-mount": ["Golden Mount Bangkok", "Wat Saket sunset", "Golden Mount Bangkok view"],
+  "khlong": ["Bangkok khlong boat", "Bangkok canal aesthetic", "Khlong Bang Luang", "Bangkok canal houses"]
+ },
+ "k5-bkk-food": {
+  "cover": ["bangkok street food girl", "woman eating street food bangkok", "girl eating mango sticky rice", "chinatown bangkok night girl", "bangkok night market girl"],
+  "jay-fai": ["Jay Fai Bangkok", "Jay Fai crab omelette", "Jay Fai michelin"],
+  "thipsamai": ["Thipsamai pad thai", "Thipsamai Bangkok", "pad thai bangkok street"],
+  "mango": ["mango sticky rice Bangkok", "mango sticky rice", "mango sticky rice street"],
+  "yaowarat": ["Yaowarat street food", "Chinatown Bangkok night", "Yaowarat night", "Bangkok chinatown street food"],
+  "boat-noodles": ["boat noodles Bangkok", "Thai boat noodles", "Victory Monument boat noodles"],
+  "jodd-fairs": ["Jodd Fairs Bangkok", "leng saeb Jodd Fairs", "Jodd Fairs night market", "volcano ribs Bangkok"],
+  "wattana": ["Wattana Panich", "Wattana Panich beef noodle", "Bangkok beef noodle pot"],
+  "ortorkor": ["Or Tor Kor market", "Or Tor Kor fruit", "Thai fruit market"]
+ },
+ "k6-samui": {
+  "cover": ["koh samui girl beach", "koh samui woman sea", "koh samui aesthetic girl", "koh samui swing sunset", "koh samui sunset girl"],
+  "ang-thong": ["Ang Thong marine park", "Ang Thong viewpoint", "Koh Wua Talab viewpoint", "Ang Thong National Marine Park"],
+  "big-buddha": ["Big Buddha Koh Samui", "Wat Phra Yai Samui", "Big Buddha Samui sunset"],
+  "fisherman": ["Fisherman Village Koh Samui", "Fisherman village Bophut", "Bophut walking street"],
+  "coco-tams": ["Coco Tams Koh Samui", "Coco Tams Samui", "Koh Samui beach bar swing", "Koh Samui beach bar sunset"],
+  "secret-garden": ["Secret Buddha Garden Samui", "Magic Garden Koh Samui"],
+  "na-muang": ["Na Muang waterfall", "Namuang waterfall Samui"],
+  "silver-beach": ["Silver Beach Koh Samui", "Crystal Bay Koh Samui", "Lamai beach Koh Samui", "Chaweng beach Koh Samui"],
+  "madsum": ["Koh Madsum", "Pig island Koh Samui", "Koh Madsum pigs"],
+  "nang-yuan": ["Koh Nang Yuan", "Koh Nang Yuan viewpoint", "Nang Yuan island aerial"]
+ },
+ "k7-north": {
+  "cover": ["chiang mai girl temple", "chiang mai woman aesthetic", "chiang mai lanterns girl", "yi peng lantern woman", "chiang mai girl rice field"],
+  "inthanon": ["Doi Inthanon pagodas", "Doi Inthanon", "Doi Inthanon sunrise", "Doi Inthanon twin pagodas"],
+  "suthep": ["Doi Suthep", "Wat Phra That Doi Suthep", "Doi Suthep temple golden"],
+  "yi-peng": ["Yi Peng lantern festival", "Yi Peng Chiang Mai", "Chiang Mai lantern festival", "Loy Krathong Chiang Mai"],
+  "elephants": ["elephant sanctuary Chiang Mai", "elephant nature park", "elephant sanctuary thailand bath", "elephant chiang mai jungle"],
+  "sticky": ["Sticky waterfall Chiang Mai", "Bua Tong waterfall"],
+  "white-temple": ["Wat Rong Khun", "White Temple Chiang Rai", "White temple chiang rai aesthetic"],
+  "blue-temple": ["Blue Temple Chiang Rai", "Wat Rong Suea Ten"],
+  "pai": ["Pai Thailand", "Pai canyon", "Pai Thailand aesthetic", "Pai Thailand sunset", "Pai Thailand viewpoint"]
+ },
+ "k8-cant-afford": {
+  "cover": ["woman turquoise water thailand overwater", "girl clear water thailand", "thailand maldives vibes girl", "woman swing sea thailand", "thailand paradise girl sea"],
+  "nang-yuan": ["Koh Nang Yuan aerial", "Koh Nang Yuan beach", "Koh Tao aesthetic", "Koh Tao viewpoint", "Koh Tao turquoise"],
+  "bangkok-dubai": ["Bangkok skyline aerial", "Bangkok skyscraper night", "Bangkok skyline drone", "Mahanakhon skywalk"],
+  "phi-phi": ["Phi Phi viewpoint", "Koh Phi Phi aerial", "Phi Phi island turquoise", "Phi Phi Don view"],
+  "chiang-mai-bali": ["Chiang Mai rice terraces", "Mae Klang Luang rice terraces", "Chiang Mai jungle aesthetic", "Chiang Mai rice field"],
+  "samui-seychelles": ["Koh Samui granite rocks", "Samui boulders beach", "Lamai rocks Samui"],
+  "krabi-halong": ["Phang Nga bay aerial", "Phang Nga bay kayak", "Krabi islands aerial", "Krabi limestone"],
+  "lipe": ["Koh Lipe", "Koh Lipe aerial", "Koh Lipe beach"],
+  "similan": ["Similan islands", "Similan islands aerial"]
+ },
+ "k9-honeymoon": {
+  "cover": ["couple thailand beach sunset", "honeymoon couple thailand", "couple pool villa thailand", "couple phuket sunset", "couple longtail boat thailand"],
+  "petals-pool": ["pool villa honeymoon decoration rose petals", "honeymoon pool flower decoration", "rose petals pool villa", "flower heart pool resort"],
+  "bed": ["honeymoon bed decoration flowers", "towel swans bed honeymoon", "honeymoon room decoration resort", "hotel bed flower decoration thailand"],
+  "cake": ["honeymoon cake hotel", "happy honeymoon cake resort", "honeymoon welcome cake"],
+  "bath": ["flower bath resort", "rose petal bath honeymoon", "bathtub flower decoration thailand"],
+  "dinner": ["romantic beach dinner thailand", "candle dinner beach resort", "private dinner pool villa"],
+  "champagne": ["champagne pool villa", "floating breakfast pool villa", "floating breakfast thailand"]
+ },
+ "k10-bkk-night": {
+  "cover": ["bangkok rooftop bar girl", "woman bangkok rooftop night", "bangkok night girl aesthetic", "bangkok skyline girl sunset", "rooftop bangkok sunset woman"],
+  "skywalk": ["Mahanakhon skywalk glass", "King Power Mahanakhon", "Mahanakhon rooftop sunset"],
+  "rooftop": ["Bangkok rooftop bar", "Octave rooftop Bangkok", "Vertigo Bangkok", "Tichuca rooftop", "Bangkok rooftop sunset"],
+  "asiatique": ["Asiatique Bangkok", "Asiatique ferris wheel", "Asiatique riverfront night"],
+  "cruise": ["Chao Phraya river night", "Chao Phraya dinner cruise", "Bangkok river night"],
+  "muay-thai": ["Muay Thai stadium Bangkok", "Rajadamnern stadium", "Muay Thai fight Bangkok"],
+  "khao-san": ["Khao San Road night", "Khao San road"],
+  "iconsiam": ["ICONSIAM Bangkok", "ICONSIAM night", "ICONSIAM fountain"],
+  "chinatown-neon": ["Bangkok neon night street", "Bangkok night aesthetic street", "Bangkok tuk tuk night"]
+ }
+}

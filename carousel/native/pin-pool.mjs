@@ -9,8 +9,10 @@ import path from 'node:path';
 import { openBrowser } from '../ig/lib/tiktok.mjs';
 
 const HERE = import.meta.dirname;
-const poolFile = path.join(HERE, 'pool', 'pool.json');
-const pool = JSON.parse(fs.readFileSync(poolFile, 'utf8'));
+// PIN_POOL: a separate pool file, so several searches can run side by side (merge with pool-merge.mjs)
+const poolFile = process.env.PIN_POOL || path.join(HERE, 'pool', 'pool.json');
+const main = JSON.parse(fs.readFileSync(path.join(HERE, 'pool', 'pool.json'), 'utf8'));
+const pool = fs.existsSync(poolFile) ? JSON.parse(fs.readFileSync(poolFile, 'utf8')) : {};
 const SCROLLS = Number(process.env.PIN_SCROLLS || 8);
 
 const ctx = await openBrowser(path.join(process.env.TEMP, 'hm-pin-' + process.pid));
@@ -37,7 +39,7 @@ for (const q of process.argv.slice(2)) {
     const o = r.images?.orig; if (!o?.url || r.videos || r.story_pin_data) continue;
     if (o.height / o.width < 1.15 || Math.max(o.width, o.height) < 1600) continue;
     const id = 'pin-' + r.id;
-    if (pool[id]) continue;
+    if (pool[id] || main[id]) continue;
     const thumb = r.images['474x']?.url || r.images['236x']?.url;
     try {
       const t = await ctx.request.get(thumb, { timeout: 30000 });

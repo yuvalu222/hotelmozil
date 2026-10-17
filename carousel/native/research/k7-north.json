@@ -1,0 +1,194 @@
+{
+ "deck": "k7-north",
+ "out": "n18-north-thailand",
+ "format_source": "@travelco80 7540344737694240022 'Everything we've got planned so far for CHIANG MAI' (939,900 plays, 52.5K likes, 43.6K saves) + @tishaleesa 7465237457357868308 'my chiang mai photo diary' (481,800 plays, 14.8K saves): one northern moment per slide over its most striking photo (waterfall, Yi Peng lanterns, elephants, jungle).",
+ "cover_evidence": "'טסים ל...?' x2.97 n=36; destination in the cover; 'חייבים' (COVERS-HE.md)",
+ "title": "טסים לצפון תאילנד? המקומות שאתם חייבים לראות 🇹🇭",
+ "cover": {
+  "lines": [
+   [
+    "טסים לצפון תאילנד? 🇹🇭",
+    "l"
+   ],
+   [
+    "המקומות שאתם חייבים לראות",
+    "m"
+   ],
+   [
+    "🏮🐘⛰️🛕",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "place": "Yi Peng, Chiang Mai",
+   "lines": [
+    [
+     "📍 Yi Peng",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "פסטיבל הפנסים בצ׳יאנג מאי 🏮",
+     "s"
+    ],
+    [
+     "בכיתי, אני לא מתביישת",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Doi Inthanon",
+   "lines": [
+    [
+     "📍 Doi Inthanon",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "ההר הכי גבוה בתאילנד ⛰️",
+     "s"
+    ],
+    [
+     "ושני מקדשים בפסגה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Doi Suthep",
+   "lines": [
+    [
+     "📍 Doi Suthep",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מקדש הזהב מעל צ׳יאנג מאי ✨",
+     "s"
+    ],
+    [
+     "בשקיעה זה נראה ככה 😍",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "elephant sanctuary",
+   "lines": [
+    [
+     "📍 חוות פילים · צ׳יאנג מאי",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "רחצנו פילים בנהר 🐘",
+     "s"
+    ],
+    [
+     "היום הכי מרגש בטיול",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בתאילנד ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "Sticky Waterfall (Bua Tong)",
+   "lines": [
+    [
+     "📍 Sticky Waterfall",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מטפסים על המפל ולא מחליקים 🤯",
+     "s"
+    ],
+    [
+     "הסלעים דביקים, ממש",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "White Temple, Chiang Rai",
+   "lines": [
+    [
+     "📍 White Temple",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "המקדש הלבן בצ׳יאנג ראי 🤍",
+     "s"
+    ],
+    [
+     "שווה את היום טיול",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Blue Temple, Chiang Rai",
+   "lines": [
+    [
+     "📍 Blue Temple",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "ואחריו הכחול 💙",
+     "s"
+    ],
+    [
+     "לא ידעתי לאן להסתכל",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "this",
+ "tags": [
+  "תאילנד",
+  "הטיולהגדול",
+  "chiangmaithailand",
+  "thailand",
+  "thailandtravel"
+ ],
+ "music": "Golden Hour - JVKE"
+}

@@ -1,0 +1,198 @@
+{
+ "deck": "k1-hotels",
+ "out": "n12-hotels-once-in-life",
+ "format_source": "@maorandnati 7502361674507242759 'מלונות שאתם חייבים לבקר בהם / לפחות פעם אחת בחיים 🤍' (294,900 plays, 12,357 saves, 21K followers) + @cass.awad 7437181697596214584 '5 bucket list hotels in Thailand' (94.9K likes, 63.9K saves; Four Seasons Chiang Mai, Panwaburi, The Spot, Sri Panwa, Samet Nangshe Boutique). Cover = hotel at its most stunning + the line; each slide = one hotel, its most striking photo, its name pinned + one personal line.",
+ "cover_evidence": "hotel covers: Hebrew x1.46 n=51, English x2.16; destination name in the cover x2.57 (research/scroll-stop/COVERS-HE.md)",
+ "title": "מלונות בתאילנד שאתם חייבים לישון בהם לפחות פעם אחת בחיים 🤍",
+ "cover": {
+  "lines": [
+   [
+    "מלונות בתאילנד",
+    "l"
+   ],
+   [
+    "שאתם חייבים לישון בהם",
+    "l"
+   ],
+   [
+    "לפחות פעם אחת בחיים",
+    "l"
+   ],
+   [
+    "🤍🏝️🌅🥥",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "hotel": "Sri Panwa, Phuket",
+   "lines": [
+    [
+     "📍 Sri Panwa · פוקט",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "צפתי בבריכה מעל הים 😍😍😍",
+     "s"
+    ],
+    [
+     "לא רציתי לצאת מהמים",
+     "s"
+    ]
+   ]
+  },
+  {
+   "hotel": "Keemala, Phuket",
+   "lines": [
+    [
+     "📍 Keemala · פוקט",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "ישנו בתוך וילה בצורת קן 🪺",
+     "s"
+    ],
+    [
+     "עם בריכה פרטית באמצע הג׳ונגל",
+     "s"
+    ]
+   ]
+  },
+  {
+   "hotel": "Rayavadee, Krabi",
+   "lines": [
+    [
+     "📍 Rayavadee · קראבי",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "יוצאים מהחדר ישר לריילי ביץ' 🥹",
+     "s"
+    ],
+    [
+     "והצוקים האלה מכל הכיוונים",
+     "s"
+    ]
+   ]
+  },
+  {
+   "hotel": "Samet Nangshe Boutique, Phang Nga",
+   "lines": [
+    [
+     "📍 Samet Nangshe",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "קמתי בחמש בבוקר לזריחה הזאת 🤯",
+     "s"
+    ],
+    [
+     "ולא מתחרטת לשנייה",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.78,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בתאילנד ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "hotel": "Six Senses Samui",
+   "lines": [
+    [
+     "📍 Six Senses · קוסמוי",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "בריכה על צוק מעל הים 🌊",
+     "s"
+    ],
+    [
+     "שחיתי שם עד השקיעה",
+     "s"
+    ]
+   ]
+  },
+  {
+   "hotel": "Panwaburi Beachfront, Phuket",
+   "lines": [
+    [
+     "📍 Panwaburi · פוקט",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "הבריכה עוברת מתחת למרפסת 🏝️",
+     "s"
+    ],
+    [
+     "ושטים בה בקיאק שקוף",
+     "s"
+    ]
+   ]
+  },
+  {
+   "hotel": "rooftop infinity pool, Bangkok (hotel not identified, so the city is pinned)",
+   "lines": [
+    [
+     "📍 בנגקוק",
+     "m"
+    ],
+    [
+     "",
+     0.012
+    ],
+    [
+     "בריכה על הגג מול כל העיר 🌇",
+     "s"
+    ],
+    [
+     "הרגשתי בסרט",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "must",
+ "tags": [
+  "תאילנד",
+  "מלונות",
+  "thailand",
+  "luxuryhotel",
+  "thailandtravel"
+ ],
+ "music": "Sunset Lover - Petit Biscuit (במקור: הסאונד המקורי של @cass.awad)"
+}

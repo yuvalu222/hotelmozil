@@ -26,6 +26,17 @@ SOURCES = {
     'e4-not-tourist': 'harvest/sources/italianinspo-7436610520557440287',
     'e5-photospots': 'harvest/sources/travellingcloset1-7533911575296527638',
     'g1-seven-eleven': 'harvest/own-full/7682476408320380180',  # his own 7-Eleven post
+    # 17.10 batch 3 (build3.mjs): the deck each one copies
+    'k1-hotels': 'harvest/sources/cass.awad-7437181697596214584',
+    'k2-sign': 'harvest/sources/travelrached-7404160906713681184',
+    'k3-phuket': 'harvest/sources/travelpop.my-7521681438006070546',
+    'k4-bkk-hidden': 'harvest/sources/maoravinoam-7601943338396192016',
+    'k5-bkk-food': 'harvest/sources/noam.travels-7511377007830142216',
+    'k6-samui': 'harvest/sources/_ysvic-7307966667286482208',
+    'k7-north': 'harvest/sources/travelco80-7540344737694240022',
+    'k8-cant-afford': 'harvest/sources/escape.travel0-7637541962408545566',
+    'k9-honeymoon': 'harvest/sources/romybenzeev-7569191474579918088',
+    'k10-bkk-night': 'harvest/sources/worktravelbalance-7639401221744348438',
 }
 
 def measure(path, bright=1, sat=1):

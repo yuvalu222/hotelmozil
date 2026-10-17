@@ -1,0 +1,173 @@
+{
+ "deck": "k6-samui",
+ "out": "n17-koh-samui",
+ "format_source": "@_ysvic 7307966667286482208 Koh Samui photo dump (1.5M plays, 238.6K likes, 30.8K saves) + @aline_cohenn 7467140481256787218 'המלצות THAILAND' (her Samui + Phuket picks, 247,400 plays, 6,165 saves): one Samui moment per slide, personal, iPhone look. Our slides add the pinned place + one line (owner rule: every slide carries copy).",
+ "cover_evidence": "'המלצות ל<יעד>' stable in Hebrew; destination in the cover x2.57; his own rating line 'קוסמוי 9/10' (24.1K post)",
+ "title": "ההמלצות שלי לקוסמוי 🌴 תשמרו לפני שאתם טסים",
+ "cover": {
+  "lines": [
+   [
+    "ההמלצות שלי לקוסמוי 🌴",
+    "l"
+   ],
+   [
+    "תשמרו לפני שאתם טסים",
+    "m"
+   ],
+   [
+    "🥥🏝️🌅🐷",
+    "m"
+   ]
+  ]
+ },
+ "slides": [
+  {
+   "place": "Ang Thong Marine Park",
+   "lines": [
+    [
+     "📍 Ang Thong",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "התצפית הכי יפה שעשיתי 😍😍😍",
+     "s"
+    ],
+    [
+     "טיפוס קשה ושווה כל צעד",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Na Muang Waterfall",
+   "lines": [
+    [
+     "📍 Na Muang",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "מפל באמצע הג׳ונגל 💦",
+     "s"
+    ],
+    [
+     "והמים קרים ומושלמים",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Koh Nang Yuan (day trip from Samui)",
+   "lines": [
+    [
+     "📍 Koh Nang Yuan",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "טיול יום מקוסמוי 🚤",
+     "s"
+    ],
+    [
+     "והנוף הזה בסוף הטיפוס 😍😍😍",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Big Buddha (Wat Phra Yai)",
+   "lines": [
+    [
+     "📍 Big Buddha",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "בודהה זהוב ענק מעל הים 🤍",
+     "s"
+    ],
+    [
+     "עולים במדרגות ונשארים בשוק",
+     "s"
+    ]
+   ],
+   "bottom": {
+    "top": 0.8,
+    "lines": [
+     [
+      "אפליקציית HotelMozil מוזילה",
+      "s"
+     ],
+     [
+      "מלונות בקוסמוי ובכל יעד אחר 🤫",
+      "s"
+     ]
+    ]
+   }
+  },
+  {
+   "place": "Silver Beach",
+   "lines": [
+    [
+     "📍 Silver Beach",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "חוף קטן בין סלעים 🏝️",
+     "s"
+    ],
+    [
+     "המים הכי צלולים באי",
+     "s"
+    ]
+   ]
+  },
+  {
+   "place": "Koh Madsum",
+   "lines": [
+    [
+     "📍 Koh Madsum",
+     "m"
+    ],
+    [
+     "",
+     0.01
+    ],
+    [
+     "אי שלם של חזירונים על החוף 🐷",
+     "s"
+    ],
+    [
+     "לא האמנתי עד שראיתי",
+     "s"
+    ]
+   ]
+  }
+ ],
+ "folder": "must",
+ "tags": [
+  "קוסמוי",
+  "תאילנד",
+  "kohsamui",
+  "thailand",
+  "thailandtravel"
+ ],
+ "music": "Baianá (Sped Up Version) - Bakermat (הסאונד של @aline_cohenn בדק ההמלצות לקוסמוי)"
+}
