@@ -1,355 +1,357 @@
 {
- "deck": "e5-photospots",
- "area": "Krabi + Koh Phi Phi",
- "area_he": "קראבי וקופיפי",
- "cover": {
-  "lines": [
-   "טסים לתאילנד? 🇹🇭",
-   "המקומות הכי שווים לתמונות 📸"
+  "deck": "e5-photospots",
+  "area": "Krabi + Koh Phi Phi",
+  "area_he": "קראבי וקופיפי",
+  "cover": {
+    "lines": [
+      "טסים לתאילנד? 🇹🇭",
+      "המקומות הכי שווים לתמונות 📸",
+      "תשמרו לטיול!"
+    ],
+    "alternatives": [
+      "טסים לקראבי בקרוב? / ככה תצאו עם התמונות הכי יפות 📸",
+      "איפה מצטלמים בקראבי וקופיפי / תשמרו לפני שאתם טסים 🏝️"
+    ],
+    "photo_hint": "Cover must be sunset/sea/person: Ao Nang sunset zYOamdtD44g (woman in a hat, portrait) or Dragon Crest pyqGyDzbUUw (person on the ledge at sunset)",
+    "top": 0.39
+  },
+  "spots": [
+    {
+      "pin": "📍 ריילי ביץ'",
+      "name_en": "Railay Beach (West)",
+      "why": "Beach flanked by limestone cliffs, reachable only by boat; an Israeli creator calls it the most beautiful peninsula in the area, \"like a postcard\"",
+      "unsplash": [
+        {
+          "id": "Z9Swq0JzH9U",
+          "url": "https://unsplash.com/photos/Z9Swq0JzH9U",
+          "alt": "Railay beach, krabi, thailand (location: Railay Beach, Ao Nang, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "4000x6000",
+          "by": "lauraemma_d"
+        },
+        {
+          "id": "R4hjkrw6Jq8",
+          "url": "https://unsplash.com/photos/R4hjkrw6Jq8",
+          "alt": "Railay Beach, Thailand Please support my crowdfunding to buy a new camera and keep offering free pictures: https://gofund.me/eeb20e0c (location: Railay Beach, Ao Nang, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "4000x6000",
+          "by": "daniele_franchi"
+        },
+        {
+          "id": "xyq3A_LTUTY",
+          "url": "https://unsplash.com/photos/xyq3A_LTUTY",
+          "alt": "a cliff with trees and a body of water below (location: Railay Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "2268x4032",
+          "by": "timrael"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Railay_Beach",
+          "quote": "The beach is flanked by high limestone cliffs on either side."
+        },
+        {
+          "url": "https://amazingthailand.com.au/attraction/railay-beach/",
+          "quote": "On just one small peninsula you’ll find four gorgeous white sand beaches, soaring limestone cliffs, viewpoints, caves and a hidden lagoon."
+        },
+        {
+          "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
+          "quote": "נמצא חצי האי הכי יפה באזור- גן העדן הזה מפורסם במיוחד בזכות צוקי הגיר המרשימים שלו, שיחד עם ים הטורקיז, עצי הדקל הגבוהים והחופים הלבנים, נראים כמו גלויה."
+        }
+      ],
+      "line": "צוקים מכל הצדדים\nומגיעים רק בסירה 😍"
+    },
+    {
+      "pin": "📍 חוף פרה נאנג",
+      "name_en": "Phra Nang Cave Beach (Railay)",
+      "why": "Cave-and-cliff beach at the tip of Railay facing Happy Island; \"once voted one of the 10 most beautiful beaches in the world\"",
+      "unsplash": [
+        {
+          "id": "s-vVfg5YHFk",
+          "url": "https://unsplash.com/photos/s-vVfg5YHFk",
+          "alt": "A view of from Phra Nang cave beach (location: Phra nang Cave Beach, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3496x4656",
+          "by": "thesomeshkumar"
+        },
+        {
+          "id": "jWKk-0ZBUyg",
+          "url": "https://unsplash.com/photos/jWKk-0ZBUyg",
+          "alt": "five brown wooden boats (location: Phra Nang Beach, Krabi, Thailand)",
+          "orientation": "landscape",
+          "size": "4439x3072",
+          "by": "sumit_ac"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Railay",
+          "quote": "This lovely beach, once voted one of the 10 most beautiful beaches in the world, has jaw-dropping spectacular scenery and is 20 minutes away from Ao Nang by longtail boat."
+        },
+        {
+          "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
+          "quote": "If you only add one extra beach to your Krabi itinerary, I’d make it Phra Nang Cave Beach."
+        },
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
+          "quote": "Phra Nang Beach is super remote with more famous limestone cliffs and caves."
+        }
+      ],
+      "line": "פעם נבחר לאחד מ-10\nהחופים הכי יפים בעולם 🤯"
+    },
+    {
+      "pin": "📍 מאיה ביי",
+      "name_en": "Maya Bay (Koh Phi Phi Leh)",
+      "why": "The bay from the film The Beach",
+      "unsplash": [
+        {
+          "id": "id2QaXt-4Kg",
+          "url": "https://unsplash.com/photos/id2QaXt-4Kg",
+          "alt": "a body of water that has some rocks in it (location: Maya Bay, Thailand)",
+          "orientation": "portrait",
+          "size": "4000x6000",
+          "by": "alexander_kaufmann"
+        },
+        {
+          "id": "1QUUFuOsRk4",
+          "url": "https://unsplash.com/photos/1QUUFuOsRk4",
+          "alt": "a beach with a rock formation and clear blue water (location: Maya Bay, Thailand)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "koshishe"
+        },
+        {
+          "id": "7S3Y6Nudxtg",
+          "url": "https://unsplash.com/photos/7S3Y6Nudxtg",
+          "alt": "a view of a beach with a mountain in the background (location: Maya Bay, Thailand)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "koshishe"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Le",
+          "quote": "Ko Phi Phi Le is home of the famous Maya Bay Beach which was used in 2000 the film The Beach."
+        },
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-phi-phi-island/",
+          "quote": "The stunning hidden cove of Maya Bay, a gem of the Phi Phi Islands"
+        },
+        {
+          "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
+          "quote": "טיול בין האיים בסירה פרטית- ~180 באט ל־3 שעות לגונה Phi leh bay, מאיה ביי ועצירה באי הקופים"
+        }
+      ],
+      "line": "החוף מהסרט ”The Beach”\n11/10 🤩🤩🤩"
+    },
+    {
+      "pin": "📍 Pileh Lagoon",
+      "name_en": "Pileh Lagoon (Koh Phi Phi Leh)",
+      "why": "Emerald lagoon enclosed by cliffs; a standard stop on Phi Phi boat days",
+      "unsplash": [
+        {
+          "id": "j0a0i-LN3ws",
+          "url": "https://unsplash.com/photos/j0a0i-LN3ws",
+          "alt": "The tale of Pileh lagoon. Part 3 (location: Pi Leh Bay (Pi Leh Lagoon), Andaman Sea, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "6048x8064",
+          "by": "yannick_apollon"
+        },
+        {
+          "id": "YjQYpMsGw7A",
+          "url": "https://unsplash.com/photos/YjQYpMsGw7A",
+          "alt": "The emblematic mountains and emerald water of Pileh lagoon. (location: Ko Phi Phi Le, Mueang Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "6048x8064",
+          "by": "yannick_apollon"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
+          "quote": "Expect stops at places like Maya Bay, Pileh Lagoon, Bamboo Island and a couple of snorkelling spots, depending on the itinerary."
+        },
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-phi-phi-island/",
+          "quote": "Koh Phi Phi Leh is the second largest island and is home to great snorkelling sites and picturesque beaches and lagoons."
+        },
+        {
+          "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
+          "quote": "לגונה Phi leh bay"
+        }
+      ],
+      "line": "לגונה ירוקה מוקפת צוקים,\nאין מילים 🥹"
+    },
+    {
+      "pin": "📍 Dragon Crest",
+      "name_en": "Dragon Crest / Khao Ngon Nak (Tab Kak Hang Nak trail)",
+      "why": "Rock ledge over the jungle and the sea at the top of a ~4 km hike north of Ao Nang; free",
+      "unsplash": [
+        {
+          "id": "pyqGyDzbUUw",
+          "url": "https://unsplash.com/photos/pyqGyDzbUUw",
+          "alt": "dragon crest mountain krabi thailand hike at sunset (location: Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3376x6000",
+          "by": "wild_away"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
+          "quote": "There’s a 4km trail up to a viewpoint worth climbing for. It’s absolutely epic and something to behold for the photographers out there!"
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+          "quote": "It will take you through the jungle and up to a peak with a fantastic view over Ao Nang and more."
+        }
+      ],
+      "line": "4 קילומטר עלייה ובחינם,\nותראו את הנוף 😵‍💫"
+    },
+    {
+      "pin": "📍 אי פודה",
+      "name_en": "Koh Poda (4 Islands tour)",
+      "why": "A lone karst tower rising from shallow turquoise water; a stop on the 4 Islands tour from Ao Nang",
+      "unsplash": [
+        {
+          "id": "stPBOwuRfnI",
+          "url": "https://unsplash.com/photos/stPBOwuRfnI",
+          "alt": "a long boat sitting on top of a sandy beach (location: Ko Poda, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "jonnyclow"
+        },
+        {
+          "id": "GL4FG1kS4gg",
+          "url": "https://unsplash.com/photos/GL4FG1kS4gg",
+          "alt": "boats on the beach with Ko Poda in the background (location: Ko Po Da Nai)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "mvdv99"
+        },
+        {
+          "id": "hiMzwQt1Eak",
+          "url": "https://unsplash.com/photos/hiMzwQt1Eak",
+          "alt": "A dramatic limestone cliff rises from the deep blue sea at Poda Island, Thailand, showcasing the raw natural beauty and iconic seascape of this tropical destination. 📸 Photo by me IG: @margoevardson (location: Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3599x4499",
+          "by": "stadinstudio"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
+          "quote": "The most famous tour is called the Four Island Tour which takes you along the Krabi coastline to Railay Beach, Tub Island, Chicken Island, and Poda Island."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ko_Poda",
+          "quote": "Ko Poda is an island off the west coast of Thailand, in Krabi Province, about 8 kilometres (5 mi) from Ao Nang."
+        },
+        {
+          "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+          "quote": "The main beach at Ao Nang is the departure point for boats to a number of places, including the nearby resort of Rai Leh, which cannot be accessed by road, Poda Island and Chicken Island."
+        }
+      ],
+      "line": "עוצרים פה בטיול 4 האיים 😍"
+    },
+    {
+      "pin": "📍 תצפית אי הונג",
+      "name_en": "Koh Hong Viewpoint (Hong Island, Krabi)",
+      "why": "A 420-step climb on Koh Hong to a view down onto the island and its beach",
+      "unsplash": [
+        {
+          "id": "i3DGLeSL5tw",
+          "url": "https://unsplash.com/photos/i3DGLeSL5tw",
+          "alt": "Tropical beach with turquoise water and lush green cliffs (location: Hong Island Viewpoint, Nong Thale, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "8064x12096",
+          "by": "jonnyclow"
+        },
+        {
+          "id": "e2cpr8KOLnw",
+          "url": "https://unsplash.com/photos/e2cpr8KOLnw",
+          "alt": "The 360-degree view in Krabi (location: Ko Hong, Mueang Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "zkeeper43"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
+          "quote": "תצפית פנורמית מאי הונג על כל האזור- כדי להגיע למעלה צריך לטפס 420 מדרגות, אבל זה לגמרי שווה את הנוף עוצר הנשימה שנשקף מלמעלה"
+        },
+        {
+          "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
+          "quote": "If Phi Phi feels a little too busy for your liking, I’d seriously consider the Hong Islands instead."
+        },
+        {
+          "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
+          "quote": "Koh Hong is another secluded beach reachable by boat from Ao Nang."
+        }
+      ],
+      "line": "420 מדרגות ושווה כל אחת 🥵"
+    },
+    {
+      "pin": "📍 חוף או נאנג",
+      "name_en": "Ao Nang Beach (sunset)",
+      "why": "The base beach for Krabi; sunset over the islands with longtail boats in front",
+      "unsplash": [
+        {
+          "id": "zYOamdtD44g",
+          "url": "https://unsplash.com/photos/zYOamdtD44g",
+          "alt": "a woman wearing a hat standing on top of a beach (location: Ao Nang Beach, Ao Nang, Mueang Krabi, Province de Krabi, Thaïlande)",
+          "orientation": "portrait",
+          "size": "3844x4805",
+          "by": "yoal_desurmont"
+        },
+        {
+          "id": "ER8UoM6t-q0",
+          "url": "https://unsplash.com/photos/ER8UoM6t-q0",
+          "alt": "A couple of boats floating on top of a body of water (location: Ao Nang Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "3024x4032",
+          "by": "haroon_a"
+        },
+        {
+          "id": "YlAf63kbznE",
+          "url": "https://unsplash.com/photos/YlAf63kbznE",
+          "alt": "A large body of water with a small island in the distance (location: Ao Nang Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
+          "orientation": "portrait",
+          "size": "4024x6048",
+          "by": "haroon_a"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
+          "quote": "Most tourists spend the day on the east side of the beach, which is more scenic"
+        },
+        {
+          "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
+          "quote": "מופע אש בחוף של או נאנג שמתקיים כל ערב בשקיעה"
+        },
+        {
+          "url": "https://www.goatsontheroad.com/places-to-visit-in-thailand/",
+          "quote": "Ao Nang is the perfect place to stay before heading to the more scenic Railay/Tonsai area"
+        }
+      ],
+      "line": "שקיעה מאחורי האיים כל ערב 🌅❤️"
+    }
   ],
-  "alternatives": [
-   "טסים לקראבי בקרוב? / ככה תצאו עם התמונות הכי יפות 📸",
-   "איפה מצטלמים בקראבי וקופיפי / תשמרו לפני שאתם טסים 🏝️"
+  "caption_pins": [
+    "📍 ריילי ביץ'",
+    "📍 חוף פרה נאנג",
+    "📍 מאיה ביי",
+    "📍 Pileh Lagoon",
+    "📍 Phi Phi Viewpoint",
+    "📍 Tiger Cave Temple",
+    "📍 Dragon Crest",
+    "📍 אי פודה",
+    "📍 תצפית אי הונג",
+    "📍 חוף או נאנג"
   ],
-  "photo_hint": "Cover must be sunset/sea/person: Ao Nang sunset zYOamdtD44g (woman in a hat, portrait) or Dragon Crest pyqGyDzbUUw (person on the ledge at sunset)"
- },
- "spots": [
-  {
-   "pin": "📍 ריילי ביץ'",
-   "name_en": "Railay Beach (West)",
-   "why": "Beach flanked by limestone cliffs, reachable only by boat; an Israeli creator calls it the most beautiful peninsula in the area, \"like a postcard\"",
-   "unsplash": [
-    {
-     "id": "Z9Swq0JzH9U",
-     "url": "https://unsplash.com/photos/Z9Swq0JzH9U",
-     "alt": "Railay beach, krabi, thailand (location: Railay Beach, Ao Nang, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "4000x6000",
-     "by": "lauraemma_d"
-    },
-    {
-     "id": "R4hjkrw6Jq8",
-     "url": "https://unsplash.com/photos/R4hjkrw6Jq8",
-     "alt": "Railay Beach, Thailand Please support my crowdfunding to buy a new camera and keep offering free pictures: https://gofund.me/eeb20e0c (location: Railay Beach, Ao Nang, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "4000x6000",
-     "by": "daniele_franchi"
-    },
-    {
-     "id": "xyq3A_LTUTY",
-     "url": "https://unsplash.com/photos/xyq3A_LTUTY",
-     "alt": "a cliff with trees and a body of water below (location: Railay Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "2268x4032",
-     "by": "timrael"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://en.wikipedia.org/wiki/Railay_Beach",
-     "quote": "The beach is flanked by high limestone cliffs on either side."
-    },
-    {
-     "url": "https://amazingthailand.com.au/attraction/railay-beach/",
-     "quote": "On just one small peninsula you’ll find four gorgeous white sand beaches, soaring limestone cliffs, viewpoints, caves and a hidden lagoon."
-    },
-    {
-     "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
-     "quote": "נמצא חצי האי הכי יפה באזור- גן העדן הזה מפורסם במיוחד בזכות צוקי הגיר המרשימים שלו, שיחד עם ים הטורקיז, עצי הדקל הגבוהים והחופים הלבנים, נראים כמו גלויה."
-    }
-   ],
-   "line": "צוקים מכל הצדדים\nומגיעים רק בסירה 😍"
-  },
-  {
-   "pin": "📍 חוף פרה נאנג",
-   "name_en": "Phra Nang Cave Beach (Railay)",
-   "why": "Cave-and-cliff beach at the tip of Railay facing Happy Island; \"once voted one of the 10 most beautiful beaches in the world\"",
-   "unsplash": [
-    {
-     "id": "s-vVfg5YHFk",
-     "url": "https://unsplash.com/photos/s-vVfg5YHFk",
-     "alt": "A view of from Phra Nang cave beach (location: Phra nang Cave Beach, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3496x4656",
-     "by": "thesomeshkumar"
-    },
-    {
-     "id": "jWKk-0ZBUyg",
-     "url": "https://unsplash.com/photos/jWKk-0ZBUyg",
-     "alt": "five brown wooden boats (location: Phra Nang Beach, Krabi, Thailand)",
-     "orientation": "landscape",
-     "size": "4439x3072",
-     "by": "sumit_ac"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://en.wikivoyage.org/wiki/Railay",
-     "quote": "This lovely beach, once voted one of the 10 most beautiful beaches in the world, has jaw-dropping spectacular scenery and is 20 minutes away from Ao Nang by longtail boat."
-    },
-    {
-     "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
-     "quote": "If you only add one extra beach to your Krabi itinerary, I’d make it Phra Nang Cave Beach."
-    },
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
-     "quote": "Phra Nang Beach is super remote with more famous limestone cliffs and caves."
-    }
-   ],
-   "line": "פעם נבחר לאחד מ-10\nהחופים הכי יפים בעולם 🤯"
-  },
-  {
-   "pin": "📍 מאיה ביי",
-   "name_en": "Maya Bay (Koh Phi Phi Leh)",
-   "why": "The bay from the film The Beach",
-   "unsplash": [
-    {
-     "id": "id2QaXt-4Kg",
-     "url": "https://unsplash.com/photos/id2QaXt-4Kg",
-     "alt": "a body of water that has some rocks in it (location: Maya Bay, Thailand)",
-     "orientation": "portrait",
-     "size": "4000x6000",
-     "by": "alexander_kaufmann"
-    },
-    {
-     "id": "1QUUFuOsRk4",
-     "url": "https://unsplash.com/photos/1QUUFuOsRk4",
-     "alt": "a beach with a rock formation and clear blue water (location: Maya Bay, Thailand)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "koshishe"
-    },
-    {
-     "id": "7S3Y6Nudxtg",
-     "url": "https://unsplash.com/photos/7S3Y6Nudxtg",
-     "alt": "a view of a beach with a mountain in the background (location: Maya Bay, Thailand)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "koshishe"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://en.wikipedia.org/wiki/Ko_Phi_Phi_Le",
-     "quote": "Ko Phi Phi Le is home of the famous Maya Bay Beach which was used in 2000 the film The Beach."
-    },
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-phi-phi-island/",
-     "quote": "The stunning hidden cove of Maya Bay, a gem of the Phi Phi Islands"
-    },
-    {
-     "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
-     "quote": "טיול בין האיים בסירה פרטית- ~180 באט ל־3 שעות לגונה Phi leh bay, מאיה ביי ועצירה באי הקופים"
-    }
-   ],
-   "line": "החוף מהסרט ”The Beach”\n11/10 🤩🤩🤩"
-  },
-  {
-   "pin": "📍 Pileh Lagoon",
-   "name_en": "Pileh Lagoon (Koh Phi Phi Leh)",
-   "why": "Emerald lagoon enclosed by cliffs; a standard stop on Phi Phi boat days",
-   "unsplash": [
-    {
-     "id": "j0a0i-LN3ws",
-     "url": "https://unsplash.com/photos/j0a0i-LN3ws",
-     "alt": "The tale of Pileh lagoon. Part 3 (location: Pi Leh Bay (Pi Leh Lagoon), Andaman Sea, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "6048x8064",
-     "by": "yannick_apollon"
-    },
-    {
-     "id": "YjQYpMsGw7A",
-     "url": "https://unsplash.com/photos/YjQYpMsGw7A",
-     "alt": "The emblematic mountains and emerald water of Pileh lagoon. (location: Ko Phi Phi Le, Mueang Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "6048x8064",
-     "by": "yannick_apollon"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
-     "quote": "Expect stops at places like Maya Bay, Pileh Lagoon, Bamboo Island and a couple of snorkelling spots, depending on the itinerary."
-    },
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-phi-phi-island/",
-     "quote": "Koh Phi Phi Leh is the second largest island and is home to great snorkelling sites and picturesque beaches and lagoons."
-    },
-    {
-     "url": "https://www.tiktok.com/@koren.tamir/photo/7593349095788449031",
-     "quote": "לגונה Phi leh bay"
-    }
-   ],
-   "line": "לגונה ירוקה מוקפת צוקים,\nאין מילים 🥹"
-  },
-  {
-   "pin": "📍 Dragon Crest",
-   "name_en": "Dragon Crest / Khao Ngon Nak (Tab Kak Hang Nak trail)",
-   "why": "Rock ledge over the jungle and the sea at the top of a ~4 km hike north of Ao Nang; free",
-   "unsplash": [
-    {
-     "id": "pyqGyDzbUUw",
-     "url": "https://unsplash.com/photos/pyqGyDzbUUw",
-     "alt": "dragon crest mountain krabi thailand hike at sunset (location: Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3376x6000",
-     "by": "wild_away"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
-     "quote": "There’s a 4km trail up to a viewpoint worth climbing for. It’s absolutely epic and something to behold for the photographers out there!"
-    },
-    {
-     "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
-     "quote": "It will take you through the jungle and up to a peak with a fantastic view over Ao Nang and more."
-    }
-   ],
-   "line": "4 קילומטר עלייה ובחינם,\nותראו את הנוף 😵‍💫"
-  },
-  {
-   "pin": "📍 אי פודה",
-   "name_en": "Koh Poda (4 Islands tour)",
-   "why": "A lone karst tower rising from shallow turquoise water; a stop on the 4 Islands tour from Ao Nang",
-   "unsplash": [
-    {
-     "id": "stPBOwuRfnI",
-     "url": "https://unsplash.com/photos/stPBOwuRfnI",
-     "alt": "a long boat sitting on top of a sandy beach (location: Ko Poda, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "jonnyclow"
-    },
-    {
-     "id": "GL4FG1kS4gg",
-     "url": "https://unsplash.com/photos/GL4FG1kS4gg",
-     "alt": "boats on the beach with Ko Poda in the background (location: Ko Po Da Nai)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "mvdv99"
-    },
-    {
-     "id": "hiMzwQt1Eak",
-     "url": "https://unsplash.com/photos/hiMzwQt1Eak",
-     "alt": "A dramatic limestone cliff rises from the deep blue sea at Poda Island, Thailand, showcasing the raw natural beauty and iconic seascape of this tropical destination. 📸 Photo by me IG: @margoevardson (location: Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3599x4499",
-     "by": "stadinstudio"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
-     "quote": "The most famous tour is called the Four Island Tour which takes you along the Krabi coastline to Railay Beach, Tub Island, Chicken Island, and Poda Island."
-    },
-    {
-     "url": "https://en.wikipedia.org/wiki/Ko_Poda",
-     "quote": "Ko Poda is an island off the west coast of Thailand, in Krabi Province, about 8 kilometres (5 mi) from Ao Nang."
-    },
-    {
-     "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
-     "quote": "The main beach at Ao Nang is the departure point for boats to a number of places, including the nearby resort of Rai Leh, which cannot be accessed by road, Poda Island and Chicken Island."
-    }
-   ],
-   "line": "עוצרים פה בטיול 4 האיים 😍"
-  },
-  {
-   "pin": "📍 תצפית אי הונג",
-   "name_en": "Koh Hong Viewpoint (Hong Island, Krabi)",
-   "why": "A 420-step climb on Koh Hong to a view down onto the island and its beach",
-   "unsplash": [
-    {
-     "id": "i3DGLeSL5tw",
-     "url": "https://unsplash.com/photos/i3DGLeSL5tw",
-     "alt": "Tropical beach with turquoise water and lush green cliffs (location: Hong Island Viewpoint, Nong Thale, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "8064x12096",
-     "by": "jonnyclow"
-    },
-    {
-     "id": "e2cpr8KOLnw",
-     "url": "https://unsplash.com/photos/e2cpr8KOLnw",
-     "alt": "The 360-degree view in Krabi (location: Ko Hong, Mueang Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "zkeeper43"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
-     "quote": "תצפית פנורמית מאי הונג על כל האזור- כדי להגיע למעלה צריך לטפס 420 מדרגות, אבל זה לגמרי שווה את הנוף עוצר הנשימה שנשקף מלמעלה"
-    },
-    {
-     "url": "https://www.thebrokebackpacker.com/krabi-itinerary/",
-     "quote": "If Phi Phi feels a little too busy for your liking, I’d seriously consider the Hong Islands instead."
-    },
-    {
-     "url": "https://www.nomadasaurus.com/things-to-do-in-krabi/",
-     "quote": "Koh Hong is another secluded beach reachable by boat from Ao Nang."
-    }
-   ],
-   "line": "420 מדרגות ושווה כל אחת 🥵"
-  },
-  {
-   "pin": "📍 חוף או נאנג",
-   "name_en": "Ao Nang Beach (sunset)",
-   "why": "The base beach for Krabi; sunset over the islands with longtail boats in front",
-   "unsplash": [
-    {
-     "id": "zYOamdtD44g",
-     "url": "https://unsplash.com/photos/zYOamdtD44g",
-     "alt": "a woman wearing a hat standing on top of a beach (location: Ao Nang Beach, Ao Nang, Mueang Krabi, Province de Krabi, Thaïlande)",
-     "orientation": "portrait",
-     "size": "3844x4805",
-     "by": "yoal_desurmont"
-    },
-    {
-     "id": "ER8UoM6t-q0",
-     "url": "https://unsplash.com/photos/ER8UoM6t-q0",
-     "alt": "A couple of boats floating on top of a body of water (location: Ao Nang Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "3024x4032",
-     "by": "haroon_a"
-    },
-    {
-     "id": "YlAf63kbznE",
-     "url": "https://unsplash.com/photos/YlAf63kbznE",
-     "alt": "A large body of water with a small island in the distance (location: Ao Nang Beach, Ao Nang, Mueang Krabi District, Krabi, Thailand)",
-     "orientation": "portrait",
-     "size": "4024x6048",
-     "by": "haroon_a"
-    }
-   ],
-   "sources": [
-    {
-     "url": "https://en.wikivoyage.org/wiki/Ao_Nang",
-     "quote": "Most tourists spend the day on the east side of the beach, which is more scenic"
-    },
-    {
-     "url": "https://www.tiktok.com/@yolo.blog/photo/7556666604478631176",
-     "quote": "מופע אש בחוף של או נאנג שמתקיים כל ערב בשקיעה"
-    },
-    {
-     "url": "https://www.goatsontheroad.com/places-to-visit-in-thailand/",
-     "quote": "Ao Nang is the perfect place to stay before heading to the more scenic Railay/Tonsai area"
-    }
-   ],
-   "line": "שקיעה מאחורי האיים כל ערב 🌅❤️"
-  }
- ],
- "caption_pins": [
-  "📍 ריילי ביץ'",
-  "📍 חוף פרה נאנג",
-  "📍 מאיה ביי",
-  "📍 Pileh Lagoon",
-  "📍 Phi Phi Viewpoint",
-  "📍 Tiger Cave Temple",
-  "📍 Dragon Crest",
-  "📍 אי פודה",
-  "📍 תצפית אי הונג",
-  "📍 חוף או נאנג"
- ],
- "notes": "Area choice: Krabi + Phi Phi over Bangkok, Phuket and Chiang Mai. Bangkok had the deepest Unsplash coverage (Wat Arun, Wat Pho, Grand Palace, Yaowarat and Mahanakhon are all location-tagged, in portrait). But its shots are temples and streets. Krabi + Phi Phi puts sea, cliffs or a sunset on every slide, which fits the WOW and cover-photo rules. Each of its 10 spots has at least one free (not Plus) Unsplash photo whose location tag or caption names that exact spot, and I checked every chosen photo by eye on a contact sheet.\nSuggested order after the cover (strongest first): Maya Bay, Pileh Lagoon, Railay, Phra Nang, Koh Poda, Dragon Crest, Koh Hong viewpoint, Phi Phi Viewpoint, Tiger Cave, Ao Nang sunset.\nPin script: Hebrew where Israeli creators write the name in Hebrew in our corpus (ריילי ביץ' x3, מאיה ביי x3, או נאנג x8, פרה נאנג, פודה, אי הונג). English where they write the English name (Phi Phi Viewpoint, Tiger Cave, Phi leh bay -> Pileh Lagoon). Dragon Crest has no Hebrew spelling in the corpus, so it stays in English. Each pin uses one script only, to avoid mixed-direction rendering. Note the corpus spells the island קופיפי (17) rather than קופיפי. The reference decks also put a small area line under the pin (e.g. Positano). If wanted: ריילי / קופיפי / קראבי / או נאנג.\nCaption: the pins, then 3-5 tags in the owner's style, e.g. #קראבי #קופיפי #תאילנד #המלצותתאילנד.\nLandscape-only: Phi Phi Viewpoint (4 query variants found no free portrait) and the Phra Nang alternate jWKk-0ZBUyg. All are 4400-6000 px wide. A 3:4 centre crop of the 4608x3456 kt24cuBdcoo gives 2592x3456. BU6lABNbTpA (5760x3840) gives 2880x3840.\nDragon Crest has one free Unsplash photo only: pyqGyDzbUUw, captioned \"dragon crest mountain krabi thailand hike at sunset\" but location-tagged only \"Krabi, Thailand\".\nKoh Hong: i3DGLeSL5tw is tagged \"Hong Island Viewpoint, Nong Thale, Mueang Krabi\" and shows the island beach from above. The Israeli caption confirms the viewpoint is on the island (420 steps). e2cpr8KOLnw is tagged \"Ko Hong, Mueang Krabi\". I excluded PjYvvsCl7A0 and lrFZaJStZmE: that is a different Hong Island, in Phang Nga.\nRejected: Bamboo Island (weak free photos); Emerald Pool and Chicken Island (zero free Unsplash results); Thale Waek/Tup (no photo tagged to it; guNIjIuUcgY shows a sandbar but is tagged only \"Ao Nang\").\nSources: every quote was string-matched against the fetched page text or the TikTok caption in harvest/he-search/hits.json, with bidi controls stripped. The sources describe these spots as scenic, famous or viewpoints. Only Nomadasaurus (Dragon Crest) and the two Israeli captions talk about photos or postcards explicitly. I fetched no dedicated \"Krabi photo spots\" listicle: this turn's web-search budget was used up, so I reached pages by direct URL only.\nUnverified, from memory, not in any fetched source: Maya Bay closes for part of every year (about Aug-Sep). Check this before posting in those months."
+  "notes": "Area choice: Krabi + Phi Phi over Bangkok, Phuket and Chiang Mai. Bangkok had the deepest Unsplash coverage (Wat Arun, Wat Pho, Grand Palace, Yaowarat and Mahanakhon are all location-tagged, in portrait). But its shots are temples and streets. Krabi + Phi Phi puts sea, cliffs or a sunset on every slide, which fits the WOW and cover-photo rules. Each of its 10 spots has at least one free (not Plus) Unsplash photo whose location tag or caption names that exact spot, and I checked every chosen photo by eye on a contact sheet.\nSuggested order after the cover (strongest first): Maya Bay, Pileh Lagoon, Railay, Phra Nang, Koh Poda, Dragon Crest, Koh Hong viewpoint, Phi Phi Viewpoint, Tiger Cave, Ao Nang sunset.\nPin script: Hebrew where Israeli creators write the name in Hebrew in our corpus (ריילי ביץ' x3, מאיה ביי x3, או נאנג x8, פרה נאנג, פודה, אי הונג). English where they write the English name (Phi Phi Viewpoint, Tiger Cave, Phi leh bay -> Pileh Lagoon). Dragon Crest has no Hebrew spelling in the corpus, so it stays in English. Each pin uses one script only, to avoid mixed-direction rendering. Note the corpus spells the island קופיפי (17) rather than קופיפי. The reference decks also put a small area line under the pin (e.g. Positano). If wanted: ריילי / קופיפי / קראבי / או נאנג.\nCaption: the pins, then 3-5 tags in the owner's style, e.g. #קראבי #קופיפי #תאילנד #המלצותתאילנד.\nLandscape-only: Phi Phi Viewpoint (4 query variants found no free portrait) and the Phra Nang alternate jWKk-0ZBUyg. All are 4400-6000 px wide. A 3:4 centre crop of the 4608x3456 kt24cuBdcoo gives 2592x3456. BU6lABNbTpA (5760x3840) gives 2880x3840.\nDragon Crest has one free Unsplash photo only: pyqGyDzbUUw, captioned \"dragon crest mountain krabi thailand hike at sunset\" but location-tagged only \"Krabi, Thailand\".\nKoh Hong: i3DGLeSL5tw is tagged \"Hong Island Viewpoint, Nong Thale, Mueang Krabi\" and shows the island beach from above. The Israeli caption confirms the viewpoint is on the island (420 steps). e2cpr8KOLnw is tagged \"Ko Hong, Mueang Krabi\". I excluded PjYvvsCl7A0 and lrFZaJStZmE: that is a different Hong Island, in Phang Nga.\nRejected: Bamboo Island (weak free photos); Emerald Pool and Chicken Island (zero free Unsplash results); Thale Waek/Tup (no photo tagged to it; guNIjIuUcgY shows a sandbar but is tagged only \"Ao Nang\").\nSources: every quote was string-matched against the fetched page text or the TikTok caption in harvest/he-search/hits.json, with bidi controls stripped. The sources describe these spots as scenic, famous or viewpoints. Only Nomadasaurus (Dragon Crest) and the two Israeli captions talk about photos or postcards explicitly. I fetched no dedicated \"Krabi photo spots\" listicle: this turn's web-search budget was used up, so I reached pages by direct URL only.\nUnverified, from memory, not in any fetched source: Maya Bay closes for part of every year (about Aug-Sep). Check this before posting in those months."
 }

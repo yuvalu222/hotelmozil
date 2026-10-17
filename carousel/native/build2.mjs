@@ -45,7 +45,7 @@ if (deck === 'e1-traps') {
   R.slides.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: 0.08, lines: [L(s.heading, 'l'), gap(0.02), ...s.lines.map((t) => L(t, 's'))] }));
   // 17.10: no "follow for more" slide before the closer (owner: it reads as the end, people leave)
 } else if (deck === 'e5-photospots') {
-  slides.push({ ...photo(P.cover), top: 0.12, lines: R.cover.lines.map((t, i) => L(t, i ? 'm' : 'xl')) });
+  slides.push({ ...photo(P.cover), top: R.cover.top ?? 0.12, lines: R.cover.lines.map((t, i) => L(t, i ? 'm' : 'xl')) });
   R.spots.forEach((s, i) => slides.push({ ...photo(P.slides[i]), top: P.slides[i].top ?? 0.12, width: 0.84, lines: [L(s.pin, 'm'), ...(s.line ? [gap(0.01), L(s.line, 's')] : [])] }));
 }
 
